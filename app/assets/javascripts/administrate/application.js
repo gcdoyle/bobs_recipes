@@ -2,8 +2,6 @@
 //= require jquery_ujs
 //= require bootstrap-sprockets
 //= require selectize
-//= require moment
-//= require datetime_picker
 //= require trix
 //= require cocoon
 //= require_tree .
@@ -15,22 +13,15 @@ addEventListener("trix-initialize", event => {
   inputElement.pattern = "(https?://|/).+"
 })
 
-$(".ingredient-note").on("keyup keypress", function(e) {
-  var keyCode = e.keyCode || e.which;
-  if (keyCode === 13) { 
+// Don't submit the recipe form when Enter is pressed in an ingredient note.
+$(document).on("keyup keypress", ".ingredient-note", function(e) {
+  if ((e.keyCode || e.which) === 13) {
     e.preventDefault();
     return false;
   }
 });
 
-$(document).on('click', '.field-unit--nested-has-many .add_fields', () => {
-  $(".field-unit--belongs-to select").each(function initializeSelectize(index, element) {
-    var $element = $(element);
-    $element.selectize({});
-  });
-  $(".field-unit--select select").each(function initializeSelectize(index, element) {
-    var $element = $(element);
-    $element.selectize({});
-  });
+// Turn the selects in a newly added ingredient row into searchable dropdowns.
+$(document).on("cocoon:after-insert", function(e, insertedItem) {
+  $(insertedItem).find(".field-unit--belongs-to select, .field-unit--select select").selectize({});
 });
-

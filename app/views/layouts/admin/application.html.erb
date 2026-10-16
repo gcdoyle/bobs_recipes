@@ -21,7 +21,6 @@ By default, it renders:
   <title>
     <%= content_for(:title) %> - <%= application_title %>
   </title>
-  
   <%= stylesheet_link_tag 'administrate/application', media: 'all' %>
   <%= javascript_include_tag 'administrate/application' %>
   <%= csrf_meta_tags %>
@@ -32,14 +31,10 @@ By default, it renders:
   <div class="app-container">
     <%= render "navigation" -%>
 
-    <main class="main-content" role="main">
+    <main class="main-content">
       <%= render "flashes" -%>
       <%= yield %>
     </main>
   </div>
-<% content_for :javascript do %> 
-  <script type="text/javascript"> ... </script>
-<% end %>
-  <%# render "javascript" %>
 </body>
 </html>

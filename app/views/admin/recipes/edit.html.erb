@@ -1,6 +1,6 @@
 <%# content_for(:title) { t(page.page_title) } %>
 
-<header class="main-content__header" role="banner">
+<header class="main-content__header">
   <h1 class="main-content__page-title">
     <%= content_for(:title) %>
   </h1>
@@ -10,7 +10,7 @@
       t("Show", name: page.resource.class),
       [namespace, page.resource],
       class: "button",
-    ) if valid_action?(:show) && show_action?(:show, page.resource) %>
+    ) if accessible_action?(page.resource, :show) %>
   </div>
 </header>
 

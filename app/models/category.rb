@@ -3,8 +3,7 @@ class Category < ApplicationRecord
   has_many :recipes, through: :recipe_categories
   
   extend FriendlyId
-  friendly_id :name, use: [:slugged, :finders]
-  friendly_id :slug_candidates, use: :slugged
+  friendly_id :slug_candidates, use: [:slugged, :finders]
 
   validates_presence_of :name, :slug
 

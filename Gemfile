@@ -1,42 +1,46 @@
-source 'https://rubygems.org'
-git_source(:github) { |repo| "https://github.com/#{repo}.git" }
+source "https://rubygems.org"
 
-ruby '3.0.0'
+ruby "~> 3.3.0"
 
-gem 'rails', '~> 6.1.3.2'
-gem 'pg', '>= 0.18', '< 2.0'
-gem 'puma', '~> 4.1'
-gem 'sass-rails', '>= 6'
-gem 'jbuilder', '~> 2.7'
-gem 'image_processing', '~> 1.2'
-gem 'mini_magick'
-gem 'administrate', '>= 0.16.0'
-gem 'administrate-field-nested_has_many'
-gem 'trix-rails', require: 'trix'
-gem 'administrate-field-trix'
-gem 'friendly_id'
-gem 'bootstrap'
+gem "rails", "~> 7.2.0"
+gem "sprockets-rails"
+gem "pg", "~> 1.5"
+gem "puma", ">= 6.0"
+gem "sass-rails", ">= 6"
+gem "jbuilder"
+gem "image_processing", "~> 1.2"
+gem "mini_magick"
+gem "bootsnap", require: false
+
+# Admin
+gem "administrate", "~> 0.20.1"
+gem "administrate-field-nested_has_many", "~> 2.1"
+gem "administrate-field-trix"
+gem "trix-rails", require: "trix"
+
+gem "devise", "~> 4.9"
+gem "friendly_id", "~> 5.5"
+gem "bootstrap", "~> 4.6.2"
 gem "popper_js", "~> 1.16.0"
-gem 'devise'
-gem 'bootsnap', '>= 1.4.2', require: false
+
+group :production do
+  # Bootstrap 4 runs autoprefixer during assets:precompile, which needs a
+  # JavaScript runtime. macOS has one built in; Linux servers don't.
+  gem "mini_racer"
+end
 
 group :development, :test do
-  gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
-  gem 'pry'
+  gem "debug", platforms: %i[mri windows]
+  gem "pry"
 end
 
 group :development do
-  gem 'web-console', '>= 3.3.0'
-  gem 'listen', '~> 3.2'
-  gem 'spring'
-  gem 'spring-watcher-listen', '~> 2.0.0'
+  gem "web-console"
 end
 
 group :test do
-  gem 'capybara', '>= 2.15'
-  gem 'selenium-webdriver'
-  gem 'webdrivers'
+  gem "capybara"
+  gem "selenium-webdriver"
 end
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem "tzinfo-data", platforms: %i[windows jruby]

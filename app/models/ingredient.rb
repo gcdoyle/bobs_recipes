@@ -10,8 +10,7 @@ class Ingredient < ApplicationRecord
   accepts_nested_attributes_for :recipe_ingredients
 
   extend FriendlyId
-  friendly_id :name, use: [:slugged, :finders]
-  friendly_id :slug_candidates, use: :slugged
+  friendly_id :slug_candidates, use: [:slugged, :finders]
 
   validates_presence_of :name, :slug
 

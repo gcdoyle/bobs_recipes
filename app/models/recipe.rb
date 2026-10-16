@@ -1,5 +1,5 @@
 class Recipe < ApplicationRecord
-  has_many :recipe_ingredients, -> { order(:position, :id) }, dependent: :destroy
+  has_many :recipe_ingredients, -> { order(:position, :id) }, inverse_of: :recipe, dependent: :destroy
   has_many :ingredients, through: :recipe_ingredients
 
   has_many :recipe_categories, dependent: :destroy
@@ -17,8 +17,7 @@ class Recipe < ApplicationRecord
   )
   
   extend FriendlyId
-  friendly_id :name, use: [:slugged, :finders]
-  friendly_id :slug_candidates, use: :slugged
+  friendly_id :slug_candidates, use: [:slugged, :finders]
 
   validates_presence_of :name, :slug
 
