@@ -120,7 +120,7 @@ recipes:
       - { qty: 1, measure: piece, ingredient: Bacon, note: "slab bacon skin or prosciutto skin, or a couple slices of bacon" }
       - { ingredient: Kosher salt }
     directions:
-      - Soak the beans in water overnight. (Quick soak if you forgot: cover the beans with at least 2 inches of water, bring to a boil, turn off the heat and let the pot cool down naturally, then continue as if soaked overnight.)
+      - "Soak the beans in water overnight. (Quick soak if you forgot: cover the beans with at least 2 inches of water, bring to a boil, turn off the heat and let the pot cool down naturally, then continue as if soaked overnight.)"
       - Strain the beans from the soaking water. Put the beans in a large pot and cover generously with water. Add the onion, carrot, celery, garlic, thyme, bay leaves and bacon skin.
       - Bring to a boil over medium heat. Reduce the heat and simmer until all the beans are soft, about 1 hour, adding more water if it reduces too much. Test for doneness with the 5-bean test; beans don't all cook at the same rate, so bite 5 beans and if they are all soft they are done.
       - Remove the pot from the heat. Season the water generously with salt and let sit for 15 minutes. Transfer the beans to a serving bowl and serve. If not using right away, store them in the refrigerator in their liquid.
@@ -174,7 +174,7 @@ recipes:
       - { qty: "1/3", measure: tsp, ingredient: Granulated garlic }
       - { qty: 1, measure: tsp, ingredient: Liquid smoke }
       - { ingredient: Bacon, note: "diced bacon or salt pork (optional), plus strips for the top" }
-      - { qty: "1/4", measure: cup, ingredient: Water, note: or so, so the mixture is not too dry }
+      - { qty: "1/4", measure: cup, ingredient: Water, note: "or so, so the mixture is not too dry" }
     directions:
       - In a bowl, gently fold the ingredients together so as not to bruise or break up the beans.
       - Put in a baking dish, top with strips of bacon and bake at 350 degrees F until the pepper and onions are soft.
@@ -848,7 +848,7 @@ recipes:
   - name: Tyler Florence's Barbecued Ribs
     categories: [BBQ, Pork]
     description:
-      - Recipe courtesy Tyler Florence, 2007. Special equipment: kitchen twine.
+      - "Recipe courtesy Tyler Florence, 2007. Special equipment: kitchen twine."
     ingredients:
       - { qty: 2, measure: rack, ingredient: Baby back ribs, note: "slabs, about 3 pounds" }
       - { ingredient: Kosher salt }

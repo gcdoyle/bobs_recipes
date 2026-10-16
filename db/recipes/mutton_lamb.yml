@@ -140,7 +140,7 @@ recipes:
       - { qty: "1/2", measure: oz, ingredient: Butter, note: melted }
       - { ingredient: Salt }
       - { ingredient: Black pepper, note: freshly ground }
-      - { qty: "1/2", measure: oz, ingredient: Butter, note: extra, for browning }
+      - { qty: "1/2", measure: oz, ingredient: Butter, note: "extra, for browning" }
     directions:
       - Combine the parsley, spring onions, garlic, rosemary, breadcrumbs and melted butter in a bowl.
       - Sprinkle the rack of lamb with salt and pepper.

@@ -8,7 +8,7 @@ recipes:
     ingredients:
       - { qty: "1/4", measure: cup, ingredient: Achiote oil }
       - { qty: 1, ingredient: Chicken, note: "3 to 4 pounds, cut into 10 pieces" }
-      - { ingredient: Sea salt, note: fine, or kosher salt }
+      - { ingredient: Sea salt, note: "fine, or kosher salt" }
       - { ingredient: Black pepper, note: freshly ground }
       - { qty: "1/2", measure: cup, ingredient: Sofrito }
       - { qty: "1/4", measure: cup, ingredient: Alcaparrado, note: or coarsely chopped pimiento-stuffed olives }
@@ -234,7 +234,7 @@ recipes:
       - { ingredient: Black pepper }
       - { qty: 2, ingredient: Red bell pepper, note: thinly sliced }
       - { qty: 1, ingredient: Onion, note: "large, thinly sliced" }
-      - { ingredient: Lime juice, note: optional, with olive oil, for the vegetables }
+      - { ingredient: Lime juice, note: "optional, with olive oil, for the vegetables" }
       - { qty: 12, ingredient: Flour tortilla, note: warm }
       - { ingredient: Guacamole }
       - { ingredient: Salsa, note: good-quality store-bought }
@@ -269,7 +269,7 @@ recipes:
       - { qty: "1/4", measure: cup, ingredient: Olive oil }
       - { qty: 1, measure: tbsp, ingredient: Dijon mustard, note: Grey Poupon or brown mustard }
       - { measure: splash, ingredient: Rum, note: Captain Morgan's spiced }
-      - { ingredient: Habanero chili, note: or other hot pepper, to taste }
+      - { ingredient: Habanero chili, note: "or other hot pepper, to taste" }
       - { ingredient: Chicken, note: "thighs or leg quarters, breasts cut in half, skin on" }
     directions:
       - Process all the marinade ingredients in a food processor and pour into a gallon-size zip-top bag with the chicken pieces.
@@ -624,7 +624,7 @@ recipes:
       - "Step 1: if desired, brown the flank steak in olive oil, then put it in a stock pot with the water, carrots, onion, celery, bay leaves, garlic, oregano, cumin, salt and peppercorns and simmer about 2 hours. Remove the meat, let cool and reserve the liquid."
       - "Step 2: put the olive oil in a pot, add the onion and green pepper and cook over medium heat about 2 to 3 minutes. Add the garlic and cook until the onions are transparent."
       - Shred the meat. Add the meat, 2 cups of the braising liquid (plus more if desired) and the rest of the ingredients, and let simmer and cook down.
-      - Optional: thicken the sauce with instant mashed potato flakes or cornstarch.
+      - "Optional: thicken the sauce with instant mashed potato flakes or cornstarch."
 
   - name: Ingrid Hoffmann's Ropa Vieja
     categories: [Cuban, Beef]

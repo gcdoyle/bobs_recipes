@@ -6,7 +6,11 @@ require "yaml"
 #
 # - Ingredients are matched by name, ignoring case; missing ones are created.
 # - Categories are matched the same way and created if missing.
-# - Recipes whose name already exists are skipped, so a file can be re-run.
+# - Recipes whose name already exists are skipped, so a file can be re-run,
+#   unless the entry has `replace: true`, which deletes and re-creates it.
+# - Text lines must be strings and ingredient lines may only use qty, measure,
+#   ingredient and note. An unquoted ": " or "," in YAML silently turns text
+#   into a hash, so this is checked rather than trusted.
 # - Everything happens in one transaction; a dry run rolls it back at the end,
 #   so it checks the whole file without writing anything.
 class RecipeImport
@@ -31,8 +35,13 @@ class RecipeImport
 
     Recipe.transaction do
       data.fetch("recipes").each do |attrs|
-        if existing.include?(attrs.fetch("name").downcase)
-          @result.skipped << attrs["name"]
+        validate!(attrs)
+        name = attrs.fetch("name")
+        if attrs["replace"] && existing.include?(name.downcase)
+          Recipe.where("lower(name) = ?", name.downcase).destroy_all
+          create_recipe(attrs)
+        elsif existing.include?(name.downcase)
+          @result.skipped << name
         else
           create_recipe(attrs)
         end
@@ -53,6 +62,22 @@ class RecipeImport
   end
 
   private
+
+  LINE_KEYS = %w[qty measure ingredient note].freeze
+
+  def validate!(attrs)
+    name = attrs["name"]
+    %w[description directions notes].each do |key|
+      Array(attrs[key]).each do |text|
+        raise ArgumentError, "#{name}: #{key} line isn't plain text (quote it): #{text.inspect}" unless text.is_a?(String)
+      end
+    end
+    Array(attrs["ingredients"]).each do |line|
+      ok = line.is_a?(Hash) && (line.keys - LINE_KEYS).empty? &&
+            line.values.all? { |v| v.is_a?(String) || v.is_a?(Numeric) }
+      raise ArgumentError, "#{name}: bad ingredient line (quote it): #{line.inspect}" unless ok
+    end
+  end
 
   def create_recipe(attrs)
     recipe = Recipe.new(

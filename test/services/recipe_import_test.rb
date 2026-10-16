@@ -66,4 +66,23 @@ class RecipeImportTest < ActiveSupport::TestCase
     result = RecipeImport.call(path: "db/recipes/asian_stir_fry.yml", dry_run: true, out: StringIO.new)
     assert_equal 13, result.created.size
   end
+
+  test "unquoted colons and commas in text are rejected" do
+    File.write(@file.path, YAML_DOC.sub("- Boil the noodles.", "- Tip: boil the noodles."))
+    error = assert_raises(ArgumentError) { import }
+    assert_match(/Garlic Noodles: directions line/, error.message)
+
+    File.write(@file.path, YAML_DOC.sub("note: minced }", "note: minced, or sliced }"))
+    error = assert_raises(ArgumentError) { import }
+    assert_match(/bad ingredient line/, error.message)
+  end
+
+  test "replace: true re-creates an existing recipe" do
+    recipe = Recipe.find_by!(name: "Roasted Garlic Soup")
+    File.write(@file.path, YAML_DOC.sub("  - name: Roasted Garlic Soup\n", "  - name: Roasted Garlic Soup\n    replace: true\n"))
+    result = import
+    assert_includes result.created, "Roasted Garlic Soup"
+    assert_not Recipe.exists?(recipe.id)
+    assert_equal 1, Recipe.where(name: "Roasted Garlic Soup").count
+  end
 end
