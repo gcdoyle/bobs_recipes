@@ -1,0 +1,527 @@
+# Recipes from "Poultry & Game.txt", part 1. Already in from other files:
+# Daisy Martinez's Arroz con Pollo (as "Arroz con Pollo"), The Ultimate Jerk
+# Chicken, Jamaican Jerk Chicken, Cheryl Smith's Jerk Chicken.
+recipes:
+  - name: Chicken in Garlic Sauce (Pollo al Ajillo)
+    categories: [Poultry]
+    description:
+      - Recipe courtesy Daisy Martinez. Thighs won't dry out; a paella pan's wide, shallow shape is handy here. In a smaller Dutch oven, brown in batches and rotate the pieces as they simmer so they cook evenly.
+    ingredients:
+      - { qty: 12, ingredient: Chicken thigh, note: "large, about 4 pounds" }
+      - { ingredient: Sea salt, note: "fine, or kosher salt" }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/4", measure: cup, ingredient: Canola oil }
+      - { qty: 10, measure: clove, ingredient: Garlic, note: sliced }
+      - { qty: 2, measure: tsp, ingredient: Thyme, note: "fresh leaves, chopped" }
+      - { qty: "1/2", measure: cup, ingredient: Sherry, note: dry }
+      - { qty: "1/2", measure: cup, ingredient: Chicken broth, note: homemade or canned }
+    directions:
+      - Wash the chicken thighs and pat dry. Season generously with salt and pepper. Heat the oil in a large heavy skillet over medium-high heat and add as many thighs, skin side down, as fit without touching.
+      - Cook until the skin is golden brown, about 10 minutes. Flip and cook until the other side is golden, about 5 minutes more.
+      - Off the heat, spoon off all but about 2 tablespoons of fat, leaving the brown bits. Return to low heat, stir in the garlic and thyme and cook until the garlic starts to turn golden, 1 to 2 minutes.
+      - Pour in the sherry, raise to medium and boil a minute or 2. Return the chicken skin side up, reduce to low, pour in the broth and bring to a simmer. Cover tightly and cook 20 minutes.
+      - Flip the chicken (or rotate top to bottom in a smaller pan) and cook until very tender, about 20 minutes. Serve hot.
+    notes:
+      - "For white and dark meat, use a 4-pound chicken cut into 10 pieces: let the thighs, drumsticks and wings cook in the sauce 15 minutes before adding the browned breast pieces. For all white meat, cut the breasts in half crosswise, brown them, and let the sauce cook down 10 to 15 minutes before adding them."
+
+  - name: Michael's Manly Chicken Stew
+    categories: [Poultry, Stews]
+    description:
+      - Contributed by Michael Symon. "There's nothing like chicken stew on a wet spring day." The file's last step only lists its ingredients (the chicken, peas, seasoning, tarragon, nutmeg and biscuits) without wording.
+    ingredients:
+      - { qty: 5, measure: lb, ingredient: Chicken, note: "whole, roasted and picked" }
+      - { qty: 8, measure: tbsp, ingredient: Unsalted butter, note: 1 stick }
+      - { qty: 3, measure: clove, ingredient: Garlic }
+      - { qty: "3/4", measure: cup, ingredient: Flour }
+      - { qty: 12, measure: cup, ingredient: Chicken stock }
+      - { qty: 4, measure: cup, ingredient: Leek, note: "white part only, small diced" }
+      - { qty: 2, measure: cup, ingredient: Carrot, note: small diced }
+      - { qty: 2, measure: cup, ingredient: Celery, note: small diced }
+      - { qty: 2, measure: cup, ingredient: Pea }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/4", measure: cup, ingredient: Tarragon, note: roughly chopped }
+      - { measure: dash, ingredient: Nutmeg, note: optional }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { ingredient: Buttermilk Biscuits, note: for serving }
+    directions:
+      - Place a Dutch oven over medium heat. When hot, add the butter, garlic, carrots and celery with a large pinch of salt and the olive oil. Sweat until tender, about 8 minutes.
+      - Whisk in the flour, then add the chicken stock. Bring to a gentle boil, stirring occasionally, until slightly thickened.
+      - Season with salt and pepper, add the leeks and simmer 10 minutes.
+      - Add the chicken and peas, season with salt, pepper, tarragon and a dash of nutmeg if you like, and serve with biscuits.
+
+  - name: Buffalo Wings
+    categories: [Poultry]
+    prep_time: 15
+    cooking_time: 40
+    servings: 4
+    description:
+      - Recipe courtesy Alton Brown, 2007. 4 appetizer servings. Steamed, chilled, then roasted.
+      - "Inactive prep: 1 hour."
+    ingredients:
+      - { qty: 12, ingredient: Chicken wings, note: whole }
+      - { qty: 3, measure: oz, ingredient: Unsalted butter }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: "small, minced" }
+      - { qty: "1/4", measure: cup, ingredient: Hot sauce }
+      - { qty: "1/2", measure: tsp, ingredient: Kosher salt }
+    directions:
+      - Bring 1 inch of water to a boil in a covered 6-quart saucepan fitted with a steamer basket.
+      - Remove the wing tips (discard or save for stock) and separate the wings at the joint. Steam, covered, over medium heat for 10 minutes. Pat dry, lay on a cooling rack set in a paper-towel-lined half sheet pan and refrigerate 1 hour.
+      - Preheat the oven to 425 degrees F. Replace the paper towels with parchment and roast on the middle rack 20 minutes. Turn and roast another 20 minutes, until cooked through and golden.
+      - While they roast, melt the butter with the garlic and stir with the hot sauce and salt in a bowl big enough for the wings.
+      - Toss the wings in the sauce and serve warm.
+
+  - name: Orange Glazed Chicken Wings
+    categories: [Poultry, Asian]
+    prep_time: 20
+    cooking_time: 40
+    servings: 4
+    description:
+      - Recipe courtesy Alton Brown, 2007. Bob's "Asian Wings". 4 appetizer servings.
+      - "Inactive prep: 1 hour."
+    ingredients:
+      - { qty: 12, ingredient: Chicken wings, note: whole }
+      - { qty: 1, measure: can, ingredient: Orange juice concentrate, note: "6-ounce, frozen" }
+      - { qty: 3, measure: tbsp, ingredient: Hoisin sauce }
+      - { qty: 2, measure: tsp, ingredient: Honey }
+      - { qty: 1, measure: tbsp, ingredient: Soy sauce }
+      - { qty: 1, measure: tsp, ingredient: Rice vinegar }
+      - { qty: "1/2", measure: tsp, ingredient: Red pepper flakes, note: crushed }
+    directions:
+      - Steam, chill and roast the wings exactly as for Buffalo Wings - 10 minutes steaming, 1 hour in the refrigerator on a rack, then 20 minutes per side at 425 degrees F on parchment.
+      - During the last 20 minutes of roasting, simmer the orange juice concentrate, hoisin, honey, soy sauce, vinegar and red pepper flakes over medium-high heat until reduced to about 1/2 cup, 5 to 10 minutes. Let cool at least 5 minutes.
+      - Toss the wings with the glaze in a large bowl and serve warm.
+
+  - name: Michael Symon's Orange Jalapeno Glazed Chicken Wings
+    categories: [Poultry]
+    ingredients:
+      - { qty: 3, measure: lb, ingredient: Chicken wings }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: tbsp, ingredient: Coriander seeds, note: "toasted and crushed, divided" }
+      - { qty: 2, measure: tbsp, ingredient: Cumin seeds, note: "toasted and crushed, divided" }
+      - { qty: 1, ingredient: Orange, note: juiced }
+      - { qty: "1/4", measure: cup, ingredient: Sherry vinegar }
+      - { qty: 1, ingredient: Jalapeno, note: sliced }
+      - { qty: 1, measure: tbsp, ingredient: Butter }
+      - { ingredient: Vegetable oil, note: for frying }
+    directions:
+      - Season the wings with salt, pepper, and half the coriander and cumin.
+      - Preheat the oven to 350 degrees F. Spread the wings on a baking tray and bake 15 to 20 minutes, until just about cooked through. Let cool slightly.
+      - In a saucepot over medium-high heat, combine the orange juice, sherry vinegar, jalapeno, and the rest of the coriander and cumin. Reduce by half, about 10 minutes. Off the heat, stir in the butter.
+      - Heat the oil to 360 degrees F and deep-fry the wings until golden and crispy. Drain on paper towels and season with salt.
+      - Pour the sauce over the wings in a bowl and toss to coat evenly.
+
+  - name: Dionne Lewis' Blue Cheese Buffalo Wings
+    categories: [Poultry]
+    ingredients:
+      - { qty: 10, ingredient: Chicken wings }
+      - { qty: 1, measure: cup, ingredient: Buttermilk }
+      - { qty: "1/2", measure: cup, ingredient: Blue cheese, note: crumbled }
+      - { qty: 1, measure: cup, ingredient: Flour, note: "sifted, not in the bag" }
+      - { qty: "1/2", measure: tbsp, ingredient: Seasoned salt }
+      - { qty: 1, measure: tbsp, ingredient: Garlic and herb seasoning, note: "roasted garlic and herb (Mrs. Dash)" }
+      - { qty: 1, measure: tbsp, ingredient: Black pepper }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 1, measure: cup, ingredient: Hot sauce }
+      - { qty: 1, measure: tbsp, ingredient: Butter, note: 1/8 stick }
+      - { ingredient: Vegetable oil, note: for frying }
+    directions:
+      - Blend the blue cheese and buttermilk. Marinate the wings in it for a few hours in the refrigerator.
+      - Combine the dry seasonings. Drain the chicken and lay flat on a cookie sheet. Sprinkle both sides with the seasoning, then sift the flour over until lightly coated on both sides.
+      - Heat enough oil in a skillet to cover the wings and fry until crispy and golden. Drain.
+      - Melt the butter in a saucepan and stir in the hot sauce.
+      - Put the wings in a baking dish, pour the sauce over to coat, cover with foil and bake about 10 minutes at 350 degrees F.
+
+  - name: Bob's Arroz con Pollo
+    categories: [Cuban, Poultry, Rice]
+    description:
+      - Bob's ingredient list; there are no directions in the file beyond "check for more liquid".
+    ingredients:
+      - { qty: 1, ingredient: Chicken breast, note: cut in half }
+      - { qty: 2, ingredient: Chicken thigh }
+      - { qty: "1/2", ingredient: Bell pepper }
+      - { qty: 1, ingredient: Onion, note: rough dice }
+      - { ingredient: Annatto oil }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: diced }
+      - { qty: 2, ingredient: Bay leaf }
+      - { ingredient: Oregano }
+      - { ingredient: Ground cumin }
+      - { ingredient: Paprika }
+      - { qty: 4, measure: oz, ingredient: Tomato sauce }
+      - { ingredient: Chicken broth }
+      - { ingredient: White wine }
+      - { ingredient: Chorizo }
+      - { qty: "1 1/4", measure: cup, ingredient: Valencia rice }
+      - { ingredient: Green olives }
+      - { ingredient: Cayenne pepper }
+
+  - name: Arroz con Pollo with Chorizo
+    categories: [Cuban, Poultry, Rice]
+    ingredients:
+      - { qty: 1, ingredient: Chicken, note: "3 pounds, cut into 10 serving pieces" }
+      - { qty: 4, measure: tbsp, ingredient: Olive oil, note: divided }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 4, measure: tsp, ingredient: Ground cumin }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Oregano, note: dried }
+      - { qty: 2, measure: tsp, ingredient: Paprika, note: sweet }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 2, ingredient: Chorizo, note: "dried sausages, about 1 1/4 pounds, cut into 1-inch chunks" }
+      - { qty: 1, ingredient: Onion, note: "Spanish, chopped" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, ingredient: Red bell pepper, note: seeded and chopped }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 2, measure: cup, ingredient: Long grain rice, note: white }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: "15-ounce, with liquid" }
+      - { qty: 3, measure: cup, ingredient: Chicken broth, note: "low-sodium, warm" }
+      - { qty: 1, measure: cup, ingredient: Green olives, note: pimento-stuffed }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Rinse the chicken and pat dry. Blend 2 tablespoons oil with salt, pepper, cumin, oregano, paprika and cayenne. Rub each piece with the paste and refrigerate at least 20 minutes.
+      - In a heavy ovenproof casserole with a lid, heat the remaining 2 tablespoons oil. Fry the chorizo over medium heat until crispy and its fat renders. Drain on paper towels.
+      - Brown the chicken skin side down, then on all sides, about 10 minutes. Set aside.
+      - Make a sofrito by sauteing the onion, garlic, bell pepper and bay leaves until very soft and almost dissolved. Stir in the rice to coat the grains.
+      - Add the tomatoes and broth and season with salt and pepper. Return the chorizo and chicken, bring to a boil and simmer 5 minutes.
+      - Cover and bake 20 minutes, until the chicken is done and the rice is tender and has absorbed the liquid. Scatter the olives on top before serving.
+
+  - name: Chicken and Yellow Rice (Arroz con Pollo)
+    categories: [Cuban, Poultry, Rice]
+    ingredients:
+      - { qty: 1, ingredient: Chicken, note: "3 pounds, cut into 8 pieces, skin removed" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 1, ingredient: Lime, note: juiced }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: pure Spanish }
+      - { qty: 1, ingredient: Onion, note: small dice }
+      - { qty: 1, ingredient: Green bell pepper, note: small dice }
+      - { qty: 1, ingredient: Roasted red pepper, note: small dice }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: cup, ingredient: Tomato sauce, note: prepared }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: "1/2", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 12, measure: oz, ingredient: Beer }
+      - { qty: "1/2", measure: cup, ingredient: Sherry }
+      - { qty: 3, measure: cup, ingredient: Chicken stock }
+      - { qty: "1 1/2", measure: cup, ingredient: Valencia rice, note: soaked in cold water for 1 hour }
+      - { qty: 5, ingredient: Saffron, note: threads }
+      - { qty: 1, measure: cup, ingredient: Pea, note: frozen sweet peas }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Season the chicken with salt, pepper, and lime juice. Heat the olive oil in a large casserole or Dutch oven, brown the chicken and set aside.
+      - Cook the onions, peppers, and garlic until translucent. Add the tomato sauce, cumin, and bay leaf and cook 5 minutes.
+      - Add the chicken, wine, beer, and sherry and cook 5 to 8 minutes. Add the stock, bring to a boil and adjust the seasoning. Add the drained rice and the saffron.
+      - Bring to a boil, cover, and bake 20 minutes.
+      - Add the peas, fluffing the rice to mix them in. Serve hot.
+
+  - name: Chicken Boudine
+    categories: [Poultry, Casseroles]
+    description:
+      - Recipe courtesy Paula Deen.
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Egg noodles, note: cooked }
+      - { qty: 2, measure: can, ingredient: Cream of mushroom soup, note: 10 3/4-ounce }
+      - { qty: "1/2", measure: cup, ingredient: Chicken broth }
+      - { qty: "1/4", measure: cup, ingredient: Sherry, note: dry }
+      - { qty: 4, measure: cup, ingredient: Chicken, note: "cooked, chopped" }
+      - { qty: 3, measure: cup, ingredient: Sharp cheddar cheese, note: "or other sharp cheese, grated, divided" }
+      - { qty: "2 1/4", measure: oz, ingredient: Almond, note: "slivered, toasted (1 package)" }
+      - { qty: "1/4", measure: cup, ingredient: Pimentos, note: "drained, chopped" }
+      - { qty: 1, measure: can, ingredient: Mushroom, note: "4-ounce can sliced, drained" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - In a large bowl, toss the noodles, soup, broth, and sherry. Add the chicken, 2 cups of the cheese, the almonds, pimento, mushrooms, and salt and pepper to taste and toss gently.
+      - Transfer to a greased 13 by 9 by 2-inch casserole and top with the remaining cup of cheese. Bake 30 minutes, until bubbly.
+
+  - name: Chicken Cacciatore
+    categories: [Poultry]
+    ingredients:
+      - { qty: 4, ingredient: Chicken thigh }
+      - { qty: 2, ingredient: Chicken breast, note: "with skin and backbone, halved crosswise" }
+      - { qty: 2, measure: tsp, ingredient: Salt, note: plus more to taste }
+      - { qty: 1, measure: tsp, ingredient: Black pepper, note: "freshly ground, plus more to taste" }
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: "all-purpose, for dredging" }
+      - { qty: 3, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, ingredient: Red bell pepper, note: "large, chopped" }
+      - { qty: 1, ingredient: Onion, note: chopped }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: finely chopped }
+      - { qty: "3/4", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: "28-ounce, with juice" }
+      - { qty: "3/4", measure: cup, ingredient: Chicken broth, note: reduced-sodium }
+      - { qty: 3, measure: tbsp, ingredient: Capers, note: drained }
+      - { qty: "1 1/2", measure: tsp, ingredient: Oregano, note: dried leaves }
+      - { qty: "1/4", measure: cup, ingredient: Basil, note: "fresh leaves, coarsely chopped" }
+    directions:
+      - Sprinkle the chicken with 1 teaspoon each salt and pepper and dredge lightly in the flour.
+      - Heat the oil in a large heavy saute pan over medium-high heat and brown the chicken, about 5 minutes per side, in 2 batches if needed. Set aside.
+      - Saute the bell pepper, onion and garlic over medium heat until the onion is tender, about 5 minutes. Season with salt and pepper. Add the wine and simmer until reduced by half, about 3 minutes.
+      - Add the tomatoes and juice, broth, capers and oregano. Return the chicken, turn to coat and bring to a simmer. Simmer over medium-low until just cooked through, about 20 minutes for the thighs and 30 for the breasts.
+      - Transfer the chicken to a platter. Boil the sauce until slightly thickened if needed, about 3 minutes, and skim the fat. Spoon over the chicken and sprinkle with basil.
+
+  - name: Chicken Chasseur
+    categories: [Poultry]
+    description:
+      - Hunter-style chicken. Recipe courtesy Bobby Flay.
+    ingredients:
+      - { qty: 1, ingredient: Chicken, note: "4 pounds, quartered" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { ingredient: Clarified butter }
+      - { qty: 5, measure: oz, ingredient: Cremini mushroom, note: thinly sliced }
+      - { qty: 1, ingredient: Shallot, note: "large, finely diced" }
+      - { qty: 2, measure: oz, ingredient: Cognac }
+      - { qty: 2, measure: oz, ingredient: White wine, note: dry }
+      - { qty: "1 1/2", measure: cup, ingredient: Chicken stock, note: enriched }
+      - { qty: "1/4", measure: cup, ingredient: Tomato, note: "concasse (peeled, seeded and diced)" }
+      - { qty: 1, measure: oz, ingredient: Butter, note: cold }
+      - { qty: 1, measure: tsp, ingredient: Tarragon, note: "fresh leaves, finely chopped" }
+      - { qty: 1, measure: tsp, ingredient: Chervil, note: "fresh leaves, finely chopped, or flat-leaf parsley" }
+    directions:
+      - Preheat the oven to 375 degrees F.
+      - Season the chicken on both sides with salt and pepper. Heat a few tablespoons of clarified butter in a Dutch oven over high heat. Brown the chicken skin side down, then the other side. Move to a baking sheet and bake until just cooked through, 12 to 15 minutes.
+      - Pour off all but 2 tablespoons of fat. Season and saute the mushrooms until golden brown, add the shallots and cook 30 seconds.
+      - Off the heat, add the Cognac and cook until completely reduced; repeat with the wine. Add the stock and tomato and simmer until the sauce coats the back of a spoon.
+      - Swirl in the cold butter; don't reduce the sauce after this or it will break. Season and stir in the tarragon and chervil.
+      - Rest the chicken 5 minutes. Remove the breastbone and cut each breast in 2 on the bias; cut the legs in 2 at the joint and remove the thighbones. Serve 1 leg piece and 1 breast piece per plate (only one with a bone), on hot plates with the sauce.
+
+  - name: Bob's Braised Chicken Thighs
+    categories: [Poultry]
+    description:
+      - Serve over rice or pasta topped with a fried egg.
+    ingredients:
+      - { qty: 5, ingredient: Chicken thigh, note: 4 to 5 }
+      - { qty: 1, measure: tbsp, ingredient: Anise seed }
+      - { qty: 1, measure: tbsp, ingredient: Oregano }
+      - { ingredient: Garlic, note: cloves }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: "14-ounce, diced or stewed" }
+      - { qty: "1/2", measure: cup, ingredient: White wine }
+      - { qty: 1, ingredient: Mushroom, note: "box, sliced" }
+      - { ingredient: Black olive, note: pitted }
+      - { ingredient: Adobo seasoning, note: Goya with cumin }
+      - { qty: 1, ingredient: Onion, note: "large, frenched" }
+      - { qty: 2, measure: stalk, ingredient: Celery, note: "1 to 2, diced" }
+      - { qty: 1, measure: can, ingredient: Tomato sauce, note: 8-ounce }
+      - { qty: 1, ingredient: Jalapeno, note: "small, julienned, or 1/2 cup hot or medium picante sauce" }
+      - { qty: "1/2", ingredient: Green bell pepper, note: "large, julienned" }
+      - { measure: dash, ingredient: Worcestershire sauce }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Parsley }
+      - { ingredient: Olive oil }
+    directions:
+      - Brown the thighs skin side down in olive oil, then remove and hold. Drain the excess fat.
+      - Add the onions, green pepper, celery and jalapeno and sweat until just beginning to soften. Add the mushrooms and garlic.
+      - After a few minutes, add the tomatoes, tomato sauce, picante (if using), olives, wine, anise seed, oregano, Worcestershire and pepper.
+      - Add the thighs and parsley, cover and simmer 30 to 45 minutes.
+
+  - name: Chicken Cordon Bleu
+    categories: [Poultry]
+    servings: 4
+    ingredients:
+      - { qty: 4, ingredient: Chicken breast, note: "double breasts, about 7 ounces each, skinless and boneless" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 8, measure: slice, ingredient: Ham, note: "thin, deli" }
+      - { qty: 16, measure: slice, ingredient: Gruyere cheese, note: "thin, or Swiss" }
+      - { qty: 2, measure: tsp, ingredient: Thyme, note: fresh leaves }
+      - { qty: "1/4", measure: cup, ingredient: Flour }
+      - { qty: 1, measure: cup, ingredient: Panko }
+      - { qty: 1, measure: tsp, ingredient: Olive oil }
+      - { qty: 2, ingredient: Egg }
+      - { qty: 2, measure: tsp, ingredient: Water }
+    directions:
+      - Preheat the oven to 350 degrees F. Gently pound the chicken between sheets of plastic wrap to 1/4 inch thick, taking care not to tear it.
+      - Layer 2 slices of cheese, 2 of ham and 2 more of cheese on each breast, leaving a 1/2-inch margin. Tuck in the sides and roll up tight like a jelly roll, squeezing gently to seal.
+      - Season the flour with salt and pepper. Mix the bread crumbs with the thyme, salt, pepper and oil (it helps the crust brown). Beat the eggs and water until fluid.
+      - Dust the rolls with flour, dip in the egg and coat gently in the crumbs. Bake in a baking pan 20 minutes, until browned and cooked through. Cut into pinwheels to serve.
+
+  - name: Garlic Chicken in Casserole with Israeli Couscous
+    categories: [Poultry]
+    prep_time: 30
+    cooking_time: 100
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. Serves 6 to 8.
+      - "Inactive prep: 1 hour."
+    ingredients:
+      - { qty: 2, measure: head, ingredient: Garlic, note: whole bulbs }
+      - { qty: 1, ingredient: Lemon, note: zested and juiced }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: "large, leaves only" }
+      - { qty: 1, measure: tbsp, ingredient: Cumin seeds, note: toasted and ground }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { ingredient: Kosher salt }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Chicken, note: "4 to 5 pounds, cut into 8 to 10 parts" }
+      - { qty: 2, measure: cup, ingredient: Couscous, note: medium-size Israeli }
+      - { qty: 1, ingredient: Onion, note: "large, sliced" }
+      - { qty: 3, measure: rib, ingredient: Celery, note: sliced thin on the bias }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: "crushed, for the couscous" }
+      - { qty: "1 1/2", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 3, measure: tbsp, ingredient: Tomato paste }
+      - { qty: 1, measure: pinch, ingredient: Saffron, note: large pinch }
+      - { qty: 2, ingredient: Zucchini, note: "green part only, cut into 1/2-inch dice" }
+      - { qty: 3, measure: cup, ingredient: Chicken stock, note: 2 to 3 cups }
+      - { qty: "1/2", measure: cup, ingredient: Pine nuts, note: toasted }
+      - { qty: 3, ingredient: Green onion, note: "white and green, sliced thinly on the bias" }
+    directions:
+      - Preheat the oven to 375 degrees F. Roast the garlic bulbs in a small tin until soft when squeezed, about 30 minutes. Let cool.
+      - Slice the tops off and squeeze out the garlic. Mash or puree it with the lemon zest and juice, thyme, cumin, crushed red pepper, salt to taste and a little olive oil into a loose paste. Massage it all over the chicken and let sit at least 1 hour.
+      - Cook the couscous in well-salted boiling water until about 2/3 cooked, 5 to 6 minutes. Drain and reserve.
+      - Coat a large saute pan with olive oil over medium-high heat and brown the chicken on all sides. Remove it, drain the fat and add the onions and celery. Season with salt and the crushed red pepper.
+      - Deglaze with the wine, scraping up the bottom, and cook 7 to 8 minutes. Stir in the tomato paste and cook 2 minutes. Add the saffron, zucchini, couscous and stock, stir, and adjust the seasoning.
+      - Transfer to an ovenproof dish and nestle the chicken in skin side up, adding more stock to keep it moist. Sprinkle with pine nuts, cover with foil and set on a sheet pan.
+      - Roast 20 minutes covered, then 10 to 15 minutes uncovered. Top with scallions before serving.
+
+  - name: Balsamic Chicken Drumettes
+    categories: [Poultry]
+    description:
+      - Brushing on the reduced marinade helps the flavors along, and re-moistening helps the parsley and seeds stick. The rosemary and garlic stay in the background.
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Balsamic vinegar }
+      - { qty: "1/2", measure: cup, ingredient: Honey }
+      - { qty: "1/2", measure: cup, ingredient: Brown sugar }
+      - { qty: "1/4", measure: cup, ingredient: Soy sauce }
+      - { qty: 5, measure: sprig, ingredient: Rosemary }
+      - { qty: 5, measure: clove, ingredient: Garlic, note: halved }
+      - { qty: 12, ingredient: Chicken drumsticks, note: 10 to 12 }
+      - { qty: 2, measure: tbsp, ingredient: Sesame seeds, note: toasted }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "fresh flat-leaf, chopped" }
+    directions:
+      - Combine the balsamic, honey, brown sugar, soy sauce, rosemary and garlic in a large resealable bag and squeeze until the honey and sugar dissolve. Add the drumsticks, seal with little air and refrigerate 2 hours.
+      - Preheat the oven to 450 degrees F. Bake the drumsticks on a foil-lined baking sheet until caramelized and very dark in spots, 30 to 35 minutes.
+      - Meanwhile, bring the marinade to a boil in a small saucepan, then simmer over low heat until thick, about 15 minutes.
+      - Brush the chicken with the cooked marinade and sprinkle with the sesame seeds and parsley.
+
+  - name: Chicken Gizzards
+    categories: [Poultry]
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Chicken gizzards }
+      - { qty: 24, measure: oz, ingredient: Italian dressing, note: any type }
+      - { qty: 6, measure: oz, ingredient: Beer, note: half a 12-ounce bottle }
+      - { qty: "1/4", measure: cup, ingredient: White wine }
+      - { qty: "1/2", ingredient: White onion, note: minced }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: tbsp, ingredient: Steak sauce, note: A-1 }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: 1, measure: tbsp, ingredient: Pickapeppa sauce }
+      - { qty: 1, measure: tbsp, ingredient: Soy sauce }
+      - { qty: 2, measure: tbsp, ingredient: White wine vinegar }
+      - { qty: 1, measure: tsp, ingredient: Creole seasoning, note: "Tony Chachere's" }
+      - { qty: 2, measure: dash, ingredient: Dried thyme }
+      - { qty: 2, measure: dash, ingredient: Celery salt }
+      - { qty: 2, measure: dash, ingredient: Dried basil }
+      - { qty: 1, measure: tsp, ingredient: Seasoned salt, note: Season-All }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+    directions:
+      - Mix all the ingredients in a large saucepan and bring to a slow roll.
+      - Cover, turn the heat to low and simmer about 3 hours. Don't boil, or the gizzards will be dry and overcooked.
+
+  - name: Ring of Fire Grilled Chicken
+    categories: [Poultry, BBQ]
+    prep_time: 30
+    cooking_time: 20
+    servings: 4
+    description:
+      - Recipe courtesy Alton Brown, 2010.
+      - "Special equipment: 2 sheets of newspaper, vegetable oil, 2 to 3 pounds natural chunk charcoal, a chimney starter, 8 feet of heavy-duty aluminum foil and 2 aluminum pie pans."
+      - "Inactive prep: 2 hours."
+    ingredients:
+      - { qty: 1, ingredient: Chicken, note: "broiler-fryer, 4 to 5 pounds" }
+      - { qty: 1, measure: qt, ingredient: Water }
+      - { qty: "1/2", measure: cup, ingredient: Honey }
+      - { qty: "3 1/2", measure: oz, ingredient: Kosher salt, note: about 3/4 cup }
+      - { qty: 1, measure: tbsp, ingredient: Curry powder }
+      - { qty: 1, measure: tbsp, ingredient: Chili powder }
+      - { qty: 2, measure: tsp, ingredient: Cocoa powder }
+      - { qty: 1, measure: tsp, ingredient: Adobo seasoning, note: "powder, without pepper" }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: 1, measure: tsp, ingredient: Smoked paprika, note: hot }
+    directions:
+      - Cut up the chicken into 2 wings, 2 thighs, 2 drumsticks and 2 boneless breasts with the drumettes attached. Freeze the carcass for stock or discard.
+      - Put the pieces in a 1-gallon resealable bag with the water, honey and salt. Seal and move it around vigorously 1 to 2 minutes to dissolve. Refrigerate in a leak-proof container 1 1/2 hours.
+      - Meanwhile, combine the curry powder, chili powder, cocoa, adobo, cumin and paprika in another 1-gallon bag.
+      - Pat the chicken very dry with paper towels; don't rinse. Shake the pieces in the spice bag to coat and rest on a rack over a half sheet pan 30 minutes.
+      - Spritz 2 sheets of newspaper with oil, put them in the bottom of a chimney starter, fill it with 2 to 3 pounds of chunk charcoal and set it on the kettle's charcoal grate until hot and ashy, 15 to 20 minutes. Make a ring of heavy-duty foil with a 9-inch center, set it over the chimney and lay it on the grate.
+      - Spread the hot coals evenly outside the ring and set a pie pan in the center to catch drippings. Heat the cooking grate 2 to 3 minutes and oil it lightly.
+      - Arrange the chicken skin side down over the coals. Give the legs a quarter turn every 3 to 4 minutes and turn the thighs, wings and breasts after 4 to 5 minutes; the skin should blister and darken. Rotate the grate to avoid flare-ups.
+      - After 9 to 10 minutes, move the breasts to the center and cover with the second pie pan. After 10 to 11 minutes, put the wings on top of the pan and lean the thighs and legs against it away from direct heat, turning every 2 minutes. Move finished pieces on top of the pan.
+      - After 18 to 20 minutes total, check that the deepest part of each piece reads 155 degrees F. Cover with a towel in a bowl and rest 5 minutes before serving.
+
+  - name: Maple and Cayenne Glazed Chicken
+    categories: [Poultry]
+    prep_time: 20
+    cooking_time: 40
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell.
+    ingredients:
+      - { qty: 2, ingredient: Chicken, note: "3 pounds each, wing tips, spine and breast plate removed, cut in half" }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { ingredient: Kosher salt }
+      - { qty: 1, measure: cup, ingredient: Maple syrup, note: real }
+      - { qty: 2, measure: tsp, ingredient: Cayenne pepper }
+    directions:
+      - Preheat the oven to 400 degrees F.
+      - Poke the end of each drumstick through a small hole in the extra skin on the leg to make a neat package. Toss the chicken with olive oil and salt and arrange on a parchment- or silpat-lined sheet tray.
+      - Roast until about 3/4 done and the skin starts to brown and crisp, 20 to 25 minutes.
+      - Meanwhile, reduce the maple syrup and cayenne in a small saucepan over medium heat by 1/2 to 3/4, until very thick.
+      - Brush the chicken generously with the syrup and roast another 10 to 12 minutes, brushing 1 or 2 more times, until the skin is very dark and sticky. Cover loosely with foil if it gets too dark. Rest 10 minutes before serving.
+
+  - name: Chicken Marsala
+    categories: [Poultry]
+    servings: 2
+    description:
+      - Recipe courtesy Emeril Lagasse. Uses Emeril's Essence Creole Seasoning (its own recipe).
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: tbsp, ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: 2, ingredient: Chicken breast, note: "boneless skinless, 6 to 8 ounces, halved and pounded thin" }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: 4, measure: tbsp, ingredient: Butter, note: divided }
+      - { qty: 3, measure: cup, ingredient: Mushroom, note: "sliced (cremini, oyster, shiitake)" }
+      - { qty: "3/4", measure: cup, ingredient: Marsala wine }
+      - { qty: 1, measure: cup, ingredient: Chicken stock }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Chives, note: "chopped, for garnish" }
+    directions:
+      - Combine the flour and Essence. Quickly dredge the chicken, shaking off the excess.
+      - Heat the oil in a large skillet over medium-high heat until very hot. Add 1 tablespoon butter and cook the chicken until golden, about 3 minutes per side. Set aside.
+      - Add another tablespoon of butter and the mushrooms and cook, stirring, until golden at the edges and their liquid is released.
+      - Add the Marsala, bring to a boil and scrape up the browned bits. When reduced by half, add the stock and cook 3 minutes, until slightly thickened.
+      - Lower to medium, return the chicken and cook until cooked through and the sauce thickens, 5 to 6 minutes. Swirl in the remaining 2 tablespoons butter, season, garnish with chives and serve immediately.
+
+  - name: Creamy Chicken and Noodles
+    categories: [Poultry, Pasta]
+    prep_time: 15
+    cooking_time: 30
+    servings: 4
+    description:
+      - Recipe courtesy Rachael Ray. The sauce makes ahead well; bring it to room temperature before reheating over medium heat, and cook the noodles right before serving.
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Butter }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 12, measure: oz, ingredient: Mushroom, note: "white, sliced" }
+      - { qty: 2, measure: tbsp, ingredient: Thyme, note: "fresh, finely chopped" }
+      - { qty: 2, ingredient: Leek, note: thinly sliced }
+      - { qty: 1, ingredient: Carrot, note: "small, finely chopped" }
+      - { qty: 1, measure: rib, ingredient: Celery, note: "small, finely chopped" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 3, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: "1/2", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 2, measure: cup, ingredient: Chicken stock, note: 1 1/2 to 2 cups }
+      - { qty: "1/2", measure: cup, ingredient: Heavy cream }
+      - { ingredient: Nutmeg, note: a few grates }
+      - { qty: 3, measure: cup, ingredient: Chicken, note: "2 to 3 cups cooked poached breast or rotisserie chicken, pulled or chopped" }
+      - { qty: "1/2", measure: lb, ingredient: Egg noodles, note: extra-wide }
+      - { qty: 2, measure: tbsp, ingredient: Dijon mustard }
+      - { qty: 2, measure: tbsp, ingredient: Dill, note: "fresh, chopped, or tarragon" }
+    directions:
+      - Heat the butter and olive oil in a large deep skillet over medium to medium-high heat and lightly brown the mushrooms, 10 to 12 minutes.
+      - Stir in the thyme, leeks, carrot and celery, season with salt and pepper and cook, partially covered, until soft, 10 minutes.
+      - Sprinkle in the flour and stir 1 minute, then add the wine and let it absorb. Add the stock and bring to a bubble. Stir in the cream, season with a little nutmeg and let it thicken a bit. Add the chicken and heat through.
+      - Cook the noodles in salted boiling water to al dente. Stir the mustard into the chicken, then toss with the noodles and herbs.
