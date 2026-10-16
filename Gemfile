@@ -7,23 +7,16 @@ gem 'rails', '~> 6.1.3.2'
 gem 'pg', '>= 0.18', '< 2.0'
 gem 'puma', '~> 4.1'
 gem 'sass-rails', '>= 6'
-gem 'webpacker', '~> 4.0'
-gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7'
 gem 'image_processing', '~> 1.2'
 gem 'mini_magick'
 gem 'administrate', '>= 0.16.0'
 gem 'administrate-field-nested_has_many'
-gem 'administrate-field-scoped_has_many'
 gem 'trix-rails', require: 'trix'
 gem 'administrate-field-trix'
 gem 'friendly_id'
 gem 'bootstrap'
-gem 'bootstrap-select-rails'
 gem "popper_js", "~> 1.16.0"
-gem 'font-awesome-sass'
-gem 'mini_racer'
-gem 'mimemagic'
 gem 'devise'
 gem 'bootsnap', '>= 1.4.2', require: false
 
@@ -43,10 +36,6 @@ group :test do
   gem 'capybara', '>= 2.15'
   gem 'selenium-webdriver'
   gem 'webdrivers'
-end
-
-group :production do
-  gem 'rails_serve_static_assets'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

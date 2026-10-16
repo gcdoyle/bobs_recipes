@@ -5,7 +5,8 @@
 	<% if field.data.attached? %>
 	  <%= image_tag field.data, style: "width:320px" %><br />
     <%= f.file_field field.attribute %>
-    <%= link_to "Detach", { action: :detach }, data: { confirm: "Are you sure?" } %>
+    <%= link_to "Detach", { action: :detach, id: f.object.to_param },
+                method: :post, data: { confirm: "Remove this photo?" } %>
   <% else %>
 	  <%= f.file_field field.attribute %>
 	<% end %>
