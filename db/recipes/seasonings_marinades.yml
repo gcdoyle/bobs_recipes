@@ -1,0 +1,330 @@
+# Recipes from "Seasonings & Marinades.txt". Several have no directions in the source.
+recipes:
+  - name: Adobo Seasoning
+    categories: [Seasonings]
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Garlic powder }
+      - { qty: 2, measure: tbsp, ingredient: Onion powder }
+      - { qty: 2, measure: tbsp, ingredient: Oregano, note: dried }
+      - { qty: 2, measure: tbsp, ingredient: Lemon pepper }
+      - { qty: 2, measure: tbsp, ingredient: Parsley flakes }
+      - { qty: 2, measure: tbsp, ingredient: Achiote powder, note: from annatto seed }
+      - { qty: 1, measure: tbsp, ingredient: Ground cumin }
+    directions:
+      - Combine all ingredients.
+
+  - name: Adobo Seasoning with Salt
+    categories: [Seasonings]
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Lemon pepper }
+      - { qty: 1, measure: tbsp, ingredient: Garlic powder }
+      - { qty: 1, measure: tbsp, ingredient: Onion powder, note: or onion flakes }
+      - { qty: 1, measure: tbsp, ingredient: Oregano, note: dried }
+      - { qty: 1, measure: tbsp, ingredient: Parsley flakes, note: dried }
+      - { qty: 1, measure: tbsp, ingredient: Achiote powder }
+      - { qty: "1/2", measure: tbsp, ingredient: Ground cumin }
+      - { qty: 1, measure: tbsp, ingredient: Salt }
+    directions:
+      - Combine all ingredients.
+
+  - name: Achiote Oil
+    categories: [Seasonings]
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Olive oil }
+      - { qty: 2, measure: tbsp, ingredient: Annatto seeds, note: achiote seeds }
+    directions:
+      - Heat the oil and annatto seeds in a small skillet over medium heat just until the seeds give off a lively, steady sizzle. Don't overheat the mixture or the seeds will turn black and the oil will turn a nasty green.
+      - Once they're sizzling, remove the pan from the heat and let stand until the sizzling stops. Strain and reserve in a jar with a tight-fitting lid at room temperature for up to 4 days.
+    notes:
+      - "Cook's note: achiote seeds are a deep orange seed with a nutty flavor. They are available in many supermarkets and almost all Latin markets."
+
+  - name: Classic BBQ Rub
+    categories: [Seasonings]
+    description:
+      - Makes 1/2 to 2/3 cup.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Smoked paprika }
+      - { qty: 2, measure: tbsp, ingredient: Kosher salt }
+      - { qty: 3, measure: tbsp, ingredient: Sugar }
+      - { qty: 2, measure: tbsp, ingredient: Brown sugar }
+      - { qty: 1, measure: tbsp, ingredient: Ground cumin }
+      - { qty: 2, measure: tsp, ingredient: Chili powder }
+      - { qty: 1, measure: tbsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 1, measure: tbsp, ingredient: Onion powder }
+      - { qty: 1, measure: tbsp, ingredient: Garlic powder }
+      - { qty: 1, measure: tbsp, ingredient: Dry mustard }
+      - { qty: 1, measure: tsp, ingredient: Oregano, note: crushed }
+    directions:
+      - Put all ingredients into a food processor. Mix on high for 15 pulses.
+
+  - name: Quickie Rub
+    categories: [Seasonings]
+    ingredients:
+      - { qty: 3, measure: part, ingredient: Brown sugar }
+      - { qty: 1, measure: part, ingredient: Kosher salt }
+      - { qty: 1, measure: part, ingredient: Cajun seasoning }
+      - { qty: 1, measure: part, ingredient: Old Bay seasoning }
+      - { qty: 1, measure: part, ingredient: Paprika }
+      - { qty: "1/4", measure: part, ingredient: Ground cumin }
+    directions:
+      - Combine all ingredients.
+
+  - name: BBQ Chicken Seasoning
+    categories: [Seasonings, Marinades]
+    description:
+      - A honey-salt brine followed by a curry, chili and cocoa spice coating for a whole cut-up chicken.
+    ingredients:
+      - { qty: 1, ingredient: Chicken, note: "4 to 5-pound broiler fryer, cut into pieces" }
+      - { qty: 1, measure: qt, ingredient: Water }
+      - { qty: "1/2", measure: cup, ingredient: Honey }
+      - { qty: "3 1/2", measure: oz, ingredient: Kosher salt, note: approximately 3/4 cup }
+      - { qty: 1, measure: tbsp, ingredient: Curry powder }
+      - { qty: 1, measure: tbsp, ingredient: Chili powder }
+      - { qty: 2, measure: tsp, ingredient: Cocoa powder }
+      - { qty: 1, measure: tsp, ingredient: Adobo seasoning, note: without pepper }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: 1, measure: tsp, ingredient: Smoked paprika, note: hot }
+    directions:
+      - Put the chicken pieces in a 1-gallon resealable plastic bag with the water, honey, and salt. Seal the bag and move around vigorously for 1 to 2 minutes to distribute the honey and dissolve the salt. Set the bag in a leak-proof container and refrigerate for 1 1/2 hours.
+      - Meanwhile, combine the curry powder, chili powder, cocoa powder, adobo powder, cumin, and hot smoked paprika in a 1-gallon resealable bag.
+      - Pat the chicken with paper towels until very dry. Do not rinse.
+      - Put the chicken in the bag with the spice mixture and shake to thoroughly coat the chicken. Lay the pieces on a cooling rack set inside a half sheet pan. Rest for 30 minutes.
+
+  - name: Brine for Smoking Fish
+    categories: [Marinades]
+    ingredients:
+      - { qty: "1/2", ingredient: Onion, note: "large, chopped" }
+      - { qty: 5, measure: clove, ingredient: Garlic }
+      - { qty: "1/4", measure: cup, ingredient: Kosher salt }
+      - { qty: "1/4", measure: cup, ingredient: Brown sugar }
+      - { qty: "1/2", ingredient: Hot pepper, note: seeded }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil }
+      - { qty: 2, measure: tbsp, ingredient: Mustard, note: brown }
+      - { qty: 2, measure: cup, ingredient: Water }
+
+  - name: Crawfish Boil Seasoning
+    categories: [Seasonings]
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Black peppercorns, note: whole }
+      - { qty: 1, measure: tbsp, ingredient: Coriander seeds, note: whole }
+      - { qty: 2, measure: tbsp, ingredient: Clove, note: whole }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Allspice, note: whole }
+      - { qty: 5, measure: gal, ingredient: Water }
+      - { qty: 1, measure: lb, ingredient: Kosher salt }
+      - { qty: 4, measure: tbsp, ingredient: Cayenne pepper }
+      - { qty: 2, measure: tbsp, ingredient: Garlic powder }
+      - { qty: 2, measure: tbsp, ingredient: Paprika }
+      - { qty: 1, measure: tbsp, ingredient: Onion powder }
+      - { qty: 1, measure: tbsp, ingredient: Dried thyme }
+      - { qty: 1, measure: tbsp, ingredient: Oregano, note: dried }
+      - { qty: 1, measure: tbsp, ingredient: Dry mustard }
+      - { qty: 1, measure: tbsp, ingredient: Dill weed, note: dried }
+      - { qty: 6, ingredient: Bay leaf, note: crumbled }
+
+  - name: Glaze for Chicken Wings
+    categories: [Marinades]
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Soy sauce }
+      - { qty: "1/2", measure: tsp, ingredient: Red pepper flakes }
+      - { qty: 2, measure: tsp, ingredient: Honey }
+      - { qty: 1, measure: can, ingredient: Orange juice concentrate, note: "6-ounce, frozen" }
+      - { qty: 1, measure: tsp, ingredient: Rice vinegar, note: rice wine vinegar }
+      - { qty: 3, measure: tbsp, ingredient: Hoisin sauce }
+    directions:
+      - Combine in a small saucepan and simmer over medium heat to evaporate the water and reduce to a glaze, being careful not to burn.
+      - Toss with prepared wings.
+
+  - name: Bobby Flay's Rib Rub
+    categories: [Seasonings]
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Ancho chili powder }
+      - { qty: "1/4", measure: cup, ingredient: Paprika, note: Spanish }
+      - { qty: "1/4", measure: cup, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/4", measure: cup, ingredient: Dry mustard }
+      - { qty: "1/4", measure: cup, ingredient: Kosher salt }
+      - { qty: "1/4", measure: cup, ingredient: Ground coriander }
+      - { qty: 2, measure: tbsp, ingredient: Oregano, note: dried }
+      - { qty: 2, measure: tbsp, ingredient: Ground cumin }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Chile de arbol, note: ground }
+
+  - name: Anne Burrell's Rib Rub
+    categories: [Seasonings]
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Pimenton }
+      - { qty: "1/4", measure: cup, ingredient: Kosher salt }
+      - { qty: "1/4", measure: cup, ingredient: Celery salt }
+      - { qty: "1/2", measure: cup, ingredient: Brown sugar }
+      - { qty: "1/2", measure: cup, ingredient: Granulated garlic }
+      - { qty: 2, measure: tbsp, ingredient: Cayenne pepper }
+      - { qty: 2, measure: tbsp, ingredient: Cumin seeds, note: "whole, toasted and ground" }
+      - { qty: 2, measure: tbsp, ingredient: Coriander seeds, note: "whole, toasted and ground" }
+      - { qty: 2, measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: 1, measure: tbsp, ingredient: Dry mustard }
+
+  - name: Bob's Rub
+    categories: [Seasonings]
+    ingredients:
+      - { qty: 4, measure: tbsp, ingredient: Brown sugar }
+      - { qty: 2, measure: tbsp, ingredient: Paprika }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Kosher salt }
+      - { qty: 1, measure: tsp, ingredient: Chili powder }
+      - { qty: 1, measure: tsp, ingredient: Dry mustard }
+      - { qty: 1, measure: tsp, ingredient: Granulated garlic }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: 1, measure: tsp, ingredient: Old Bay seasoning }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+
+  - name: Brine for Turkey
+    categories: [Marinades]
+    ingredients:
+      - { qty: 2, measure: gal, ingredient: Water }
+      - { qty: "1 1/4", measure: cup, ingredient: Brown sugar }
+      - { qty: "1 1/4", measure: cup, ingredient: Kosher salt }
+      - { qty: 5, ingredient: Bay leaf }
+      - { qty: 4, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 1, measure: tbsp, ingredient: Black peppercorns, note: 1 to 1 1/2 tablespoons }
+      - { qty: 5, ingredient: Allspice, note: berries }
+      - { qty: 4, ingredient: Clove, note: whole }
+    directions:
+      - Bring the mixture to a boil, then let cool completely in the refrigerator or an ice chest.
+      - When cold (to avoid salmonella), immerse the turkey for 6 to 8 hours, keeping the brining vessel cold in the refrigerator or an ice chest filled with ice and water.
+      - Remove, rinse and pat dry.
+
+  - name: Emeril's Essence Creole Seasoning
+    categories: [Seasonings]
+    description:
+      - Also referred to as Bayou Blast.
+    ingredients:
+      - { qty: "2 1/2", measure: tbsp, ingredient: Paprika }
+      - { qty: 2, measure: tbsp, ingredient: Salt }
+      - { qty: 2, measure: tbsp, ingredient: Garlic powder }
+      - { qty: 1, measure: tbsp, ingredient: Black pepper }
+      - { qty: 1, measure: tbsp, ingredient: Onion powder }
+      - { qty: 1, measure: tbsp, ingredient: Cayenne pepper }
+      - { qty: 1, measure: tbsp, ingredient: Oregano, note: dried }
+      - { qty: 1, measure: tbsp, ingredient: Dried thyme }
+    directions:
+      - Combine all ingredients.
+
+  - name: Pickling Spice Pickles
+    categories: [Marinades]
+    ingredients:
+      - { qty: 4, measure: cup, ingredient: White wine vinegar }
+      - { qty: 2, measure: tbsp, ingredient: Sugar }
+      - { qty: "1/2", measure: tsp, ingredient: Red pepper flakes }
+      - { qty: 1, measure: tsp, ingredient: White peppercorns }
+      - { qty: 1, measure: tsp, ingredient: Coriander seeds }
+      - { qty: 1, measure: tsp, ingredient: Mustard seed }
+      - { qty: "1/2", measure: tsp, ingredient: Fennel seed }
+      - { qty: "1/2", measure: tsp, ingredient: Cumin seeds }
+      - { qty: 2, measure: tbsp, ingredient: Kosher salt }
+      - { qty: 3, measure: tbsp, ingredient: Dill, note: "fresh, coarsely chopped" }
+      - { qty: 3, measure: tbsp, ingredient: Cilantro, note: "fresh leaves, coarsely chopped" }
+      - { qty: 6, ingredient: Cucumber, note: "kirby, washed and sliced crosswise 1/2 inch thick" }
+    directions:
+      - Combine the first 9 ingredients in a medium saucepan and bring to a boil. Let boil for 2 minutes, remove from the heat and let sit until cooled to room temperature. Add the dill and cilantro.
+      - Place the cucumbers into a large Mason jar, pour the cooled vinegar mixture over them, cover and refrigerate for at least 24 hours or up to 4 days.
+
+  - name: Pickling Solution
+    categories: [Marinades]
+    description:
+      - For okra, cauliflower, and bread and butter pickles.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Sugar }
+      - { qty: 3, measure: cup, ingredient: Water }
+      - { qty: 1, ingredient: Vinegar, note: "unit missing in the original (probably 1 cup)" }
+      - { qty: 3, measure: tbsp, ingredient: Pickling spice, note: "mustard, coriander and dill seed, laurel, chiles, allspice, cloves, bay" }
+      - { ingredient: Garlic }
+      - { ingredient: Turmeric }
+    directions:
+      - Simmer to dissolve the sugar.
+
+  - name: Rub for Ribeye Steaks
+    categories: [Seasonings, Beef]
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Salt }
+      - { qty: 2, measure: tbsp, ingredient: Brown sugar }
+      - { qty: 1, measure: tsp, ingredient: Red pepper flakes, note: pulverized }
+      - { qty: 2, measure: tsp, ingredient: Pimenton, note: smoked Spanish paprika }
+      - { qty: 1, measure: tsp, ingredient: Garlic powder }
+      - { ingredient: Vegetable oil, note: for brushing the grill }
+    directions:
+      - Rub the steaks and marinate for 24 hours to 3 days in the refrigerator.
+
+  - name: Dry Rub and Dark Beer Mop for Beef
+    categories: [Seasonings, Marinades, Beef]
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Ancho chili powder, note: for the rub }
+      - { qty: 2, measure: tbsp, ingredient: Paprika, note: for the rub }
+      - { qty: 1, measure: tbsp, ingredient: Ground cumin, note: for the rub }
+      - { qty: 1, measure: tbsp, ingredient: Dry mustard, note: for the rub }
+      - { qty: 1, measure: tbsp, ingredient: Kosher salt, note: for the rub }
+      - { qty: 2, measure: tsp, ingredient: Cayenne pepper, note: for the rub }
+      - { qty: 1, ingredient: Red onion, note: "large, for the mop" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: for the mop }
+      - { qty: 2, ingredient: Serrano pepper, note: "chopped, for the mop" }
+      - { qty: 4, measure: bottle, ingredient: Beer, note: "dark, for the mop" }
+      - { qty: "1/4", measure: cup, ingredient: Dark brown sugar, note: for the mop }
+      - { qty: 2, ingredient: Bay leaf, note: for the mop }
+      - { ingredient: Salt, note: to taste }
+      - { ingredient: Black pepper, note: "freshly ground, to taste" }
+    directions:
+      - "For the rub: combine the ancho chili powder, paprika, cumin, mustard, salt and cayenne."
+      - "For the mop: place all the mop ingredients in a medium saucepan, season with salt and pepper and cook over medium heat for 15 minutes. Remove from the heat and let cool slightly."
+
+  - name: Rub for Steaks or Grilled Onions
+    categories: [Seasonings]
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Paprika }
+      - { qty: 1, measure: tbsp, ingredient: Ancho chili powder }
+      - { qty: 2, measure: tsp, ingredient: Ground cumin }
+      - { qty: 2, measure: tsp, ingredient: Ground coriander }
+      - { qty: 2, measure: tsp, ingredient: Kosher salt }
+      - { qty: 1, measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 1, measure: tsp, ingredient: Dry mustard }
+      - { qty: 1, measure: tsp, ingredient: Oregano, note: dried }
+      - { qty: 1, measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 4, ingredient: Vidalia onion, note: "peeled and sliced 1/4 inch thick" }
+      - { ingredient: Canola oil }
+    directions:
+      - Heat the grill to high.
+      - Whisk together all the spices in a small bowl until combined. Brush the onions with oil on both sides. Rub 1 side of each onion with some of the spice mixture and place rub side down on the grill. Grill until golden brown and a crust has formed. Turn the onions over and continue grilling until just cooked through.
+      - For steaks, rub the steaks with oil and the spice rub before grilling.
+
+  - name: Jerk Rub
+    categories: [Seasonings]
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Ground coriander }
+      - { qty: 3, measure: tbsp, ingredient: Ground ginger }
+      - { qty: 3, measure: tbsp, ingredient: Light brown sugar }
+      - { qty: 2, measure: tbsp, ingredient: Onion powder }
+      - { qty: 2, measure: tbsp, ingredient: Garlic powder }
+      - { qty: 2, measure: tbsp, ingredient: Kosher salt }
+      - { qty: 2, measure: tbsp, ingredient: Habanero powder }
+      - { qty: 1, measure: tbsp, ingredient: Dried thyme }
+      - { qty: 2, measure: tsp, ingredient: Black pepper, note: coarse }
+      - { qty: 2, measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: 2, measure: tsp, ingredient: Allspice, note: ground }
+      - { qty: 2, measure: tsp, ingredient: Clove, note: ground }
+    directions:
+      - Combine all ingredients.
+
+  - name: Sofrito
+    categories: [Seasonings]
+    description:
+      - Keeps in the refrigerator for up to 3 days, and freezes beautifully.
+    ingredients:
+      - { qty: 2, ingredient: Onion, note: "medium Spanish onions (about 12 ounces), cut into large chunks" }
+      - { qty: 3, ingredient: Cubanelle pepper, note: "3 to 4, or Italian frying peppers; cored, seeded and cut into large chunks" }
+      - { qty: 16, measure: clove, ingredient: Garlic, note: "16 to 20, peeled" }
+      - { qty: 1, measure: bunch, ingredient: Cilantro, note: "large, washed" }
+      - { qty: 7, ingredient: Aji dulce, note: "7 to 10, optional" }
+      - { qty: 4, measure: leaf, ingredient: Culantro, note: optional }
+      - { qty: 3, ingredient: Plum tomatoes, note: "3 to 4 ripe (about 1 pound), cored and cut into chunks" }
+      - { qty: 1, ingredient: Red bell pepper, note: "large, cored, seeded and cut into large chunks" }
+    directions:
+      - Chop the onion and Cubanelle or Italian peppers in the work bowl of a food processor until coarsely chopped. With the motor running, add the remaining ingredients 1 at a time and process until smooth.
+    notes:
+      - "Cook's note: ajices dulces are little sweet peppers that look similar to the fiery hot Scotch bonnet or habanero peppers, only smaller. They have a wonderful fresh herbal flavor, almost like cilantro, but only a tiny bit of heat. Culantro is an herb with broad, round-tipped leaves. Its flavor is similar to cilantro, but much more intense. Both are available in Latin markets. If you cannot find them, simply increase the amount of cilantro to 1 1/2 bunches."
