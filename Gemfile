@@ -16,11 +16,8 @@ gem "bootsnap", require: false
 # (ArgumentError on admin requests). Lift once they're updated.
 gem "json", "~> 2.10"
 
-# Admin
-gem "administrate", "~> 0.20.1"
-gem "administrate-field-nested_has_many", "~> 2.1"
-gem "administrate-field-trix"
-gem "trix-rails", require: "trix"
+# Admin (bundles its own jQuery, selectize, Trix, Turbo and Stimulus)
+gem "administrate", "~> 1.0"
 
 gem "devise", "~> 4.9"
 gem "friendly_id", "~> 5.5"

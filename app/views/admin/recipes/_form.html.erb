@@ -1,11 +1,11 @@
-<%= form_for([namespace, page.resource], html: { id: "recipe-form", class: "form" }) do |f| %>
+<%= form_with(model: page.resource, url: [namespace, page.resource], scope: page.resource, local: true, id: "recipe-form", class: "form") do |f| %>
   <% if page.resource.errors.any? %>
     <div id="error_explanation">
       <h2>
         <%= t(
           "administrate.form.errors",
           pluralized_errors: pluralize(page.resource.errors.count, t("administrate.form.error")),
-          resource_name: display_resource_name(page.resource_name).singularize
+          resource_name: display_resource_name(page.resource_name, singular: true)
         ) %>
       </h2>
 
@@ -17,43 +17,28 @@
     </div>
   <% end %>
 
-<nav>
-  <div class="nav nav-tabs mb-4" id="nav-tab" role="tablist">
-  <% @tab_names.each do |tabname| %>
-    <%= link_to "#{tabname.humanize}", 
-                "##{tabname}-tab", 
-                  { :'class' => "nav-item nav-link", 
-                    :'id' => "nav-#{tabname}-tab",
-                    :'data-toggle' => "tab",
-                    :'role' => "tab",
-                    :'aria-controls' => "nav-#{tabname}",
-                    :'aria-selected' => "true" }
-                  %>
-  <% end %>
-</div>
-</nav>
-<div class="tab-content" id="nav-tabContent">
+  <% attributes = page.attributes(controller.action_name).values.flatten.index_by(&:name) %>
 
-  <% @tab_content.each do |tab, fields| %>
-    <div class="tab-pane fade show<%= " active" if tab == "recipe" %>" id=<%= "#{tab}-tab" %> role="tabpanel" aria-labelledby=<%= "nav-#{tab}-tab" %>>
+  <nav class="nav nav-tabs" role="tablist">
+    <% @tab_names.each_with_index do |tab, i| %>
+      <a href="#<%= tab %>-tab" role="tab" data-admin-tab="<%= tab %>-tab"
+         class="nav-item nav-link<%= " active" if i.zero? %>"><%= tab.humanize %></a>
+    <% end %>
+  </nav>
 
-      <% page.attributes(controller.action_name).values.flatten.each do |attribute| %>
-          <% fields.each do |field| %>
-            <% if attribute.name == field %>
-              <div class="field-unit field-unit--<%= attribute.html_class %> field-unit--<%= requireness(attribute) %>">
-                <%= render_field attribute, f: f %>
-              </div>
-            <% end %>
-          <% end %>
-      <% end %>
+  <div class="tab-content">
+    <% @tab_content.each_with_index do |(tab, fields), i| %>
+      <div class="tab-pane<%= " active" if i.zero? %>" id="<%= tab %>-tab" role="tabpanel">
+        <% fields.filter_map { |name| attributes[name] }.each do |attribute| %>
+          <div class="field-unit field-unit--<%= attribute.html_class %> field-unit--<%= requireness(attribute) %>">
+            <%= render_field attribute, f: f %>
+          </div>
+        <% end %>
+      </div>
+    <% end %>
+  </div>
 
-    </div>
-  <% end %>
-
-</div>
-
-<div class="form-actions">
-  <%= f.submit %>
-</div>
-
+  <div class="form-actions">
+    <%= f.submit %>
+  </div>
 <% end %>

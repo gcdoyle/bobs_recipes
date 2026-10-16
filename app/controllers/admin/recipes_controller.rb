@@ -12,14 +12,12 @@ module Admin
       @tab_content["categories"] = ["categories"]
     end
 
-    def resource_params
-      params.require(resource_class.model_name.param_key).
-        permit(dashboard.permitted_attributes << :ingredient_id).
-        transform_values { |v| read_param_value(v) }
+    def default_sorting_attribute
+      :updated_at
     end
 
-    def default_sort
-      { order: :updated_at, direction: :desc }
+    def default_sorting_direction
+      :desc
     end
 
   end

@@ -9,16 +9,13 @@ module Admin
     before_action :authenticate_user!
     before_action :authenticate_admin
 
-    def order
-      @order ||= Administrate::Order.new(
-        params.fetch(resource_name, {}).fetch(:order, default_sort[:order]),
-        params.fetch(resource_name, {}).fetch(:direction, default_sort[:direction]),
-      )
+    # Index pages sort by name unless a controller says otherwise.
+    def default_sorting_attribute
+      :name
     end
 
-    # override this in specific controllers as needed
-    def default_sort
-      { order: :name, direction: :asc }
+    def default_sorting_direction
+      :asc
     end
 
     def authenticate_admin

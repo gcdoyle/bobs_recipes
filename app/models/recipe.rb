@@ -10,9 +10,10 @@ class Recipe < ApplicationRecord
   has_rich_text :description
   has_rich_text :directions
 
+  # A new row with no ingredient picked is an unused blank row; skip it.
   accepts_nested_attributes_for(
     :recipe_ingredients,
-    reject_if: :all_blank,
+    reject_if: ->(attrs) { attrs["id"].blank? && attrs["ingredient_id"].blank? },
     allow_destroy: true
   )
   

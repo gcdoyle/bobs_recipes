@@ -9,9 +9,9 @@ class RecipeDashboard < Administrate::BaseDashboard
   # on pages throughout the dashboard.
   ATTRIBUTE_TYPES = {
     slug: Field::String,
-    description: Field::Trix,
+    description: Field::RichText,
     image: PhotoField,
-    recipe_ingredients: Field::NestedHasMany.with_options(skip: :recipe),
+    recipe_ingredients: RecipeIngredientsField,
     categories: Field::HasMany.with_options(
       sort_by: "name"
     ),
@@ -26,7 +26,7 @@ class RecipeDashboard < Administrate::BaseDashboard
       suffix: " minutes",
     ),
     servings: Field::Number,
-    directions: Field::Trix,
+    directions: Field::RichText,
   }.freeze
 
   # COLLECTION_ATTRIBUTES
@@ -50,6 +50,7 @@ class RecipeDashboard < Administrate::BaseDashboard
   cooking_time
   prep_time
   servings
+  recipe_ingredients
   directions
   categories
   ].freeze
@@ -87,9 +88,5 @@ class RecipeDashboard < Administrate::BaseDashboard
   #
   def display_resource(recipe)
     recipe.name
-  end
-
-  def permitted_attributes
-    super + [:ingredient_id, recipe_ingredient_attributes: [:qty, :id, :ingredient_id, :recipe_id]]
   end
 end
