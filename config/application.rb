@@ -9,7 +9,7 @@ Bundler.require(*Rails.groups)
 module Recipes
   class Application < Rails::Application
     # Initialize configuration defaults for originally generated Rails version.
-    config.load_defaults 7.2
+    config.load_defaults 8.1
 
     # Keep the pre-7.0 key generator digest so existing sessions and the
     # signed IDs embedded in rich-text attachments keep working.

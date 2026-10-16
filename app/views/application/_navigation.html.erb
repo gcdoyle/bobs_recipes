@@ -1,18 +1,18 @@
 <div class="nav navbar nav-fill" style="background-color: #32396C">
   <div class="container">
   <!-- 
-    <div class="btn-group ml-2 dropdown nav-item">
+    <div class="btn-group ms-2 dropdown nav-item">
       <%# link_to "Recipes", recipes_path, style: "color:white;font-size:150%" %>
     </div>
   -->
-    <div class="btn-group ml-2 dropdown nav-item">
+    <div class="btn-group ms-2 dropdown nav-item">
       <%= link_to "CookBook 2.0", categories_path, style: "color:white;font-size:150%" %>
     </div>
-    <div class="btn-group ml-2 dropdown nav-item">
+    <div class="btn-group ms-2 dropdown nav-item">
       <%= link_to "Admin", admin_recipes_url, style: "color:white;font-size:150%" %>
     </div>
     <% if current_user %>
-    <div class="btn-group ml-2 dropdown nav-item">
+    <div class="btn-group ms-2 dropdown nav-item">
     <%= button_to "Sign out", destroy_user_session_path, method: :delete %>
     </div>
     <% end %>

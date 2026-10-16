@@ -2,11 +2,10 @@ source "https://rubygems.org"
 
 ruby "~> 3.4.0"
 
-gem "rails", "~> 7.2.0"
-gem "sprockets-rails"
+gem "rails", "~> 8.1.0"
+gem "propshaft"
 gem "pg", "~> 1.5"
 gem "puma", ">= 6.0"
-gem "sass-rails", ">= 6"
 gem "jbuilder"
 gem "image_processing", "~> 1.2"
 gem "mini_magick"
@@ -19,16 +18,8 @@ gem "json", "~> 2.10"
 # Admin (bundles its own jQuery, selectize, Trix, Turbo and Stimulus)
 gem "administrate", "~> 1.0"
 
-gem "devise", "~> 4.9"
+gem "devise", "~> 5.0"
 gem "friendly_id", "~> 5.5"
-gem "bootstrap", "~> 4.6.2"
-gem "popper_js", "~> 1.16.0"
-
-group :production do
-  # Bootstrap 4 runs autoprefixer during assets:precompile, which needs a
-  # JavaScript runtime. macOS has one built in; Linux servers don't.
-  gem "mini_racer"
-end
 
 group :development, :test do
   gem "debug", platforms: %i[mri windows]
@@ -40,7 +31,7 @@ group :development do
 end
 
 group :test do
-  # Rails 7.2's test runner doesn't support Minitest 6.
+  # Keep Minitest 5 until Rails' test runner is confirmed on Minitest 6.
   gem "minitest", "~> 5.25"
   gem "capybara"
   gem "selenium-webdriver"

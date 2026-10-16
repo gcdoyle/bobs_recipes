@@ -8,6 +8,12 @@ class PublicPagesTest < ActionDispatch::IntegrationTest
     assert_select "h4 a", text: "chris", count: 0
   end
 
+  test "layout loads Bootstrap and the site stylesheet" do
+    get root_path
+    assert_select "link[rel=stylesheet][href*='bootstrap.min']"
+    assert_select "link[rel=stylesheet][href*='recipes']"
+  end
+
   test "category page lists its recipes" do
     get category_path(categories(:soups))
     assert_response :success
