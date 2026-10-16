@@ -6,9 +6,11 @@
     <div class="col col-4 text-center">
       <%= image_tag @recipe.image.variant(resize_to_limit: [320, 320]) if @recipe.image.attached? %>
       <p>
-        <%= "Prep: #{@recipe.prep_time } min | " if @recipe.prep_time.present? %>
-        <%= "Cook: #{@recipe.cooking_time} min | " if @recipe.cooking_time.present? %>
-        <%= "Servings: #{@recipe.servings} " if @recipe.servings.present? %>
+        <%= [
+          ("Prep: #{@recipe.prep_time} min" if @recipe.prep_time.present?),
+          ("Cook: #{@recipe.cooking_time} min" if @recipe.cooking_time.present?),
+          ("Servings: #{@recipe.servings}" if @recipe.servings.present?)
+        ].compact.join(" | ") %>
       </p>
     </div>
     <div class="col-7">
@@ -22,15 +24,11 @@
       <ul class="list-unstyled">
       <% @recipe.recipe_ingredients.includes(:ingredient).each do |ingredient| %>
         <li>
-          <%= "#{format_qty(ingredient.qty)} #{ingredient.measure}" %>
-        <% if ingredient.ingredient.url.present? %>
-          <%= link_to ingredient.ingredient.name, ingredient.ingredient.url %>
-        <% else %>
-          <%=  ingredient.ingredient.name %>
-        <% end %>
-          <%= ", #{ingredient.note}" if ingredient.note.present? %>
+          <%= "#{format_qty(ingredient.qty)} #{ingredient.measure}".strip %>
+          <%= ingredient.ingredient.url.present? ? link_to(ingredient.ingredient.name, ingredient.ingredient.url) : ingredient.ingredient.name %><%= ", #{ingredient.note}" if ingredient.note.present? %>
         </li>
       <% end %>
+      </ul>
     </div>
 
     <div class="col col-8">
