@@ -1,0 +1,463 @@
+# Recipes from "Seafood and Fish.txt", part 1.
+recipes:
+  - name: Rouille
+    categories: [Sauces]
+    description:
+      - Recipe courtesy Alton Brown, 2011. For Bouillabaisse.
+    ingredients:
+      - { qty: 1, ingredient: Red bell pepper, note: large }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: "large, peeled" }
+      - { qty: 1, ingredient: Red chile, note: "fresh, stem removed and seeded" }
+      - { qty: 1, measure: tsp, ingredient: Lemon juice, note: freshly squeezed }
+      - { qty: "1/4", measure: tsp, ingredient: Sea salt, note: coarse }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil }
+    directions:
+      - Char the bell pepper over a gas burner on high, turning every few minutes, until the skin is thoroughly blackened. Cover in a metal bowl with a spare lid and cool 5 minutes. Rub off the skin with a clean towel and discard it with the stem and seeds.
+      - Process the pepper, garlic, chile, lemon juice and salt in a mini food processor until smooth, 1 to 2 minutes, scraping down once or twice. With the machine running, slowly drizzle in the olive oil until thick.
+
+  - name: Bouillabaisse
+    categories: [Seafood, Stews]
+    prep_time: 40
+    cooking_time: 75
+    servings: 6
+    description:
+      - Recipe courtesy Alton Brown, 2011. Serves 6 to 8. Serve with Rouille (its own recipe), if you like.
+      - "Inactive prep: 5 minutes."
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Fish, note: "raw heads, bones and tail, plus the lobster tail shell, for the stock" }
+      - { qty: 4, ingredient: Bay leaf, note: "whole fresh, for the stock" }
+      - { qty: 1, measure: tsp, ingredient: Sea salt, note: "coarse, for the stock" }
+      - { qty: "1/2", measure: tsp, ingredient: Black peppercorns, note: "whole, for the stock" }
+      - { qty: 6, measure: cup, ingredient: Water, note: for the stock }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: divided }
+      - { qty: 6, measure: oz, ingredient: Onion, note: coarsely chopped }
+      - { qty: 3, measure: oz, ingredient: Fennel, note: "bulb, coarsely chopped" }
+      - { qty: 1, measure: tsp, ingredient: Sea salt, note: "coarse, divided" }
+      - { qty: "1/2", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: "14 1/2-ounce, undrained" }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "fresh flat-leaf, chopped" }
+      - { qty: 1, measure: piece, ingredient: Orange, note: "3-inch piece of peel, optional" }
+      - { qty: "1/16", measure: tsp, ingredient: Saffron }
+      - { qty: 8, measure: oz, ingredient: White fish, note: "firm fillets such as farmed cobia or wild striped bass, skin and bones removed, 1-inch pieces, room temperature" }
+      - { qty: 8, measure: oz, ingredient: Halibut, note: "or other flaky fillets such as black cod or black rockfish, skin and bones removed, 1-inch pieces, room temperature" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: crushed }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 8, measure: oz, ingredient: Mussel, note: "cleaned and beards trimmed, room temperature" }
+      - { qty: 1, ingredient: Lobster, note: "large raw tail, shelled, meat cut into 1-inch pieces, room temperature" }
+      - { qty: 1, ingredient: Baguette, note: sliced }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: "cut in half, for the toasts" }
+      - { ingredient: Rouille, note: optional }
+    directions:
+      - "For the fish stock: rinse the fish heads and put them in a tall 6-quart pot with the tails, bones, lobster shell, bay leaves, 1 teaspoon salt, peppercorns and water. Cover and bring to a boil over high heat, then hold at a bare simmer 25 minutes. Strain and set aside."
+      - "For the stew: heat 1/4 cup olive oil in a clean 6-quart pot over medium heat. Saute the onions, fennel and 1/2 teaspoon salt until semi-translucent, about 10 minutes, stirring often. Deglaze with the wine, scraping the bottom."
+      - Add the stock, tomatoes, parsley, orange peel and saffron. Cover, bring to a boil over high heat and simmer 15 minutes.
+      - Raise the heat to high and add the remaining 1/4 cup oil, the remaining 1/2 teaspoon salt, the fish, garlic and cayenne. Boil rapidly, uncovered, 5 to 7 minutes, stirring occasionally.
+      - Off the heat, add the mussels and lobster, cover and let stand until the fish is cooked and the mussels open, 2 to 4 minutes. Discard any that don't open.
+      - "To serve: heat the broiler to high. Rub the baguette slices on both sides with the cut garlic and broil 1 inch from the heat 1 to 2 minutes per side. Top with rouille, if you like, and serve with the stew."
+
+  - name: Catfish au Lait
+    categories: [Seafood]
+    description:
+      - Poached catfish. Recipe courtesy Alton Brown.
+    ingredients:
+      - { qty: 1, measure: can, ingredient: Evaporated milk, note: 12-ounce }
+      - { qty: 1, measure: tsp, ingredient: Old Bay seasoning, note: crab boil seasoning }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1 1/2", measure: tsp, ingredient: Kosher salt }
+      - { qty: "1/2", ingredient: Onion, note: thinly sliced }
+      - { qty: 4, ingredient: Catfish, note: 3 to 4 fillets }
+    directions:
+      - Combine the milk, seasoning, pepper, salt and onion in an electric skillet, cover and bring to a simmer. Add the catfish and spoon some liquid over the fillets.
+      - Reduce the heat to low, around 140 to 145 degrees F, cover and poach 6 to 9 minutes.
+
+  - name: Ahi Poke
+    categories: [Seafood, Asian]
+    prep_time: 10
+    servings: 4
+    description:
+      - Bob's "tuna ceviche". Recipe courtesy Anne Burrell.
+      - "Inactive prep: 30 minutes."
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Soy sauce, note: 1/4 to 1/2 cup }
+      - { qty: "1/2", measure: tbsp, ingredient: Sambal oelek }
+      - { qty: 1, measure: tsp, ingredient: Sesame oil }
+      - { qty: 3, ingredient: Green onion, note: "whites and greens separated, sliced thinly on the bias" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { qty: 1, measure: piece, ingredient: Ginger, note: "1/2-inch piece, peeled and grated" }
+      - { qty: "1/2", ingredient: White onion, note: "such as Maui onion, julienned" }
+      - { qty: 1, measure: lb, ingredient: Tuna, note: "ahi, cut into 1/2-inch chunks" }
+      - { qty: 2, measure: tbsp, ingredient: Macadamia nut, note: "dry-roasted, chopped" }
+    directions:
+      - Combine the soy sauce, sambal, sesame oil, scallion whites, garlic, ginger and onion in a medium bowl. Toss in the tuna and refrigerate 30 minutes.
+      - Stir in the macadamia nuts, plate as you like and garnish with the scallion greens.
+
+  - name: Halibut in Cartoccio
+    categories: [Seafood]
+    servings: 4
+    description:
+      - Fish baked in parchment. Recipe courtesy Anne Burrell. Bob filed it as "Baked Fish (Catfish Filets)"; the recipe calls for halibut. Let each diner open their own packet for the burst of aromatic steam.
+      - "Special equipment: parchment paper."
+    ingredients:
+      - { qty: 2, ingredient: Zucchini, note: "green part only, julienned" }
+      - { qty: 1, ingredient: Butternut squash, note: "small, top part only, peeled and julienned" }
+      - { qty: 1, measure: pt, ingredient: Brussels sprouts, note: leaves pulled apart }
+      - { qty: 1, ingredient: Leek, note: "large, julienned" }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, measure: tbsp, ingredient: Thyme, note: picked leaves }
+      - { ingredient: Kosher salt }
+      - { qty: 4, ingredient: Halibut, note: 6-ounce fillets }
+      - { qty: 4, measure: slice, ingredient: Lemon }
+      - { qty: 2, measure: cup, ingredient: White wine, note: dry }
+    directions:
+      - Fold 4 (9 by 13-inch) sheets of parchment in half and cut a large half circle from the fold so each opens into a full circle (a heart shape is even better).
+      - Toss the vegetables generously with olive oil and season with the thyme and salt. Oil and salt the halibut.
+      - Preheat the oven to 500 degrees F. Open the parchment and brush with oil, leaving a 1-inch border.
+      - Divide the vegetables among the papers just above the crease, lay the fish on top and add a lemon slice. Fold the paper over and crimp the edges from one end to the other to seal very securely. Before closing completely, add 1/2 cup wine to each, then seal.
+      - Bake 8 to 9 minutes and serve immediately.
+
+  - name: Herb and Potato Flake Crust for Fish
+    categories: [Seafood]
+    description:
+      - Breading for fish fillets or scallops. Cooking directions aren't in the file.
+    ingredients:
+      - { ingredient: Kosher salt }
+      - { qty: "1/2", measure: bunch, ingredient: Thyme, note: leaves chopped }
+      - { qty: "1/2", measure: bunch, ingredient: Chives, note: minced }
+      - { qty: 4, measure: sprig, ingredient: Parsley, note: "flat-leaf, leaves finely chopped" }
+      - { qty: 1, measure: cup, ingredient: Potato flakes, note: "heaping, instant mashed" }
+      - { qty: 1, ingredient: Egg, note: beaten with 1 tablespoon water }
+      - { ingredient: Olive oil, note: extra-virgin }
+    directions:
+      - Season the fish fillets with salt. Combine the herbs and potato flakes in a shallow dish.
+      - Dip the flesh side of each fillet in the egg wash, then press it into the herb and potato flake mixture. Set on a sheet tray crusted side up.
+
+  - name: Salmon Burgers with Soy Mayo and Simple Sesame Slaw
+    categories: [Seafood, Burgers, Asian]
+    prep_time: 20
+    cooking_time: 10
+    servings: 6
+    description:
+      - Recipe courtesy Emeril Lagasse. The leftover soy glaze keeps indefinitely at room temperature; drizzle it on grilled salmon or tuna.
+    ingredients:
+      - { qty: "2 1/4", measure: lb, ingredient: Salmon fillet, note: "skinned, pin bones removed" }
+      - { qty: "1/2", measure: cup, ingredient: Panko, note: or other dried bread crumbs }
+      - { qty: "1/2", measure: cup, ingredient: Green onion, note: "minced, divided" }
+      - { qty: "1/4", measure: cup, ingredient: Cilantro, note: "fresh leaves, finely chopped, divided" }
+      - { qty: 2, measure: tsp, ingredient: Ginger, note: "fresh, minced" }
+      - { qty: 1, ingredient: Egg, note: lightly beaten }
+      - { qty: 1, measure: tsp, ingredient: Sambal oelek }
+      - { qty: 1, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: tsp, ingredient: Salt, note: divided }
+      - { qty: "1/4", measure: cup, ingredient: Soy sauce, note: plus 1 1/2 teaspoons }
+      - { qty: "1/4", measure: cup, ingredient: Sugar }
+      - { qty: "3/4", measure: cup, ingredient: Mayonnaise }
+      - { qty: 3, measure: cup, ingredient: Red cabbage, note: "purple, shaved" }
+      - { qty: 3, measure: cup, ingredient: Green cabbage, note: shaved }
+      - { qty: "1/2", measure: cup, ingredient: Red onion, note: shaved }
+      - { qty: 6, measure: tbsp, ingredient: Vegetable oil, note: "or peanut oil, 1/4 cup plus 2 tablespoons, divided" }
+      - { qty: 3, measure: tbsp, ingredient: Rice vinegar }
+      - { qty: 2, measure: tsp, ingredient: Sesame oil, note: toasted }
+      - { qty: "1/2", measure: tsp, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 1, measure: tbsp, ingredient: Sesame seeds, note: toasted }
+      - { ingredient: Kosher salt }
+      - { qty: 6, ingredient: Hamburger bun, note: "sesame rolls or other soft buns" }
+    directions:
+      - Cut the salmon into 1-inch pieces and pulse in a food processor until finely chopped, not a paste. Gently mix in the panko, 1/4 cup scallions, 2 tablespoons cilantro, ginger, egg, sambal, garlic, 1/2 teaspoon salt and 1 1/2 teaspoons soy sauce. Shape 6 patties about 4 inches wide and 3/4 inch thick, cover on a parchment-lined sheet and refrigerate.
+      - Cook the remaining soy sauce and the sugar in a very small saucepan until reduced to a syrup that coats a spoon, 2 to 3 minutes. Cool completely, then stir 1 1/2 tablespoons into the mayonnaise and refrigerate.
+      - Toss both cabbages, the remaining scallions, red onion, 1/4 cup oil, vinegar, remaining cilantro, sesame oil, remaining 1/2 teaspoon salt and red pepper. Sprinkle with sesame seeds and refrigerate.
+      - Heat the remaining 2 tablespoons oil in a large skillet over medium-high heat. Season the burgers lightly with kosher salt and cook, turning once, until golden and just cooked through, about 3 1/2 minutes per side.
+      - Serve on warm buns with the soy mayonnaise and sesame slaw.
+
+  - name: Asian Salmon Burgers
+    categories: [Seafood, Burgers, Asian]
+    servings: 4
+    ingredients:
+      - { qty: 1, ingredient: Egg white, note: large }
+      - { qty: 1, measure: tbsp, ingredient: Soy sauce }
+      - { qty: 1, measure: tsp, ingredient: Sesame oil }
+      - { qty: "3/4", measure: lb, ingredient: Salmon fillet, note: "skinless, cut into 1/4-inch dice" }
+      - { qty: "3/4", measure: cup, ingredient: Panko, note: divided }
+      - { qty: "1/4", measure: cup, ingredient: Green onion, note: minced }
+      - { qty: 2, measure: tbsp, ingredient: Vegetable oil }
+    directions:
+      - Preheat the oven to 400 degrees F.
+      - Whisk the egg white, soy sauce and sesame oil in a medium bowl. Mix in the salmon, 1/4 cup panko and the green onions and form 4 equal patties.
+      - Dredge the patties in the remaining panko to coat both sides.
+      - Heat the oil in a large nonstick ovenproof skillet over medium heat. Cook the patties 1 minute, turn, and finish in the oven until medium-rare, about 3 minutes.
+
+  - name: Sesame Mayonnaise
+    categories: [Sauces]
+    description:
+      - For Paula Deen's Salmon Burgers.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Mayonnaise }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: tsp, ingredient: Soy sauce }
+      - { qty: "1/2", measure: tsp, ingredient: Sesame oil }
+    directions:
+      - Combine everything in a small bowl, cover and chill.
+
+  - name: Paula Deen's Salmon Burgers
+    categories: [Seafood, Burgers]
+    prep_time: 15
+    cooking_time: 10
+    servings: 8
+    description:
+      - Recipe courtesy Paula Deen. Uses Sesame Mayonnaise (its own recipe).
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Red bell pepper, note: diced }
+      - { qty: "1/2", measure: cup, ingredient: Yellow bell pepper, note: diced }
+      - { qty: "3/4", measure: cup, ingredient: Panko }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: lb, ingredient: Salmon fillet, note: "skinned and finely chopped" }
+      - { qty: 1, ingredient: Egg, note: "large, lightly beaten" }
+      - { qty: 1, measure: tbsp, ingredient: Soy sauce }
+      - { qty: 1, measure: tsp, ingredient: Lemon juice, note: fresh }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { ingredient: Cooking spray }
+      - { ingredient: Sesame Mayonnaise }
+      - { qty: 8, ingredient: Hamburger bun, note: "sandwich buns, buttered and toasted" }
+      - { qty: 8, measure: leaf, ingredient: Lettuce }
+      - { qty: 8, measure: slice, ingredient: Tomato }
+    directions:
+      - Combine the peppers, panko, garlic and salmon in a medium bowl.
+      - Combine the egg, soy sauce, lemon juice and salt, add to the salmon mixture and toss gently. Form into 8 patties.
+      - Coat a grill pan or skillet with cooking spray and heat over medium-high heat. Cook the patties 5 minutes per side, or to the desired doneness.
+      - Spread the sesame mayonnaise on the toasted buns and top with lettuce, tomato and a salmon patty.
+
+  - name: Calamari "Noodles" with Black Olives and Arugula
+    categories: [Seafood]
+    prep_time: 20
+    cooking_time: 15
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell. 4 appetizer servings.
+    ingredients:
+      - { qty: "3/4", measure: lb, ingredient: Squid, note: "clean calamari, tubes and tentacles (or only tubes)" }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "3 to 4 smashed, plus 1 for rubbing the bread" }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { ingredient: Salt }
+      - { qty: 1, measure: cup, ingredient: White wine, note: dry }
+      - { qty: "1/4", measure: cup, ingredient: Kalamata olive, note: "or gaeta olives, slivered" }
+      - { qty: 4, measure: slice, ingredient: Bread, note: rustic Italian }
+      - { qty: 2, measure: cup, ingredient: Baby arugula, note: washed }
+      - { qty: 2, measure: tbsp, ingredient: Chives, note: "chopped, for garnish" }
+    directions:
+      - Cut the calamari tubes lengthwise into strips about 1/4 inch wide; cut any tentacles into segments.
+      - Coat a large saute pan generously with olive oil, add the smashed garlic and red pepper and bring to high heat. When the garlic is golden and very aromatic, discard it.
+      - Carefully add the calamari, toss in the hot oil, season with salt and saute 1 to 2 minutes, until opaque. Add the wine and olives and cook until the wine reduces by about half. Check the seasoning.
+      - Meanwhile, toast or grill the bread, rub with the remaining garlic clove and drizzle generously with olive oil.
+      - Divide the arugula among 4 bowls and spoon the calamari and juices over. Cut the bread in half on the bias, arrange on top, garnish with chives and serve.
+
+  - name: Braised Calamari Stuffed with Shrimp, Spinach and Herbs
+    categories: [Seafood]
+    prep_time: 15
+    cooking_time: 60
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell.
+    ingredients:
+      - { qty: 11, ingredient: Squid, note: "clean medium calamari tubes, 5 to 6 inches long" }
+      - { qty: "1/2", measure: lb, ingredient: Shrimp, note: "medium, peeled and deveined, roughly chopped" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: "smashed and coarsely chopped, for the stuffing" }
+      - { qty: 2, measure: cup, ingredient: Baby spinach, note: coarsely chopped }
+      - { qty: 2, ingredient: Egg }
+      - { qty: "3/4", measure: cup, ingredient: Bread crumbs, note: 1/2 to 3/4 cup }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: "Parmigiano-Reggiano, grated" }
+      - { qty: "1/2", measure: bunch, ingredient: Oregano, note: "fresh, leaves chopped" }
+      - { qty: 2, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { ingredient: Kosher salt }
+      - { ingredient: Olive oil, note: "extra-virgin, for the sauce" }
+      - { qty: 1, ingredient: Onion, note: "large (or 2 small), finely diced" }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: "crushed, for the sauce" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: "smashed and finely chopped, for the sauce" }
+      - { qty: "3/4", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 1, measure: can, ingredient: Plum tomatoes, note: 28-ounce Italian }
+    directions:
+      - Roughly chop 3 of the calamari tubes and pulse with the shrimp and garlic to a coarse paste. Mix in a large bowl with the spinach, eggs, bread crumbs, cheese, oregano and a pinch of crushed red pepper, and season with salt. It should be a little chunky but moist and hold together.
+      - Test the seasoning by cooking a mini patty in a small pan and tasting it. If it isn't really good, it probably needs salt.
+      - Divide the stuffing among the 8 remaining tubes and close with toothpicks.
+      - "For the sauce: coat a large wide skillet with olive oil, add the onions and a pinch of red pepper, season with salt and saute over medium heat until soft, 7 to 8 minutes. Add the garlic for 2 minutes, then the wine and reduce by half."
+      - Pass the tomatoes through a food mill (or puree them) and add with 1 cup water. Season and simmer 15 minutes.
+      - Add the calamari and cook 20 to 25 minutes, turning halfway through. Remove them and their toothpicks, reduce the sauce if needed, and serve the calamari covered with sauce.
+
+  - name: Squid Stuffed Squid
+    categories: [Seafood]
+    prep_time: 45
+    cooking_time: 30
+    servings: 4
+    description:
+      - Recipe courtesy Alton Brown, 2006.
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: "1/4", measure: cup, ingredient: Onion, note: finely chopped }
+      - { qty: "1/2", measure: tsp, ingredient: Kosher salt }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: finely minced }
+      - { qty: 10, ingredient: Squid, note: "8 to 10 whole, 3 to 5 inches each" }
+      - { qty: 2, measure: oz, ingredient: Shrimp, note: raw }
+      - { qty: "1/4", measure: cup, ingredient: Bread crumbs, note: fresh }
+      - { qty: 2, measure: tbsp, ingredient: Tomato, note: finely chopped }
+      - { qty: 2, measure: tsp, ingredient: Lemon zest }
+      - { qty: 2, measure: tsp, ingredient: Ginger, note: "fresh, finely chopped" }
+      - { qty: 1, measure: tsp, ingredient: Parsley, note: "fresh leaves, chopped" }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: cup, ingredient: Marinara sauce, note: prepared tomato or spaghetti sauce }
+    directions:
+      - Preheat the oven to 375 degrees F.
+      - Heat the olive oil in a medium saute pan over medium heat. Sweat the onions with the salt until translucent, 1 to 2 minutes, without browning. Add the garlic for another minute. Cool in a medium bowl.
+      - Clean the squid, separating the tentacles and discarding the heads. Turn the tubes inside out (they hold the stuffing better) and refrigerate.
+      - Pulse the tentacles and shrimp 6 to 8 times, until no large pieces remain but not smooth. Add to the onions with the bread crumbs, tomato, lemon zest, ginger, parsley and pepper and mix well.
+      - Pipe the stuffing into the tubes from a resealable bag with a corner snipped (or a pastry bag), dividing it evenly. Don't overstuff.
+      - Lay the tubes in an 8 by 11-inch glass baking dish, cover with the sauce, cover tightly with foil and bake 30 minutes. Serve immediately.
+
+  - name: Uncle Bubba's Crab Cake Mix
+    categories: [Seafood]
+    description:
+      - Recipe courtesy Uncle Bubba. Stuffing for Crab Stuffed Flounder.
+    ingredients:
+      - { qty: "1 1/2", measure: tbsp, ingredient: Butter }
+      - { qty: 3, ingredient: Green onion, note: "green tops, thinly sliced" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: tsp, ingredient: Parsley, note: "fresh leaves, chopped" }
+      - { qty: 1, ingredient: Green bell pepper, note: "small, finely chopped" }
+      - { qty: 1, ingredient: Egg }
+      - { qty: "1/8", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1/8", measure: tsp, ingredient: Garlic powder }
+      - { qty: 3, measure: tbsp, ingredient: Heavy cream }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Mustard, note: spicy }
+      - { qty: "1/2", ingredient: Lemon, note: juiced }
+      - { qty: 2, measure: tbsp, ingredient: Mayonnaise }
+      - { qty: 10, ingredient: Saltine crackers, note: crumbled medium to fine }
+      - { qty: "1/2", measure: lb, ingredient: Crab, note: "lump crabmeat, picked clean of shells" }
+      - { qty: "1/2", measure: lb, ingredient: Crab, note: "claw crabmeat, picked clean of shells" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Melt the butter in a medium skillet and saute the onions, garlic, parsley and pepper until soft. Let cool.
+      - Mix the egg, cayenne, garlic powder, cream, mustard, lemon juice and mayonnaise. Gently mix in the crackers and crabmeat and season if needed.
+
+  - name: Crab Stuffed Flounder
+    categories: [Seafood]
+    prep_time: 15
+    servings: 2
+    description:
+      - Recipe courtesy Uncle Bubba. Makes 1 (4-inch) log. Uses Uncle Bubba's Crab Cake Mix (its own recipe). The file says "Crab Butter, recipe follows" but doesn't include it.
+      - "Inactive prep: 55 minutes."
+    ingredients:
+      - { qty: 2, ingredient: Flounder, note: 10-ounce fillets }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { ingredient: "Uncle Bubba's Crab Cake Mix" }
+      - { qty: "1/2", measure: tsp, ingredient: Paprika }
+      - { ingredient: Cooking spray }
+      - { qty: 1, measure: slice, ingredient: Butter, note: "crab butter, 1-inch slice" }
+      - { ingredient: Parsley, note: "fresh, for garnish" }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Sprinkle the flounder with salt and pepper. With a fillet knife, cut along both sides of the seam down the middle to make pockets and lay the sides back.
+      - Stuff with the crab cake mix, press the sides down over the filling and sprinkle with paprika.
+      - Bake in a glass baking dish coated with cooking spray for 20 minutes, then switch to broil for 5 minutes more.
+      - Top with a medallion of crab butter and sprinkle with parsley.
+
+  - name: Crab Cakes with Lemon-Dill Sauce
+    categories: [Seafood]
+    prep_time: 25
+    cooking_time: 12
+    servings: 4
+    description:
+      - Recipe courtesy Paula Deen. They can also be baked 7 to 10 minutes at 400 degrees F.
+      - "Inactive prep: 2 hours."
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Mayonnaise, note: for the sauce }
+      - { qty: "1/4", measure: cup, ingredient: Buttermilk, note: for the sauce }
+      - { qty: 2, measure: tbsp, ingredient: Dill, note: "fresh leaves, chopped, for the sauce" }
+      - { qty: 1, measure: tbsp, ingredient: Parsley, note: "fresh leaves, chopped, for the sauce" }
+      - { qty: 1, measure: tbsp, ingredient: Lemon zest, note: "grated, for the sauce" }
+      - { qty: 2, measure: tsp, ingredient: Lemon juice, note: "fresh, for the sauce" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: "minced, for the sauce" }
+      - { qty: 3, measure: tbsp, ingredient: Butter, note: divided }
+      - { qty: 1, ingredient: Green onion, note: finely chopped }
+      - { qty: 2, measure: tbsp, ingredient: Red bell pepper, note: finely chopped }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 3, measure: tbsp, ingredient: Heavy cream }
+      - { qty: 1, measure: tbsp, ingredient: Dijon mustard }
+      - { qty: 1, ingredient: Egg }
+      - { qty: "1/2", measure: tsp, ingredient: Parsley, note: "fresh, minced" }
+      - { ingredient: Cayenne pepper }
+      - { qty: 1, measure: cup, ingredient: Bread crumbs, note: divided }
+      - { qty: "1/4", measure: cup, ingredient: Parmesan, note: grated }
+      - { qty: 1, measure: lb, ingredient: Crab, note: "white or claw crabmeat, picked free of shell" }
+      - { qty: 2, measure: tbsp, ingredient: Vegetable oil }
+    directions:
+      - "For the sauce: combine all the sauce ingredients and refrigerate until chilled. It thickens as it chills."
+      - Melt 1 tablespoon butter in a heavy skillet over medium heat and saute the onion, bell pepper and garlic until the pepper is limp, about 3 minutes.
+      - Mix in the cream, mustard, egg, parsley, cayenne and 1/2 cup bread crumbs. Gently fold in the crabmeat.
+      - Form 8 patties about 1/2 inch thick. Mix the remaining 1/2 cup bread crumbs with the Parmesan and pat onto both sides. Refrigerate until firm, about 2 hours.
+      - Heat the oil and remaining 2 tablespoons butter in a skillet and saute the crab cakes about 3 minutes per side, until golden. Serve with a dollop of the sauce.
+
+  - name: Smarter Tartar Sauce
+    categories: [Sauces]
+    description:
+      - Recipe by Ellie Krieger, 2005. For her Crab Cakes.
+    ingredients:
+      - { qty: 6, measure: tbsp, ingredient: Nonfat yogurt, note: plain }
+      - { qty: 2, measure: tbsp, ingredient: Mayonnaise }
+      - { qty: 1, ingredient: Green onion, note: finely chopped }
+      - { qty: "1/4", measure: cup, ingredient: Pickles, note: "sour, finely chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Capers, note: chopped }
+    directions:
+      - Spoon the yogurt into a small bowl lined with paper towels and refrigerate 30 minutes to release some liquid.
+      - Scoop the thickened yogurt into a small bowl, add the rest of the ingredients and stir.
+
+  - name: Ellie Krieger's Crab Cakes
+    categories: [Seafood]
+    prep_time: 30
+    cooking_time: 20
+    servings: 4
+    description:
+      - Recipe by Ellie Krieger, 2005. Makes 8 baked crab cakes, 2 per serving. Serve with Smarter Tartar Sauce (its own recipe).
+      - "Inactive prep: 30 minutes."
+    ingredients:
+      - { ingredient: Cooking spray }
+      - { qty: 1, ingredient: Egg, note: lightly beaten }
+      - { qty: 2, measure: tsp, ingredient: Dijon mustard }
+      - { qty: 1, measure: tsp, ingredient: Worcestershire sauce }
+      - { qty: 1, measure: tbsp, ingredient: Lemon juice, note: fresh }
+      - { measure: dash, ingredient: Hot sauce }
+      - { qty: "1/2", measure: tsp, ingredient: Old Bay seasoning }
+      - { qty: "1/2", measure: cup, ingredient: Red bell pepper, note: finely chopped }
+      - { qty: 1, ingredient: Green onion, note: "including the green top, finely chopped" }
+      - { qty: 1, measure: lb, ingredient: Crab, note: "lump, picked over for cartilage" }
+      - { qty: "3/4", measure: cup, ingredient: Bread crumbs, note: "dry, divided" }
+      - { qty: "1/4", measure: tsp, ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Smarter Tartar Sauce }
+    directions:
+      - Preheat the oven to 400 degrees F and coat a baking sheet with cooking spray.
+      - Mix the egg, mustard, Worcestershire, lemon juice, Old Bay and hot sauce. Stir in the bell pepper and scallion. Gently fold in the crab, 1/4 cup of the bread crumbs, and salt and pepper to taste. Put the remaining crumbs in a shallow dish.
+      - Divide into 8 mounds. Shape each into a round, coat in crumbs, set on the baking sheet and flatten to a patty about 1 inch high.
+      - Bake until golden on the bottom, about 10 minutes. Flip gently and bake until the second side is golden, 5 to 10 minutes longer.
+
+  - name: Bob's Crab Cakes
+    categories: [Seafood]
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Green bell pepper, note: "2 to 3 tablespoons, finely minced" }
+      - { qty: 5, ingredient: Green onion, note: "4 to 5 shoots, minced" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: "large, finely minced" }
+      - { qty: 3, measure: tbsp, ingredient: Parsley, note: "flat-leaf, 2 to 3 tablespoons, minced" }
+      - { qty: 1, measure: tbsp, ingredient: Butter }
+      - { qty: 2, ingredient: Egg }
+      - { qty: 2, measure: tbsp, ingredient: Mustard, note: brown }
+      - { qty: 1, measure: tsp, ingredient: Worcestershire sauce }
+      - { qty: 1, measure: tbsp, ingredient: Lime juice, note: or lemon juice }
+      - { ingredient: Hot sauce, note: to taste }
+      - { qty: 2, measure: tsp, ingredient: Old Bay seasoning }
+      - { qty: 1, measure: lb, ingredient: Crab, note: crabmeat }
+      - { qty: 1, measure: cup, ingredient: Panko, note: plus more for sprinkling }
+      - { ingredient: Dill, note: "fresh, chopped, for sprinkling" }
+    directions:
+      - Sweat the green pepper, scallions, garlic and parsley in the butter over low heat.
+      - In a mixing bowl, beat the eggs with the mustard, Worcestershire, lime juice, hot sauce and Old Bay.
+      - Fold in the vegetables, crabmeat and panko. Form tennis-ball-size portions into patties about 1/2 inch thick on wax paper.
+      - Sprinkle with fresh dill and panko and refrigerate to firm up before frying or baking.
