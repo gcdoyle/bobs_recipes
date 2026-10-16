@@ -22,7 +22,7 @@
       <ul class="list-unstyled">
       <% @recipe.recipe_ingredients.includes(:ingredient).each do |ingredient| %>
         <li>
-          <%= "#{strip_trailing_zero(ingredient.qty)} #{ingredient.measure}" %>
+          <%= "#{format_qty(ingredient.qty)} #{ingredient.measure}" %>
         <% if ingredient.ingredient.url.present? %>
           <%= link_to ingredient.ingredient.name, ingredient.ingredient.url %>
         <% else %>
