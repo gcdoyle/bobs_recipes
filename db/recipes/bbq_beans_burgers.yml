@@ -1,0 +1,917 @@
+# Recipes from "BBQ,Beans & Burgers.txt". Classic BBQ Rub, Quickie Rub, Bob's Rub
+# and Emeril's Essence are already in from the seasonings file.
+recipes:
+  - name: Kansas City-Style Rib Rub
+    categories: [BBQ, Seasonings]
+    description:
+      - Makes about 2 cups. Use for meats and seafood to be grilled, and for making barbecue sauce. Keeps in an airtight container in a cool, dry place for up to 6 weeks. Uses Emeril's Essence Creole Seasoning (its own recipe).
+    ingredients:
+      - { qty: "1/3", measure: cup, ingredient: Light brown sugar }
+      - { qty: "1/3", measure: cup, ingredient: Sugar }
+      - { qty: "1/4", measure: cup, ingredient: Paprika }
+      - { qty: 2, measure: tbsp, ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: 6, measure: tbsp, ingredient: Kosher salt }
+      - { qty: 2, measure: tbsp, ingredient: Onion powder }
+      - { qty: 1, measure: tbsp, ingredient: Garlic salt }
+      - { qty: 1, measure: tbsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: tbsp, ingredient: Chili powder }
+      - { qty: 1, measure: tsp, ingredient: Mustard powder }
+      - { qty: "1/2", measure: tsp, ingredient: Poultry seasoning }
+      - { qty: "1/2", measure: tsp, ingredient: Ground ginger }
+      - { qty: "1/4", measure: tsp, ingredient: Allspice, note: ground }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+    directions:
+      - Combine all the ingredients in a medium bowl and stir to combine, crumbling any lumps that form with the sugar or spices.
+
+  - name: Black Bean Cakes with Spicy Cilantro Sauce
+    categories: [Beans]
+    servings: 4
+    description:
+      - Makes 8 (4-inch) cakes.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: "1/2", measure: cup, ingredient: Onion, note: finely chopped }
+      - { qty: "1/2", measure: cup, ingredient: Green bell pepper, note: finely chopped }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: "large, minced" }
+      - { qty: "1 2/3", measure: cup, ingredient: Black beans, note: cooked }
+      - { qty: "2/3", measure: cup, ingredient: Bread crumbs, note: fine dry }
+      - { qty: "1/3", measure: cup, ingredient: Cilantro, note: "fresh leaves, chopped fine" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, ingredient: Egg, note: "large, lightly beaten" }
+      - { qty: 1, measure: cup, ingredient: Cornmeal, note: yellow }
+      - { ingredient: Vegetable oil, note: for frying }
+      - { qty: "3/4", measure: cup, ingredient: Cilantro, note: "fresh leaves, chopped, for the sauce" }
+      - { qty: "1/3", measure: cup, ingredient: Vegetable oil, note: for the sauce }
+      - { qty: 3, measure: tbsp, ingredient: Soy sauce, note: for the sauce }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: "minced, for the sauce" }
+      - { qty: 1, measure: tbsp, ingredient: Lime juice, note: "fresh, for the sauce" }
+      - { qty: "1/2", ingredient: Jalapeno, note: "minced, for the sauce" }
+    directions:
+      - Heat the butter in a small skillet over medium heat. Add the onion, bell pepper, and garlic and cook, stirring occasionally, until softened.
+      - In a bowl, mash 1/3 of the beans with a fork and stir in the remaining beans, the onion mixture, bread crumbs, and cilantro and season with salt and pepper. Stir in the eggs.
+      - Form the bean mixture into 8 (4-inch) patties (the mixture will be wet and soft). Gently dredge the patties in cornmeal and transfer to a large plate lined with plastic wrap. Refrigerate for 30 minutes and up to 12 hours.
+      - Pour enough oil into a heavy skillet to reach 1/4 inch up the side. Heat over medium heat until hot but not smoking. Working in batches, cook the patties, turning once, until well browned, about 1 1/2 minutes per side. Drain on paper towels.
+      - "For the spicy cilantro sauce: stir together the cilantro, oil, soy sauce, garlic, lime juice and jalapeno, and chill. Season with salt and pepper."
+      - Divide the cakes among plates and serve with the sauce.
+
+  - name: White Beans and Mushrooms
+    categories: [Beans]
+    description:
+      - The source gives directions only; ingredients are taken from them.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { ingredient: Garlic }
+      - { ingredient: Red pepper flakes }
+      - { ingredient: Mushroom }
+      - { ingredient: Cannellini beans }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { ingredient: Vinegar }
+      - { qty: "1/2", measure: cup, ingredient: Chicken stock }
+    directions:
+      - Heat a medium skillet over medium heat. Add the olive oil, then the garlic, red pepper flakes and mushrooms and cook 5 minutes to deepen the color.
+      - Stir in the cannellini beans and season with salt and pepper, to taste. When the beans heat through, a minute or 2, add the vinegar and stir to cook it out, then add 1/2 cup stock to deglaze the pan. Turn off the heat and serve.
+
+  - name: Smoked Turkey and White Bean Casserole with Herbed Crumb Topping
+    categories: [Beans, Poultry]
+    description:
+      - Recipe courtesy Emeril Lagasse. Uses Emeril's Essence Creole Seasoning (its own recipe). Ham hocks can be used instead of turkey.
+    ingredients:
+      - { qty: "2 1/4", measure: lb, ingredient: Smoked turkey, note: legs or thighs }
+      - { qty: 8, measure: cup, ingredient: Chicken broth }
+      - { qty: "1 1/2", measure: tsp, ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: plus 3 tablespoons }
+      - { qty: 2, measure: cup, ingredient: Onion, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Celery, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Green bell pepper, note: chopped }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: tbsp, ingredient: Thyme, note: "fresh leaves, minced, plus 1 teaspoon" }
+      - { qty: 1, measure: lb, ingredient: White beans, note: "dried, such as navy or cannellini, soaked overnight and drained" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1 1/4", measure: cup, ingredient: Bread crumbs, note: dried }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: finely grated }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh leaves, chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Chives, note: "fresh, chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Basil, note: "fresh leaves, chopped" }
+    directions:
+      - Using a sharp knife, score the turkey pieces about 1/4 inch deep in several places. Place the turkey in a large stockpot and add the chicken broth, Essence, cayenne and bay leaves. Add 2 cups of water and bring to a boil. Reduce to a simmer and cook, covered, until falling-from-the-bone tender, 2 1/2 to 3 hours. When cool enough to handle, remove the meat from the bones, discarding the skin and bones. Tear the meat into bite-size pieces and set aside. Reserve the stock separately.
+      - In a large Dutch oven, heat 3 tablespoons of the oil until hot. Add the onions, celery, and bell pepper and cook, stirring, until softened, 4 to 6 minutes. Add the garlic and 2 teaspoons of the thyme and cook for 1 minute.
+      - Add the beans and 6 cups of the reserved stock (add water if needed to make 6 cups) and return to a boil. Reduce to a simmer and cook, partially covered, until the beans are tender but still hold their shape, about 1 1/2 hours. The beans should be moist but not soupy. (If too soupy, strain the beans and reduce the cooking liquid to a thick sauce, then return it to the beans.)
+      - Stir in the reserved turkey and season with salt and pepper, to taste. Transfer to a large ovenproof casserole dish. Preheat the oven to 375 degrees F.
+      - In a small bowl combine the remaining thyme, bread crumbs, Parmesan, parsley, chives, and basil. Add the remaining 1/4 cup of olive oil and stir with a fork until well blended. Season with salt and pepper. Sprinkle evenly over the beans.
+      - Bake for 25 to 30 minutes, or until the topping is golden brown and the beans are bubbly around the edges.
+
+  - name: Gigante Beans
+    categories: [Beans]
+    description:
+      - Recipe courtesy Anne Burrell. Because of the soaking time, this is definitely a plan-ahead recipe.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Gigante beans, note: or corona beans }
+      - { qty: 1, ingredient: Onion, note: "large, skin removed, root end left on, cut in half" }
+      - { qty: 1, ingredient: Carrot, note: "large (or 2 small), peeled and halved" }
+      - { qty: 2, measure: rib, ingredient: Celery, note: broken in half }
+      - { qty: 3, measure: clove, ingredient: Garlic }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: bundle }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: 1, measure: piece, ingredient: Bacon, note: "slab bacon skin or prosciutto skin, or a couple slices of bacon" }
+      - { ingredient: Kosher salt }
+    directions:
+      - Soak the beans in water overnight. (Quick soak if you forgot: cover the beans with at least 2 inches of water, bring to a boil, turn off the heat and let the pot cool down naturally, then continue as if soaked overnight.)
+      - Strain the beans from the soaking water. Put the beans in a large pot and cover generously with water. Add the onion, carrot, celery, garlic, thyme, bay leaves and bacon skin.
+      - Bring to a boil over medium heat. Reduce the heat and simmer until all the beans are soft, about 1 hour, adding more water if it reduces too much. Test for doneness with the 5-bean test; beans don't all cook at the same rate, so bite 5 beans and if they are all soft they are done.
+      - Remove the pot from the heat. Season the water generously with salt and let sit for 15 minutes. Transfer the beans to a serving bowl and serve. If not using right away, store them in the refrigerator in their liquid.
+
+  - name: Bob's Beans
+    categories: [Beans]
+    description:
+      - Ingredients only, amounts to taste. Simmer the ham hock in water to make the cooking liquid.
+    ingredients:
+      - { ingredient: Onion }
+      - { ingredient: Green bell pepper, note: diced }
+      - { ingredient: Celery }
+      - { ingredient: Garlic }
+      - { ingredient: Thyme }
+      - { ingredient: Bay leaf }
+      - { ingredient: Ham hock, note: simmered in water to make the cooking liquid }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { ingredient: Cayenne pepper }
+
+  - name: Rachael Ray's Red White Beans
+    categories: [Beans]
+    prep_time: 5
+    cooking_time: 15
+    servings: 4
+    description:
+      - Recipe courtesy Rachael Ray. Serves 4 to 6.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Onion, note: "medium to large, chopped" }
+      - { qty: 2, measure: sprig, ingredient: Rosemary, note: leaves finely chopped }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/4", measure: cup, ingredient: Tomato paste }
+      - { qty: 1, measure: cup, ingredient: Chicken stock }
+      - { qty: 2, measure: can, ingredient: Cannellini beans, note: "15-ounce, drained" }
+    directions:
+      - Heat the olive oil in a skillet over medium heat. Add the onions, rosemary and salt and pepper, to taste. Cook the onions until sweet and soft, 8 to 10 minutes.
+      - Stir in the tomato paste for 1 minute. Add the stock, then stir in the beans and reduce the heat to low. Adjust the seasoning and turn out into a serving bowl. Keep warm until ready to serve.
+
+  - name: Bob's Baked Beans
+    categories: [Beans, BBQ]
+    ingredients:
+      - { qty: 42, measure: oz, ingredient: Baked beans, note: "Van Camp's: one 28-ounce can plus one 14-ounce can (or 3 14-ounce cans)" }
+      - { qty: 1, ingredient: Onion, note: "large (or 2 medium), diced" }
+      - { qty: 1, ingredient: Green bell pepper, note: "medium, diced" }
+      - { qty: "1/4", measure: cup, ingredient: Mustard, note: brown }
+      - { qty: "1/4", measure: cup, ingredient: Molasses, note: Grandma's }
+      - { qty: "1/2", measure: cup, ingredient: Ketchup }
+      - { qty: "1/4", measure: cup, ingredient: Rum, note: Captain Morgan's spiced }
+      - { qty: "1/3", measure: tsp, ingredient: Granulated garlic }
+      - { qty: 1, measure: tsp, ingredient: Liquid smoke }
+      - { ingredient: Bacon, note: "diced bacon or salt pork (optional), plus strips for the top" }
+      - { qty: "1/4", measure: cup, ingredient: Water, note: or so, so the mixture is not too dry }
+    directions:
+      - In a bowl, gently fold the ingredients together so as not to bruise or break up the beans.
+      - Put in a baking dish, top with strips of bacon and bake at 350 degrees F until the pepper and onions are soft.
+
+  - name: Rockin' Baked Beans
+    categories: [Beans]
+    prep_time: 30
+    cooking_time: 60
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. Serves 6 to 8.
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Onion, note: "large, cut into 1/2-inch dice" }
+      - { qty: 1, ingredient: Green bell pepper, note: "stem, seeds and pith removed, cut into 1/4-inch dice" }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: "large pinch, crushed" }
+      - { ingredient: Kosher salt }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { qty: 2, ingredient: Italian sausage, note: "links, casing removed and crumbled" }
+      - { qty: "1/2", measure: cup, ingredient: Tomato paste }
+      - { qty: 1, measure: tsp, ingredient: Cumin seeds, note: toasted and ground }
+      - { qty: 2, measure: tbsp, ingredient: Dijon mustard }
+      - { qty: 2, measure: tbsp, ingredient: Cider vinegar, note: apple cider vinegar }
+      - { qty: 2, measure: tbsp, ingredient: Molasses }
+      - { qty: 2, measure: can, ingredient: Navy beans, note: 28-ounce }
+      - { qty: "2 1/2", measure: cup, ingredient: Water, note: "1 1/2 cups, plus 1 cup" }
+      - { qty: 5, measure: slice, ingredient: Bacon }
+    directions:
+      - Coat an oven-safe pot with olive oil and put over medium-high heat. Add the onions, peppers and crushed red pepper. Season with salt and cook until the onions and peppers are soft and aromatic, about 8 to 10 minutes. Add the garlic and cook for another 2 to 3 minutes.
+      - Preheat the oven to 375 degrees F.
+      - Add the sausage and break it apart with a spoon. When the sausage is brown, add the tomato paste and cumin and cook for 4 to 5 minutes. Stir in the Dijon, vinegar, and molasses, then add the beans and 1 1/2 cups of water. Taste and season with salt, if needed. Bring to a boil, then reduce the heat and simmer until thick and tasty, about 15 to 20 minutes. Add the remaining cup of water.
+      - Top the beans with the bacon slices. Bake until the beans are thick and the bacon is crispy, about 25 to 30 minutes. Remove from the oven and serve.
+
+  - name: Neelys BBQ Seasoning
+    categories: [BBQ, Seasonings]
+    description:
+      - Keeps in an airtight container for up to 6 months.
+    ingredients:
+      - { qty: "1 1/2", measure: cup, ingredient: Paprika }
+      - { qty: "3/4", measure: cup, ingredient: Sugar }
+      - { qty: "3 3/4", measure: tbsp, ingredient: Onion powder }
+    directions:
+      - Add all ingredients to a bowl and stir until combined.
+
+  - name: Neelys BBQ Sauce
+    categories: [BBQ, Sauces]
+    description:
+      - Makes 3 1/2 cups.
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Ketchup }
+      - { qty: 1, measure: cup, ingredient: Water }
+      - { qty: "1/2", measure: cup, ingredient: Cider vinegar, note: apple cider vinegar }
+      - { qty: 5, measure: tbsp, ingredient: Light brown sugar }
+      - { qty: 5, measure: tbsp, ingredient: Sugar }
+      - { qty: "1/2", measure: tbsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: tbsp, ingredient: Onion powder }
+      - { qty: "1/2", measure: tbsp, ingredient: Mustard powder }
+      - { qty: 1, measure: tbsp, ingredient: Lemon juice }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce }
+    directions:
+      - In a large saucepan, combine all ingredients. Bring to a boil, then reduce to a simmer. Cook uncovered, stirring frequently, for 1 hour 15 minutes.
+
+  - name: Barbecue Baked Beans
+    categories: [Beans, BBQ]
+    prep_time: 5
+    cooking_time: 50
+    servings: 8
+    description:
+      - Recipe courtesy The Neelys. Uses Neelys BBQ Seasoning and Neelys BBQ Sauce (their own recipes).
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, ingredient: Red bell pepper, note: chopped }
+      - { qty: "1/2", ingredient: Onion, note: chopped }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: 2, measure: can, ingredient: Baked beans, note: 28-ounce }
+      - { qty: "1/2", measure: cup, ingredient: Brown sugar }
+      - { qty: "1/3", measure: cup, ingredient: BBQ seasoning, note: Neelys BBQ Seasoning }
+      - { qty: "1/4", measure: cup, ingredient: Molasses }
+      - { qty: 1, measure: cup, ingredient: BBQ sauce, note: Neelys BBQ Sauce }
+      - { qty: "3/4", measure: cup, ingredient: Beef brisket, note: "or pork, chopped" }
+    directions:
+      - Preheat the oven to 275 degrees F.
+      - In a large Dutch oven, heat the oil over medium heat. Saute the red pepper, onion and garlic until softened, about 2 minutes.
+      - Add the baked beans and remaining ingredients and bring to a low simmer. Cover and bake for 45 minutes.
+
+  - name: Spicy Black Beans
+    categories: [Beans]
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Black beans, note: "dried (about 1 pound), picked over, soaked overnight" }
+      - { qty: 3, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1/2", ingredient: Onion, note: "medium, diced" }
+      - { qty: 1, ingredient: Jalapeno, note: chopped }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: 1, ingredient: Bay leaf }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - In a large pot, soak the beans overnight covered in water by 2 inches. Drain and set aside.
+      - In the same pot, heat the olive oil. Add the onion, jalapeno, garlic, and bay leaf and cook until the vegetables begin to soften, about 5 minutes.
+      - Add the beans and cover with water by about 1 inch. Bring to a boil, reduce the heat, cover, and simmer for 1 to 1 1/2 hours, or until the beans are tender. Remove and discard the bay leaf. Taste and season with salt and pepper.
+
+  - name: Yellow Rice
+    categories: [Rice]
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Long grain rice }
+      - { qty: 4, measure: cup, ingredient: Water }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 1, measure: tbsp, ingredient: Turmeric }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt }
+      - { qty: 1, ingredient: Bay leaf }
+    directions:
+      - Put all the ingredients into a heavy-bottomed pot, stir well, and bring to a boil over medium-high heat.
+      - Reduce the heat to a simmer, cover, and cook over low heat until the rice has absorbed the water, about 15 to 20 minutes. Remove from the heat and let sit, covered, for 5 minutes.
+      - Discard the garlic and bay leaf, fluff with a fork, and serve.
+
+  - name: Sauteed White Beans
+    categories: [Beans]
+    prep_time: 10
+    cooking_time: 25
+    servings: 4
+    description:
+      - Recipe courtesy Melissa d'Arabian. Makes 1 1/2 cups.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1/2", ingredient: Onion, note: "white or yellow, finely chopped" }
+      - { ingredient: Kosher salt }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: "1/2", measure: cup, ingredient: White wine }
+      - { qty: "1 1/2", measure: cup, ingredient: Navy beans, note: cooked }
+      - { qty: 2, measure: tbsp, ingredient: Oregano, note: "fresh leaves, chopped (or 2 teaspoons dried)" }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - In a small pan over medium heat, add the oil. When hot, add the onion with a pinch of salt and saute until soft, about 5 minutes. Add the garlic and cumin and cook until fragrant, about 2 minutes.
+      - Raise the heat and add the white wine. Cook until reduced by half.
+      - Stir in the beans and oregano and season with salt and pepper, to taste. Cook gently for 15 minutes. Transfer to a serving bowl and serve.
+
+  - name: Magic Dust
+    categories: [BBQ, Seasonings]
+    description:
+      - Mike Mills' dry rub. Makes about 2 1/2 cups. Keep some in a shaker next to the smoker, grill, or stove; keeps indefinitely.
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Paprika }
+      - { qty: "1/4", measure: cup, ingredient: Kosher salt, note: finely ground }
+      - { qty: "1/4", measure: cup, ingredient: Sugar }
+      - { qty: "1/4", measure: cup, ingredient: Mustard powder }
+      - { qty: "1/4", measure: cup, ingredient: Chili powder }
+      - { qty: "1/4", measure: cup, ingredient: Ground cumin }
+      - { qty: 2, measure: tbsp, ingredient: Black pepper, note: ground }
+      - { qty: "1/4", measure: cup, ingredient: Granulated garlic }
+      - { qty: 2, measure: tbsp, ingredient: Cayenne pepper }
+    directions:
+      - Mix all the ingredients and store in a tightly covered container.
+
+  - name: Apple City Barbecue Sauce
+    categories: [BBQ, Sauces]
+    description:
+      - Mike Mills' sauce. Refrigerate for up to 2 weeks. For a hotter sauce, add another 1/4 to 1/2 teaspoon cayenne; a little goes a long way.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Ketchup }
+      - { qty: "2/3", measure: cup, ingredient: Rice vinegar, note: seasoned }
+      - { qty: "1/2", measure: cup, ingredient: Apple juice, note: or cider }
+      - { qty: "1/4", measure: cup, ingredient: Cider vinegar }
+      - { qty: "1/2", measure: cup, ingredient: Brown sugar, note: packed }
+      - { qty: "1/4", measure: cup, ingredient: Soy sauce, note: or Worcestershire sauce }
+      - { qty: 2, measure: tsp, ingredient: Yellow mustard, note: prepared }
+      - { qty: "3/4", measure: tsp, ingredient: Garlic powder }
+      - { qty: "1/4", measure: tsp, ingredient: White pepper, note: ground }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1/3", measure: cup, ingredient: Bacon bits, note: ground in a spice grinder }
+      - { qty: "1/3", measure: cup, ingredient: Apple, note: peeled and grated }
+      - { qty: "1/3", measure: cup, ingredient: Onion, note: grated }
+      - { qty: 2, measure: tsp, ingredient: Green bell pepper, note: grated }
+    directions:
+      - Combine the ketchup, rice vinegar, apple juice, cider vinegar, brown sugar, soy or Worcestershire sauce, mustard, garlic powder, white pepper, cayenne, and bacon bits in a large saucepan. Bring to a boil over medium-high heat.
+      - Stir in the apple, onion, and bell pepper. Reduce the heat and simmer, uncovered, 10 to 15 minutes or until it thickens slightly, stirring often.
+      - Allow to cool, then pour into sterilized glass bottles or a clean jar and refrigerate.
+
+  - name: Mike Mills' Beef Ribs
+    categories: [BBQ, Beef]
+    prep_time: 25
+    cooking_time: 90
+    servings: 4
+    description:
+      - Recipe courtesy Mike Mills. Serves 4 very hungry people, or cut the racks in half to serve 6 to 8. Uses Magic Dust and Apple City Barbecue Sauce (their own recipes).
+      - "Inactive prep: 1 hour."
+    ingredients:
+      - { qty: 4, measure: rack, ingredient: Beef ribs, note: "center cut, 2 1/4 to 2 1/2 pounds each" }
+      - { qty: 3, measure: cup, ingredient: Wood chips, note: "3 to 4 cups apple wood (hickory, pecan, sweet maple or cherry also work, but won't taste as sweet)" }
+      - { ingredient: BBQ seasoning, note: Magic Dust }
+      - { ingredient: Barbecue sauce, note: Apple City Barbecue Sauce }
+      - { qty: 4, measure: cup, ingredient: Apple juice, note: in a spray bottle }
+    directions:
+      - "Prepping the meat: there is a skin-like membrane on the back of the ribs. Start in the middle of the rack and work a table knife or screwdriver underneath it, going all the way across and teasing it up. Slide your forefinger under it and pull the membrane straight up; it will peel from the middle."
+      - Once you start cooking, don't leave the pit or grill unattended for more than about 20 minutes. Keep the temperature between 250 and 275 degrees F. If it gets too hot, shut the top and bottom drafts. Avoid cooking directly over glowing-red hot spots; if the temperature dips too low, move the ribs to a hotter spot and add some hot coals.
+      - Sprinkle the ribs liberally with Magic Dust on both sides. Put them in a shallow pan, cover with plastic wrap, and refrigerate for at least 1 hour (up to a day ahead).
+      - Place the ribs on the grill and cook for 1 1/2 to 2 hours. About 10 minutes before removing them, mop with sauce. When you take them off, mop again with sauce and sprinkle with more Magic Dust. Serve immediately.
+
+  - name: Bob's Black-Eyed Peas
+    categories: [Beans]
+    description:
+      - Method only; amounts to taste.
+    ingredients:
+      - { ingredient: Black-eyed pea, note: dried }
+      - { ingredient: Ham hock }
+      - { ingredient: Onion, note: diced }
+      - { ingredient: Green bell pepper }
+      - { ingredient: Garlic }
+      - { ingredient: Celery }
+      - { ingredient: Chicken broth, note: canned }
+      - { ingredient: Cayenne pepper, note: to taste }
+      - { ingredient: Bay leaf }
+      - { ingredient: Thyme, note: sparingly }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+    directions:
+      - Soak the peas overnight.
+      - Simmer with the ham hock in water for 1/2 hour. Add the diced onion, green pepper, garlic and celery. As more liquid is needed, use canned chicken broth.
+      - Season with cayenne to taste, bay leaves, thyme (sparingly), salt and pepper.
+
+  - name: Black-Eyed Peas with Tomatoes
+    categories: [Beans]
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Black-eyed pea, note: dried }
+      - { qty: 1, measure: can, ingredient: Tomato, note: "28-ounce, whole peeled" }
+      - { qty: "1/4", measure: cup, ingredient: Sugar }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Onion, note: "medium, chopped" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: 1, ingredient: Ham hock }
+      - { qty: 2, measure: qt, ingredient: Chicken stock, note: or water }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Put the peas in a pot and cover with water by 2 inches. Bring to a boil over high heat, reduce the heat, and simmer for 2 minutes. Remove from the heat, cover, and let soak for 1 hour (or soak in cold water overnight).
+      - Meanwhile, drain the tomatoes and reserve the liquid. Hand crush the tomatoes into a saucepan and add the sugar and 1/2 cup of the liquid. Cook over medium-low heat, being careful not to let it burn, until the liquid has evaporated and the tomatoes are thick, about 30 minutes.
+      - In a large pot over medium heat add the olive oil, onion, garlic, and ham hock. Cook until the onions are soft, about 5 minutes. Add the soaked peas and the stock and cook, covered, until the peas are tender, about 20 minutes, adding water if needed.
+      - Remove the ham hock and fold in the tomato mixture. Taste, season with salt and pepper, and serve.
+
+  - name: Spicy Black-Eyed Peas with Stewed Tomatoes
+    categories: [Beans]
+    servings: 5
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Onion, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Green bell pepper, note: chopped }
+      - { qty: 1, measure: can, ingredient: Black-eyed pea, note: "15.8-ounce, undrained" }
+      - { qty: 1, measure: can, ingredient: Stewed tomatoes, note: "14.5-ounce, no-salt, undrained" }
+      - { qty: 1, measure: tsp, ingredient: Dry mustard }
+      - { qty: "1/2", measure: tsp, ingredient: Chili powder }
+      - { qty: "1/8", measure: tsp, ingredient: Red pepper flakes, note: red pepper }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper }
+      - { qty: 1, measure: tbsp, ingredient: Soy sauce, note: low-sodium }
+      - { ingredient: Cooking spray }
+    directions:
+      - Coat a large nonstick skillet with cooking spray and place over medium heat until hot. Add the onion and green pepper and saute until crisp-tender.
+      - Add the peas and the next 6 ingredients and bring to a boil. Reduce the heat and simmer 20 to 30 minutes, stirring often. Serve hot.
+
+  - name: Tyler Florence's Spicy Black-Eyed Peas
+    categories: [Beans]
+    prep_time: 20
+    cooking_time: 75
+    servings: 6
+    description:
+      - Recipe courtesy Tyler Florence. Serves 6 to 8.
+    ingredients:
+      - { qty: 2, measure: slice, ingredient: Bacon, note: "thick-cut, sliced" }
+      - { qty: 5, measure: clove, ingredient: Garlic, note: peeled }
+      - { qty: 5, ingredient: Dried red chili, note: broken up }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 1, measure: lb, ingredient: Black-eyed pea, note: dried }
+      - { qty: 1, measure: qt, ingredient: Chicken stock, note: low-sodium }
+      - { qty: 2, ingredient: Tomato, note: quartered }
+      - { qty: "1/4", measure: bunch, ingredient: Thyme, note: "fresh, leaves removed" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, ingredient: Lemon, note: juiced }
+      - { qty: 4, ingredient: Green onion, note: chopped }
+      - { qty: "1/4", measure: cup, ingredient: Cilantro, note: "fresh leaves, chopped" }
+    directions:
+      - In a large pot over medium heat, render the bacon until crisp. Remove the bacon to a paper towel-lined plate.
+      - To the bacon fat in the pot, add the garlic, chiles, bay leaves, and dried peas and stir to combine. Pour in the chicken stock and add the tomatoes. Simmer over medium-low heat for 1 hour until the peas are tender.
+      - Transfer about 1 to 2 cups of the peas to a blender and puree until smooth. Return to the pot and stir in. Add the thyme leaves and season with salt and pepper, to taste. Cook another 15 minutes.
+      - Place in a serving dish and dress with the lemon juice, green onions, cilantro and bacon before serving.
+
+  - name: Hoppin' John
+    categories: [Beans, Rice]
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, ingredient: Ham hock, note: large }
+      - { qty: 1, measure: cup, ingredient: Onion, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Celery, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Green bell pepper, note: chopped }
+      - { qty: 1, measure: tbsp, ingredient: Garlic, note: chopped }
+      - { qty: 1, measure: lb, ingredient: Black-eyed pea, note: soaked overnight and rinsed }
+      - { qty: 1, measure: qt, ingredient: Chicken stock }
+      - { ingredient: Bay leaf }
+      - { qty: 1, measure: tsp, ingredient: Dried thyme }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { ingredient: Cayenne pepper }
+      - { qty: 3, measure: tbsp, ingredient: Green onion, note: finely chopped }
+      - { qty: 3, measure: cup, ingredient: White rice, note: steamed }
+    directions:
+      - Heat the oil in a large soup pot, add the ham hock and sear on all sides for 4 minutes. Add the onion, celery, green pepper, and garlic and cook for 4 minutes.
+      - Add the black-eyed peas, stock, bay leaves, thyme, and seasonings. Bring to a boil, reduce the heat and simmer for 40 minutes, or until the peas are creamy and tender, stirring occasionally. If the liquid evaporates, add more water or stock.
+      - Adjust the seasonings and garnish with green onions. Serve over rice.
+
+  - name: Hoppin' John Salad
+    categories: [Beans, Salads]
+    prep_time: 15
+    cooking_time: 50
+    servings: 6
+    description:
+      - Recipe courtesy Bobby Deen. Serves 6 to 8.
+      - "Inactive prep: 4 hours."
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Rice }
+      - { qty: 4, measure: slice, ingredient: Bacon }
+      - { qty: 1, ingredient: Onion, note: "medium, chopped" }
+      - { qty: 8, measure: oz, ingredient: Black-eyed pea, note: "frozen, thawed" }
+      - { qty: 2, measure: cup, ingredient: Corn kernel, note: fresh (about 4 ears) }
+      - { qty: 10, measure: oz, ingredient: Baby lima beans, note: "frozen, thawed" }
+      - { qty: 2, measure: cup, ingredient: Chicken broth }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1/4", measure: cup, ingredient: White wine vinegar }
+      - { qty: "1 1/2", measure: tsp, ingredient: Seasoned salt }
+      - { qty: 1, measure: tsp, ingredient: Black pepper, note: ground }
+    directions:
+      - Bring 4 cups water to a boil in a saucepan over high heat. Add the rice, reduce to a simmer and cook for about 20 minutes, or until the rice has absorbed all the water.
+      - In a large skillet, cook the bacon over medium heat until crispy. Set aside on paper towels, reserving the drippings in the skillet.
+      - Add the onions to the skillet and cook over medium heat for 3 to 4 minutes, until tender. Add the black-eyed peas, corn, lima beans, and chicken broth. Bring to a boil, cover, reduce the heat, and simmer for 30 minutes, or until the vegetables are tender; drain. Place in a large bowl.
+      - In a small bowl, whisk the oil, vinegar, seasoned salt, and pepper. Pour over the vegetable mixture and toss to coat. Mix in the rice and crumble in the bacon. Cover and chill for a few hours before serving.
+
+  - name: Lotta Bull Red Dirt BBQ Seasoning
+    categories: [BBQ, Seasonings]
+    description:
+      - Mike Davis's Lotta Bull BBQ Red Dirt Championship BBQ Seasoning, the brisket version. The pork butt version uses 1 cup sugar instead of 1/2 cup.
+    ingredients:
+      - { qty: "2/3", measure: cup, ingredient: Salt }
+      - { qty: "1/2", measure: cup, ingredient: Sugar, note: granulated }
+      - { qty: "1/3", measure: cup, ingredient: Garlic salt }
+      - { qty: "1/3", measure: cup, ingredient: Smoked paprika }
+      - { qty: 8, measure: tsp, ingredient: Brown sugar }
+      - { qty: 4, measure: tsp, ingredient: Black pepper, note: cracked }
+      - { qty: 2, measure: tsp, ingredient: Ground cumin }
+    directions:
+      - Combine all the ingredients in a bowl and mix until well blended.
+
+  - name: Smoked Brisket
+    categories: [BBQ, Beef]
+    prep_time: 10
+    cooking_time: 300
+    servings: 8
+    description:
+      - Recipe courtesy Mike Davis. Uses Lotta Bull Red Dirt BBQ Seasoning (its own recipe).
+      - "Inactive prep: 1 hour 15 minutes."
+    ingredients:
+      - { qty: 1, ingredient: Beef brisket, note: 4 to 5 pounds }
+      - { qty: "1/2", measure: cup, ingredient: BBQ seasoning, note: Lotta Bull Red Dirt }
+    directions:
+      - Trim the excess fat from the brisket and trim to a uniform thickness to ensure even cooking.
+      - Sprinkle the seasoning all over the meat, evenly coating the entire brisket, and gently rub it in. Cover with foil and let sit on the counter for 1 hour.
+      - Preheat a grill or smoker to 300 degrees F.
+      - Cook the brisket over indirect heat until tender, 4 to 5 hours. Cover and let rest for 15 minutes before slicing and serving.
+
+  - name: Emeril's Barbecue Sauce
+    categories: [BBQ, Sauces]
+    description:
+      - Makes about 4 cups. Uses Emeril's Essence Creole Seasoning (its own recipe).
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: "3/4", measure: cup, ingredient: Yellow onion, note: chopped }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: chopped }
+      - { qty: 4, measure: cup, ingredient: Ketchup }
+      - { qty: "1/2", measure: cup, ingredient: Dark brown sugar }
+      - { qty: 2, measure: tbsp, ingredient: Cane syrup }
+      - { qty: "1/2", measure: cup, ingredient: Cider vinegar, note: apple cider vinegar }
+      - { qty: "1/2", measure: cup, ingredient: Yellow mustard }
+      - { qty: "1/4", measure: cup, ingredient: Worcestershire sauce }
+      - { qty: 3, measure: tbsp, ingredient: Hot sauce, note: hot red pepper sauce }
+      - { qty: 2, measure: tsp, ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: "1/2", measure: tsp, ingredient: Red pepper flakes, note: or more to taste }
+    directions:
+      - In a large pot, heat the oil over medium-high heat. Add the onions and cook, stirring, for 4 minutes. Add the garlic and cook, stirring, for 1 minute.
+      - Add the ketchup, brown sugar, cane syrup, vinegar, mustard, Worcestershire, hot sauce, Essence, and red pepper flakes and bring to a boil. Lower the heat and simmer, stirring occasionally, until thickened, 15 to 20 minutes. Let cool slightly before serving.
+
+  - name: Emeril's Texas-Style Smoked Brisket
+    categories: [BBQ, Beef]
+    prep_time: 30
+    cooking_time: 330
+    description:
+      - Recipe courtesy Emeril Lagasse, 2002. Serve with Emeril's Barbecue Sauce (its own recipe) on the side for dipping.
+    ingredients:
+      - { qty: 1, ingredient: Beef brisket, note: "4-pound, trimmed" }
+      - { qty: 2, measure: tbsp, ingredient: Dark brown sugar }
+      - { qty: 2, measure: tbsp, ingredient: Chili powder }
+      - { qty: 2, measure: tbsp, ingredient: Paprika }
+      - { qty: 2, measure: tbsp, ingredient: Salt }
+      - { qty: 1, measure: tbsp, ingredient: Garlic powder }
+      - { qty: 1, measure: tbsp, ingredient: Onion powder }
+      - { qty: 1, measure: tbsp, ingredient: Black pepper }
+      - { qty: 1, measure: tbsp, ingredient: Cayenne pepper }
+      - { qty: 2, measure: tsp, ingredient: Dry mustard }
+      - { qty: 2, measure: tsp, ingredient: Ground cumin }
+      - { ingredient: Wood chips, note: mesquite }
+      - { ingredient: Barbecue sauce, note: "Emeril's Barbecue Sauce, for serving" }
+    directions:
+      - Set the brisket on a large sheet of plastic wrap. Combine the brown sugar, chili powder, paprika, salt, garlic powder, onion powder, black pepper, cayenne, dry mustard, and cumin thoroughly. Rub the mixture onto the brisket and wrap tightly. Place on a baking sheet and refrigerate at least 6 hours or overnight.
+      - Soak the mesquite chips in water for 1 to 2 hours; drain. Remove the meat from the refrigerator and let come to room temperature.
+      - Prepare a smoker with charcoal and the wood chips to 180 to 200 degrees F. Fill the water pan about 2/3 full. Place the unwrapped brisket on the lower rack off the direct heat, close the lid, and cook, stoking the fire and adding chips regularly, until an instant-read thermometer registers 185 to 195 degrees F, or the meat is tender, about 4 to 5 hours.
+      - "Alternatively, smoke the brisket in a stovetop smoker over low heat for 1 hour, then wrap in heavy foil and roast at 275 degrees F until it reaches 185 to 195 degrees F, about 2 to 3 hours."
+      - Let rest for 20 minutes before carving against the grain. Serve with the barbecue sauce on the side.
+
+  - name: Tony's Smoked Beef Brisket
+    categories: [BBQ, Beef]
+    prep_time: 10
+    cooking_time: 420
+    servings: 6
+    description:
+      - Recipe courtesy The Neelys, 2008. Serves 6 to 10.
+      - "Inactive prep: 12 hours."
+    ingredients:
+      - { qty: "1 1/2", measure: cup, ingredient: Paprika }
+      - { qty: "3/4", measure: cup, ingredient: Sugar }
+      - { qty: 3, measure: tbsp, ingredient: Onion powder }
+      - { qty: 3, measure: tbsp, ingredient: Garlic salt }
+      - { qty: 1, measure: tbsp, ingredient: Celery salt }
+      - { qty: 1, measure: tbsp, ingredient: Black pepper }
+      - { qty: 1, measure: tbsp, ingredient: Lemon pepper }
+      - { qty: 1, measure: tsp, ingredient: Mustard powder }
+      - { qty: 1, measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1/2", measure: tsp, ingredient: Dried thyme }
+      - { qty: 1, ingredient: Beef brisket, note: "trimmed, about 5 to 6 pounds" }
+    directions:
+      - In a bowl combine all the dry ingredients and blend well.
+      - Trim the brisket, leaving about 1/4 inch of fat. Season with about 1/4 cup of the rub; you don't want such a thick crust that the smoke won't penetrate. Marinate overnight in the refrigerator.
+      - Preheat the grill to 250 degrees F using charcoal and hickory.
+      - Using indirect heat, cook the brisket for 3 1/2 hours and flip. Cook another 3 1/2 hours, for a total of 7 hours (about 1 1/2 hours per pound), to an internal temperature of 185 degrees F.
+      - Rest for 10 minutes on a cutting board before slicing against the grain.
+
+  - name: Dry Rubbed BBQ Chicken
+    categories: [BBQ, Poultry]
+    prep_time: 10
+    cooking_time: 45
+    servings: 4
+    description:
+      - Recipe courtesy Claire Robinson.
+      - "Inactive prep: 2 hours 5 minutes."
+    ingredients:
+      - { qty: 8, measure: cup, ingredient: Water, note: plus 2 tablespoons }
+      - { qty: "3/4", measure: cup, ingredient: Kosher salt, note: plus 1 teaspoon }
+      - { qty: "3/4", measure: cup, ingredient: Light brown sugar, note: plus 1 tablespoon }
+      - { qty: "3/4", measure: cup, ingredient: White vinegar }
+      - { qty: 3, measure: tbsp, ingredient: BBQ seasoning, note: "dry, 1 tablespoon plus 2 tablespoons" }
+      - { qty: 2, ingredient: Chicken breast, note: "large bone-in, skin-on halves" }
+    directions:
+      - In a large plastic container with a lid add 8 cups water, 3/4 cup salt, 3/4 cup brown sugar, the vinegar and 1 tablespoon of the BBQ seasoning. Stir until well mixed. Add the chicken and refrigerate at least 2 hours and no longer than 4 hours.
+      - Preheat the oven to 350 degrees F.
+      - Remove the chicken from the brine and pat dry. Combine 1 teaspoon salt, 1 tablespoon brown sugar and 2 tablespoons BBQ seasoning and rub over the chicken. Transfer to a roasting pan. Add 2 tablespoons of water to the pan.
+      - Roast for 45 minutes or until the thickest part of the meat reaches 160 degrees F on an instant-read thermometer. Let rest for 5 minutes, loosely covered with foil, before carving.
+
+  - name: Michael Symon's Pulled Pork BBQ
+    categories: [BBQ, Pork, Sandwiches]
+    description:
+      - With habanero glaze and C-Town BBQ sauce. Serve as a sandwich on soft buns with slaw and sweet pickles.
+    ingredients:
+      - { qty: 1, ingredient: Boston butt, note: "bone-in pork butt, about 5 pounds" }
+      - { qty: 2, measure: tbsp, ingredient: Kosher salt }
+      - { qty: 2, measure: tsp, ingredient: Black pepper, note: cracked }
+      - { qty: 2, measure: tsp, ingredient: Coriander seeds, note: toasted and ground }
+      - { qty: 1, measure: tsp, ingredient: Cumin seeds, note: toasted and ground }
+      - { qty: "1/2", measure: tsp, ingredient: Garlic powder }
+      - { qty: 1, measure: gal, ingredient: Orange juice, note: "fresh-squeezed, for the glaze" }
+      - { qty: 4, measure: oz, ingredient: Lime juice, note: "fresh-squeezed, for the glaze" }
+      - { qty: 1, ingredient: Habanero chili, note: "whole, for the glaze" }
+      - { qty: 1, measure: cup, ingredient: Brown sugar, note: for the glaze }
+      - { qty: 1, measure: cup, ingredient: Onion, note: "minced, for the sauce" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: for the sauce }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil, note: for the sauce }
+      - { qty: 1, measure: pinch, ingredient: Salt, note: for the sauce }
+      - { qty: 1, measure: tbsp, ingredient: Coriander seeds, note: for the sauce }
+      - { qty: 1, measure: tsp, ingredient: Cumin seeds, note: for the sauce }
+      - { qty: 1, measure: cup, ingredient: Brown sugar, note: for the sauce }
+      - { qty: 1, measure: cup, ingredient: Cider vinegar, note: for the sauce }
+      - { qty: 1, measure: cup, ingredient: Sherry vinegar, note: for the sauce }
+      - { qty: 1, measure: can, ingredient: Chipotle in adobo, note: "3-ounce, pureed until smooth, for the sauce" }
+      - { qty: 2, measure: cup, ingredient: Yellow mustard, note: "ballpark mustard, for the sauce" }
+    directions:
+      - "For the butt: combine the spice ingredients and rub all over the outside of the pork. Refrigerate overnight."
+      - "For the glaze: place all the habanero glaze ingredients in a non-reactive pan over medium-high heat and cook until reduced by half, about an hour."
+      - Preheat the oven to 225 degrees F. Mark the pork on the grill, then put it in the oven. Cook for 6 hours, brushing with the glaze every 45 minutes, until the pork reaches an internal temperature of 170 degrees F.
+      - "For the C-Town BBQ sauce: sweat the onion and garlic over low heat for 1 minute with a pinch of salt in the olive oil. Add the coriander and cumin seeds and let them bloom for another minute. Add the sugar and melt. Add the vinegars and reduce over medium heat for 10 minutes, by about 1/4. Remove from the heat and stir in the chipotle and mustard."
+      - Remove the pork from the oven and let rest for about 30 minutes. Using two forks, shred the meat into long, thin strands and toss with the C-Town BBQ sauce. Pile onto soft buns and top with slaw and sweet pickles.
+
+  - name: Broccoli Stem and Carrot Slaw
+    categories: [Slaw, Salads]
+    description:
+      - Anne Burrell's slaw for pulled pork sandwiches. Save the broccoli tops for something else.
+    ingredients:
+      - { qty: 6, ingredient: Broccoli, note: "stems, peeled and julienned on a mandoline" }
+      - { qty: 4, ingredient: Carrot, note: "peeled and julienned on a mandoline" }
+      - { qty: 3, measure: rib, ingredient: Celery, note: julienned }
+      - { qty: 1, ingredient: Red onion, note: julienned }
+      - { qty: 1, ingredient: Granny Smith apple, note: "skin on, julienned" }
+      - { qty: "1/2", measure: cup, ingredient: Cornichons, note: julienned }
+      - { qty: "1 1/2", measure: cup, ingredient: Mayonnaise }
+      - { qty: "1/4", measure: cup, ingredient: Dijon mustard }
+      - { qty: "1/4", measure: cup, ingredient: Cider vinegar }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { ingredient: Kosher salt }
+    directions:
+      - Combine all the ingredients. Season with salt. Let sit for at least 1 hour before serving.
+
+  - name: Anne Burrell's Pulled Pork
+    categories: [BBQ, Pork, Sandwiches]
+    prep_time: 15
+    cooking_time: 540
+    servings: 12
+    description:
+      - Recipe courtesy Anne Burrell. Serves 12 to 14. Top with Broccoli Stem and Carrot Slaw (its own recipe).
+      - "Inactive prep: 30 minutes."
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Pimenton, note: for the rub }
+      - { qty: 2, measure: tbsp, ingredient: Garlic powder, note: for the rub }
+      - { qty: 2, measure: tsp, ingredient: Cayenne pepper, note: for the rub }
+      - { qty: 1, measure: tbsp, ingredient: Salt, note: for the rub }
+      - { qty: 1, measure: tbsp, ingredient: Brown sugar, note: for the rub }
+      - { qty: 1, measure: tbsp, ingredient: Celery salt, note: for the rub }
+      - { qty: 1, measure: tbsp, ingredient: Dry mustard, note: for the rub }
+      - { qty: 1, ingredient: Boston butt, note: "bone-in, 7 to 9 pounds, X patterns cut in the fat cap" }
+      - { qty: 1, ingredient: Beer }
+      - { qty: 3, measure: cup, ingredient: Cider vinegar, note: "apple cider vinegar, for the sauce" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: "smashed, for the sauce" }
+      - { qty: 2, ingredient: Fresno chile, note: "sliced in half, for the sauce" }
+      - { qty: "1/4", measure: cup, ingredient: Brown sugar, note: for the sauce }
+      - { qty: "1/4", measure: cup, ingredient: Tomato paste, note: for the sauce }
+      - { qty: 1, measure: tbsp, ingredient: Kosher salt, note: for the sauce }
+      - { qty: 2, measure: tbsp, ingredient: Dijon mustard, note: for the sauce }
+      - { qty: 12, ingredient: Hamburger bun, note: toasted }
+    directions:
+      - Preheat the oven to 225 degrees F.
+      - Combine all the spices for the rub and massage it into the meat. Place the pork in a roasting pan and pour the beer into the pan. Cover with foil and roast for 6 hours, turning it over every 2 hours.
+      - Remove the foil and roast until the pork reaches an internal temperature of 190 degrees F, about another 3 hours. Remove from the oven, cover loosely with foil, and let rest for 30 minutes.
+      - "Sometime during the cook time, make the sauce: combine all the sauce ingredients in a small saucepan and bring to a boil. Taste it to make sure it is delicious. Remove the chiles. When cool, put it in a squeeze bottle for easy use."
+      - Remove the bone from the pork; it should slide right out. With gloved hands or two forks, pull the pork into long shreds, discarding the fat.
+      - Serve the pork on the buns with a drizzle of vinegar sauce and top with the slaw.
+
+  - name: Mario Batali's Bleu Cheese Pocket Burgers
+    categories: [Burgers]
+    servings: 4
+    ingredients:
+      - { qty: "1 3/4", measure: lb, ingredient: Ground chuck }
+      - { qty: 2, measure: tsp, ingredient: Ground cumin }
+      - { qty: 2, measure: tsp, ingredient: Black pepper, note: ground }
+      - { qty: "1/2", measure: tsp, ingredient: Salt, note: plus a pinch more }
+      - { qty: 1, measure: cup, ingredient: Blue cheese, note: crumbled }
+      - { qty: 4, ingredient: Hamburger bun }
+      - { ingredient: Olive oil }
+      - { ingredient: Red onion, note: "sliced, for topping" }
+      - { ingredient: Ketchup, note: for topping }
+      - { ingredient: Mustard, note: "Chinese, for topping" }
+      - { ingredient: Pickle relish, note: for topping }
+      - { ingredient: Mayonnaise, note: for topping }
+      - { ingredient: Jalapeno, note: "sliced, for topping" }
+      - { ingredient: Pickles, note: for topping }
+    directions:
+      - Form the ground chuck into eight evenly sized thin patties; two patties make each burger.
+      - On one side of each patty sprinkle a quarter of the cumin, pepper, and salt.
+      - With the spices on the outside of the bottom patty, put a quarter of the bleu cheese in the center of four of the patties. Place the top patties over the cheese, spices facing out. Gently press down around the cheese and pinch the sides together until the burger is completely closed.
+      - Brush the outside of the burgers lightly with olive oil and a pinch more salt. Grill at medium heat for seven minutes on each side, or until cooked to your liking.
+      - Serve on toasted buns with your preferred toppings.
+
+  - name: Michael Symon's Porky Burger
+    categories: [Burgers]
+    servings: 4
+    description:
+      - Topped with pulled pork with C-Town BBQ sauce (from Michael Symon's Pulled Pork BBQ) and cole slaw.
+    ingredients:
+      - { qty: 8, measure: oz, ingredient: Ground sirloin }
+      - { qty: 8, measure: oz, ingredient: Ground short rib }
+      - { qty: 8, measure: oz, ingredient: Beef brisket, note: ground }
+      - { qty: 3, measure: oz, ingredient: Bacon, note: ground }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: cracked }
+      - { qty: 4, ingredient: Brioche bun }
+      - { ingredient: Mayonnaise }
+      - { ingredient: Olive oil }
+      - { qty: 1, measure: head, ingredient: Savoy cabbage, note: "shredded, for the slaw" }
+      - { qty: 3, ingredient: Carrot, note: "shredded, for the slaw" }
+      - { qty: 5, ingredient: Green onion, note: "thinly sliced, for the slaw" }
+      - { qty: 1, measure: cup, ingredient: Cilantro, note: "chopped, for the slaw" }
+      - { qty: 1, measure: cup, ingredient: Parsley, note: "chopped, for the slaw" }
+      - { qty: "1/3", measure: cup, ingredient: Pickle juice, note: for the slaw }
+      - { qty: "1/2", measure: cup, ingredient: Mayonnaise, note: for the slaw }
+      - { qty: 1, measure: tbsp, ingredient: Salt, note: for the slaw }
+    directions:
+      - "For the coleslaw: in a mixing bowl add the chopped herbs to the shredded cabbage. Add the remaining slaw ingredients and toss to combine. Add more salt if necessary."
+      - "For the burger: build a medium-hot fire in your grill or preheat a stovetop grill pan."
+      - Combine all the meats and form into 4 patties (about 3 1/2 inches in diameter). Season with salt and cracked black pepper. Make a thumbprint in the middle of each burger to keep it from shrinking while cooking.
+      - Brush the patties with a little olive oil. Grill for 3 minutes, flip and grill for 3 minutes for medium-rare.
+      - Spread a little mayonnaise on each bun and toast lightly on the grill. Build the burgers in the buns with a spoonful of slaw and pulled pork BBQ.
+
+  - name: Smoked Pork Butt
+    categories: [BBQ, Pork]
+    prep_time: 10
+    cooking_time: 300
+    servings: 8
+    description:
+      - Recipe courtesy Mike Davis, a viewer or guest of the show; not tested by Food Network Kitchens. Uses the pork butt version of Lotta Bull Red Dirt BBQ Seasoning (its own recipe, with 1 cup sugar instead of 1/2 cup).
+      - "Inactive prep: 1 hour 15 minutes."
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: BBQ seasoning, note: "Lotta Bull Red Dirt, pork butt version" }
+      - { qty: 1, ingredient: Boston butt, note: "3 to 4 pounds, trimmed of excess fat" }
+    directions:
+      - Sprinkle the seasoning all over the meat, evenly coating the entire pork butt, and gently rub it in. Cover with foil and let sit on the counter for 1 hour.
+      - Preheat a grill or smoker to 300 degrees F.
+      - Cook over indirect heat until tender, 4 to 5 hours. Cover and let rest for 15 minutes before slicing and serving.
+
+  - name: Bob's Easy Quick Ribs
+    categories: [BBQ, Pork]
+    description:
+      - Uses Quickie Rub (its own recipe).
+    ingredients:
+      - { ingredient: Baby back ribs, note: or other pork ribs }
+      - { ingredient: BBQ seasoning, note: Quickie Rub }
+      - { qty: "3/4", measure: cup, ingredient: Chicken broth, note: "3/4 to 1 cup (or chicken base and water)" }
+      - { qty: 3, measure: tbsp, ingredient: White wine, note: about }
+      - { measure: splash, ingredient: Worcestershire sauce }
+      - { measure: squirt, ingredient: Ketchup }
+      - { ingredient: Barbecue sauce, note: for finishing }
+    directions:
+      - Put the ribs on the shiny side of foil and rub generously with Quickie Rub. Fold over the foil sides and crease, then fold over the ends. Refrigerate for an hour or longer, even overnight.
+      - Add the chicken broth, white wine, a splash of Worcestershire and a squirt of ketchup into the foil and put in a 250 degree F oven for about 2 1/2 hours.
+      - Finish on the barbecue with BBQ sauce.
+
+  - name: Dry Rubbed Ribs with Vinegar BBQ Sauce
+    categories: [BBQ, Pork]
+    prep_time: 30
+    cooking_time: 180
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. Serves 6 to 8. The rub makes more than you need; store the extra in an airtight container. The sauce can be made ahead and refrigerated.
+      - "Inactive prep: 12 hours."
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Pimenton, note: for the rub }
+      - { qty: "1/4", measure: cup, ingredient: Kosher salt, note: for the rub }
+      - { qty: "1/4", measure: cup, ingredient: Celery salt, note: for the rub }
+      - { qty: "1/2", measure: cup, ingredient: Brown sugar, note: for the rub }
+      - { qty: "1/2", measure: cup, ingredient: Granulated garlic, note: for the rub }
+      - { qty: 2, measure: tbsp, ingredient: Cayenne pepper, note: for the rub }
+      - { qty: 2, measure: tbsp, ingredient: Cumin seeds, note: "whole, toasted and ground" }
+      - { qty: 2, measure: tbsp, ingredient: Coriander seeds, note: "whole, toasted and ground" }
+      - { qty: 2, measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: 1, measure: tbsp, ingredient: Mustard powder }
+      - { qty: 2, measure: rack, ingredient: Spare ribs, note: pork }
+      - { qty: 1, ingredient: Beer, note: "1 to 2 (plus more for drinking, if desired)" }
+      - { qty: 2, measure: cup, ingredient: Cider vinegar, note: "apple cider vinegar, for the sauce" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: "smashed and finely chopped, for the sauce" }
+      - { qty: 1, measure: tsp, ingredient: Red pepper flakes, note: "crushed, for the sauce" }
+      - { qty: "1/2", measure: cup, ingredient: Tomato paste, note: for the sauce }
+      - { qty: 2, measure: tbsp, ingredient: Creole mustard, note: for the sauce }
+      - { qty: "1/4", measure: cup, ingredient: Brown sugar, note: for the sauce }
+    directions:
+      - "Dry rub: combine all of the rub ingredients in a small jar or bowl. Coat the ribs generously with the rub and refrigerate for at least 12 hours; 24 is better."
+      - Preheat the oven to 300 degrees F. Arrange the ribs on a sheet pan. Pour 1 beer into the bottom of the pan and cover the pan with foil, trying not to let the foil touch the meat. Roast for 2 hours, turning the ribs after 1 hour, adding more beer if needed, and rotating the pan.
+      - After 2 hours, remove the foil and roast for 30 minutes more. Remove from the oven and cool.
+      - "Sauce (while the ribs roast): combine all the sauce ingredients in a saucepan and bring to a boil over medium heat. Reduce the heat and simmer for 15 minutes. It will not be thick but should be well combined and very well flavored. Let cool."
+      - "To grill: preheat the grill to medium-high. Grill the ribs meat side down until they start to brown and char, then brush with sauce. Turn, brush with sauce and grill for 4 to 5 minutes. Brush again, turn, and grill another 4 to 5 minutes, until nicely browned."
+      - Cut the ribs apart and arrange on a serving platter. Serve with lots of napkins.
+
+  - name: Tyler Florence's Barbecued Ribs
+    categories: [BBQ, Pork]
+    description:
+      - Recipe courtesy Tyler Florence, 2007. Special equipment: kitchen twine.
+    ingredients:
+      - { qty: 2, measure: rack, ingredient: Baby back ribs, note: "slabs, about 3 pounds" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 2, measure: slice, ingredient: Bacon }
+      - { qty: 4, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: "1/2", ingredient: Onion }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 2, measure: cup, ingredient: Ketchup }
+      - { qty: 1, measure: cup, ingredient: Peach preserves }
+      - { qty: 2, measure: tbsp, ingredient: Dijon mustard, note: or 1 tablespoon dry mustard }
+      - { qty: 2, measure: tbsp, ingredient: Brown sugar }
+      - { qty: "1/4", measure: cup, ingredient: Molasses }
+      - { qty: 2, measure: tbsp, ingredient: Red wine vinegar, note: or white wine vinegar }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: 1, measure: tsp, ingredient: Paprika, note: ground }
+    directions:
+      - Preheat the oven to 250 degrees F. Put the ribs on a baking sheet, season with salt and pepper and drizzle with olive oil. Bake low and slow for 1 1/2 hours.
+      - Meanwhile, make the sauce. Wrap the bacon around the middle of the thyme sprigs and tie with kitchen twine into a bundle. Heat a 2-count of oil in a large saucepan over medium heat. Add the thyme bundle and cook slowly for 3 to 4 minutes to render the bacon fat. Add the onion and garlic and cook slowly, without coloring, for 5 minutes. Add the rest of the sauce ingredients, stir, and turn the heat down to low. Cook slowly for 20 minutes. Put some sauce in a separate bowl for basting, reserving the rest for serving.
+      - Baste the ribs with the sauce and continue cooking, basting twice more, for 30 more minutes. The ribs can wait like this until you're ready to eat.
+      - When ready to eat, preheat the broiler for 5 minutes and broil the ribs, basting with the sauce, until crisp and charred, about 5 minutes per side. Pick the onion and garlic out of the sauce and serve with the ribs.
+
+  - name: Bob's BBQ Sauce (Bourbon or Rum)
+    categories: [BBQ, Sauces]
+    ingredients:
+      - { qty: 1, ingredient: Onion, note: diced }
+      - { qty: "1/2", ingredient: Green bell pepper, note: diced }
+      - { qty: "1/4", ingredient: Celery, note: "thinly sliced (optional)" }
+      - { ingredient: Olive oil }
+      - { qty: 1, measure: cup, ingredient: Ketchup }
+      - { qty: 1, measure: tsp, ingredient: Ginger, note: "fresh, grated" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: "3 to 4, fresh, chopped" }
+      - { qty: "1/3", measure: cup, ingredient: Brown sugar }
+      - { qty: "1/2", measure: cup, ingredient: Molasses }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: 1, measure: tsp, ingredient: Pickapeppa sauce, note: "the pepper sauce, not the brown steak sauce; or Louisiana hot sauce" }
+      - { qty: 1, measure: tbsp, ingredient: Mustard, note: "1 to 1 1/2 tablespoons, brown" }
+      - { qty: 18, measure: oz, ingredient: Barbecue sauce, note: "Kraft Steakhouse (or regular BBQ sauce plus liquid smoke)" }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: "1/2", measure: cup, ingredient: Bourbon whiskey, note: or Captain Morgan's spiced rum }
+    directions:
+      - Dice the onion, bell pepper and celery (if using) and sweat in olive oil.
+      - Add the ketchup, ginger, garlic, brown sugar, molasses, Worcestershire, pepper sauce, mustard, barbecue sauce, butter and bourbon or rum. Simmer and reduce.
+
+  - name: Mango Barbecue Sauce
+    categories: [BBQ, Sauces]
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, ingredient: Onion, note: "diced (about 1 cup)" }
+      - { qty: 1, ingredient: Red bell pepper, note: "diced (about 1 cup)" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: coarsely chopped }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: tsp, ingredient: Allspice, note: ground }
+      - { qty: "1/3", measure: cup, ingredient: Red wine vinegar }
+      - { qty: 3, measure: tbsp, ingredient: Molasses }
+      - { qty: 2, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: 2, measure: tbsp, ingredient: Lime juice }
+      - { qty: "1/4", measure: cup, ingredient: Tomato sauce, note: low-sodium }
+      - { qty: 1, ingredient: Mango, note: "diced (about 1 1/2 cups)" }
+      - { qty: 2, ingredient: Jalapeno, note: "2 to 3, minced" }
+    directions:
+      - Heat the oil in a medium skillet over medium-high heat. Add the onions and cook until translucent, about 2 minutes.
+      - Add the red peppers, garlic, salt and pepper, and allspice and cook for 2 minutes more. Stir in the vinegar, molasses, Worcestershire sauce, lime juice and tomato sauce and cook for 1 minute more.
+      - Transfer the mixture to a blender, add the mango and jalapeno, and blend until smooth.
