@@ -1,0 +1,951 @@
+# Recipes from "Beef & Veal.txt", part 2. Mike Mills' Beef Ribs and Paula Deen's
+# House Seasoning are already in.
+recipes:
+  - name: Sirloin Beef Stroganoff
+    categories: [Beef]
+    servings: 4
+    ingredients:
+      - { qty: "1 1/2", measure: lb, ingredient: Sirloin steak }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: divided }
+      - { qty: 8, measure: oz, ingredient: Mushroom, note: button }
+      - { qty: "1/2", ingredient: Onion, note: chopped }
+      - { qty: 1, measure: tbsp, ingredient: Brandy }
+      - { qty: "1 1/4", measure: cup, ingredient: Beef broth }
+      - { qty: 2, measure: tbsp, ingredient: Thyme, note: "fresh leaves, chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Dijon mustard }
+      - { qty: "1/2", measure: cup, ingredient: Heavy cream }
+      - { qty: 8, measure: oz, ingredient: Egg noodles, note: 1 package }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "flat-leaf, leaves chopped" }
+      - { qty: "1/2", measure: cup, ingredient: Sour cream }
+    directions:
+      - Season the steaks generously with salt and pepper.
+      - In a large nonstick skillet over medium-high heat, add a tablespoon of olive oil. When hot, cook the steaks to desired doneness, about 4 minutes per side for medium-rare. Remove to a platter and cover with foil.
+      - Add another tablespoon of olive oil, the onion, and the mushrooms, and cook until brown, about 2 minutes. Deglaze the pan with the broth and brandy and bring to a boil.
+      - Let reduce for 2 minutes, then add the cream, whisk in the mustard, add the thyme, and cook another 3 to 5 minutes, until the sauce has thickened.
+      - Cook the noodles until al dente. Drain and return to the pot with the butter and half of the parsley; toss to melt the butter.
+      - Slice the steaks 1/2 inch thick. Divide the noodles among plates, top with the steak, the sauce, a dollop of sour cream and a sprinkle of parsley.
+
+  - name: Roast Beef with Spicy Parsley Tomato Sauce
+    categories: [Beef]
+    description:
+      - Recipe courtesy Giada De Laurentiis.
+    ingredients:
+      - { qty: 1, ingredient: Beef roast, note: "2 to 2 1/2-pound sirloin tip or chuck roast" }
+      - { qty: 3, measure: tbsp, ingredient: Olive oil }
+      - { qty: 4, ingredient: Roma tomato, note: cut in half }
+      - { qty: 2, measure: tsp, ingredient: Herbes de Provence }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1 1/2", measure: cup, ingredient: Parsley, note: "fresh flat-leaf, for the sauce" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: for the sauce }
+      - { qty: "1/2", measure: tsp, ingredient: Red pepper flakes, note: for the sauce }
+      - { qty: "3/4", measure: tsp, ingredient: Kosher salt, note: for the sauce }
+      - { qty: "3/4", measure: tsp, ingredient: Black pepper, note: "freshly ground, for the sauce" }
+      - { qty: 2, measure: tbsp, ingredient: Red wine vinegar, note: for the sauce }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: "extra-virgin, for the sauce" }
+    directions:
+      - Preheat the oven to 375 degrees F. Season the beef with salt and pepper. Season the tomatoes with salt, pepper, and herbes de Provence.
+      - Heat the olive oil in a medium heavy roasting pan or Dutch oven over high heat. Sear the beef on all sides. Turn off the heat, place the tomatoes around the beef and put the pan in the oven.
+      - Roast until a meat thermometer reads 130 degrees F for medium-rare (135 for medium), about 30 to 40 minutes. Tent loosely with foil and rest 10 to 15 minutes; the temperature will rise about 5 degrees more.
+      - "For the sauce: pulse the parsley and garlic in a food processor until finely chopped. Add the red pepper flakes, salt, vinegar and the roasted tomatoes from the beef pan and process until pureed. With the machine running, add the olive oil in a steady stream."
+      - Slice the roast onto a platter, drizzle with a little sauce, and serve the rest alongside.
+
+  - name: Easy Rice
+    categories: [Rice]
+    description:
+      - Emeril's side for Sunday Night Roast Beef and Gravy.
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Long grain rice, note: white }
+      - { qty: 4, measure: cup, ingredient: Water, note: or low-sodium chicken broth }
+      - { qty: 1, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: "1 1/2", measure: tsp, ingredient: Salt }
+    directions:
+      - In a 2-quart saucepan, combine the rice, water, butter and salt, and bring to a boil over high heat.
+      - Reduce the heat to low, cover, and simmer until all the liquid is absorbed, about 20 minutes. Let sit, covered, for 10 minutes, then fluff with a fork.
+
+  - name: Sunday Night Roast Beef and Gravy
+    categories: [Beef]
+    prep_time: 5
+    cooking_time: 125
+    servings: 6
+    description:
+      - Recipe courtesy Emeril Lagasse, 2005. Serves 6 to 8. Serve with Easy Rice; uses Emeril's Essence Creole Seasoning (both their own recipes).
+      - "Inactive prep: 15 minutes."
+    ingredients:
+      - { qty: 1, ingredient: Bottom round, note: "3 to 3 1/2-pound rump roast, at room temperature" }
+      - { qty: 1, measure: tsp, ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 3, measure: tbsp, ingredient: Olive oil }
+      - { qty: "1/2", ingredient: Yellow onion, note: "large, sliced" }
+      - { qty: 3, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 3, measure: cup, ingredient: Beef broth, note: low-sodium }
+      - { qty: 2, measure: tbsp, ingredient: Corn starch }
+      - { qty: "1/4", measure: cup, ingredient: Water }
+    directions:
+      - Preheat the oven to 275 degrees F.
+      - Season the meat on all sides with the Essence, salt, and pepper. Heat the oil in a large Dutch oven and brown on all sides, about 4 minutes per side.
+      - Remove the roast and add the onion and thyme. Place the roast on top, fat side up. Add the broth and roast, uncovered, until tender and 130 to 135 degrees F inside, about 1 1/2 to 2 hours. Rest 15 minutes before carving.
+      - Meanwhile, discard the onions and thyme. Heat the drippings in the Dutch oven over medium-high heat. Dissolve the cornstarch in the water, add to the drippings and bring to a boil, stirring constantly, until slightly thickened, 2 to 3 minutes.
+      - Carve the beef thinly and serve with gravy and Easy Rice.
+
+  - name: Chia Burger
+    categories: [Burgers]
+    servings: 5
+    description:
+      - Originally topped with Acai Special Sauce and Spicy Home-Cured Pickles and served with asparagus fries; those recipes aren't in the file.
+    ingredients:
+      - { qty: "1/2", measure: oz, ingredient: Chia seed, note: ground }
+      - { qty: 4, measure: oz, ingredient: Beef broth, note: organic }
+      - { qty: 16, measure: oz, ingredient: Ground beef, note: 93% lean }
+      - { measure: drizzle, ingredient: Olive oil }
+      - { qty: 4, ingredient: Sandwich thins, note: multigrain }
+      - { ingredient: Pickles, note: spicy }
+      - { ingredient: Lettuce, note: optional }
+      - { ingredient: Tomato, note: optional }
+    directions:
+      - In a small bowl, mix the ground chia seeds and beef broth. Stir well and let stand 15 minutes until thickened.
+      - In a second bowl, mix the ground beef with the chia mixture. Form 5 even patties and refrigerate on a sheet pan for at least 1 hour.
+      - Heat a nonstick saute pan with a drizzle of olive oil over medium-high heat. Cook the patties until medium-rare, about 3 minutes per side (longer if you like them more done).
+      - Spread sauce on both sides of the sandwich thins, add the burger and top with pickles, lettuce and tomato.
+
+  - name: Chicken Fried Steak and Gravy
+    categories: [Beef]
+    prep_time: 15
+    cooking_time: 20
+    servings: 4
+    description:
+      - Recipe courtesy Tyler Florence. Serves 4 to 6.
+      - "Inactive prep: 25 minutes."
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Bottom round, note: "beef, trimmed of excess fat" }
+      - { qty: 2, measure: cup, ingredient: Flour, note: "2 to 2 1/2 cups, all-purpose" }
+      - { qty: 2, measure: tbsp, ingredient: Garlic powder }
+      - { qty: 2, measure: tbsp, ingredient: Onion powder }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 3, ingredient: Egg, note: beaten }
+      - { qty: 2, measure: cup, ingredient: Buttermilk, note: or whole milk }
+      - { ingredient: Hot sauce, note: to taste }
+      - { ingredient: Vegetable oil, note: for frying }
+      - { qty: 3, measure: tbsp, ingredient: Flour, note: "heaping, for the gravy" }
+      - { qty: 1, measure: cup, ingredient: Buttermilk, note: for the gravy }
+      - { qty: 1, measure: cup, ingredient: Milk, note: "whole, for the gravy" }
+    directions:
+      - In a flat dish combine the flour, garlic powder, onion powder, salt and pepper. In another flat dish stir together the eggs, buttermilk and hot sauce and season well with salt and pepper.
+      - Cut the beef into 4 (1/2-inch) slices and pound them out with the toothed side of a meat mallet to tenderize. Dredge each piece in the flour, then the buttermilk, then back in the flour. Set on a rack over a baking sheet and refrigerate 20 to 25 minutes.
+      - Heat about 2 inches of oil in a large cast iron pan over medium-high heat to 365 degrees F. Fry the steaks 2 to 3 at a time until golden brown, about 3 to 4 minutes per side. Drain on paper towels.
+      - Pour off all but 1/4 cup of the fat. Over medium heat, sprinkle in the 3 tablespoons flour and whisk into a roux, scraping up the browned bits. Slowly whisk in the buttermilk and milk until the gravy is nice and thick. Season with salt, plenty of pepper and hot sauce. Serve the steaks topped with gravy.
+
+  - name: Country Fried Steak with Biscuits and Gravy
+    categories: [Beef]
+    servings: 8
+    description:
+      - Recipe courtesy Paula Deen. Uses Paula Deen's House Seasoning (its own recipe).
+    ingredients:
+      - { qty: "1 1/2", measure: cup, ingredient: Flour, note: "all-purpose, plus 2 tablespoons" }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 8, ingredient: Round steak, note: "4-ounce, tenderized (have the butcher run them through a cubing machine)" }
+      - { qty: 1, measure: tsp, ingredient: House seasoning }
+      - { qty: 1, measure: tsp, ingredient: Seasoned salt }
+      - { qty: 2, measure: cup, ingredient: Buttermilk }
+      - { qty: "2/3", measure: cup, ingredient: Vegetable oil }
+      - { qty: "1 1/2", measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: qt, ingredient: Milk, note: whole }
+      - { qty: "1/2", measure: tsp, ingredient: MSG, note: "Ac'cent, optional" }
+      - { qty: 1, measure: bunch, ingredient: Green onion, note: "or 1 medium yellow onion, sliced" }
+      - { qty: 1, ingredient: Active dry yeast, note: "package, for the biscuits" }
+      - { qty: "1/2", measure: cup, ingredient: Water, note: "lukewarm, for the biscuits" }
+      - { qty: 5, measure: cup, ingredient: Flour, note: "all-purpose, for the biscuits" }
+      - { qty: 1, measure: tsp, ingredient: Baking soda, note: for the biscuits }
+      - { qty: "1/2", measure: tsp, ingredient: Salt, note: for the biscuits }
+      - { qty: 1, measure: tbsp, ingredient: Baking powder, note: for the biscuits }
+      - { qty: 2, measure: tbsp, ingredient: Sugar, note: for the biscuits }
+      - { qty: "3/4", measure: cup, ingredient: Vegetable shortening, note: "Crisco, for the biscuits" }
+      - { qty: 2, measure: cup, ingredient: Buttermilk, note: for the biscuits }
+    directions:
+      - "Steak and gravy: combine 1 1/2 cups flour and 1/4 teaspoon pepper. Sprinkle one side of the meat with House Seasoning and the other with seasoning salt, then dredge in buttermilk and then flour."
+      - Heat 1/2 cup oil in a heavy skillet over medium-high heat. Fry 2 to 4 steaks at a time until browned, about 5 to 6 minutes per side. Drain on paper towels. Repeat, adding up to 1/4 cup more oil as needed.
+      - For the gravy, add the remaining 2 tablespoons flour to the pan drippings, scraping the bottom. Stir in the remaining 1/4 teaspoon pepper and the salt. Reduce to medium and cook, stirring, until the flour is medium brown and bubbly. Slowly add the milk and the Ac'cent, if using, stirring constantly.
+      - Return the steaks to the skillet and bring to a boil over medium-high heat. Reduce to low, put the onions on top of the steaks, cover and simmer 30 minutes.
+      - "Biscuits: preheat the oven to 400 degrees F. Dissolve the yeast in the warm water. Mix the dry ingredients and cut in the shortening. Add the yeast and buttermilk and mix well. Roll out on a lightly floured surface to the desired thickness, cut with a small biscuit cutter and place on a greased baking sheet. Bake 12 minutes or until golden brown."
+      - Split the biscuits, top with country fried steak and drizzle with gravy.
+
+  - name: Paula Deen's Beef Stroganoff
+    categories: [Beef]
+    description:
+      - Recipe courtesy Paula Deen, 2008. Uses Paula Deen's House Seasoning (its own recipe).
+    ingredients:
+      - { qty: "1 1/2", measure: lb, ingredient: Round steak, note: "cubed, cut into thin strips" }
+      - { ingredient: House seasoning }
+      - { ingredient: Flour, note: "all-purpose, for dusting plus 1 teaspoon" }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 1, ingredient: Onion, note: "medium, sliced" }
+      - { qty: 8, measure: oz, ingredient: Mushroom, note: "fresh, sliced" }
+      - { qty: 1, measure: can, ingredient: Beef broth, note: 10 3/4-ounce }
+      - { qty: 1, measure: can, ingredient: Cream of mushroom soup, note: 10 3/4-ounce }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 1, measure: cup, ingredient: Sour cream }
+      - { ingredient: Egg noodles, note: "cooked, for serving" }
+    directions:
+      - Season the steak strips with House Seasoning, then dust with flour. In a large skillet, quickly brown them on both sides in the olive oil and butter. Remove from the pan.
+      - Add the onion and mushrooms to the drippings and saute a few minutes, until the onion is tender. Sprinkle with 1 teaspoon flour.
+      - Return the steak to the pan. Add the mushroom soup and beef broth. Cover and cook over low heat for about 30 minutes. Season with salt and pepper.
+      - Stir in the sour cream for the last few minutes. Serve over noodles.
+
+  - name: Grillades
+    categories: [Beef, Cajun]
+    ingredients:
+      - { qty: 1, ingredient: Beef chuck, note: "3-pound chuck roast, cut into 1-inch pieces" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper }
+      - { ingredient: Garlic powder }
+      - { ingredient: Cooking spray }
+      - { qty: "1/3", measure: cup, ingredient: Flour, note: "all-purpose, plus 1/4 cup for the roux" }
+      - { qty: 4, measure: tbsp, ingredient: Bacon fat }
+      - { qty: 4, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: 1, ingredient: Green bell pepper, note: "large, chopped" }
+      - { qty: 2, ingredient: Onion, note: "medium, chopped" }
+      - { qty: 1, measure: cup, ingredient: Celery, note: diced }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: "large, minced" }
+      - { qty: 4, measure: cup, ingredient: Beef broth, note: or water }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: 1, measure: tsp, ingredient: Dried thyme }
+      - { qty: 2, measure: tbsp, ingredient: Hot sauce, note: "recommended: Texas Pete" }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: tsp, ingredient: Dried basil }
+      - { qty: 5, ingredient: Tomato, note: "medium (or 4 large), peeled and quartered" }
+      - { qty: 1, measure: can, ingredient: Stewed tomatoes, note: "10-ounce extra-hot (Ro-Tel)" }
+      - { qty: "1/2", measure: cup, ingredient: Parsley, note: "fresh leaves, chopped" }
+    directions:
+      - Season the beef with kosher salt, pepper and garlic powder. Dust with about 1/3 cup flour and toss lightly.
+      - Spray a cast iron Dutch oven with cooking spray. Heat the bacon grease and oil (or all bacon grease, shortening, or oil). Brown the meat in the hot fat and remove to a large bowl with a slotted spoon.
+      - In the same fat, saute the bell pepper, onions, celery, and garlic until browned and remove to the bowl.
+      - Adjust the fat to about 3 tablespoons. For the roux, add about 1/4 cup flour, stirring constantly and slowly until it is a nice deep brown, being careful not to burn it.
+      - Slowly stir in the broth or water. Bring to a simmer and return the beef and vegetables. Add the bay leaves, thyme, hot sauce, Worcestershire, salt and basil. Add the fresh tomatoes and the can of tomatoes.
+      - Simmer about 1 hour 15 minutes, stirring occasionally. Just before serving, remove the bay leaves and stir in the parsley.
+
+  - name: Baked Meatballs
+    categories: [Beef]
+    description:
+      - Makes 10 meatballs. The directions top them with mozzarella, which the original ingredient list leaves out.
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Onion, note: chopped }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh leaves, roughly chopped" }
+      - { qty: 1, measure: cup, ingredient: Milk }
+      - { qty: 4, measure: slice, ingredient: White bread, note: "thick, firm, crust removed" }
+      - { qty: "1 1/2", measure: lb, ingredient: Ground beef }
+      - { qty: "1 1/2", measure: lb, ingredient: Ground pork }
+      - { qty: 1, ingredient: Egg, note: large }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: "Parmigiano-Reggiano, freshly grated, plus more for serving" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Mozzarella, note: for topping }
+    directions:
+      - Heat 3 tablespoons oil in an ovenproof skillet over medium heat. Add the onion, garlic, and parsley and cook until soft but still translucent, about 10 minutes. Let cool.
+      - Pour enough milk over the bread in a bowl to moisten and let it soak while the onions cool.
+      - Combine the meats in a large bowl. Add the egg and Parmigiano and season generously with salt and pepper. Squeeze the excess milk out of the bread and add it with the cooled onion mixture. Gently combine until just mixed; don't overwork or the meatballs will be tough. Shape into 10 meatballs.
+      - Preheat the oven to 350 degrees F. Heat a little more oil in the skillet over medium heat and brown the meatballs on all sides, about 10 minutes.
+      - Put them in a baking dish, shower with mozzarella and drizzle with olive oil. Bake until cooked through, about 15 minutes.
+
+  - name: Swedish Meatballs
+    categories: [Beef]
+    prep_time: 30
+    cooking_time: 25
+    servings: 4
+    description:
+      - Recipe courtesy Alton Brown, 2005. Makes about 30 meatballs; serves 4 to 6.
+    ingredients:
+      - { qty: 2, measure: slice, ingredient: White bread, note: fresh }
+      - { qty: "1/4", measure: cup, ingredient: Milk }
+      - { qty: 3, measure: tbsp, ingredient: Clarified butter, note: divided }
+      - { qty: "1/2", measure: cup, ingredient: Onion, note: finely chopped }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt, note: plus a pinch }
+      - { qty: "3/4", measure: lb, ingredient: Ground chuck }
+      - { qty: "3/4", measure: lb, ingredient: Ground pork }
+      - { qty: 2, ingredient: Egg yolk, note: large }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper }
+      - { qty: "1/4", measure: tsp, ingredient: Allspice, note: ground }
+      - { qty: "1/4", measure: tsp, ingredient: Nutmeg, note: freshly grated }
+      - { qty: "1/4", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 3, measure: cup, ingredient: Beef broth }
+      - { qty: "1/4", measure: cup, ingredient: Heavy cream }
+    directions:
+      - Preheat the oven to 200 degrees F. Tear the bread into pieces and soak in the milk in a small bowl.
+      - In a 12-inch straight-sided saute pan over medium heat, melt 1 tablespoon of the butter. Add the onion and a pinch of salt and sweat until soft. Set aside.
+      - In a stand mixer, combine the bread and milk, ground chuck, pork, egg yolks, 1 teaspoon salt, pepper, allspice, nutmeg, and onions. Beat on medium for 1 to 2 minutes.
+      - Using a scale, portion the meat into 1-ounce meatballs and shape into rounds.
+      - Heat the remaining butter in the pan over medium-low heat (or an electric skillet at 250 degrees F). Saute the meatballs until golden brown on all sides, 7 to 10 minutes. Move them to an ovenproof dish in the warm oven.
+      - Reduce the heat to low and whisk the flour into the pan until lightly browned, 1 to 2 minutes. Gradually whisk in the broth until the sauce begins to thicken. Add the cream and cook until the gravy reaches the desired consistency. Pour over the meatballs and serve.
+
+  - name: Justin Wilson's Italian Meatloaf
+    categories: [Beef]
+    ingredients:
+      - { qty: 2, ingredient: Egg, note: beaten }
+      - { qty: "3/4", measure: cup, ingredient: Seasoned bread crumbs }
+      - { qty: "1 1/2", measure: cup, ingredient: Tomato juice, note: divided }
+      - { qty: "1/2", measure: tsp, ingredient: Mint, note: "dried, crushed" }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh, chopped" }
+      - { qty: "1/2", measure: tsp, ingredient: Oregano, note: dried }
+      - { ingredient: Salt, note: to taste }
+      - { ingredient: Hot sauce, note: to taste }
+      - { qty: 1, measure: cup, ingredient: Parmesan, note: "grated, divided" }
+      - { qty: 2, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: lb, ingredient: Ground beef, note: lean }
+      - { qty: "1/4", measure: lb, ingredient: Ham, note: finely chopped }
+      - { qty: "1/4", measure: cup, ingredient: Mozzarella, note: grated }
+      - { qty: "1/2", measure: cup, ingredient: Pepperoncini, note: finely chopped }
+      - { qty: "1/2", measure: cup, ingredient: Green olives, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Black olive, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Onion, note: finely chopped }
+      - { qty: 1, measure: tsp, ingredient: Garlic powder }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper, note: ground }
+      - { qty: 1, measure: cup, ingredient: Red wine, note: dry }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - In a large bowl mix the eggs, bread crumbs, 1/2 cup of the tomato juice, parsley, mint, oregano, salt, hot sauce, half the Parmesan, and the minced garlic. Using your hands, mix in the ground beef and ham.
+      - Turn the meat onto a piece of wax paper and form into a rectangle about 1 inch thick and roughly 9 by 13 inches.
+      - In a separate bowl, mix the mozzarella, pepperoncini, olives and onion. Spread on top of the meat, leaving a small margin. Lift the end of the paper and roll the meat up like a jelly roll. Put seam side down in a baking dish.
+      - Mix the garlic powder, salt, cayenne, wine, remaining tomato juice, and olive oil and pour over the loaf, placing any remaining cheese mixture on top. Sprinkle with the remaining Parmesan and bake for 1 to 1 1/2 hours.
+
+  - name: Good Eats Meatloaf
+    categories: [Beef]
+    description:
+      - Alton Brown's meatloaf, cooked to 155 degrees F with a probe thermometer.
+    ingredients:
+      - { qty: 6, measure: oz, ingredient: Crouton, note: garlic-flavored }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: ground }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 1, measure: tsp, ingredient: Chili powder }
+      - { qty: 1, measure: tsp, ingredient: Dried thyme }
+      - { qty: "1/2", ingredient: Onion, note: roughly chopped }
+      - { qty: 1, ingredient: Carrot, note: peeled and broken }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: whole }
+      - { qty: "1/2", ingredient: Red bell pepper }
+      - { qty: 18, measure: oz, ingredient: Ground chuck }
+      - { qty: 18, measure: oz, ingredient: Ground sirloin }
+      - { qty: "1 1/2", measure: tsp, ingredient: Kosher salt }
+      - { qty: 1, ingredient: Egg }
+      - { qty: "1/2", measure: cup, ingredient: Ketchup, note: for the glaze }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin, note: for the glaze }
+      - { measure: dash, ingredient: Worcestershire sauce, note: for the glaze }
+      - { measure: dash, ingredient: Hot sauce, note: for the glaze }
+      - { qty: 1, measure: tbsp, ingredient: Honey, note: for the glaze }
+    directions:
+      - Heat the oven to 325 degrees F.
+      - In a food processor, pulse the croutons, black pepper, cayenne, chili powder, and thyme to a fine texture. Place in a large bowl.
+      - Pulse the onion, carrot, garlic, and red pepper in the food processor until finely chopped but not pureed. Combine the vegetables, ground sirloin, and ground chuck with the crumb mixture. Season with the kosher salt. Add the egg and combine thoroughly without squeezing the meat.
+      - Pack the mixture into a 10-inch loaf pan to shape it, then turn it out onto the center of a parchment-lined baking sheet. Insert a temperature probe at a 45-degree angle into the top, not touching the tray, and set it for 155 degrees F.
+      - Combine the glaze ingredients. Brush the glaze onto the meatloaf after about 10 minutes of cooking, then bake until the probe reaches 155 degrees F.
+
+  - name: Meatloaf with Tomato Gravy
+    categories: [Beef]
+    description:
+      - From Food Network Kitchens.
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Bread crumbs, note: dry }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1/2", ingredient: Onion, note: "medium, diced" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: tsp, ingredient: Oregano, note: dried }
+      - { qty: "2 1/2", measure: tsp, ingredient: Kosher salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "2 1/2", measure: lb, ingredient: Meatloaf mix, note: or a pork and beef combination }
+      - { qty: "1/3", measure: cup, ingredient: Parmesan, note: grated }
+      - { qty: 2, measure: tsp, ingredient: Worcestershire sauce }
+      - { qty: 2, ingredient: Egg, note: "large, beaten" }
+      - { qty: "1/2", ingredient: Onion, note: "medium, diced, for the gravy" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: "smashed, for the gravy" }
+      - { qty: 1, measure: tsp, ingredient: Oregano, note: "dried, for the gravy" }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: "extra-virgin, for the gravy" }
+      - { qty: 1, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: 3, measure: tbsp, ingredient: Tomato paste }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: 1, measure: can, ingredient: Chicken broth, note: "15-ounce, low-sodium" }
+      - { qty: 1, measure: can, ingredient: Crushed tomato, note: 15 1/2-ounce }
+      - { qty: "1/4", measure: cup, ingredient: Parmesan, note: "grated, for the gravy" }
+      - { qty: 1, measure: tsp, ingredient: Red wine vinegar }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt, note: for the gravy }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Toast the bread crumbs in a dry skillet over medium heat until browned and fragrant, about 1 minute. Transfer to a large bowl.
+      - Add the olive oil, onions, garlic, oregano, salt, and pepper to the skillet and cook until the onions are tender, about 8 minutes. Let cool slightly, then add to the bread crumbs with the meat, cheese, and Worcestershire. Toss and mix gently. Add the eggs and stir to coat the meat completely.
+      - Transfer to a foil-lined sheet pan and gently press into shape. Bake until an instant-read thermometer reads 160 degrees F in the center, about 45 minutes. Tent with foil and rest 15 minutes.
+      - "Gravy: cook the onions, garlic, and oregano in the olive oil and butter in a large skillet over medium-high heat until browned, about 6 minutes. Add the tomato paste and bay leaf and stir until the paste turns brick red, about 3 minutes. Add the broth and crushed tomatoes and bring to a boil. Simmer until thickened, about 5 minutes. Whisk in the Parmesan, vinegar, salt, and pepper. Discard the bay leaf."
+      - Slice the meatloaf and serve with the gravy.
+
+  - name: Simple Meatloaf
+    categories: [Beef]
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Ground beef }
+      - { qty: "1 1/4", measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: ground }
+      - { qty: "1/2", measure: cup, ingredient: Onion, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Green bell pepper, note: chopped }
+      - { qty: 1, ingredient: Egg, note: lightly beaten }
+      - { qty: 8, measure: oz, ingredient: Diced tomatoes, note: "canned, with juice" }
+      - { qty: "1/2", measure: cup, ingredient: Oat, note: quick-cooking oats }
+      - { qty: "1/3", measure: cup, ingredient: Ketchup, note: for the topping }
+      - { qty: 2, measure: tbsp, ingredient: Brown sugar, note: for the topping }
+      - { qty: 1, measure: tbsp, ingredient: Yellow mustard, note: "prepared, for the topping" }
+    directions:
+      - Preheat the oven to 375 degrees F.
+      - Mix all the meatloaf ingredients well and shape into a loaf.
+      - Mix the topping and spread over the loaf. Bake 1 hour.
+
+  - name: Amarone Osso Buco Pot Roast
+    categories: [Veal]
+    description:
+      - Recipe courtesy Tyler Florence, 2007. Always taste your seasoned flour; once it coats the veal it's harder to adjust.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Flour, note: all-purpose }
+      - { ingredient: Sea salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 4, ingredient: Veal shank, note: pieces for osso buco }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 3, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: 1, ingredient: Onion, note: diced }
+      - { qty: 1, measure: stalk, ingredient: Celery, note: diced }
+      - { qty: 2, ingredient: Carrot, note: diced }
+      - { qty: 1, ingredient: Lemon, note: zest peeled off in wide strips }
+      - { qty: 1, measure: head, ingredient: Garlic, note: cut horizontally through the middle }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "fresh flat-leaf, chopped" }
+      - { qty: 1, measure: bottle, ingredient: Red wine, note: Amarone }
+      - { qty: 1, measure: can, ingredient: Beef broth, note: "14 1/2-ounce, low-sodium" }
+      - { qty: 1, measure: can, ingredient: Tomato, note: "28-ounce whole San Marzano, hand-crushed" }
+      - { qty: "1/4", measure: cup, ingredient: Pine nuts, note: "toasted, for the gremolata" }
+      - { qty: "1/4", measure: cup, ingredient: Dried cranberries, note: "chopped, for the gremolata" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: for the gremolata }
+      - { qty: 1, ingredient: Orange, note: "zest finely grated, for the gremolata" }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh flat-leaf, chopped, for the gremolata" }
+    directions:
+      - Season the flour generously with salt and pepper in a shallow platter. Dredge the veal shanks and tap off the excess (extra flour will burn).
+      - Heat a large Dutch oven over medium heat with a drizzle of oil. Add the butter and melt. Sear the shanks until all sides are a rich brown, in batches if crowded. Remove to a plate.
+      - Preheat the oven to 375 degrees F.
+      - In the same pot, saute the onion, celery, carrots, lemon zest, garlic, bay leaves, and parsley over medium heat until they take on color and smell deep and rich. Season with salt and pepper.
+      - Nestle the shanks back in the pot. Pour in the wine and simmer 20 minutes, until reduced by half. Add the broth and tomatoes and stir. Cover and braise in the oven 1 1/2 hours, then uncover and cook 30 minutes more, until the sauce is thick and the veal nearly falls off the bone. Remove the bay leaves.
+      - "For the gremolata: finely chop the pine nuts and dried cranberries and combine with the garlic in a mini chopper or mortar. Fold into the orange zest and parsley. Scatter over the osso buco before serving."
+
+  - name: Osso Buco
+    categories: [Veal]
+    prep_time: 10
+    cooking_time: 195
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell. Serves 4 to 6. Serve with a demitasse spoon to scoop out the marrow.
+    ingredients:
+      - { qty: 6, ingredient: Veal shank, note: "osso buco, tied around the middle with string" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Onion, note: "large, coarsely chopped" }
+      - { qty: 2, measure: rib, ingredient: Celery, note: coarsely chopped }
+      - { qty: 1, ingredient: Fennel, note: "bulb, coarsely chopped" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { qty: "3/4", measure: cup, ingredient: Tomato paste }
+      - { qty: 2, measure: cup, ingredient: White wine, note: dry }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: "fresh, bundled" }
+      - { qty: 1, ingredient: Orange, note: "zested, for the gremolata" }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "fresh leaves, finely chopped, for the gremolata" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: "small, minced, for the gremolata" }
+      - { qty: 2, measure: tbsp, ingredient: Horseradish, note: "freshly grated, for the gremolata" }
+    directions:
+      - Season the osso buco generously with salt. Coat a wide, flat pan generously with olive oil over high heat and brown the shanks very well on all sides.
+      - In a food processor puree the onion, celery, fennel, and garlic to a coarse paste. Remove the browned osso buco and reserve. Discard the excess oil, add a little fresh oil and bring to high heat.
+      - Add the vegetable paste with the crushed red pepper, season with salt, and brown very well; don't skimp on this step. Add the tomato paste and cook until it starts to brown, 3 to 4 minutes. Add the wine and reduce by half.
+      - Preheat the oven to 375 degrees F. Return the osso buco to the pan and add water to the top of the meat. Taste and season with salt. Add the bay leaves and thyme, bring to a boil, cover, and put in the oven.
+      - Cook 1 hour, then check the liquid level and seasoning, add liquid if needed, and cook another hour. Uncover and cook 30 minutes more.
+      - Remove the osso buco to a platter. Skim the fat from the sauce, taste and adjust the seasoning. Remove the string and serve with the sauce spooned over.
+      - "Gremolata: combine all the gremolata ingredients in a small bowl and sprinkle over the osso buco."
+
+  - name: Emeril's Braised Short Ribs
+    categories: [Beef]
+    servings: 4
+    description:
+      - Recipe courtesy Emeril Lagasse.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: "2 1/2", measure: lb, ingredient: Beef short ribs, note: cut into individual ribs }
+      - { qty: 2, measure: tbsp, ingredient: Creole seasoning }
+      - { qty: 1, measure: cup, ingredient: Onion, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Celery, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Carrot, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Tomato, note: "peeled, seeded and chopped, fresh or canned" }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Red wine vinegar }
+      - { qty: 2, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: 2, measure: tsp, ingredient: Black pepper }
+      - { qty: 2, measure: qt, ingredient: Beef broth }
+      - { qty: "1/4", measure: cup, ingredient: Green onion, note: "green part only, chopped, for sprinkling" }
+    directions:
+      - Heat the oil in a Dutch oven or large heavy covered pot over high heat. Season the ribs with the Creole seasoning, patting it in well.
+      - When the pot is nearly smoking, sear the ribs on all sides until they form a brown crust, in batches if necessary.
+      - When all the ribs are browned, add the onions, celery and carrot and saute 1 minute to brown lightly. Stir in the tomatoes, garlic, vinegar, Worcestershire, bay leaves, pepper and enough broth to just cover the ribs.
+      - Bring to a boil, reduce to a gentle simmer, cover and simmer until very tender, about 2 1/2 hours.
+      - Mound the ribs in the center of 4 plates, spoon the sauce over and garnish with the scallion.
+
+  - name: Braised Beef Short Ribs and Root Vegetables over Egg Noodles
+    categories: [Beef]
+    servings: 4
+    description:
+      - Recipe courtesy Emeril Lagasse, 2003. Uses Emeril's Essence Creole Seasoning (its own recipe).
+    ingredients:
+      - { qty: 2, measure: rack, ingredient: Beef short ribs, note: "4 to 5 pounds, cut into individual ribs" }
+      - { qty: 2, measure: tbsp, ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: "1/4", measure: cup, ingredient: Vegetable oil }
+      - { qty: "1 1/2", measure: cup, ingredient: Yellow onion, note: chopped }
+      - { qty: 1, measure: stalk, ingredient: Celery, note: trimmed and chopped }
+      - { qty: 1, ingredient: Carrot, note: peeled and chopped }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: "3/4", measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Red pepper flakes }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: ground }
+      - { qty: 2, measure: tbsp, ingredient: Tomato paste }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 2, measure: tsp, ingredient: Rosemary, note: "fresh leaves, chopped" }
+      - { qty: 2, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 1, measure: cup, ingredient: Port, note: ruby }
+      - { qty: 2, measure: cup, ingredient: Red wine, note: dry }
+      - { qty: 4, measure: cup, ingredient: Veal stock, note: or beef stock }
+      - { qty: 1, measure: lb, ingredient: Butternut squash, note: "or acorn squash, peeled, fibers removed, cubed" }
+      - { qty: 2, ingredient: Parsnip, note: "peeled, cut into 1-inch chunks" }
+      - { qty: 2, ingredient: Carrot, note: "peeled, cut into 1-inch chunks" }
+      - { qty: 1, ingredient: Sweet potato, note: "large, peeled, cut into 1-inch chunks" }
+      - { qty: 12, measure: oz, ingredient: Egg noodles, note: "cooked al dente, for serving" }
+      - { qty: "1/4", measure: cup, ingredient: Green onion, note: "chopped, for garnish" }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "chopped, for garnish" }
+    directions:
+      - Season the ribs on both sides with the Essence. In a Dutch oven or large heavy pot, heat the oil over medium-high heat. Sear the ribs in batches on all sides and remove to a plate.
+      - Add the onions, celery and carrot to the fat and cook, stirring, until soft and starting to caramelize, about 7 minutes. Add the garlic, salt, red pepper, and black pepper and cook 30 seconds. Add the tomato paste, bay leaves, rosemary, and thyme and cook 2 minutes.
+      - Add the port and red wine, bring to a boil, stirring to deglaze, and cook until reduced by half.
+      - Add the ribs and stock and return to a boil. Reduce to a gentle simmer, cover, and simmer until tender, 1 1/2 to 2 hours, keeping at least 1 inch of liquid in the pot.
+      - Add the root vegetables and cook until tender and the meat easily falls from the bones, another 40 minutes to 1 hour.
+      - Transfer the ribs and meat to a large bowl and keep warm. Skim the fat. Boil the sauce until thickened, 10 to 15 minutes; discard the bay leaves.
+      - Arrange the noodles on a large platter, place the ribs on top and spoon the sauce over. Garnish with green onions and parsley.
+
+  - name: Classic Standing Prime Rib with Horseradish Cream
+    categories: [Beef]
+    description:
+      - Recipe from Michael Lomonaco.
+    ingredients:
+      - { qty: 1, ingredient: Prime rib, note: "oven-ready roast, 6 to 7 pounds, 4 to 5 bones" }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil }
+      - { qty: "1/4", measure: cup, ingredient: Black pepper, note: coarsely ground }
+      - { qty: 3, measure: tbsp, ingredient: Sea salt, note: fine }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: chopped }
+      - { qty: 3, measure: tbsp, ingredient: Thyme, note: leaves }
+      - { qty: 3, measure: tbsp, ingredient: Rosemary, note: needles }
+      - { qty: 3, measure: oz, ingredient: Horseradish, note: "3 to 4 ounces fresh root, for the cream" }
+      - { qty: 1, measure: tbsp, ingredient: Sherry vinegar, note: for the cream }
+      - { qty: 1, measure: pinch, ingredient: Sugar, note: for the cream }
+      - { qty: 1, measure: tsp, ingredient: Dry mustard, note: "English, for the cream" }
+      - { qty: 1, measure: cup, ingredient: Creme fraiche, note: for the cream }
+      - { qty: 1, measure: pinch, ingredient: Salt, note: for the cream }
+    directions:
+      - "For the prime rib: preheat the oven to 350 degrees F. Brush the meat with the olive oil."
+      - Combine the pepper, salt, garlic, thyme and rosemary and rub uniformly over the meat. Put the meat, meat side down, in a roasting pan and roast for 20 minutes.
+      - Carefully turn the roast over to rest on the bone side, on a rack, for the rest of the cooking. Roast until an instant-read thermometer near the center reads 120 degrees F for medium-rare, 1 1/2 to 2 hours. Let stand 20 minutes before carving.
+      - Transfer bone-side down to a cutting board. Cut between the meat and the rib bones to remove the meat in 1 piece and slice about 1/2 inch thick, or cut between the bones and serve one enormous bone-on chop per person.
+      - "For the horseradish cream: peel and finely grate the horseradish, soaking it with the vinegar to keep it from blackening. Add the sugar and mustard and let macerate a few minutes. Add the creme fraiche, salt and a grind or two of pepper. Keeps 1 or 2 days, refrigerated."
+
+  - name: Anne Burrell's Standing Rib Roast
+    categories: [Beef]
+    description:
+      - Recipe courtesy Anne Burrell.
+    ingredients:
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1/2", measure: bunch, ingredient: Rosemary, note: leaves finely chopped }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Prime rib, note: "bone-in standing rib roast, 8 to 8 1/2 pounds" }
+      - { ingredient: Kosher salt }
+      - { qty: 1, ingredient: Onion, note: cut into 1/2-inch dice }
+      - { qty: 1, measure: lb, ingredient: Baby carrots, note: tops trimmed }
+      - { qty: 3, measure: rib, ingredient: Celery, note: cut into 1/2-inch dice }
+      - { qty: 1, measure: lb, ingredient: Cremini mushroom, note: "stems removed, quartered" }
+      - { qty: 1, measure: cup, ingredient: Red wine }
+      - { qty: 2, measure: cup, ingredient: Chicken stock, note: rich }
+      - { qty: 2, ingredient: Bay leaf }
+    directions:
+      - Preheat the oven to 450 degrees F.
+      - Combine the cayenne, rosemary, and garlic with enough olive oil to make a loose paste. Smear it over the roast, massaging it in. Season generously with kosher salt.
+      - Put the onions, carrots, celery and mushrooms in a roasting pan, toss with a little olive oil and salt. Add the wine, 1 cup of the stock and the bay leaves. Set the roast on top of the vegetables.
+      - Roast until really brown, 25 to 30 minutes. Reduce the heat to 350 degrees F and roast another 1 3/4 to 2 hours, spooning the juices over the meat occasionally, adding the remaining stock if the liquid gets low, and rotating the pan halfway through.
+      - Roast to 125 degrees F in the center for medium-rare (130 for medium). Rest on a cutting board 15 to 20 minutes before carving.
+      - Season the vegetables and pan juices with salt if needed and skim off the excess fat. Slice the roast and serve with the vegetables and pan juices.
+
+  - name: Emeril's Standing Rib Roast
+    categories: [Beef]
+    description:
+      - "Recipe courtesy Emeril Lagasse, 2004. Bob's note: 125 to 130 degrees F."
+    ingredients:
+      - { qty: 2, measure: head, ingredient: Garlic, note: roasted }
+      - { qty: "3 1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1 1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: tbsp, ingredient: Rosemary, note: "fresh leaves, finely chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Thyme, note: "fresh leaves, finely chopped" }
+      - { qty: 1, ingredient: Prime rib, note: "standing rib roast, about 6 1/2 pounds, fat trimmed in 1 strip and reserved" }
+      - { qty: "1 1/2", measure: cup, ingredient: Red wine, note: plus 1 more cup for au jus (optional) }
+      - { qty: "1/2", measure: cup, ingredient: Beef stock, note: plus 2 more cups for au jus (optional) }
+    directions:
+      - Preheat the oven to 450 degrees F.
+      - Squeeze the roasted garlic out of the peels into a small bowl and mash with a fork until mostly smooth. Stir in 1 teaspoon salt, 1/2 teaspoon pepper, the rosemary and thyme. Pat over the top and sides of the roast. Lay the reserved strip of fat over it and tie in several places with kitchen string.
+      - Season the roast all over with the remaining salt and pepper. Place in a roasting pan and add 1 1/2 cups red wine and 1/2 cup beef stock to the pan. Roast 20 minutes.
+      - Reduce to 350 degrees F and roast to the desired doneness, about 18 minutes per pound for rare and 22 for medium. Rest at least 5 minutes before carving. Defat the pan juices and serve alongside.
+      - "For au jus (optional): set the roasting pan over medium-high heat, add 1 cup red wine and scrape up the browned bits. Add 2 cups beef stock, season with salt and pepper and cook until reduced by half, about 5 minutes. Strain and degrease if necessary."
+
+  - name: Horseradish and Garlic Prime Rib
+    categories: [Beef]
+    description:
+      - With wild mushrooms.
+    ingredients:
+      - { qty: 1, ingredient: Prime rib, note: "3-rib roast, about 6 pounds" }
+      - { qty: 5, measure: clove, ingredient: Garlic, note: "smashed, plus 2 heads garlic, halved" }
+      - { qty: "1/2", measure: cup, ingredient: Horseradish, note: grated fresh or prepared }
+      - { qty: "1/2", measure: cup, ingredient: Sea salt }
+      - { qty: "1/4", measure: cup, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: "extra-virgin, plus more for drizzling" }
+      - { qty: 2, ingredient: Carrot, note: peeled and chopped }
+      - { qty: 2, ingredient: Parsnip }
+      - { qty: 1, ingredient: Red onion, note: halved }
+      - { qty: 1, measure: tbsp, ingredient: Unsalted butter, note: for the mushrooms }
+      - { qty: 2, measure: lb, ingredient: Mushroom, note: "assorted (cremini, oyster, shiitake, chanterelle or white), trimmed and sliced" }
+      - { qty: 2, measure: sprig, ingredient: Thyme, note: fresh leaves }
+      - { qty: "1/2", measure: cup, ingredient: Cabernet Sauvignon }
+      - { qty: "1/4", measure: cup, ingredient: Beef broth, note: "reserved drippings from the roast, or low-sodium canned" }
+      - { qty: "1/4", measure: cup, ingredient: Heavy cream }
+      - { qty: 1, measure: tbsp, ingredient: Chives, note: "fresh, minced" }
+    directions:
+      - Preheat the oven to 350 degrees F. Lay the beef bone side down in a large roasting pan (the ribs act as a natural rack).
+      - Mash together the smashed garlic, horseradish, salt, pepper, and olive oil to make a paste and massage it over the entire roast. Scatter the vegetables and halved garlic around the meat and drizzle with a little oil.
+      - Roast about 1 1/2 to 2 hours for medium-rare (about 20 minutes per pound), until an instant-read thermometer reads 125 degrees F in several places. Rest on a carving board 20 minutes; the temperature will rise about 10 degrees.
+      - Remove the vegetables and set aside. Pour the pan juices into a fat separator, discard the fat and keep the beef juices.
+      - "For the mushrooms: melt the butter with a drizzle of oil in a clean skillet over medium heat. When it foams, add the mushrooms and thyme and season with salt and pepper. Stir a few minutes. Add the wine, scrape up any stuck bits and cook off the alcohol. When the wine is almost gone, add the reserved beef juices and let cook down. Off the heat, stir in the cream and chives and season with salt and pepper."
+
+  - name: Oven-Roasted Prime Rib with Horseradish Sauce
+    categories: [Beef]
+    prep_time: 10
+    cooking_time: 110
+    servings: 4
+    description:
+      - Recipe courtesy Aaron McCargo, Jr. Serves 4 to 6.
+      - "Inactive prep: 10 minutes."
+    ingredients:
+      - { qty: 6, measure: lb, ingredient: Prime rib, note: "bone-in, excess fat removed" }
+      - { qty: 2, measure: tbsp, ingredient: Fennel seed }
+      - { qty: 2, measure: tbsp, ingredient: Coriander seeds, note: whole }
+      - { qty: 2, measure: tbsp, ingredient: Granulated garlic }
+      - { qty: 1, measure: tbsp, ingredient: Caraway seeds }
+      - { qty: 1, measure: tbsp, ingredient: Black peppercorns }
+      - { qty: "1/4", measure: cup, ingredient: Sea salt, note: coarse }
+      - { qty: "1/4", measure: cup, ingredient: Grapeseed oil }
+      - { qty: 2, measure: tbsp, ingredient: Horseradish, note: "freshly grated, for the sauce" }
+      - { qty: 8, measure: oz, ingredient: Sour cream, note: "drained, for the sauce" }
+      - { qty: "1/4", measure: cup, ingredient: Lemon juice, note: "fresh, for the sauce" }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce, note: for the sauce }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: for the sauce }
+      - { ingredient: Salt, note: for the sauce }
+      - { measure: dash, ingredient: Hot sauce, note: for the sauce }
+    directions:
+      - Preheat the oven to 325 degrees F.
+      - In a coffee grinder, pulse the fennel, coriander, garlic, caraway and peppercorns until slightly coarse; add the sea salt. Rub the prime rib thoroughly with the spices.
+      - Pour the oil over the roast and gently rub it in. Sear in a heavy saute pan on all three sides, 2 to 3 minutes each. Place the pan in the oven and cook about 1 1/2 hours, to an internal temperature of 135 degrees F.
+      - Move the roast to a hot grill for another 15 minutes to caramelize the surface. Rest 10 minutes before slicing.
+      - "For the horseradish sauce: mix all the sauce ingredients together and refrigerate until ready to serve."
+
+  - name: Dry-Rubbed Rib-Eye
+    categories: [Beef]
+    prep_time: 10
+    cooking_time: 15
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell. The rub is the same as Rub for Ribeye Steaks; 2 to 3 days in the fridge makes the steak taste aged.
+      - "Inactive prep: 24 hours 40 minutes."
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Salt }
+      - { qty: 2, measure: tbsp, ingredient: Brown sugar }
+      - { qty: 1, measure: tsp, ingredient: Red pepper flakes, note: "crushed, pulverized" }
+      - { qty: 2, measure: tsp, ingredient: Pimenton, note: smoked Spanish paprika }
+      - { qty: 1, measure: tsp, ingredient: Garlic powder }
+      - { ingredient: Vegetable oil, note: for brushing the grill }
+      - { qty: 2, ingredient: Rib-eye steak, note: "bone-in, 22 to 24 ounces each" }
+      - { ingredient: Olive oil, note: extra-virgin }
+    directions:
+      - Combine the dry ingredients, making sure they're evenly distributed. Rub each steak generously, wrap in plastic and refrigerate at least 24 hours (2 to 3 days is better).
+      - Preheat a gas or charcoal grill; brush and oil the grates. Take the steaks out of the refrigerator 20 to 30 minutes before cooking. Unwrap and lightly oil them.
+      - Char both sides on a very hot grill, then move to a cooler part of the grill and cook 6 to 7 minutes per side for medium-rare.
+      - Rest in a warm spot 7 to 8 minutes. Cut off the bone, slice on the bias across the grain, drizzle with extra-virgin olive oil and serve immediately.
+
+  - name: Salisbury Steaks with French Onion Gravy
+    categories: [Beef]
+    prep_time: 15
+    cooking_time: 35
+    servings: 4
+    description:
+      - Recipe courtesy Rachael Ray.
+    ingredients:
+      - { ingredient: Olive oil, note: "extra-virgin, for drizzling" }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 2, ingredient: Onion, note: "large, sliced" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: coarse }
+      - { ingredient: Thyme, note: ground }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: 2, measure: slice, ingredient: White bread, note: "stale, crust trimmed" }
+      - { ingredient: Milk, note: or half-and-half }
+      - { qty: "1 2/3", measure: lb, ingredient: Ground sirloin, note: about }
+      - { qty: 1, ingredient: Egg, note: "large, beaten" }
+      - { qty: "1/4", measure: cup, ingredient: Worcestershire sauce }
+      - { qty: 3, measure: tbsp, ingredient: Onion, note: grated }
+      - { qty: 2, measure: tbsp, ingredient: Flour }
+      - { qty: "1/2", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 1, measure: cup, ingredient: Beef stock }
+      - { ingredient: Watercress, note: "for garnish, optional" }
+    directions:
+      - Drizzle olive oil in a skillet over medium heat and melt the butter into it. Add the onions, season with salt, pepper and a little ground thyme, and add the bay leaf. Caramelize until very soft, sweet and light golden, 20 to 25 minutes.
+      - Meanwhile, soak the bread in milk or half-and-half. Put the meat in a bowl and add the egg. Squeeze out the bread and crumble it in. Add the Worcestershire and grated onion, sprinkle with salt and pepper and combine. Form into 4 (1-inch-thick) ovals.
+      - Heat a drizzle of olive oil in a large skillet over medium-high heat. Cook the patties until cooked through, about 15 minutes, turning occasionally. Transfer to a plate.
+      - Sprinkle the flour over the caramelized onions and stir 1 minute. Deglaze the meat pan with the wine and pour it into the onions. Add the beef stock and let thicken a moment.
+      - Serve the gravy over the steaks, garnished with watercress, if desired.
+
+  - name: Emerilized Salisbury Steak with Mushroom Gravy
+    categories: [Beef, Veal]
+    servings: 6
+    ingredients:
+      - { qty: "1/2", measure: lb, ingredient: Bacon, note: "sliced, cut into 1/2-inch pieces" }
+      - { qty: "1 1/2", measure: cup, ingredient: Yellow onion, note: chopped }
+      - { qty: 1, measure: lb, ingredient: Cremini mushroom, note: "or button, wiped clean and thinly sliced" }
+      - { qty: "2 1/2", measure: tsp, ingredient: Salt, note: divided }
+      - { qty: "1/2", measure: cup, ingredient: Shallot, note: minced }
+      - { qty: 2, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 1, measure: sprig, ingredient: Rosemary, note: fresh }
+      - { qty: "1/2", measure: cup, ingredient: Red wine, note: dry }
+      - { qty: 2, measure: tbsp, ingredient: Flour }
+      - { qty: 2, measure: cup, ingredient: Beef stock, note: rich }
+      - { qty: "1/2", measure: cup, ingredient: Heavy cream, note: plus 2 tablespoons }
+      - { qty: "1 1/2", measure: lb, ingredient: Ground chuck }
+      - { qty: "3/4", measure: lb, ingredient: Ground veal }
+      - { qty: "1/2", measure: lb, ingredient: Ground pork }
+      - { qty: 2, ingredient: Egg yolk }
+      - { qty: 2, measure: tsp, ingredient: Dijon mustard }
+      - { qty: "1 1/2", measure: tsp, ingredient: Worcestershire sauce }
+      - { qty: 1, measure: tbsp, ingredient: Garlic, note: minced }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter, note: cold }
+      - { qty: 2, measure: tbsp, ingredient: Chives, note: chopped }
+    directions:
+      - In a large skillet over medium-high heat, cook the bacon until most of the fat is rendered but it is not yet crisp. Transfer the bacon to a food processor. Leave 3 tablespoons of fat in the skillet and reserve the rest.
+      - Add the onions to the fat and cook until very soft and caramelized at the edges, about 6 minutes. Add to the bacon and process until smooth. Transfer to a large bowl to cool.
+      - Heat 3 tablespoons of the reserved bacon fat in the pan. Add the mushrooms and 1 teaspoon salt and cook until they release their liquid and are golden at the edges, about 5 minutes. Add the shallots, thyme, and rosemary and cook until soft, about 2 minutes. Add the wine and cook until almost evaporated.
+      - Sprinkle in the flour, stir and cook 1 minute. Add the stock and cook 5 minutes, until thickened. Add 1/2 cup cream and cook until the sauce coats a spoon, about 6 minutes. Cover and keep hot.
+      - Preheat the broiler to 500 degrees F. Add the beef, veal, pork, remaining 2 tablespoons cream, egg yolks, mustard, Worcestershire, garlic, remaining 1 1/2 teaspoons salt and pepper to the onion-bacon puree and mix lightly but thoroughly.
+      - Shape into 6 oval patties about 1 inch thick (about 1 cup each) on a nonstick baking sheet or broiler pan. Broil close to the heat, about 4 minutes per side for medium-rare.
+      - Stir the pan drippings, butter, and chives into the sauce until the butter is incorporated. Adjust the seasoning and serve over the patties.
+
+  - name: Vanessa's Salisbury Steak
+    categories: [Beef]
+    servings: 6
+    description:
+      - "\"One of the best Salisbury steak recipes I've ever had. It has just enough zing to tantalize your tastebuds.\" Double the sauce for plenty of gravy. Sliced onions can go on top while simmering. Serve over rice or mashed potatoes; these also freeze well."
+    ingredients:
+      - { qty: 1, measure: can, ingredient: Cream of mushroom soup }
+      - { qty: 1, measure: tbsp, ingredient: Yellow mustard, note: prepared }
+      - { qty: 2, measure: tsp, ingredient: Worcestershire sauce }
+      - { qty: 1, measure: tbsp, ingredient: Prepared horseradish }
+      - { qty: 1, ingredient: Egg, note: beaten }
+      - { qty: "1/4", measure: cup, ingredient: Bread crumbs }
+      - { qty: "1/4", measure: cup, ingredient: Onion, note: "fresh, minced" }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper }
+      - { qty: "1 1/2", measure: lb, ingredient: Ground beef }
+      - { qty: "1/2", measure: cup, ingredient: Water }
+    directions:
+      - In a bowl blend the soup, mustard, Worcestershire and horseradish.
+      - In another bowl mix the egg, bread crumbs, onion, salt, pepper, 1/4 cup of the soup mixture, and the ground beef. Form into 6 patties.
+      - Brown the patties on both sides, turning only once, in a lightly oiled pan on the stove.
+      - Mix the remaining soup mixture with the water and add to the pan. Cover and simmer 10 to 15 minutes, until the beef is fully cooked.
+
+  - name: Michael Symon's Skirt Steak with Rock Shrimp Salad
+    categories: [Beef, Seafood]
+    servings: 4
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Skirt steak }
+      - { qty: "1/2", measure: lb, ingredient: Shrimp, note: rock shrimp }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 1, measure: tsp, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 1, measure: tbsp, ingredient: Coriander seeds, note: toasted and crushed }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: "extra-virgin, about, divided" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: sliced }
+      - { qty: 1, ingredient: Fresno chile, note: thinly sliced }
+      - { qty: "1/2", ingredient: Red onion, note: thinly sliced }
+      - { qty: 1, ingredient: Lime, note: zest and juice }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: leaves }
+      - { qty: "1/4", measure: cup, ingredient: Cilantro, note: leaves }
+    directions:
+      - Preheat a grill pan to medium-high. Season the steak generously with salt, pepper and the coriander seeds and grill about 4 to 5 minutes per side. Remove and let rest.
+      - While it rests, season the rock shrimp with salt and the crushed red pepper.
+      - Heat a saute pan over medium-high heat with 2 tablespoons olive oil and sear the shrimp. Add the garlic, then the Fresno chile and red onion. Add the lime juice. When the shrimp are cooked, about 4 to 5 minutes, remove from the heat.
+      - In a large bowl, toss the parsley, cilantro, lime zest and shrimp, adding another 1 to 2 tablespoons olive oil if needed.
+      - Slice the steak against the grain into four portions and top each with a spoonful of the rock shrimp salad.
+
+  - name: Steak Diane
+    categories: [Beef]
+    servings: 4
+    ingredients:
+      - { qty: 6, measure: tbsp, ingredient: Butter, note: divided }
+      - { qty: "1/2", measure: cup, ingredient: Mushroom, note: sliced }
+      - { qty: 2, measure: tbsp, ingredient: Onion, note: minced }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: crushed }
+      - { qty: 1, measure: tsp, ingredient: Lemon juice, note: fresh }
+      - { qty: 1, measure: tsp, ingredient: Worcestershire sauce }
+      - { qty: "1/8", measure: tsp, ingredient: Salt }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh leaves, snipped" }
+      - { qty: 1, measure: lb, ingredient: Beef tenderloin, note: cut into 8 slices }
+    directions:
+      - Melt 4 tablespoons of the butter in a large skillet over medium heat. Add the mushrooms, onions, garlic, lemon juice, Worcestershire, and salt and cook, stirring, until the mushrooms are tender. Stir in the parsley, pour the sauce into a small bowl, cover and keep warm.
+      - Melt the remaining 2 tablespoons butter in the skillet. Cook the steaks over medium-high heat, turning once, 3 to 4 minutes per side for medium. Serve with the mushroom sauce.
+
+  - name: Swiss Steak
+    categories: [Beef]
+    prep_time: 45
+    cooking_time: 150
+    servings: 4
+    description:
+      - Recipe courtesy Alton Brown, 2006. Serves 4 to 6.
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Bottom round, note: "beef, trimmed of excess fat" }
+      - { qty: 2, measure: tsp, ingredient: Kosher salt }
+      - { qty: 1, measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "3/4", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: "1/4", measure: cup, ingredient: Vegetable oil, note: or bacon drippings }
+      - { qty: 1, ingredient: Onion, note: "large, thinly sliced" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: stalk, ingredient: Celery, note: chopped }
+      - { qty: 1, measure: tbsp, ingredient: Tomato paste }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: 14.5-ounce }
+      - { qty: 1, measure: tsp, ingredient: Smoked paprika }
+      - { qty: 1, measure: tsp, ingredient: Oregano, note: dried }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: "1 1/2", measure: cup, ingredient: Beef broth }
+    directions:
+      - Preheat the oven to 325 degrees F.
+      - Cut the meat with the grain into 1/2-inch slices and season both sides with salt and pepper. Dredge in the flour, then tenderize with a needling device until each slice is 1/4 inch thick. Dredge once more.
+      - Cover the bottom of a 4 to 5-quart Dutch oven with the oil or drippings over medium-high heat. When it shimmers, brown the steaks without crowding, about 2 minutes per side. Remove to a plate.
+      - Add the onions, garlic, and celery and saute 1 to 2 minutes. Stir in the tomato paste, then the tomatoes, paprika, oregano, Worcestershire and broth.
+      - Return the meat to the pot, submerging it. Cover and cook in the oven on the middle rack for 1 1/2 to 2 hours, until tender and falling apart.
+
+  - name: Stir Fry Tangerine Beef
+    categories: [Beef, Asian]
+    description:
+      - Recipe courtesy Guy Fieri.
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Soy sauce, note: for the marinade }
+      - { qty: 1, measure: tbsp, ingredient: Corn starch }
+      - { qty: 1, measure: lb, ingredient: Flank steak, note: "or tri-tip, cut in thin strips on the bias" }
+      - { qty: 2, measure: tbsp, ingredient: Sherry, note: dry }
+      - { qty: 2, measure: tbsp, ingredient: Hoisin sauce }
+      - { qty: 2, measure: tbsp, ingredient: Honey }
+      - { qty: 1, measure: tbsp, ingredient: Chili sauce }
+      - { qty: 2, measure: tbsp, ingredient: Soy sauce, note: for the sauce }
+      - { qty: "1/4", measure: cup, ingredient: Tangerine juice, note: freshly squeezed }
+      - { qty: 3, measure: tbsp, ingredient: Canola oil }
+      - { qty: 2, measure: tbsp, ingredient: Ginger, note: "fresh, minced" }
+      - { qty: 3, ingredient: Green onion, note: chopped }
+      - { qty: "1/4", ingredient: Tangerine, note: zested }
+      - { qty: 2, measure: tbsp, ingredient: Sesame seeds, note: toasted }
+    directions:
+      - In a resealable plastic bag combine the 3 tablespoons soy sauce and the cornstarch. Add the beef and marinate 20 minutes in the refrigerator.
+      - Whisk together the sherry, hoisin, honey, chili sauce, 2 tablespoons soy sauce and tangerine juice.
+      - In a large pan or wok, heat the oil on high. Add the ginger and beef and cook 2 to 3 minutes. Add the sauce and cook another 2 minutes over medium heat until thickened.
+      - Serve on a warm platter garnished with scallions, tangerine zest and sesame seeds.
+
+  - name: Bob's Taco Meat
+    categories: [Mexican, Beef]
+    ingredients:
+      - { qty: "1 1/2", measure: lb, ingredient: Ground beef }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 3, ingredient: Bay leaf }
+      - { ingredient: Taco seasoning, note: "to taste (cumin, oregano, paprika, garlic, salt)" }
+      - { qty: "1/2", measure: cup, ingredient: White wine }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: 1, ingredient: Onion, note: diced }
+      - { qty: "1/2", ingredient: Green bell pepper, note: diced }
+      - { ingredient: Chipotle in adobo, note: to taste }
+      - { qty: 1, measure: can, ingredient: Tomato sauce, note: 8-ounce }
+      - { ingredient: Water, note: as needed }
+    directions:
+      - Partly brown the beef and drain the excess grease.
+      - Add the other ingredients and simmer until cooked down, adding water if necessary.
+
+  - name: Beef Tacos
+    categories: [Mexican, Beef]
+    servings: 6
+    description:
+      - Shredded braised beef in fried corn tortilla shells with a simple salsa. Serve with Guacamole (its own recipe).
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Beef chuck, note: shoulder }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 1, ingredient: Onion, note: "large, sliced" }
+      - { qty: 1, measure: can, ingredient: Crushed tomato, note: "28-ounce (San Marzano recommended)" }
+      - { qty: 1, measure: tbsp, ingredient: Ancho chili powder }
+      - { qty: 1, measure: tbsp, ingredient: Cayenne pepper }
+      - { qty: 1, measure: tbsp, ingredient: Ground cumin }
+      - { qty: 3, ingredient: Bay leaf }
+      - { ingredient: Vegetable oil, note: for deep frying }
+      - { qty: 6, ingredient: Corn tortilla, note: "fresh, medium" }
+      - { qty: 3, measure: cup, ingredient: White cabbage, note: finely shredded }
+      - { ingredient: Guacamole }
+      - { qty: "1/4", measure: bunch, ingredient: Cilantro, note: fresh leaves }
+      - { qty: 1, measure: can, ingredient: Tomato, note: "28-ounce whole (San Marzano), drained, juice reserved, for the salsa" }
+      - { qty: 1, ingredient: Red onion, note: "small, roughly chopped, for the salsa" }
+      - { qty: 1, ingredient: Serrano pepper, note: for the salsa }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: "roughly chopped, for the salsa" }
+      - { qty: 2, ingredient: Lime, note: "juiced, for the salsa" }
+      - { qty: "1/2", measure: cup, ingredient: Cilantro, note: "leaves, chopped, for the salsa" }
+    directions:
+      - Season the beef on all sides with salt and pepper. In a large Dutch oven with a tight lid, heat 2 tablespoons olive oil over moderately high heat. Add the garlic and beef and brown the meat on all sides to a good crust. Add the onion and lightly brown, 3 to 4 minutes.
+      - Add the crushed tomatoes plus 1 can of water, the spices and bay leaves, season with salt and pepper and add water to cover the meat. Bring to a boil, then cover and simmer 3 hours until fork tender. Let the meat cool in the liquid, then shred.
+      - Heat a large pot of oil to 350 degrees F. Fry the tortillas one at a time for about 30 seconds, then press the center down with the handle of a wooden spoon to fold it, holding a few seconds to form a shell. Drain and season with salt.
+      - "For the salsa: pulse all the salsa ingredients (not the tomato juice) in a food processor, adding the reserved juice if it's too thick. Drizzle with olive oil, cover and let the flavors marry."
+      - "To assemble: lay some cabbage in each shell, top with shredded beef and serve with guacamole and salsa, garnished with cilantro."
+
+  - name: Veal Piccata
+    categories: [Veal]
+    servings: 2
+    description:
+      - Recipe courtesy Emeril Lagasse.
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 2, measure: tsp, ingredient: Salt, note: divided }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 4, ingredient: Veal cutlet, note: "scallops, about 3/4 pound, pounded 1/8 inch thick" }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Vegetable oil }
+      - { qty: 5, measure: tbsp, ingredient: Butter, note: divided }
+      - { qty: 1, measure: cup, ingredient: White wine, note: dry }
+      - { qty: "1/2", measure: cup, ingredient: Chicken stock }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: 1, ingredient: Lemon, note: "juiced (about 2 tablespoons), or more to taste" }
+      - { qty: 2, measure: tbsp, ingredient: Capers, note: drained }
+      - { qty: 1, measure: tbsp, ingredient: Parsley, note: "leaves, chopped (optional), plus sprigs for garnish" }
+    directions:
+      - Combine the flour, 1 1/2 teaspoons of the salt and the pepper in a shallow bowl. Quickly dredge the veal, shaking off the excess.
+      - Heat the oil in a large skillet over medium-high heat until very hot but not smoking. Add 1 1/2 tablespoons of the butter and cook the veal quickly, in batches if needed, until golden on both sides, about 1 minute per side. Set aside on a plate.
+      - Deglaze the pan with the wine and bring to a boil, scraping up the browned bits. When reduced by half, add the stock, garlic, lemon juice and capers and cook 5 minutes, until slightly thickened.
+      - Whisk in the remaining 1/2 teaspoon salt, the remaining 3 1/2 tablespoons butter and the parsley. When the butter melts, return the veal to the pan and heat through, about 1 minute. Garnish with parsley sprigs and serve immediately.
