@@ -20,7 +20,7 @@
     <div class="col col-4">
       <h2>Ingredients</h2>
       <ul class="list-unstyled">
-      <% @recipe.recipe_ingredients.each do |ingredient| %>
+      <% @recipe.recipe_ingredients.includes(:ingredient).each do |ingredient| %>
         <li>
           <%= "#{strip_trailing_zero(ingredient.qty)} #{ingredient.measure}" %>
         <% if ingredient.ingredient.url.present? %>

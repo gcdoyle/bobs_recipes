@@ -10,7 +10,6 @@ capybara-*.html
 *.orig
 rerun.txt
 pickle-email-*.html
->>>>>>> e96e994eac5663dcde3ded5150683e5d74878baf
 
 # Ignore all logfiles and tempfiles.
 /log/*
@@ -68,3 +67,7 @@ yarn-debug.log*
 !/storage/.keep
 
 /config/master.key
+
+# macOS metadata
+.DS_Store
+._*

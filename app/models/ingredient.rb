@@ -1,5 +1,5 @@
 class Ingredient < ApplicationRecord
-  has_many :recipe_ingredients
+  has_many :recipe_ingredients, dependent: :restrict_with_error
   has_many :recipes, through: :recipe_ingredients
 
   has_one_attached :image

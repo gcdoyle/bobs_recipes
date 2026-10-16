@@ -1,7 +1,6 @@
 Rails.application.routes.draw do
 
   devise_for :users
-  resources :menus
   namespace :admin do
     resources :recipes
     resources :ingredients

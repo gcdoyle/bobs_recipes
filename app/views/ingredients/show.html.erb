@@ -1,9 +1,18 @@
 <p id="notice"><%= notice %></p>
 
-<p>
-  <strong>Title:</strong>
-  <%= @ingredient.title %>
-</p>
+<h1><%= @ingredient.name %></h1>
 
-<%= link_to 'Edit', edit_ingredient_path(@ingredient) %> |
+<% if @ingredient.url.present? %>
+  <p><%= link_to "More about #{@ingredient.name}", @ingredient.url %></p>
+<% end %>
+
+<% if @ingredient.recipes.any? %>
+  <h2>Used in</h2>
+  <ul>
+    <% @ingredient.recipes.distinct.order(:name).each do |recipe| %>
+      <li><%= link_to recipe.name, recipe %></li>
+    <% end %>
+  </ul>
+<% end %>
+
 <%= link_to 'Back', ingredients_path %>

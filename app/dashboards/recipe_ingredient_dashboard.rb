@@ -17,6 +17,7 @@ class RecipeIngredientDashboard < Administrate::BaseDashboard
       class: "ingredient-note"
     ),
     id: Field::Number,
+    position: Field::Number,
     qty: Field::Number.with_options(
       decimals: 2,
     ),
@@ -56,6 +57,7 @@ class RecipeIngredientDashboard < Administrate::BaseDashboard
   # on the model's form (`new` and `edit`) pages.
   FORM_ATTRIBUTES = %i[
   recipe
+  position
   ingredient
   qty
   measure
