@@ -88,6 +88,36 @@ class AdminTest < ActionDispatch::IntegrationTest
     assert_equal [1], soup.recipe_ingredients.map(&:position)
   end
 
+  test "import page is admin-only" do
+    get recipe_imports_path
+    assert_redirected_to new_user_session_path
+    sign_in users(:cook)
+    get recipe_imports_path
+    assert_redirected_to root_path
+  end
+
+  test "admin previews and imports a recipe file from the import page" do
+    sign_in users(:admin)
+    get recipe_imports_path
+    assert_select "td", text: "asian_stir_fry.yml"
+
+    assert_no_difference("Recipe.count") do
+      post recipe_imports_path, params: { file: "asian_stir_fry.yml", dry_run: 1 }
+    end
+    assert_select "#import-result", /13 recipes would be created/
+
+    assert_difference("Recipe.count", 13) do
+      post recipe_imports_path, params: { file: "asian_stir_fry.yml" }
+    end
+    assert_select "#import-result", /13 recipes created/
+  end
+
+  test "import page rejects files outside db/recipes" do
+    sign_in users(:admin)
+    post recipe_imports_path, params: { file: "../../config/database.yml" }
+    assert_redirected_to recipe_imports_path
+  end
+
   test "an ingredient used by a recipe can't be deleted" do
     sign_in users(:admin)
     assert_no_difference "Ingredient.count" do

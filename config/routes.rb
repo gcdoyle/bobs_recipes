@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
 
   devise_for :users
+  resources :recipe_imports, only: %i[index create], path: "import"
   namespace :admin do
     resources :recipes do
       post :detach, on: :member

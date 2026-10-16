@@ -17,7 +17,7 @@ class RecipeImport
   end
 
   def initialize(path:, dry_run: false, out: $stdout)
-    @path = Rails.root.join(path)
+    @path = Rails.root.join(path.to_s)
     @dry_run = dry_run
     @out = out
   end
