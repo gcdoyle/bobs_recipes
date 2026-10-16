@@ -12,6 +12,10 @@ gem "image_processing", "~> 1.2"
 gem "mini_magick"
 gem "bootsnap", require: false
 
+# json 3.x removed the quirks_mode option that some gems still pass
+# (ArgumentError on admin requests). Lift once they're updated.
+gem "json", "~> 2.10"
+
 # Admin
 gem "administrate", "~> 0.20.1"
 gem "administrate-field-nested_has_many", "~> 2.1"
@@ -39,6 +43,8 @@ group :development do
 end
 
 group :test do
+  # Rails 7.2's test runner doesn't support Minitest 6.
+  gem "minitest", "~> 5.25"
   gem "capybara"
   gem "selenium-webdriver"
 end
