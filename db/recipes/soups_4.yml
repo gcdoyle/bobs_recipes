@@ -1,0 +1,561 @@
+# Recipes from "soups, chowder, gumbo, stews stocks.txt", part 4. Already in
+# from other files: Cajun Shrimp and Rice, Old-Time Beef Stew, Beef Stew. Emeril's
+# Quick Red Bean Soup is the same as his Red Bean Soup in part 1.
+recipes:
+  - name: Michael Symon's Mushroom Stew and Dumplings
+    categories: [Soups, Stews, Vegetables]
+    description:
+      - The mushroom stock makes about 4 quarts; freeze the extra.
+    ingredients:
+      - { qty: 4, measure: qt, ingredient: Water, note: for the stock }
+      - { qty: "1/2", measure: bunch, ingredient: Thyme, note: "fresh, for the stock" }
+      - { qty: 2, measure: oz, ingredient: Dried porcini, note: "or dried shiitake, for the stock" }
+      - { qty: 1, measure: cup, ingredient: Mushroom, note: "fresh button or cremini, for the stock" }
+      - { qty: 1, ingredient: Onion, note: "roughly chopped, for the stock" }
+      - { qty: 3, ingredient: Carrot, note: "roughly chopped, for the stock" }
+      - { qty: 2, measure: stalk, ingredient: Celery, note: "roughly chopped, for the stock" }
+      - { qty: 2, ingredient: Bay leaf, note: "dried, for the stock" }
+      - { qty: 1, measure: tbsp, ingredient: Black peppercorns, note: "whole, for the stock" }
+      - { qty: 2, measure: tbsp, ingredient: Salt, note: for the stock }
+      - { qty: 1, ingredient: Yellow onion, note: sliced }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: sliced }
+      - { qty: 3, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 2, measure: cup, ingredient: Mushroom, note: "fresh, sliced" }
+      - { qty: 2, measure: cup, ingredient: Butternut squash, note: 1-inch dice }
+      - { qty: 1, measure: cup, ingredient: Parsnip, note: 1-inch dice }
+      - { qty: 1, measure: cup, ingredient: Celery root, note: 1-inch dice }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: "fresh, leaves pulled" }
+      - { qty: "1/8", measure: tsp, ingredient: Nutmeg, note: grated }
+      - { qty: 1, measure: cup, ingredient: Flour, note: for the dumplings }
+      - { qty: 1, measure: tbsp, ingredient: Baking powder, note: for the dumplings }
+      - { qty: "1 1/2", measure: cup, ingredient: Half-and-half, note: for the dumplings }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+    directions:
+      - "Mushroom stock: bring the stock ingredients to a boil in a large stockpot, then simmer 30 minutes. Strain and cool; freeze what you won't use."
+      - Heat the olive oil in a large Dutch oven over medium-high heat and saute the onion and garlic until fragrant, 1 to 2 minutes. Turn the heat to high, add the mushrooms and season. After 2 minutes add the remaining vegetables, season with salt and cook until slightly charred, 2 to 3 minutes.
+      - Add 2 quarts of the stock, the thyme and nutmeg, season, bring to a boil and simmer 10 to 12 minutes, until the vegetables are tender.
+      - "Dumplings: whisk the flour, baking powder and salt, then slowly whisk in the half-and-half to make a sticky dough like a wet drop biscuit, adjusting with more half-and-half or flour."
+      - Drop spoonfuls into the simmering stew, cover and steam 2 to 3 minutes. Take off the heat and serve.
+
+  - name: Mushroom Soup with Bacon
+    categories: [Soups]
+    prep_time: 15
+    cooking_time: 75
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. Serves 6 to 8.
+    ingredients:
+      - { qty: 5, measure: slice, ingredient: Bacon, note: cut crosswise into 1/2-inch lengths }
+      - { qty: 2, measure: tbsp, ingredient: Butter, note: plus a pat if needed }
+      - { qty: 1, ingredient: Onion, note: 1/4-inch dice }
+      - { ingredient: Kosher salt }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { qty: "1 1/2", measure: lb, ingredient: Mushroom, note: "mixed (shiitake, cremini or oyster), stems removed, sliced" }
+      - { qty: 2, ingredient: Yukon gold potatoes, note: "medium, diced" }
+      - { qty: 2, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: "1/2", measure: cup, ingredient: Sherry, note: dry }
+      - { qty: 4, measure: cup, ingredient: Chicken stock, note: or vegetable stock }
+      - { qty: "1/2", measure: cup, ingredient: Heavy cream }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh flat-leaf, finely chopped, for garnish" }
+    directions:
+      - Cook the bacon and butter in a wide large pot over medium heat, stirring often, until crispy and much fat is released. Reserve the bacon.
+      - Add the onions (and another pat of butter if needed), season and cook until soft and very aromatic, 7 to 8 minutes. Add the garlic for 2 to 3 minutes.
+      - Add the mushrooms, season and cook until soft and juicy, 6 to 7 minutes. Set aside 1/3 of the mushroom mixture.
+      - Add the potatoes and sprinkle with the flour. Add the sherry and reduce by half. Add the stock, bring to a boil, season and simmer 30 minutes. Add the cream and simmer 10 minutes more.
+      - Puree until smooth, return to the pot with the reserved bacon and mushrooms, adjust the seasoning and garnish with parsley.
+
+  - name: Cream of Mushroom Soup
+    categories: [Soups]
+    ingredients:
+      - { qty: 1, measure: oz, ingredient: Dried porcini }
+      - { qty: "1/2", measure: cup, ingredient: Madeira, note: or wine }
+      - { qty: 3, measure: tbsp, ingredient: Butter }
+      - { qty: 2, ingredient: Onion, note: chopped }
+      - { qty: 1, ingredient: Leek, note: "white and light green only, thinly sliced" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: lb, ingredient: Mushroom, note: button or cremini }
+      - { qty: 3, measure: tbsp, ingredient: Flour }
+      - { qty: 8, measure: cup, ingredient: Chicken stock, note: "6 to 8 cups, or vegetable stock" }
+      - { qty: 2, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: "1/2", measure: cup, ingredient: Heavy cream }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Bring the porcini and Madeira to a boil in a small saucepan, then let sit off the heat 20 minutes, until very soft. Strain through a fine sieve or coffee filter, reserving the liquid. Rinse the porcini of any grit and chop roughly.
+      - Heat the butter in a soup pot and saute the onions, leek and garlic until soft and lightly caramelized, about 6 minutes. Add the mushrooms and cook until their liquid is released and mostly evaporated, about 4 minutes.
+      - Sprinkle in the flour, stir and cook 2 minutes. Add the porcini liquid, stock, thyme and porcini, bring to a boil and simmer 45 minutes.
+      - Add the cream and cook 15 minutes. Puree in batches, return to the pot and adjust the seasoning.
+
+  - name: Bob's Split Pea Soup
+    categories: [Soups]
+    description:
+      - You may not use all of the vegetable mixture.
+    ingredients:
+      - { qty: 14, measure: oz, ingredient: Split pea, note: "dried, 1 bag" }
+      - { qty: 1, ingredient: Onion, note: "large, diced" }
+      - { qty: 2, measure: rib, ingredient: Celery, note: thinly sliced }
+      - { qty: 2, ingredient: Carrot, note: shredded }
+      - { qty: 1, ingredient: Ham hock, note: "or a ham bone with meat" }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: "fresh, minced" }
+      - { qty: 5, measure: sprig, ingredient: Thyme, note: "fresh, or 1 1/2 teaspoons dried" }
+      - { qty: "1/2", measure: tsp, ingredient: Red pepper flakes }
+      - { qty: 1, measure: tbsp, ingredient: Chicken base, note: or bouillon cubes }
+      - { qty: 1, measure: can, ingredient: Chicken broth, note: 14-ounce }
+      - { qty: "1/3", measure: cup, ingredient: Long grain rice, note: white }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: "3/4", measure: cup, ingredient: Pea, note: "frozen, optional" }
+    directions:
+      - Soak the peas in water overnight and drain.
+      - Put the peas and ham bone in a stockpot with water to cover, about 6 cups. Bring to a boil and simmer about 1 hour.
+      - Melt the butter with the olive oil in a saute pan and sweat the onions, carrots and celery 2 to 3 minutes. Add the garlic for 30 seconds.
+      - Add as much of the vegetables as you like to the pot with the bay leaves, thyme, pepper flakes, broth, chicken base and rice. Simmer until the peas dissolve and the soup thickens. Season.
+      - "Optional: in the last half hour, cook the frozen peas in water until soft, puree and stir in for flavor and texture."
+
+  - name: Split Pea Soup with Smithfield Ham
+    categories: [Soups]
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Split pea, note: dried }
+      - { qty: 1, ingredient: Ham hock, note: or ham bone }
+      - { qty: 3, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: 1, measure: cup, ingredient: Yellow onion, note: finely chopped }
+      - { qty: "1/2", measure: cup, ingredient: Celery, note: finely chopped }
+      - { qty: "1/2", measure: cup, ingredient: Carrot, note: finely chopped }
+      - { qty: 2, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: lb, ingredient: Ham, note: "Smithfield, chopped" }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: "3/4", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/4", measure: tsp, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 4, measure: cup, ingredient: Water }
+      - { qty: 4, measure: cup, ingredient: Chicken stock }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: 2, measure: tsp, ingredient: Thyme, note: fresh }
+    directions:
+      - Cover the peas with water by 2 inches and soak 8 hours or overnight. Drain.
+      - Score the ham hock, cover with water, bring to a boil and simmer 1 hour. Drain.
+      - Melt the butter in a large pot over medium-high heat. Cook the onions 2 minutes, then the celery and carrots until just soft, about 3 minutes. Add the garlic for 30 seconds.
+      - Add the ham hock and ham and cook until beginning to brown. Add the peas, salt, pepper and pepper flakes and cook 2 minutes.
+      - Add the stock, water, bay leaf and thyme and cook, stirring occasionally, until the peas are tender, about 1 hour, adding water if it gets too thick. Discard the bay leaf and adjust the seasoning.
+
+  - name: Pepper Pot Soup
+    categories: [Soups]
+    servings: 8
+    description:
+      - Serves 8 to 12. Tripe is traditional, or use another meat.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Beef tripe, note: honeycomb }
+      - { qty: 5, measure: slice, ingredient: Bacon, note: diced }
+      - { qty: "1/2", measure: cup, ingredient: Onion, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Celery, note: chopped }
+      - { qty: 3, ingredient: Leek, note: chopped }
+      - { qty: 1, measure: bunch, ingredient: Parsley, note: "fresh, chopped" }
+      - { qty: 2, ingredient: Green bell pepper, note: diced }
+      - { qty: 2, measure: qt, ingredient: Beef stock }
+      - { qty: "1/4", measure: tsp, ingredient: Dried thyme }
+      - { qty: "1/2", measure: tsp, ingredient: Marjoram, note: dried }
+      - { qty: "1/2", measure: tsp, ingredient: Clove, note: "ground, optional" }
+      - { qty: "1/4", measure: tsp, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: 1, measure: tsp, ingredient: Black pepper, note: ground }
+      - { qty: 1, ingredient: Potato, note: "large, peeled and diced" }
+      - { qty: 2, ingredient: Carrot, note: "large, diced" }
+      - { qty: 4, measure: tbsp, ingredient: Margarine, note: or butter }
+      - { qty: 4, measure: tbsp, ingredient: Flour, note: all-purpose }
+    directions:
+      - Cover the tripe with water in a saucepan, bring to a boil and turn off the heat. Cool a bit in the water, drain, rinse and cut into 1/4-inch pieces.
+      - Saute the bacon in a large heavy kettle until clear. Add the onion, celery, leeks, parsley and green peppers and saute until tender.
+      - Stir in the stock, thyme, marjoram, cloves, red pepper, bay leaf, black pepper and the tripe. Bring to a boil, then simmer covered until the meat is very tender, about 2 hours.
+      - Add the potato and carrots and cook 20 minutes more.
+      - Stir the flour into the melted margarine and cook a moment for a roux. Stir it into the soup and simmer, stirring, until slightly thickened. Correct the seasoning.
+
+  - name: Philadelphia Pepper Pot Soup
+    categories: [Soups]
+    ingredients:
+      - { qty: "1 1/2", measure: lb, ingredient: Beef tripe, note: honeycomb }
+      - { qty: 3, measure: tsp, ingredient: Salt, note: "for cleaning, plus 1 tablespoon for the water" }
+      - { qty: 3, measure: tbsp, ingredient: Butter }
+      - { qty: 1, measure: cup, ingredient: Onion, note: chopped }
+      - { qty: 1, ingredient: Onion, note: "whole, studded with 3 cloves" }
+      - { qty: 3, ingredient: Clove, note: whole }
+      - { qty: 1, measure: rib, ingredient: Celery, note: sliced thin }
+      - { qty: 1, ingredient: Carrot, note: "large, peeled and sliced thin" }
+      - { qty: 1, ingredient: Leek, note: "about 1 cup, washed and sliced, including tender green" }
+      - { qty: "1/2", measure: cup, ingredient: Green bell pepper, note: diced }
+      - { qty: 4, measure: cup, ingredient: Chicken broth }
+      - { qty: 1, measure: cup, ingredient: Water }
+      - { qty: 1, ingredient: Veal shank, note: "small meaty veal knuckle" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: "1/2", measure: tsp, ingredient: Chipotle chili powder, note: or cayenne }
+      - { qty: 1, ingredient: Bay leaf, note: broken in half }
+      - { qty: 1, measure: tsp, ingredient: Oregano, note: dried }
+      - { qty: 1, measure: tsp, ingredient: Dried basil }
+      - { qty: "1/2", measure: tsp, ingredient: Dried thyme }
+      - { qty: 2, measure: tsp, ingredient: Salt, note: or to taste }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: cup, ingredient: Potato, note: 1/2-inch dice }
+      - { qty: 1, measure: cup, ingredient: Evaporated milk, note: or heavy cream }
+      - { qty: 1, measure: cup, ingredient: Parsley, note: "fresh, chopped - half for the soup, half for garnish" }
+      - { qty: 1, measure: tbsp, ingredient: Corn starch, note: dissolved in 3 tablespoons water }
+      - { qty: "1/3", measure: cup, ingredient: Butter, note: for garnish }
+    directions:
+      - Rinse the tripe under cold water, rub with salt to clean the crevices and rinse again.
+      - Cover by 2 inches with water and the tablespoon of salt in a 3-quart saucepan. Slowly bring to a boil and simmer 15 minutes. Drain, cool and cut into 1/2-inch cubes.
+      - Heat a large Dutch oven over medium heat. Add the 3 tablespoons butter, chopped and whole onions, celery, carrots, leeks and pepper, stir, cover and cook gently, stirring occasionally, until the onions are translucent, about 10 minutes. Don't brown.
+      - Add the broth, water, veal knuckle, tripe, garlic, chile powder, bay leaf, herbs, salt and pepper. Bring to a boil, then simmer 1 1/2 hours.
+      - Pick the meat off the knuckle and return it; discard the whole onion. Add the potatoes, evaporated milk and 1/2 cup parsley and simmer 15 to 20 minutes, until tender.
+      - Stir in the cornstarch mixture and simmer 2 to 3 minutes until slightly thickened. Swirl in the butter until melted and serve immediately, sprinkled with parsley.
+
+  - name: Piri Piri
+    categories: [Sauces]
+    description:
+      - Recipe courtesy Emeril Lagasse, 2004. A Portuguese hot pepper sauce. Store refrigerated in an airtight container.
+    ingredients:
+      - { qty: 9, measure: tbsp, ingredient: Olive oil, note: "1 tablespoon plus 1/2 cup, divided" }
+      - { qty: 5, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 4, ingredient: Red chile, note: "cayenne chiles (or other hot red peppers), stemmed, ribs and seeds removed, rough chopped" }
+      - { qty: "1/4", measure: cup, ingredient: Lemon juice, note: fresh }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+    directions:
+      - Heat 1 tablespoon oil in a small saute pan over medium-high heat. Saute the garlic and peppers, stirring often, until the garlic edges start to brown, 3 to 4 minutes. Add the lemon juice and take off the heat.
+      - Puree in a blender with the salt until mostly smooth, then drizzle in the remaining 1/2 cup olive oil. Cool before using.
+
+  - name: Bob's Potato and Leek Soup
+    categories: [Soups]
+    description:
+      - With shrimp or corn if you like. Smoky bacon makes all the difference.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 5, measure: slice, ingredient: Bacon, note: "4 or 5, smoky, diced" }
+      - { qty: 3, ingredient: Leek, note: "halved and thinly sliced in 1/4-inch half-moons" }
+      - { qty: 1, measure: cup, ingredient: Celery, note: "3/4 to 1 cup, thinly sliced" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "large, diced" }
+      - { qty: "1/2", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 4, ingredient: Carrot, note: "3 to 4, grated on the large holes" }
+      - { qty: 4, measure: can, ingredient: Chicken broth, note: 15-ounce }
+      - { qty: 5, measure: sprig, ingredient: Thyme }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Black pepper, note: "freshly ground, or to taste" }
+      - { qty: 2, measure: tbsp, ingredient: Kosher salt }
+      - { qty: 16, measure: oz, ingredient: Heavy cream, note: "40% (half-and-half will do)" }
+      - { qty: 5, ingredient: Potato, note: "4 or 5, 3/4-inch dice" }
+      - { ingredient: Cayenne pepper, note: optional }
+      - { ingredient: Shrimp, note: "cooked, bite-size, optional" }
+    directions:
+      - Render the diced bacon in a stockpot and add the butter. Wilt the leeks, celery, carrots and garlic.
+      - Add the wine, thyme, bay leaves, broth, potatoes, salt and pepper. Simmer about 30 minutes, until the potatoes start to break down; break them up with a large spoon or blend part of the soup to the texture you like.
+      - Add the cream in the last minute or so. Add cooked shrimp to the bowls when serving, or dice fresh shrimp and add it to the pot a few minutes before the cream.
+
+  - name: Roasted Pumpkin Soup
+    categories: [Soups, Thanksgiving]
+    servings: 6
+    description:
+      - Recipe courtesy Emeril Lagasse, 2006. When blending hot soup, let it cool 5 minutes, fill the blender no more than halfway, vent one corner of the lid and cover with a towel.
+    ingredients:
+      - { qty: 1, ingredient: Pumpkin, note: "2 pounds, halved and seeded" }
+      - { qty: 1, measure: tsp, ingredient: Salt, note: divided }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: "freshly ground, plus a pinch" }
+      - { qty: 3, measure: tbsp, ingredient: Olive oil, note: divided }
+      - { qty: 2, measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: 1, measure: tsp, ingredient: Allspice, note: ground }
+      - { qty: "3/4", measure: cup, ingredient: Onion, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Carrot, note: chopped }
+      - { qty: "1/4", measure: cup, ingredient: Celery, note: chopped }
+      - { qty: 2, measure: tbsp, ingredient: Ginger, note: minced }
+      - { qty: 1, measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: "3 1/2", measure: cup, ingredient: Chicken stock }
+      - { qty: "1/2", measure: cup, ingredient: Heavy cream }
+      - { qty: 3, measure: tbsp, ingredient: Pumpkin seed oil }
+      - { qty: 20, measure: leaf, ingredient: Sage, note: "15 to 20 small, fried" }
+    directions:
+      - Preheat the oven to 400 degrees F. Season the cut sides with 1/2 teaspoon salt and 1/4 teaspoon pepper, turn cut side down on a parchment-lined sheet and drizzle with 1 tablespoon oil. Roast until golden and tender, 50 to 60 minutes. Cool, scoop out the flesh and discard the skin.
+      - Heat the remaining oil in a medium saucepan over medium-high heat and cook the cinnamon and allspice 1 minute, stirring. Saute the onions, carrots, celery, ginger and garlic until lightly caramelized, 3 to 4 minutes.
+      - Add the stock and pumpkin, bring to a boil and simmer 15 to 20 minutes, until the vegetables are soft.
+      - Puree until smooth. Season with the remaining salt and a pinch of pepper and stir in the cream.
+      - Serve 1 cup per bowl, drizzled with 2 teaspoons pumpkin seed oil and garnished with 2 or 3 fried sage leaves.
+
+  - name: Pumpkin and Black Bean Soup
+    categories: [Soups, Beans]
+    prep_time: 5
+    cooking_time: 15
+    servings: 4
+    description:
+      - Recipe courtesy Rachael Ray. Serves 4 to 6.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Onion, note: "medium, finely chopped" }
+      - { qty: 3, measure: cup, ingredient: Vegetable stock }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: "14 1/2-ounce, in juice" }
+      - { qty: 1, measure: can, ingredient: Black beans, note: "15-ounce, drained" }
+      - { qty: 2, measure: can, ingredient: Pumpkin puree, note: 15-ounce }
+      - { qty: 1, measure: cup, ingredient: Heavy cream }
+      - { qty: 1, measure: tbsp, ingredient: Curry powder }
+      - { qty: "1 1/2", measure: tsp, ingredient: Ground cumin }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper }
+      - { ingredient: Salt, note: coarse }
+      - { qty: 20, ingredient: Chives, note: "blades, chopped, for garnish" }
+    directions:
+      - Heat the oil in a soup pot over medium heat and saute the onion 5 minutes.
+      - Add the stock, tomatoes, beans and pumpkin, stir and bring to a boil.
+      - Reduce to medium-low and stir in the cream, curry, cumin, cayenne and salt. Simmer 5 minutes, adjust the seasoning and garnish with chives.
+
+  - name: Portuguese Sausage and Bean Stew
+    categories: [Stews, Beans, Sausage]
+    servings: 8
+    description:
+      - Recipe courtesy Aida Mollenkamp. Serves 8 to 10.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Kidney beans, note: "dried (or great Northern), rinsed and picked over - or 2 (15-ounce) cans" }
+      - { qty: 8, measure: oz, ingredient: Bacon, note: "sliced smoked, optional" }
+      - { qty: 8, measure: oz, ingredient: Chorizo, note: "Spanish (cured), or kielbasa or other spicy sausage, 1/4-inch coins" }
+      - { qty: 1, ingredient: Yellow onion, note: "large, roughly chopped" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "medium, thinly sliced" }
+      - { qty: "1/4", measure: cup, ingredient: Tomato paste }
+      - { qty: 2, ingredient: Yukon gold potatoes, note: "medium, 1/2-inch pieces" }
+      - { qty: 4, measure: cup, ingredient: Water }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: 28-ounce }
+      - { qty: 2, measure: tbsp, ingredient: Honey }
+      - { qty: 1, measure: tbsp, ingredient: Paprika, note: sweet }
+      - { qty: 2, measure: tsp, ingredient: Kosher salt, note: plus more to taste }
+      - { qty: 1, ingredient: Bay leaf, note: medium }
+    directions:
+      - Soak dried beans in cold water to cover by 2 inches at least 8 hours or overnight, then drain. (Drain and rinse canned beans.)
+      - Cook the bacon, if using, in a large heavy pot over medium heat until crisp, about 10 minutes. Set aside. Keep 1 tablespoon fat and brown the sausage; set aside.
+      - Keep 1 tablespoon fat and cook the onion and garlic over medium heat until golden, about 4 minutes. Stir in the tomato paste for 30 seconds.
+      - Stir in the potatoes, then the beans, chorizo and everything else except the bacon. Bring to a boil, then simmer over medium-low until the flavors meld and dried beans are cooked, 1 to 1 1/2 hours.
+      - Crumble in the bacon, season, discard the bay leaf and serve.
+
+  - name: Souse
+    categories: [Soups, Caribbean]
+    description:
+      - Old sour is a Key West seasoning of salted, fermented key lime juice.
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Beef tripe }
+      - { qty: 2, measure: lb, ingredient: Chittlings }
+      - { qty: 2, measure: lb, ingredient: Pig feet }
+      - { qty: 4, ingredient: Bird pepper, note: or more }
+      - { ingredient: Salt }
+      - { ingredient: Water }
+      - { qty: 1, measure: cup, ingredient: Old sour }
+    directions:
+      - Wash the meats, removing loose skin and fat, and cut into bite-size pieces.
+      - Put each in a separate pot with 1 teaspoon salt, cover with 3 inches of water and bring to a boil. Discard the water and repeat twice.
+      - Combine the meats in one pot, bring to a simmer, add the old sour and peppers and simmer until tender.
+
+  - name: Shrimp Stock
+    categories: [Stocks, Seafood]
+    description:
+      - Recipe courtesy Emeril Lagasse. Cool quickly in an ice bath; refrigerate or freeze what you don't need.
+    ingredients:
+      - { qty: "2 1/2", measure: lb, ingredient: Shrimp, note: shells }
+      - { qty: 11, measure: cup, ingredient: Water, note: "cold, 2 1/2 quarts plus 1 cup" }
+      - { qty: 1, measure: cup, ingredient: Onion, note: coarsely chopped }
+      - { qty: "1/2", measure: cup, ingredient: Carrot, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Celery, note: chopped }
+      - { qty: 1, measure: tbsp, ingredient: Garlic, note: roughly chopped }
+      - { qty: "1/2", measure: cup, ingredient: Mushroom, note: trimmings }
+      - { qty: 1, ingredient: Bay leaf, note: for the sachet }
+      - { qty: "1/4", measure: tsp, ingredient: Dried thyme, note: for the sachet }
+      - { qty: "1/4", measure: tsp, ingredient: Black peppercorns, note: "crushed, for the sachet" }
+      - { qty: 4, ingredient: Parsley, note: "stems, for the sachet" }
+    directions:
+      - Rinse the shells under cold water and put them in a 1-gallon stockpot with everything else, the bay leaf, thyme, peppercorns and parsley stems tied in a sachet.
+      - Bring to a boil, then simmer 45 minutes to 1 hour, skimming the impurities.
+      - Strain and cool immediately in an ice bath.
+
+  - name: Quick and Spicy Tomato Soup
+    categories: [Soups]
+    description:
+      - Recipe courtesy Giada De Laurentiis.
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Olive oil }
+      - { qty: 2, ingredient: Carrot, note: peeled and chopped }
+      - { qty: 1, ingredient: Onion, note: "small, chopped" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 26, measure: oz, ingredient: Marinara sauce, note: "1 jar (recommended: San Marzano)" }
+      - { qty: 2, measure: can, ingredient: Chicken broth, note: 14-ounce }
+      - { qty: 1, measure: can, ingredient: Cannellini beans, note: "15-ounce, drained and rinsed" }
+      - { qty: "1/2", measure: tsp, ingredient: Red pepper flakes }
+      - { qty: "1/2", measure: cup, ingredient: Pastina, note: or any small pasta }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Warm the olive oil in a large soup pot over medium-high heat and saute the carrots, onion and garlic until soft, about 2 minutes.
+      - Add the marinara, broth, beans, red pepper flakes, pasta, salt and pepper and simmer 10 minutes.
+
+  - name: Tuscan Tomato and Bread Soup (Pappa al Pomodoro)
+    categories: [Soups]
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. When blending hot soup, let it cool 5 minutes, fill the blender no more than halfway and vent the lid under a towel.
+    ingredients:
+      - { ingredient: Olive oil, note: "extra-virgin, plus high-quality finishing oil for garnish" }
+      - { qty: 1, ingredient: Red onion, note: "large, diced" }
+      - { ingredient: Kosher salt }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { qty: 1, measure: cup, ingredient: White wine }
+      - { qty: 2, measure: lb, ingredient: Tomato, note: "ripe summer tomatoes, diced" }
+      - { qty: 10, measure: leaf, ingredient: Basil, note: "half whole, half in chiffonade" }
+      - { qty: 2, measure: cup, ingredient: Tomato juice }
+      - { qty: 2, measure: cup, ingredient: Bread, note: "day-old Italian, crusts removed, cubed" }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: "Parmigiano-Reggiano, grated" }
+    directions:
+      - Coat a large wide pot with olive oil over medium heat. Cook the onions with salt and red pepper until soft and very aromatic, 8 to 10 minutes. Add the garlic for 2 to 3 minutes.
+      - Add the wine and reduce by half. Stir in the tomatoes, season and cook until really soft and juicy, 12 to 15 minutes. Toss in the whole basil leaves.
+      - Puree in batches and return to the pot with the tomato juice and bread. Cook over medium heat until the bread loses its shape and the soup is really thick, about 20 minutes. Adjust the seasoning.
+      - Serve garnished with cheese, basil chiffonade and a big drizzle of finishing oil.
+
+  - name: Mario Batali's Chilled Tomato and Bread Soup
+    categories: [Soups]
+    servings: 8
+    ingredients:
+      - { qty: 5, measure: lb, ingredient: Tomato, note: "overripe heirloom, cored" }
+      - { qty: 3, measure: cup, ingredient: Bread, note: "day-old Italian or country, torn" }
+      - { qty: "1/2", measure: cup, ingredient: Basil, note: fresh leaves }
+      - { qty: 2, measure: tbsp, ingredient: Thyme, note: "fresh leaves, chopped" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 2, ingredient: Lemon, note: zest and juice }
+      - { qty: 2, measure: tsp, ingredient: Red pepper flakes, note: hot }
+      - { qty: 4, ingredient: Green onion, note: "whites and 2 inches of greens, thinly sliced" }
+      - { qty: 8, measure: slice, ingredient: Baguette, note: "1/2 inch thick, toasted and cooled" }
+    directions:
+      - Blend the tomatoes in a food processor until liquid. Add the bread, basil and thyme, season aggressively and blend. Thin with water if too thick. Chill 1 hour.
+      - Gently mix the olive oil, lemon zest and juice, red pepper flakes and scallions and season lightly with salt.
+      - Divide the soup among 8 bowls, float a toast in each and top the toast with the scallion mixture.
+
+  - name: Michael Symon's Turkey Dumpling Soup
+    categories: [Soups, Poultry, Thanksgiving]
+    ingredients:
+      - { qty: 1, ingredient: Onion, note: "quartered, for the stock" }
+      - { qty: 1, ingredient: Carrot, note: "thickly sliced, for the stock" }
+      - { qty: 1, measure: head, ingredient: Garlic, note: "halved crosswise, for the stock" }
+      - { qty: 1, measure: tbsp, ingredient: Kosher salt, note: for the stock }
+      - { qty: 4, measure: sprig, ingredient: Thyme, note: for the stock }
+      - { qty: 1, ingredient: Bay leaf, note: for the stock }
+      - { qty: 1, measure: tbsp, ingredient: Black peppercorns, note: for the stock }
+      - { ingredient: Turkey, note: "carcass and wings, for the stock" }
+      - { qty: 2, measure: gal, ingredient: Water, note: for the stock }
+      - { qty: 1, measure: cup, ingredient: Flour, note: for the dumplings }
+      - { qty: 2, ingredient: Egg, note: for the dumplings }
+      - { qty: "1/4", measure: cup, ingredient: Milk, note: for the dumplings }
+      - { qty: "1/4", measure: tsp, ingredient: Nutmeg, note: for the dumplings }
+      - { qty: "1/4", measure: cup, ingredient: Chives, note: "chopped, for the dumplings" }
+      - { ingredient: Turkey, note: "8 to 10 pounds, roasted, meat pulled and roughly chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: 1, ingredient: Onion, note: "large, diced" }
+      - { qty: 2, ingredient: Carrot, note: "large, diced" }
+      - { qty: 1, measure: bunch, ingredient: Celery, note: diced }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: cup, ingredient: Tarragon, note: chopped }
+      - { ingredient: Salt }
+    directions:
+      - "Stock: combine the stock ingredients in a large stockpot, bring to a boil, then simmer 5 hours, skimming impurities. Strain. You need 1 1/2 gallons."
+      - "Dumplings: make a well in the flour. Whisk the eggs and milk, pour into the well with the nutmeg and chives and whisk until smooth."
+      - "Soup: heat the butter in a large stockpot over medium heat and sweat the vegetables with a large pinch of salt until translucent. Add the turkey and 1 1/2 gallons stock, cover, bring to a simmer and simmer 45 minutes."
+      - Bring to a boil. Spread the batter on a damp cutting board and cut off bite-size dumplings with a bench scraper or knife into the boiling soup. When they all float, boil 1 minute more, add the tarragon and serve.
+
+  - name: Old World Vegetable Soup
+    categories: [Soups, Vegetables]
+    ingredients:
+      - { qty: 1, ingredient: Onion, note: "large, finely diced" }
+      - { qty: 4, measure: tbsp, ingredient: Vegetable oil, note: or unsalted butter }
+      - { qty: "1/2", measure: cup, ingredient: Split pea }
+      - { qty: "1/2", measure: cup, ingredient: Pearl barley }
+      - { qty: 8, measure: cup, ingredient: Chicken stock, note: "or water, or a combination" }
+      - { qty: 4, measure: cup, ingredient: Water }
+      - { qty: "3/4", measure: cup, ingredient: Elbow macaroni }
+      - { qty: 10, measure: oz, ingredient: Lima beans, note: "frozen, 1 package" }
+      - { qty: 10, measure: oz, ingredient: Mixed vegetables, note: "frozen garden vegetables, 1 package" }
+      - { qty: "1/4", measure: cup, ingredient: Dill, note: "leaves, roughly chopped" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Saute the onions in the oil until lightly browned.
+      - Rinse the split peas and barley and put them in a large pot with the stock and water (and the onions). Cook over medium-high heat until almost tender, about 1 hour.
+      - Add the pasta and cook 10 minutes, then the lima beans and vegetables until tender. Season with dill, salt and pepper.
+
+  - name: Paula's Vegetable Beef Soup
+    categories: [Soups, Beef]
+    description:
+      - Recipe courtesy Paula Deen. Uses Paula Deen's House Seasoning (its own recipe). Chuck roast yields more meat, but short rib bones give incredible flavor. Swirl a lettuce leaf over the surface to pick up the excess fat.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Vegetable oil, note: if using chuck roast }
+      - { qty: 3, measure: lb, ingredient: Beef short ribs, note: "2 1/2 to 3 pounds, or boneless chuck roast" }
+      - { qty: 4, measure: qt, ingredient: Water, note: cold }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: 28-ounce }
+      - { qty: "1 1/2", measure: cup, ingredient: Onion, note: chopped }
+      - { qty: 3, measure: tbsp, ingredient: Parsley, note: "dried, plus fresh chopped for serving" }
+      - { qty: 2, measure: tbsp, ingredient: Beef bouillon, note: granules }
+      - { qty: 1, measure: tbsp, ingredient: Italian seasoning, note: dried }
+      - { qty: 1, measure: tbsp, ingredient: House seasoning }
+      - { qty: 1, measure: tbsp, ingredient: Seasoned salt, note: plus extra }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: 1, measure: tsp, ingredient: Celery salt }
+      - { qty: 1, measure: tsp, ingredient: Garlic powder }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: "freshly ground, plus extra" }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 1, measure: cup, ingredient: Carrot, note: thinly sliced }
+      - { qty: 1, measure: cup, ingredient: Celery, note: diced }
+      - { qty: 1, measure: cup, ingredient: Green bean, note: "sliced, fresh or canned" }
+      - { qty: 1, measure: cup, ingredient: Black-eyed pea, note: frozen }
+      - { qty: 1, measure: cup, ingredient: Lima beans, note: frozen butter beans }
+      - { qty: 1, measure: cup, ingredient: Okra, note: "cut, fresh or frozen" }
+      - { qty: 1, measure: cup, ingredient: Corn, note: "kernels, fresh or canned" }
+      - { qty: 1, measure: cup, ingredient: Potato, note: diced }
+      - { qty: "1/2", measure: cup, ingredient: Elbow macaroni, note: uncooked }
+    directions:
+      - If using chuck, brown it in the oil in a large skillet over medium heat, about 5 minutes per side, then cut into 1 1/2- to 2-inch cubes and discard the fat. Short ribs go straight into the pot.
+      - Put the beef in a large stockpot with the water, tomatoes, onions, dried parsley, bouillon, Italian seasoning, House Seasoning, seasoned salt, Worcestershire, celery salt, garlic powder, pepper and bay leaves. Bring to a boil, then cover and simmer 1 1/2 to 2 hours, until the meat is very tender.
+      - If using short ribs, cut the meat off the bones, discard the bones and fat and return the meat.
+      - Add the remaining vegetables and the macaroni, return to a boil, then simmer 45 minutes. Season and add fresh parsley just before serving.
+
+  - name: Bob's Vegetable Soup
+    categories: [Soups, Beef, Vegetables]
+    description:
+      - Bob's ingredient list only; no amounts or directions.
+    ingredients:
+      - { ingredient: Tomato }
+      - { ingredient: Tomato paste }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { ingredient: Garlic }
+      - { ingredient: Worcestershire sauce }
+      - { ingredient: Cabbage }
+      - { ingredient: Celery }
+      - { ingredient: Okra }
+      - { ingredient: Sugar }
+      - { ingredient: Egg noodles, note: kluski }
+      - { ingredient: Thyme }
+      - { ingredient: Rosemary }
+      - { ingredient: Pearl barley }
+      - { ingredient: Marjoram }
+      - { ingredient: Red wine }
+      - { ingredient: Carrot }
+      - { ingredient: Corn }
+      - { ingredient: Rutabaga }
+      - { ingredient: Mushroom }
+      - { ingredient: Bay leaf }
+      - { ingredient: Baby lima beans, note: dried }
+      - { ingredient: Lima beans, note: fresh }
+      - { ingredient: Pea }
+      - { ingredient: Onion }
+      - { ingredient: Beef short ribs }
+      - { ingredient: Beef, note: shank }
+
+  - name: Matzo Balls
+    categories: [Soups]
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Matzo meal }
+      - { qty: 3, ingredient: Egg }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Chicken fat, note: skimmings from the chicken soup }
+    directions:
+      - Combine the ingredients and refrigerate to solidify.
+      - Roll into small balls and poach in the soup.
