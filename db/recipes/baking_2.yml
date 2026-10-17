@@ -1,0 +1,579 @@
+# Recipes from "Baking,Breads,Doughs.txt", part 2. Tyler Florence's Pasta
+# Dough for Ravioli was already imported and is skipped. The untitled roll
+# recipe after Sweet Dinner Rolls is imported as Basic Dinner Rolls.
+recipes:
+  - name: Overnight Cinnamon Rolls
+    categories: [Breads, Desserts]
+    servings: 12
+    description:
+      - Recipe courtesy Alton Brown, 2006. Makes 12 rolls. Assemble the night before and refrigerate up to 16 hours.
+    ingredients:
+      - { qty: 4, ingredient: Egg yolk, note: "large, room temperature" }
+      - { qty: 1, ingredient: Egg, note: "large, room temperature" }
+      - { qty: 2, measure: oz, ingredient: Sugar, note: about 1/4 cup }
+      - { qty: 3, measure: oz, ingredient: Butter, note: "unsalted, melted, about 6 tablespoons" }
+      - { qty: 6, measure: oz, ingredient: Buttermilk, note: room temperature }
+      - { qty: 20, measure: oz, ingredient: Flour, note: "all-purpose, about 4 cups, plus more for dusting" }
+      - { qty: 1, ingredient: Instant yeast, note: "package, about 2 1/4 teaspoons" }
+      - { qty: "1 1/4", measure: tsp, ingredient: Kosher salt }
+      - { ingredient: Vegetable oil, note: or cooking spray }
+      - { qty: 8, measure: oz, ingredient: Light brown sugar, note: "about 1 cup packed, for the filling" }
+      - { qty: 1, measure: tbsp, ingredient: Cinnamon, note: "ground, for the filling" }
+      - { qty: 1, measure: pinch, ingredient: Salt, note: for the filling }
+      - { qty: "3/4", measure: oz, ingredient: Butter, note: "unsalted, melted, about 1 1/2 tablespoons, for the filling" }
+      - { qty: "2 1/2", measure: oz, ingredient: Cream cheese, note: "softened, about 1/4 cup, for the icing" }
+      - { qty: 3, measure: tbsp, ingredient: Milk, note: for the icing }
+      - { qty: "5 1/2", measure: oz, ingredient: Powdered sugar, note: "about 1 1/2 cups, for the icing" }
+    directions:
+      - In a stand mixer with the whisk, whisk the yolks, egg, sugar, butter and buttermilk. Add about 2 cups of the flour with the yeast and salt and whisk until combined.
+      - Switch to the dough hook, add all but 3/4 cup of the remaining flour and knead on low 5 minutes. The dough should be soft and moist but not sticky; add flour if needed. Knead 5 minutes more, until it clears the bowl.
+      - Knead by hand about 30 seconds, put in a lightly oiled bowl, oil the top, cover and let double, 2 to 2 1/2 hours.
+      - Mix the brown sugar, cinnamon and salt for the filling.
+      - Butter a 9 by 13-inch glass dish. Roll the dough into an 18 by 12-inch rectangle, long side toward you. Brush with the melted butter, leaving a 1/2-inch border at the top, then sprinkle with the filling, leaving 3/4 inch, and press it in.
+      - Roll into a tight cylinder from the near edge, pinch the seam and set it seam down. Squeeze gently to even it, then cut with a serrated knife into 12 (1 1/2-inch) rolls.
+      - Set cut side down in the dish, cover tightly with plastic and refrigerate overnight or up to 16 hours.
+      - Put the rolls in a turned-off oven with a shallow pan 2/3 full of boiling water on the rack below. Let rise until slightly puffy, about 30 minutes, then remove the rolls and water.
+      - Preheat the oven to 350 degrees F and bake on the middle rack until golden, or 190 degrees F inside, about 30 minutes.
+      - For the icing, whisk the cream cheese in the mixer until creamy, whisk in the milk, then sift in the powdered sugar and whisk smooth. Spread over the rolls and serve immediately.
+
+  - name: Chef Anne's All-Purpose Pasta Dough
+    categories: [Pasta]
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. Put your body weight into the kneading - that's where the toothsome texture comes from.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Flour, note: all-purpose }
+      - { qty: 4, ingredient: Egg }
+      - { qty: 1, ingredient: Egg yolk }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { ingredient: Kosher salt }
+      - { qty: 2, measure: tbsp, ingredient: Water, note: "1 to 2, or more if needed" }
+    directions:
+      - Pile the flour on a clean, dry work surface and make a well about 8 inches wide in the center. Add the eggs, yolk, oil, salt and water.
+      - Beat with a fork, then gradually draw the flour into the eggs without breaking the walls of the well. Don't worry about lumps.
+      - Once it won't run when the walls break, combine everything with your hands. If it's tight and dry, knead with wet hands.
+      - Once it's homogeneous, knead with the heels of your hands, putting your weight into it, until very smooth and almost velvety, 8 to 15 minutes.
+      - Wrap in plastic and rest at least 1 hour; don't refrigerate if using right away. Roll and cut into the shape you want.
+
+  - name: Basic Pasta Dough (Pasta all' Uovo)
+    categories: [Pasta]
+    description:
+      - Recipe courtesy Emeril Lagasse, 2001. Makes about 1 3/4 pounds fresh pasta.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Flour, note: all-purpose }
+      - { qty: 2, ingredient: Egg, note: large }
+      - { qty: 8, ingredient: Egg yolk, note: large }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+    directions:
+      - Process the flour and salt in a food processor to mix. With the machine running, add the eggs, yolks and oil through the feed tube and process until it looks like wet cornmeal, about 2 minutes.
+      - Press handfuls of dough into firm balls and roll each into the shape you want with a pasta machine.
+      - Cook in boiling salted water until just al dente, about 2 minutes. Drain and serve with sauce.
+
+  - name: Whole-Wheat Pitas
+    categories: [Breads]
+    servings: 8
+    ingredients:
+      - { qty: "1 1/4", measure: cup, ingredient: Water, note: warm }
+      - { qty: 1, measure: tsp, ingredient: Sugar }
+      - { qty: 1, ingredient: Active dry yeast, note: envelope }
+      - { qty: "1 1/2", measure: cup, ingredient: Bread flour, note: plus a little for dusting }
+      - { qty: "1 1/2", measure: cup, ingredient: Wheat flour, note: whole-wheat }
+      - { qty: 2, measure: tsp, ingredient: Cumin seeds, note: toasted and ground }
+      - { qty: 2, measure: tsp, ingredient: Kosher salt }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: "extra-virgin, plus more for the bowl" }
+    directions:
+      - Combine the warm water, sugar and yeast and let sit 15 minutes.
+      - In a stand mixer combine the flours, cumin, salt and cayenne. Add the yeast mixture and oil and knead on medium 6 to 7 minutes, until firm and not sticky.
+      - Put in a lightly oiled bowl, cover and let rise in a warm place until doubled, about 1 1/2 hours.
+      - Preheat the oven to 500 degrees F. Divide into 8 pieces and roll into 7-inch rounds 1/4 inch thick. Set on 2 sheet trays, cover loosely and rest 20 minutes.
+      - Bake 3 to 4 minutes, turn and bake 2 minutes more. Let cool.
+
+  - name: Bobby Flay's Pizza Dough
+    categories: [Breads]
+    description:
+      - Recipe courtesy Bobby Flay. Makes 2 (14-inch) crusts. Bread flour gives a much crisper crust; all-purpose gives a chewier one.
+    ingredients:
+      - { qty: 4, measure: cup, ingredient: Bread flour, note: "3 1/2 to 4 cups, plus more for rolling" }
+      - { qty: 1, measure: tsp, ingredient: Sugar }
+      - { qty: 1, ingredient: Instant yeast, note: envelope }
+      - { qty: 2, measure: tsp, ingredient: Kosher salt }
+      - { qty: "1 1/2", measure: cup, ingredient: Water, note: 110 degrees F }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: plus 2 teaspoons }
+    directions:
+      - Combine the flour, sugar, yeast and salt in a stand mixer. With it running, add the water and 2 tablespoons oil and beat until the dough forms a ball. Add flour or water a tablespoon at a time if it's too sticky or dry.
+      - Knead gently on a lightly floured surface into a smooth, firm ball.
+      - Grease a large bowl with the remaining 2 teaspoons oil, add the dough, cover with plastic and let double in a warm place, about 1 hour.
+      - Divide into 2 pieces, cover each and rest 10 minutes before shaping.
+
+  - name: Mario Batali's Pizza Dough
+    categories: [Breads]
+    servings: 4
+    description:
+      - Recipe by Mario Batali, 2000. Makes 4 individual pizzas or calzones, or 1 large pizza.
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Wine, note: "light red or white, such as Fiano di Avellino" }
+      - { qty: "3/4", measure: cup, ingredient: Water, note: warm }
+      - { qty: "1 1/2", measure: oz, ingredient: Fresh yeast }
+      - { qty: 1, measure: tbsp, ingredient: Honey }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: divided }
+      - { qty: "3 1/2", measure: cup, ingredient: Flour }
+    directions:
+      - Stir the wine, water and yeast in a large bowl until dissolved. Mix in the honey, salt and 1 tablespoon oil.
+      - Add 1 cup flour and mix with a wooden spoon to a loose batter. Add 2 more cups and stir 2 to 3 minutes, working in as much as you can.
+      - Bring together by hand and knead on a floured board 6 to 8 minutes, until smooth and firm.
+      - Put in a bowl oiled with the remaining tablespoon of oil, cover with a towel and let rise in the warmest part of the kitchen 45 minutes.
+      - Cut into 4 pieces for individual pizzas or calzones, or keep whole for one large pizza. Knead into rounds and rest 15 minutes.
+
+  - name: Paula Deen's Basic Pizza Dough
+    categories: [Breads]
+    description:
+      - Recipe courtesy Paula Deen, 2008. Makes 2 (12-inch) pizzas.
+    ingredients:
+      - { qty: "1 3/4", measure: cup, ingredient: Water, note: warm }
+      - { qty: 1, ingredient: Active dry yeast, note: "1/4-ounce package, recommended RapidRise" }
+      - { qty: 2, measure: tsp, ingredient: Salt }
+      - { qty: 5, measure: cup, ingredient: Bread flour, note: 4 1/2 to 5 cups }
+      - { qty: 3, measure: tbsp, ingredient: Olive oil, note: plus more for the bowl }
+      - { ingredient: Cornmeal, note: for the pan }
+    directions:
+      - Preheat the oven to 450 degrees F. Sprinkle the yeast over the warm water (pleasantly warm on your wrist) and let it activate, about 10 minutes.
+      - Pulse the salt and 2 cups flour in a food processor 5 times. Add the yeast water and pulse 5 times, then the oil. Add the remaining flour a cup at a time, pulsing and scraping, until blended.
+      - Turn onto a well-floured board and knead 15 turns, until smooth and elastic.
+      - Put in a greased bowl, turn to coat, cover and let rise in a warm place until doubled, about 45 minutes. Punch down and divide in half.
+      - Set each on a cornmeal-dusted stone, pan or cookie sheet, rolling up the edge slightly to make a ridge. Bake 16 to 18 minutes, until light brown.
+    notes:
+      - To freeze half, seal it in a freezer bag. Thaw in the refrigerator 24 hours, roll out while cold, then let it come to room temperature before topping.
+
+  - name: Chia Muffins
+    categories: [Breads]
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Chia seed, note: ground }
+      - { qty: "1 1/2", measure: cup, ingredient: Wheat flour, note: whole wheat }
+      - { qty: 2, measure: tsp, ingredient: Baking soda }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: cup, ingredient: Sweet potato, note: puree }
+      - { qty: 1, measure: cup, ingredient: Applesauce, note: unsweetened }
+      - { qty: 2, ingredient: Egg white }
+      - { qty: "1/2", measure: cup, ingredient: Agave syrup }
+      - { qty: 2, measure: tsp, ingredient: Lemon juice }
+      - { qty: 1, measure: tsp, ingredient: Lemon zest }
+      - { qty: 1, measure: tbsp, ingredient: Vanilla extract }
+      - { qty: "1/2", measure: cup, ingredient: Dried cranberries }
+    directions:
+      - Mix the wet ingredients together, and the dry ingredients in a separate bowl.
+      - Fold the wet ingredients into the dry.
+      - Scoop into muffin tins and bake 15 to 20 minutes at 350 degrees F.
+
+  - name: Cornmeal Corn Cakes
+    categories: [Breads]
+    description:
+      - The file titles this "Corn Fritters?" - they are griddle cakes made from a pancake-like batter.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Cornmeal }
+      - { qty: 2, measure: tsp, ingredient: Baking powder }
+      - { qty: "3/4", measure: tsp, ingredient: Kosher salt }
+      - { qty: 1, ingredient: Egg }
+      - { qty: "3/4", measure: cup, ingredient: Water }
+      - { qty: "1/2", measure: cup, ingredient: Corn, note: fresh or thawed frozen }
+      - { ingredient: Vegetable oil }
+    directions:
+      - Stir together the cornmeal, baking powder, salt, egg and water, then stir in the corn. It should be the consistency of pancake batter.
+      - Heat a cast iron skillet or griddle over medium heat, brush with oil and heat until shimmering.
+      - Pour about 2 tablespoons batter per 4-inch cake and cook until brown on both sides, 2 to 3 minutes per side. Serve right away or hold in a 200 degree F oven.
+
+  - name: Free Range Fruitcake
+    categories: [Desserts]
+    description:
+      - Recipe courtesy Alton Brown. Makes 10 slices. The flavor improves considerably over two weeks. If you give it as a gift, mention the alcohol.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Golden raisins }
+      - { qty: 1, measure: cup, ingredient: Currants }
+      - { qty: "1/2", measure: cup, ingredient: Dried cranberries, note: sun dried }
+      - { qty: "1/2", measure: cup, ingredient: Blueberry, note: sun dried }
+      - { qty: "1/2", measure: cup, ingredient: Cherry, note: sun dried }
+      - { qty: "1/2", measure: cup, ingredient: Dried apricots, note: chopped }
+      - { qty: 1, ingredient: Lemon zest, note: "of 1 lemon, coarsely chopped" }
+      - { qty: 1, ingredient: Orange zest, note: "of 1 orange, coarsely chopped" }
+      - { qty: "1/4", measure: cup, ingredient: Candied ginger, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Rum, note: gold }
+      - { qty: 1, measure: cup, ingredient: Sugar }
+      - { qty: 5, measure: oz, ingredient: Butter, note: "unsalted, 1 1/4 sticks" }
+      - { qty: 1, measure: cup, ingredient: Apple juice, note: unfiltered }
+      - { qty: 4, ingredient: Clove, note: "whole, ground" }
+      - { qty: 6, ingredient: Allspice, note: "whole berries, ground" }
+      - { qty: 1, measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: 1, measure: tsp, ingredient: Ground ginger }
+      - { qty: "1 3/4", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: "1 1/2", measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: tsp, ingredient: Baking soda }
+      - { qty: 1, measure: tsp, ingredient: Baking powder }
+      - { qty: 2, ingredient: Egg }
+      - { qty: "1/2", measure: cup, ingredient: Pecans, note: "1/4 to 1/2 cup, toasted, broken" }
+      - { ingredient: Brandy, note: for basting and/or spritzing }
+    directions:
+      - Combine the dried fruits, candied ginger and both zests. Add the rum and macerate overnight, or microwave 5 minutes to rehydrate.
+      - Put the fruit and liquid in a non-reactive pot with the sugar, butter, apple juice and spices. Bring to a boil, stirring often, then simmer 5 to 10 minutes. Cool at least 15 minutes. (It can be covered and refrigerated up to 2 days at this point; bring to room temperature before continuing.)
+      - Heat the oven to 325 degrees. Sift the dry ingredients into the fruit mixture and quickly bring together with a wooden spoon. Stir in the eggs one at a time, then fold in the nuts.
+      - Spoon into a 10-inch nonstick loaf pan and bake 1 hour, until a toothpick comes out clean; if not, bake 10 minutes more and check again.
+      - Baste or spritz the top with brandy and cool completely before turning out.
+      - Store sealed in a tight food-safe container. Every 2 to 3 days, feel the cake and spritz with brandy if dry.
+
+  - name: Sweet Dinner Rolls
+    categories: [Breads]
+    servings: 16
+    description:
+      - Made with a bread machine on the Dough/Knead and First Rise cycle. Makes 16 crescent rolls.
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Water, note: warm (110 degrees F) }
+      - { qty: "1/2", measure: cup, ingredient: Milk, note: warm }
+      - { qty: 1, ingredient: Egg }
+      - { qty: "1/3", measure: cup, ingredient: Butter, note: softened }
+      - { qty: "1/3", measure: cup, ingredient: Sugar, note: white }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: "3 3/4", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 1, ingredient: Active dry yeast, note: .25-ounce package }
+      - { qty: "1/4", measure: cup, ingredient: Butter, note: "softened, for spreading" }
+    directions:
+      - Put the water, milk, egg, 1/3 cup butter, sugar, salt, flour and yeast in the bread machine pan in the order the manufacturer recommends. Select the Dough/Knead and First Rise cycle and start.
+      - When the cycle finishes, turn out onto a lightly floured surface and divide in half. Roll each half into a 12-inch circle and spread with the softened butter.
+      - Cut each circle into 8 wedges and roll each gently but tightly from the wide end. Set point side down on an ungreased cookie sheet, cover with a towel and let rise in a warm place 1 hour.
+      - Preheat the oven to 400 degrees F and bake 10 to 15 minutes, until golden.
+
+  - name: Basic Dinner Rolls
+    categories: [Breads]
+    description:
+      - Untitled in the file. Makes 2 to 3 dozen, depending on size.
+    ingredients:
+      - { qty: 1, ingredient: Active dry yeast, note: package }
+      - { qty: "1/4", measure: cup, ingredient: Water, note: warm }
+      - { qty: "3/4", measure: cup, ingredient: Milk, note: hot }
+      - { qty: 3, measure: tbsp, ingredient: Shortening }
+      - { qty: 3, measure: tbsp, ingredient: Sugar, note: granulated }
+      - { qty: "1 1/4", measure: tsp, ingredient: Salt }
+      - { qty: 1, ingredient: Egg, note: beaten }
+      - { qty: 4, measure: cup, ingredient: Flour, note: "all-purpose, or enough for a stiff dough" }
+      - { ingredient: Butter, note: melted }
+    directions:
+      - Dissolve the yeast in the warm water. In a large bowl mix the hot milk, shortening, sugar and salt and cool to lukewarm. Stir in the yeast and egg.
+      - Add 2 cups flour and beat until smooth, then gradually stir in more flour until the dough leaves the sides of the bowl.
+      - Knead on a lightly floured surface until smooth and elastic, 8 to 10 minutes. Put in a buttered bowl, turn once, cover and let rise in a warm, draft-free place until almost doubled, about 1 hour.
+      - Press down to remove big air bubbles. With greased hands divide into small pieces, roll into balls and set in a greased shallow pan with sides touching. Cover loosely and let rise until doubled, 45 to 60 minutes.
+      - Bake in a preheated 400 degree oven 15 to 20 minutes, less for small rolls. Brush with melted butter while hot.
+
+  - name: Cloverleaf Dinner Rolls
+    categories: [Breads]
+    description:
+      - Recipe courtesy Emeril Lagasse, 2003. Makes 12. Serve warm with jam.
+    ingredients:
+      - { qty: "1 1/4", measure: cup, ingredient: Milk }
+      - { qty: "1/2", measure: cup, ingredient: Butter, note: "plus 2 teaspoons, divided" }
+      - { qty: 3, measure: tbsp, ingredient: Milk, note: nonfat dry }
+      - { qty: "3/4", measure: cup, ingredient: Sugar, note: plus 1/2 teaspoon }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: 1, ingredient: Active dry yeast, note: 1/4-ounce package }
+      - { qty: "1/4", measure: cup, ingredient: Water, note: warm (110 degrees F) }
+      - { qty: 2, ingredient: Egg, note: lightly beaten }
+      - { qty: "4 1/2", measure: cup, ingredient: Flour, note: all-purpose }
+      - { ingredient: Strawberry jam, note: "or blueberry or apricot, for serving" }
+    directions:
+      - In a small saucepan over medium heat cook the milk, 1/4 cup butter, dry milk, 3/4 cup sugar and salt, stirring, until the butter melts and the sugar dissolves, 2 to 3 minutes. Cool to lukewarm.
+      - In a large bowl dissolve the yeast and remaining 1/2 teaspoon sugar in the warm water. Stir in the eggs and let stand until foamy, about 10 minutes.
+      - Stir in the milk mixture, then the flour a cup at a time with a wooden spoon (switch to your hands if needed). The dough will be stiff and somewhat sticky.
+      - Grease a large bowl with 1 teaspoon butter, add the dough and turn to coat. Cover with waxed paper greased with the last teaspoon of butter and let double in a warm place, at least 2 hours.
+      - Melt the remaining 1/4 cup butter and let cool. Knead the dough on a lightly floured surface until smooth, 2 to 3 minutes.
+      - Roll 1/2 inch thick and cut into 36 equal pieces. Tuck the edges under to form smooth balls and set 3 side by side in each muffin cup. Brush with melted butter, cover and let double, about 1 hour.
+      - Preheat the oven to 350 degrees F and bake in the center until golden and puffed, 18 to 20 minutes.
+
+  - name: Georgine's Fluffy Rolls
+    categories: [Breads]
+    description:
+      - Allow for two long rises - at least 3 hours and then 2 1/2 hours. Best served warm.
+    ingredients:
+      - { qty: "1 1/4", measure: cup, ingredient: Milk }
+      - { qty: "1/4", measure: cup, ingredient: Shortening, note: vegetable }
+      - { qty: "3/4", measure: cup, ingredient: Sugar }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: 1, ingredient: Active dry yeast, note: 7-gram packet }
+      - { qty: "1/4", measure: cup, ingredient: Water, note: lukewarm }
+      - { qty: 2, ingredient: Egg, note: lightly beaten }
+      - { qty: 4, measure: cup, ingredient: Flour }
+      - { qty: "3/4", measure: cup, ingredient: Butter, note: "melted, plus more for greasing" }
+    directions:
+      - Cook the milk, shortening, sugar and salt in a saucepan over medium heat, stirring, until the sugar dissolves. Set aside to cool.
+      - Mix the yeast with the lukewarm water in a large bowl and let stand until bubbles appear, about 10 minutes.
+      - Pour in the cooled milk mixture and stir in the eggs. Gradually add the flour with a wooden spoon until too stiff to stir, then knead in the rest with buttered hands (it will be sticky).
+      - Put in a buttered bowl, cover with buttered waxed paper and a damp towel and let rise until doubled, at least 3 hours.
+      - Knead on a lightly floured surface until elastic and roll 1/2 inch thick. Cut with a 3-inch biscuit cutter, dip each round in melted butter and fold in half.
+      - Line up round edges up, sides touching, in a baking pan. Cover with buttered waxed paper and a towel and let rise at least 2 1/2 hours.
+      - Preheat the oven to 350 degrees and bake until golden, about 15 minutes.
+
+  - name: Anne Burrell's Focaccia
+    categories: [Breads]
+    servings: 8
+    description:
+      - Recipe courtesy Anne Burrell. Serves 8 to 10. The half cup of oil in the pan may seem excessive, but focaccia is an oily-crusted bread.
+    ingredients:
+      - { qty: "1 3/4", measure: cup, ingredient: Water, note: warm }
+      - { qty: 1, ingredient: Active dry yeast, note: package }
+      - { qty: 1, measure: tbsp, ingredient: Sugar }
+      - { qty: 5, measure: cup, ingredient: Flour, note: "all-purpose, plus more for kneading" }
+      - { qty: 1, measure: tbsp, ingredient: Kosher salt }
+      - { ingredient: Sea salt, note: "coarse, for sprinkling" }
+      - { qty: 1, measure: cup, ingredient: Olive oil, note: "extra-virgin, divided" }
+    directions:
+      - Combine the warm water, yeast and sugar and set in a warm (not hot) place until bubbling and aromatic, at least 15 minutes.
+      - In a mixer with the dough hook combine the flour, kosher salt, 1/2 cup oil and the yeast mixture on low. Once it comes together, knead on medium 5 to 6 minutes until smooth and soft, adding a sprinkle of flour if very sticky.
+      - Knead by hand once or twice on a floured surface. Return to the lightly oiled bowl, cover and let double in a warm place, at least 1 hour.
+      - Coat a jelly roll pan with the remaining 1/2 cup oil. Press the dough out in the pan, turn to coat both sides, and stretch to fit. Spread your fingers and poke holes all the way through the dough - that gives the craggy look.
+      - Let double again, about 1 hour, while the oven heats to 425 degrees F.
+      - Sprinkle with coarse sea salt and drizzle with a little oil. Bake until golden, 25 to 30 minutes. Cool before cutting.
+
+  - name: Fennel, Kalamata, Rosemary and Pecorino Focaccia
+    categories: [Breads]
+    servings: 6
+    description:
+      - Recipe courtesy Emeril Lagasse, 2006. Serves 6 to 8.
+    ingredients:
+      - { qty: 6, measure: tbsp, ingredient: Water, note: warm }
+      - { qty: 1, ingredient: Active dry yeast, note: 1/4-ounce }
+      - { qty: 2, measure: tsp, ingredient: Sugar }
+      - { qty: 2, measure: cup, ingredient: Bread flour }
+      - { qty: 2, measure: tsp, ingredient: Salt, note: divided }
+      - { qty: 11, measure: tbsp, ingredient: Olive oil, note: "extra-virgin, divided" }
+      - { qty: "1 1/2", measure: cup, ingredient: Fennel, note: sliced }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/4", measure: cup, ingredient: Kalamata olive, note: pitted and chopped }
+      - { qty: "1/2", measure: cup, ingredient: Pecorino Romano, note: grated }
+      - { qty: 1, measure: tbsp, ingredient: Rosemary, note: fresh needles }
+    directions:
+      - In the mixer bowl stir the water, yeast and sugar to dissolve and let the yeast bloom until foamy.
+      - Add the flour, 1 1/2 teaspoons salt and 3 tablespoons oil and mix with the dough hook on low until a dough forms, then beat on medium 8 to 10 minutes.
+      - Put in a lightly greased bowl, cover with a damp towel or plastic and proof until doubled, about 2 hours.
+      - Meanwhile heat 2 tablespoons oil in a 10-inch saute pan and saute the fennel with 1/2 teaspoon salt and the pepper until lightly caramelized, about 3 minutes. Set aside.
+      - Preheat the oven to 450 degrees F. Punch down the dough, put it on a lightly oiled 9 1/2 by 13-inch sheet pan, cover and let double again, 30 to 45 minutes.
+      - Flatten the dough to fill the pan. Top with the fennel, olives, pecorino and rosemary and drizzle with the remaining 6 tablespoons oil.
+      - Bake until golden, 15 to 17 minutes, rotating halfway. Cool at least 15 minutes before cutting.
+
+  - name: Mia Rogers' Pumpkin Apple Pancakes
+    categories: [Breads]
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: "1/4", measure: cup, ingredient: Brown sugar, note: packed }
+      - { qty: "1 1/2", measure: tsp, ingredient: Baking powder }
+      - { qty: "1/4", measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Cinnamon }
+      - { qty: "1/8", measure: tsp, ingredient: Ground ginger }
+      - { qty: "1/4", measure: tsp, ingredient: Nutmeg }
+      - { qty: 1, ingredient: Egg, note: "large, lightly beaten" }
+      - { qty: 1, measure: tbsp, ingredient: Canola oil, note: or melted butter }
+      - { qty: 1, measure: cup, ingredient: Buttermilk }
+      - { qty: "1/2", measure: cup, ingredient: Pumpkin puree }
+      - { qty: "1/3", measure: cup, ingredient: Apple, note: peeled and diced }
+      - { qty: 1, ingredient: Apple, note: "thinly sliced, for the topping" }
+      - { qty: 1, measure: tbsp, ingredient: Butter, note: for the topping }
+      - { qty: 2, measure: tbsp, ingredient: Brown sugar, note: for the topping }
+      - { ingredient: Maple syrup, note: warm }
+      - { ingredient: Cooking spray }
+    directions:
+      - Whisk the flour, sugar, baking powder, salt, cinnamon, ginger and nutmeg in a medium bowl.
+      - Combine the egg, oil, buttermilk, diced apple and pumpkin. Stir into the dry ingredients and let stand 5 minutes.
+      - For the topping, melt the butter in a skillet, add the brown sugar and apple slices and cook, stirring occasionally, until soft and slightly golden, about 8 minutes. Add maple syrup.
+      - Scoop 1/3 cup batter onto a hot griddle or nonstick skillet sprayed with cooking spray. Turn when bubbles appear and the edges are cooked, about 2 minutes, and cook 1 1/2 minutes on the second side.
+      - Top with the caramelized apples and warm maple syrup.
+
+  - name: Best Pie Crust Ever
+    categories: [Desserts]
+    description:
+      - Recipe courtesy Aaron Sanchez. Makes 1 crust for a 9-inch pie.
+    ingredients:
+      - { qty: "1 1/2", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: tbsp, ingredient: Sugar }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: 6, measure: tbsp, ingredient: Butter, note: "unsalted, chilled, small pieces" }
+      - { qty: 3, measure: tbsp, ingredient: Shortening, note: "solid vegetable, chilled, small pieces" }
+      - { qty: 4, measure: tbsp, ingredient: Water, note: "ice, or more" }
+    directions:
+      - Blend the flour, sugar and salt in a food processor. Add the butter and shortening and pulse until it looks like coarse meal.
+      - Drizzle in 4 tablespoons ice water and process just until moist clumps form, adding more by teaspoons if dry. Gather into a ball, flatten into a disk, wrap and chill 1 hour.
+      - Roll out on a lightly floured surface into a 14-inch round and fit into a 9-inch glass pie dish. Fold the overhang under and crimp. Pierce the bottom all over with a fork and freeze 15 minutes. (It can be frozen a day ahead.)
+      - For a prebaked crust, preheat the oven to 375 degrees F. Line with foil, fill with pie weights or dried beans and bake 20 minutes. Remove the weights and foil and bake until golden, about 10 minutes. Cool.
+
+  - name: Alton Brown's Pie Crust
+    categories: [Desserts]
+    description:
+      - Recipe courtesy Alton Brown, 2003. Makes 1 (9-inch) crust. The dried beans are for blind baking; the file stops before the rolling and baking steps.
+    ingredients:
+      - { qty: 3, measure: oz, ingredient: Butter, note: "6 tablespoons, chilled" }
+      - { qty: 1, measure: oz, ingredient: Lard, note: "2 tablespoons, chilled" }
+      - { qty: 6, measure: oz, ingredient: Flour, note: "all-purpose, about 1 cup, plus extra for rolling" }
+      - { qty: "1/2", measure: tsp, ingredient: Salt, note: table }
+      - { qty: "1/4", measure: cup, ingredient: Water, note: "ice, in a spritz bottle" }
+      - { qty: 32, measure: oz, ingredient: Beans, note: "dried, for blind baking" }
+    directions:
+      - Freeze the butter and lard 15 minutes, then cut into small pieces.
+      - Pulse the flour and salt in a food processor 3 to 4 times. Add the butter and pulse 5 to 6 times until mealy, then the lard and pulse 3 to 4 times.
+      - Spritz the surface thoroughly with water and pulse 5 times. Add more water and pulse again until it holds together when squeezed.
+      - Squeeze into a ball in a large zip-top bag, press into a rounded disk and refrigerate 30 minutes.
+
+  - name: Rum Cake
+    categories: [Desserts]
+    description:
+      - Made with Coca-Cola - use classic, not diet, and not flat. Serve warm with the sauce spooned over.
+    ingredients:
+      - { qty: 3, measure: cup, ingredient: Cake flour, note: sifted }
+      - { qty: 1, measure: tsp, ingredient: Baking soda }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: 4, ingredient: Egg }
+      - { qty: 1, measure: cup, ingredient: Butter, note: "2 sticks, softened" }
+      - { qty: 2, measure: cup, ingredient: Brown sugar, note: tightly packed }
+      - { qty: 1, measure: cup, ingredient: Coca-Cola, note: classic }
+      - { qty: "1/4", measure: cup, ingredient: Rum, note: dark }
+      - { qty: 1, measure: tsp, ingredient: Vanilla extract }
+      - { qty: "1/2", measure: cup, ingredient: Milk, note: whole }
+      - { qty: 1, measure: cup, ingredient: Coca-Cola, note: for the sauce }
+      - { qty: "1 1/2", measure: cup, ingredient: Sugar, note: "white, for the sauce" }
+      - { qty: 1, measure: tbsp, ingredient: Light corn syrup, note: for the sauce }
+      - { qty: 12, measure: tbsp, ingredient: Butter, note: for the sauce }
+      - { qty: "1/4", measure: cup, ingredient: Rum, note: "dark, for the sauce" }
+    directions:
+      - Preheat the oven to 325 degrees. Sift together the flour, baking soda and salt. Liberally grease a standard bundt pan.
+      - Beat the eggs with an electric mixer in a large bowl. Gradually add the butter and brown sugar and beat until creamy. Beat in the cola, rum, vanilla and milk.
+      - Gradually add the flour mixture, beating constantly until smooth. Pour into the pan and bake 45 to 60 minutes, until done. Cool and invert onto a plate.
+      - For the sauce, bring the cola, sugar and corn syrup to a boil and cook, stirring often, until it thickens. Off the heat stir in the butter and rum.
+
+  - name: Pineapple Upside-Down Cake
+    categories: [Desserts]
+    description:
+      - Recipe courtesy Tyler Florence. Makes 1 (9-inch) cake.
+    ingredients:
+      - { qty: 1, ingredient: Pineapple, note: "fresh, peeled and cored" }
+      - { qty: 4, measure: tbsp, ingredient: Butter, note: unsalted }
+      - { qty: 2, measure: cup, ingredient: Light brown sugar, note: lightly packed }
+      - { qty: "1/4", measure: cup, ingredient: Maraschino cherries, note: stems removed }
+      - { qty: 2, measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: "2 1/2", measure: tsp, ingredient: Baking powder }
+      - { qty: 1, measure: pinch, ingredient: Salt }
+      - { qty: 2, measure: cup, ingredient: Sugar, note: granulated }
+      - { qty: 2, ingredient: Butter, note: "sticks, unsalted, room temperature" }
+      - { qty: 2, ingredient: Egg, note: large }
+      - { qty: "1/2", measure: cup, ingredient: Buttermilk }
+      - { qty: 2, measure: tsp, ingredient: Vanilla extract, note: pure }
+      - { ingredient: Powdered sugar, note: for dusting }
+      - { qty: 1, measure: qt, ingredient: Gelato, note: "yogurt gelato, store bought, for serving" }
+    directions:
+      - Preheat the oven to 350 degrees F. Cut the pineapple into 1/2-inch rings.
+      - Melt the butter in a small saucepan, add the brown sugar and cook 3 to 4 minutes, until an amber caramel. Pour into a 9-inch nonstick cake pan.
+      - Arrange the pineapple in the caramel (1 in the center and 5 around usually works), press down to submerge, and put a cherry in the center of each ring.
+      - Sift the flour into a large bowl and stir in the baking powder and salt.
+      - In another bowl cream the butter and sugar with a wooden spoon until light and fluffy. Whisk in the eggs, buttermilk and vanilla, then stir in the flour just to incorporate.
+      - Pour over the pineapple and bake about 1 hour, until golden, slightly puffed and springy in the center. Cool slightly, then invert onto a cake plate.
+      - Dust lightly with powdered sugar and serve with yogurt gelato.
+
+  - name: Anne Burrell's Honey Butter
+    categories: [Sauces]
+    description:
+      - Homemade butter whipped from cream, for Dried Cherry Almond Scones.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Heavy cream, note: "1/2 pint, cold" }
+      - { qty: 2, measure: tbsp, ingredient: Honey }
+      - { qty: 1, ingredient: Orange, note: zested }
+    directions:
+      - Whip everything in a stand mixer with the whisk on high until the cream clumps and turns light yellow.
+      - Keep mixing as the butter forms and the buttermilk separates out, scraping the sides, until it's one lump of butter.
+      - Pack into a clean container or dish and refrigerate until ready to use.
+
+  - name: Dried Cherry Almond Scones
+    categories: [Breads, Desserts]
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. Makes 6 scones.
+    ingredients:
+      - { qty: 3, measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: cup, ingredient: Sugar }
+      - { qty: 1, measure: tbsp, ingredient: Baking powder }
+      - { qty: 1, ingredient: Lemon, note: zested }
+      - { qty: 1, measure: pinch, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: "1 1/2", ingredient: Butter, note: "sticks, cold, pea-size pieces" }
+      - { qty: 1, measure: cup, ingredient: Cherry, note: dried }
+      - { qty: "1/2", measure: cup, ingredient: Almond, note: "sliced, toasted" }
+      - { qty: "1/2", measure: cup, ingredient: Heavy cream }
+      - { ingredient: Turbinado sugar, note: for garnishing }
+      - { ingredient: "Anne Burrell's Honey Butter", note: for serving }
+    directions:
+      - Preheat the oven to 375 degrees F.
+      - Combine the flour, sugar, baking powder, lemon zest, salt and cinnamon. Rub in the butter with your fingers until it forms a coarse meal.
+      - Add the cherries and almonds, then work in the cream.
+      - Form into a 1-inch thick disk, cut into 6 wedges and sprinkle generously with turbinado sugar.
+      - Bake on a parchment-lined sheet pan 17 to 18 minutes, turning the pan halfway. Serve warm with honey butter.
+
+  - name: Basic Hot-Milk Sponge Cake
+    categories: [Desserts]
+    description:
+      - Recipe courtesy Emeril Lagasse. A thin sheet cake baked in a 12 by 17-inch pan.
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Milk }
+      - { qty: 1, measure: tbsp, ingredient: Butter, note: "plus 2 teaspoons, divided" }
+      - { qty: 8, ingredient: Egg, note: large }
+      - { qty: 2, measure: cup, ingredient: Sugar, note: "plus 2 tablespoons, divided" }
+      - { qty: 1, measure: cup, ingredient: Flour, note: bleached }
+      - { qty: 1, measure: tsp, ingredient: Baking powder }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: tsp, ingredient: Vanilla extract, note: pure }
+      - { ingredient: Powdered sugar, note: for the parchment }
+    directions:
+      - Preheat the oven to 350 degrees F. Heat the milk and 1 tablespoon butter in a small saucepan over medium heat.
+      - Beat the eggs and 2 cups sugar with the whisk attachment on medium-high until pale yellow, thick and tripled in volume, about 8 minutes. On low, beat in the warm milk.
+      - Sift the flour, baking powder and salt into another large bowl. Add the egg mixture and vanilla and fold until smooth.
+      - Grease a 12 by 17-inch sheet pan with the remaining butter and sprinkle with the remaining 2 tablespoons sugar. Pour in the batter evenly.
+      - Bake until it springs back when touched, about 15 minutes. Cool 2 minutes, loosen the edges and flip onto parchment sprinkled with powdered sugar. Cool completely.
+
+  - name: Emeril's Strawberry Shortcake
+    categories: [Desserts]
+    description:
+      - Recipe courtesy Emeril Lagasse, 2004. Layered in a deep dessert bowl like a trifle; it can be assembled up to 1 hour ahead and refrigerated.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Butter, note: "2 sticks, unsalted, melted and slightly cooled, plus 2 teaspoons softened" }
+      - { qty: 6, ingredient: Egg, note: "large, room temperature" }
+      - { qty: 2, measure: tbsp, ingredient: Milk, note: room temperature }
+      - { qty: "3 1/3", measure: cup, ingredient: Sugar, note: "granulated, divided" }
+      - { qty: 2, measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 2, measure: tsp, ingredient: Baking powder }
+      - { qty: "1/4", measure: tsp, ingredient: Salt }
+      - { qty: 3, measure: lb, ingredient: Strawberry, note: "rinsed, hulled and sliced" }
+      - { qty: "1/2", measure: cup, ingredient: Grand Marnier, note: "or other orange liqueur, plus more for drizzling" }
+      - { qty: "1 1/2", measure: tsp, ingredient: Orange zest }
+      - { qty: "2 1/2", measure: cup, ingredient: Heavy cream }
+      - { qty: 5, measure: tbsp, ingredient: Powdered sugar, note: "confectioners' sugar" }
+      - { qty: "1 1/2", measure: tsp, ingredient: Vanilla extract }
+    directions:
+      - Preheat the oven to 375 degrees F and grease a 9 by 13-inch glass casserole with the 2 teaspoons butter.
+      - Beat the eggs and milk until frothy. Add 1 1/3 cups sugar and beat on high until thick and pale yellow, 7 to 10 minutes.
+      - Sift the flour, baking powder and salt and gently fold into the eggs, then stir in the melted butter. Bake in the center of the oven until risen and golden, about 30 minutes. Cool on a rack.
+      - Toss the strawberries with the remaining 2 cups sugar, the liqueur and orange zest. Let sit 15 minutes, stirring, until the sugar dissolves, then refrigerate covered.
+      - Beat the cream with the powdered sugar until slightly thickened, add the vanilla and beat until it nearly holds stiff peaks.
+      - Poke holes all over the cake, drizzle with a little liqueur and cut into 1 1/2-inch cubes.
+      - Layer half the cake in a deep dessert bowl, then half the strawberries with their juices. Repeat, top with the whipped cream and serve.
+
+  - name: Oat Waffle
+    categories: [Breads]
+    description:
+      - Recipe courtesy Alton Brown, 2010. Makes 4 to 6 (8-inch round) waffles.
+    ingredients:
+      - { qty: "5 1/2", measure: oz, ingredient: Rolled oats, note: old fashioned }
+      - { qty: 4, measure: oz, ingredient: Flour, note: all-purpose }
+      - { qty: 3, measure: tbsp, ingredient: Sugar }
+      - { qty: 1, measure: tsp, ingredient: Baking powder }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt }
+      - { qty: "1/2", measure: tsp, ingredient: Baking soda }
+      - { qty: 3, ingredient: Egg, note: "large, beaten" }
+      - { qty: 2, measure: oz, ingredient: Butter, note: "unsalted, melted and slightly cooled" }
+      - { qty: 16, measure: oz, ingredient: Buttermilk, note: room temperature }
+    directions:
+      - Toast the oats in a 10-inch saute pan over medium heat, stirring occasionally, about 3 minutes. Cool 2 to 3 minutes, then grind in a food processor to the consistency of whole-wheat flour, about 3 minutes.
+      - Heat a waffle iron.
+      - Whisk the oat flour, flour, sugar, baking powder, salt and baking soda. Whisk the eggs and butter, then add the buttermilk. Stir the wet into the dry until combined and rest 5 minutes.
+      - Ladle batter into the hot iron and cook until golden on both sides and easily removed. Serve right away or keep warm in a 200 degree F oven.
