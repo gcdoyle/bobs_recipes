@@ -54,3 +54,7 @@ config/master.key
 # Dart Sass output (rebuilt by bin/dev and assets:precompile)
 /app/assets/builds/*
 !/app/assets/builds/.keep
+
+# Ignore key files for decrypting credentials and more.
+/config/*.key
+
