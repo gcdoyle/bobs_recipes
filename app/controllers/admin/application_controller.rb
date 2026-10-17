@@ -6,6 +6,10 @@
 # you're free to overwrite the RESTful controller actions.
 module Admin
   class ApplicationController < Administrate::ApplicationController
+    # Administrate's controllers come from its engine, so the app's helpers
+    # aren't included automatically. The recipe ingredients field uses format_qty.
+    helper RecipesHelper
+
     before_action :authenticate_user!
     before_action :authenticate_admin
 
