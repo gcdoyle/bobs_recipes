@@ -1,0 +1,439 @@
+# Recipes from "Pasta,Rice,Dumplings,Manicotti.txt", part 1 (calzones through
+# chilled noodles).
+recipes:
+  - name: Calzones Stuffed with Broccoli Rabe and Sausage
+    categories: [Pasta, Sausage, Breads]
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. The dough makes 9 balls; 6 are used here, and 3 are saved for another purpose. Serve hot or at room temperature, with a tomato sauce such as Anne's Marinara Sauce if you like.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Dry yeast }
+      - { qty: 1, measure: tsp, ingredient: Sugar }
+      - { qty: 1, measure: cup, ingredient: Water, note: warm }
+      - { qty: 2, measure: cup, ingredient: Bread flour, note: high-gluten }
+      - { qty: 1, measure: cup, ingredient: Semolina flour, note: plus more for dusting }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt, note: plus more for the filling }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: "extra-virgin, plus more for the bowl and pan" }
+      - { qty: 1, measure: bunch, ingredient: Broccoli rabe, note: tough stems removed }
+      - { qty: 4, ingredient: Italian sausage, note: "hot links, casings removed" }
+      - { qty: "1 1/2", measure: cup, ingredient: Ricotta }
+      - { qty: "1/4", measure: cup, ingredient: Parmesan, note: grated }
+      - { qty: 2, ingredient: Egg, note: "beaten with 2 tablespoons water, for egg wash" }
+      - { qty: "1/4", measure: cup, ingredient: Sesame seeds }
+      - { ingredient: Marinara sauce, note: "for serving, optional" }
+    directions:
+      - "Dough: whisk the yeast and sugar into the warm water and let sit 15 minutes, until frothy and very yeasty."
+      - In a stand mixer with the dough hook, combine the flours and salt. Add the yeast water and olive oil and mix on medium. When a ball forms, knead until tight and not at all sticky, 5 to 6 minutes.
+      - Put the dough in an oiled bowl, cover and let rise somewhere warm until doubled, about 1 hour. Punch down and let rise again 30 to 40 minutes. Make the filling during the last rise.
+      - "Filling: blanch the broccoli rabe briefly in well-salted boiling water, then shock in well-salted ice water. Cool and coarsely chop."
+      - Coat a large saute pan with olive oil over medium heat. Cook the sausage, breaking it up with a spoon, until browned and crumbled. Stir in the broccoli rabe and take off the heat. Mix in the ricotta and Parmesan and taste.
+      - Preheat the oven to 350 degrees F. Divide the dough into nine 2-inch balls and roll 6 of them on a floured surface into 8-inch circles about 1/4 inch thick.
+      - Put about 3/4 cup filling on the bottom half of each circle and brush the bottom edge with egg wash. Fold the top half over to ALMOST meet the bottom edge, fold the bottom edge up over it and crimp shut. Brush with egg wash and sprinkle with sesame seeds.
+      - Bake on sheet trays 30 minutes.
+
+  - name: Bechamel Sauce
+    categories: [Sauces]
+    description:
+      - Giada De Laurentiis's version, for Crab and Ricotta Cannelloni. Makes about 4 cups and keeps up to 3 days, covered, in the refrigerator.
+    ingredients:
+      - { qty: 5, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 4, measure: cup, ingredient: Milk, note: "whole, warmed" }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: White pepper, note: freshly ground }
+      - { qty: 1, measure: pinch, ingredient: Nutmeg, note: freshly grated }
+    directions:
+      - Melt the butter in a medium saucepan over medium heat. Whisk in the flour until smooth, about 2 minutes.
+      - Gradually whisk in the warm milk and cook, whisking constantly, until thick, smooth and creamy, about 10 minutes, without boiling.
+      - Off the heat, stir in the salt, pepper and nutmeg.
+
+  - name: Crab and Ricotta Cannelloni
+    categories: [Pasta, Manicotti, Seafood]
+    description:
+      - Recipe courtesy Giada De Laurentiis. Uses Bechamel Sauce (its own recipe).
+    ingredients:
+      - { qty: 8, measure: oz, ingredient: Manicotti, note: "1 box cannelloni or manicotti (about 12 shells)" }
+      - { qty: 1, measure: cup, ingredient: Ricotta, note: whole milk }
+      - { qty: 1, measure: cup, ingredient: Parmesan, note: "grated - 3/4 cup for the filling, 1/4 cup for sprinkling" }
+      - { qty: 1, ingredient: Egg yolk }
+      - { qty: "1/2", measure: cup, ingredient: Basil, note: "fresh leaves, chopped" }
+      - { qty: 1, measure: lb, ingredient: Crab, note: lump crabmeat }
+      - { qty: "1/4", measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: White pepper, note: freshly ground }
+      - { ingredient: Bechamel Sauce }
+      - { ingredient: Butter, note: for the dish }
+    directions:
+      - Cook the pasta in a large pot of salted boiling water until tender but still firm, 8 to 10 minutes, stirring occasionally. Drain.
+      - Mix the ricotta, 3/4 cup Parmesan, egg yolk, basil, crab, salt and pepper.
+      - Preheat the oven to 350 degrees F. Fill the shells and lay them in a buttered baking dish.
+      - Top with the bechamel and sprinkle with the remaining Parmesan. Bake until bubbly and golden, 15 to 20 minutes. Serve immediately.
+
+  - name: Fettuccine Alfredo
+    categories: [Pasta]
+    servings: 4
+    description:
+      - Serves 4 to 6.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Fettuccine, note: dried }
+      - { qty: 6, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: 1, ingredient: Shallot, note: minced }
+      - { qty: 1, measure: cup, ingredient: Heavy cream }
+      - { qty: 1, measure: cup, ingredient: Parmesan, note: "Parmigiano-Reggiano, finely grated, divided" }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Parsley, note: "fresh, for garnish, optional" }
+    directions:
+      - Cook the fettuccine in rapidly boiling salted water until al dente. Drain, saving 1/4 cup of the cooking water.
+      - Meanwhile, melt the butter in a medium saucepan over medium-high heat and saute the shallot until tender. Add the cream, bring to a boil and cook until slightly reduced, about 5 minutes. Take off the heat.
+      - Return the pasta to its pot over medium-high heat with the reserved water. Add the cream mixture and half the cheese and toss thoroughly. Season, sprinkle with the remaining cheese and parsley and serve immediately.
+
+  - name: Kasha and Varnishkes
+    categories: [Pasta]
+    servings: 4
+    description:
+      - Recipe courtesy Wayne Harley Brachman. Serve with ketchup and/or gravy.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Vegetable oil, note: "or 1 tablespoon each canola and olive oil" }
+      - { qty: 1, ingredient: Onion, note: "medium, minced" }
+      - { qty: 1, ingredient: Carrot, note: "large, 1/4-inch dice" }
+      - { qty: 2, measure: cup, ingredient: Cremini mushroom, note: "trimmed, stems removed, thinly sliced" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: cup, ingredient: Kasha, note: whole or coarse }
+      - { qty: 1, ingredient: Egg }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 2, measure: cup, ingredient: Beef stock, note: "or chicken or vegetable stock, or the liquid from simmering 1/2 ounce dried porcini in 2 1/2 cups water, or water" }
+      - { qty: "1/2", measure: lb, ingredient: Farfalle, note: "bowties, cooked per the package" }
+    directions:
+      - Heat the oil and saute the onions until soft. Add the carrots and saute until the onions take on some color. Add the mushrooms, then the garlic, and saute 2 minutes more.
+      - Meanwhile, mix the kasha with the egg and seasonings. Add to the pan and cook over medium heat until dry-looking and the kernels separate.
+      - Add the stock and cook, covered, until absorbed and the kasha is tender, about 12 minutes. Mix in the bowties.
+
+  - name: Simple Lasagna
+    categories: [Pasta, Casseroles]
+    description:
+      - The original calls for "Sunday Ragu, recipe above," which isn't in the file; use any tomato sauce.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Lasagna noodles, note: uncooked }
+      - { qty: 2, measure: lb, ingredient: Ricotta }
+      - { qty: 6, ingredient: Egg }
+      - { ingredient: Marinara sauce, note: "Sunday ragu or other tomato sauce" }
+      - { qty: 1, measure: lb, ingredient: Mozzarella, note: grated }
+      - { qty: 1, measure: cup, ingredient: Parmesan, note: grated }
+    directions:
+      - Preheat the oven to 350 degrees F. Cook the noodles in boiling salted water until al dente; they'll cook more in the oven.
+      - Stir the ricotta and eggs together.
+      - Spoon enough sauce into a 12 by 24-inch baking dish to just cover the bottom. Cover with noodles, spread with a thin layer of ricotta, and sprinkle with mozzarella and Parmesan. Repeat, about 3 layers.
+      - Cover the top layer with sauce and mozzarella. Bake 1 hour and serve hot.
+
+  - name: The Ultimate Lasagna
+    categories: [Pasta, Casseroles, Beef]
+    servings: 8
+    description:
+      - Recipe courtesy Tyler Florence. Let it rest 30 minutes so the noodles settle and it cuts cleanly.
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Lasagna noodles, note: dried }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 2, measure: lb, ingredient: Ground beef }
+      - { qty: 2, measure: lb, ingredient: Italian sausage, note: ground }
+      - { qty: 1, ingredient: Onion, note: chopped }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: sliced }
+      - { qty: 3, ingredient: Carrot, note: chopped }
+      - { qty: 2, measure: stalk, ingredient: Celery, note: chopped }
+      - { qty: 2, measure: tbsp, ingredient: Basil, note: "fresh, chopped" }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "Italian flat-leaf, finely chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Oregano, note: "leaves, chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: 2, measure: cup, ingredient: Red wine }
+      - { qty: 2, measure: can, ingredient: Tomato, note: "28-ounce (recommended: San Marzano)" }
+      - { qty: 3, measure: tbsp, ingredient: Heavy cream }
+      - { qty: 1, measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: 2, measure: qt, ingredient: Ricotta, note: 2 containers }
+      - { qty: 2, ingredient: Egg, note: lightly beaten }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: "grated, plus more for topping" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: lb, ingredient: Mozzarella, note: "shredded, plus more for topping" }
+    directions:
+      - Preheat the oven to 350 degrees F. Cook the noodles in plenty of boiling salted water until pliable and barely tender, about 10 minutes, stirring so they don't stick. Drain well and coat with olive oil.
+      - Coat a large skillet with olive oil and brown the beef and sausage, about 10 minutes. Season.
+      - Puree the onion, carrots, celery, garlic, basil, parsley and oregano in a food processor and stir into the meat. Stir in the flour. Add the wine and reduce by half. Stir in the tomatoes, cream and cinnamon.
+      - Mix the ricotta and Parmesan, stir in the eggs and season.
+      - Oil the bottom of a deep 13 by 9-inch pan. Lay 4 noodles lengthwise, slightly overlapping, and line each end with a noodle to make a collar for the corners. Spread with half the ricotta, then half the meat sauce, half the mozzarella and a ladle of sauce. Repeat.
+      - Top with noodles, sauce, mozzarella and Parmesan. Tap the pan to release air bubbles and bake 1 hour. Rest 30 minutes, then cut into 2-inch squares.
+
+  - name: Emeril's Meat Sauce
+    categories: [Sauces, Beef]
+    description:
+      - Makes 1 1/2 to 2 quarts, for Emeril's Lasagna.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: "1/3", measure: lb, ingredient: Ground beef }
+      - { qty: "1/3", measure: lb, ingredient: Ground veal }
+      - { qty: "1/3", measure: lb, ingredient: Ground pork }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: cup, ingredient: Onion, note: finely chopped }
+      - { qty: "1/2", measure: cup, ingredient: Celery, note: finely chopped }
+      - { qty: "1/2", measure: cup, ingredient: Carrot, note: finely chopped }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: chopped }
+      - { qty: 2, measure: can, ingredient: Tomato, note: "28-ounce, peeled, seeded and chopped" }
+      - { qty: 1, measure: can, ingredient: Tomato paste, note: small }
+      - { qty: 4, measure: cup, ingredient: Beef stock, note: or water }
+      - { qty: 2, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 2, measure: tsp, ingredient: Oregano, note: dried }
+      - { qty: 2, measure: tsp, ingredient: Dried basil }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 2, measure: oz, ingredient: Parmesan, note: Parmigiano-Reggiano }
+    directions:
+      - Heat the oil in a large nonreactive saucepan over medium heat. Mix the meats, season, and brown 4 to 6 minutes.
+      - Add the onions, celery and carrots, season and cook until soft, 4 to 5 minutes. Add the garlic and tomatoes, season and cook 2 to 3 minutes.
+      - Whisk the tomato paste into the stock and add with the thyme, bay leaves, oregano, basil and red pepper. Bring to a boil, then simmer over medium about 2 hours, stirring occasionally and adding liquid if needed.
+      - In the last 30 minutes, reseason and stir in the cheese. Let sit 15 minutes off the heat before using.
+
+  - name: Emeril's Lasagna
+    categories: [Pasta, Casseroles]
+    servings: 12
+    description:
+      - Recipe courtesy Emeril Lagasse. Serves 12 to 16. Uses Emeril's Meat Sauce (its own recipe).
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Ricotta, note: fresh }
+      - { qty: 8, measure: oz, ingredient: Provolone, note: grated }
+      - { qty: 8, measure: oz, ingredient: Mozzarella, note: grated }
+      - { qty: 8, measure: oz, ingredient: Pecorino Romano, note: grated }
+      - { qty: 1, ingredient: Egg }
+      - { qty: "1/4", measure: cup, ingredient: Milk }
+      - { qty: 1, measure: tbsp, ingredient: Basil, note: "fresh, chiffonade" }
+      - { qty: 1, measure: tbsp, ingredient: Garlic, note: chopped }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Emeril's Meat Sauce, note: 1 recipe }
+      - { qty: "1/2", measure: lb, ingredient: Parmesan, note: "Parmigiano-Reggiano, grated" }
+      - { qty: 1, ingredient: Lasagna noodles, note: "dried, 1 package" }
+    directions:
+      - Preheat the oven to 350 degrees F. Mix the ricotta, provolone, mozzarella, Romano, egg, milk, basil and garlic and season.
+      - Spread 2 1/2 cups meat sauce in a deep-dish lasagna pan and sprinkle with 1/4 of the Parmigiano. Cover with 1/4 of the dried noodles and spread with 1/4 of the cheese filling. Repeat, topping with the remaining sauce.
+      - Bake until bubbly and golden, 45 minutes to 1 hour. Cool 10 minutes before slicing.
+
+  - name: Sweet Sausage and Three Cheese Lasagna
+    categories: [Pasta, Casseroles, Sausage]
+    description:
+      - Recipe courtesy Aida Mollenkamp.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: "1/2", ingredient: Yellow onion, note: "medium, finely chopped (about 1 cup)" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "medium, thinly sliced" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: lb, ingredient: Italian sausage, note: "sweet, removed from casings and crumbled" }
+      - { qty: "1/2", measure: lb, ingredient: Ground pork, note: lean }
+      - { qty: "1/3", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 2, measure: can, ingredient: Crushed tomato, note: 28-ounce }
+      - { qty: 1, measure: tsp, ingredient: Dried basil }
+      - { qty: 1, measure: tsp, ingredient: Oregano, note: dried }
+      - { qty: 2, ingredient: Bay leaf, note: "medium, dried" }
+      - { qty: 9, measure: oz, ingredient: Lasagna noodles, note: "no-boil, 1 box" }
+      - { qty: 24, measure: oz, ingredient: Ricotta }
+      - { qty: 1, measure: lb, ingredient: Mozzarella, note: "low-moisture or fresh, thinly sliced" }
+      - { qty: 2, measure: cup, ingredient: Parmesan, note: "Parmigiano-Reggiano, finely grated (about 2 ounces)" }
+    directions:
+      - "Meat sauce: heat the oil in a Dutch oven over medium-high heat. When it shimmers, cook the onion and garlic, seasoned well, until just softened. Add the sausage and pork, breaking up the meat, and cook until it colors, 8 to 10 minutes."
+      - Add the wine, scraping up the browned bits, and cook off the alcohol. Add the tomatoes, 1 tablespoon salt, basil, oregano and bay leaves and season with pepper. When it simmers, reduce to low and simmer at least 10 minutes and up to 1 hour.
+      - Heat the oven to 375 degrees F with a rack in the middle.
+      - Spread 2 cups sauce in a 13 by 9-inch baking dish. Layer 4 noodles, 2 cups sauce, 1/4 of the ricotta in dollops, 1/4 of the mozzarella and 1/4 cup Parmigiano. Repeat with the rest.
+      - Cover with foil and bake until bubbling and the noodles begin to soften, about 40 minutes. Uncover and bake until golden and tender, about 20 minutes more. Rest 20 minutes before cutting.
+
+  - name: Kristina Scaviola's Homemade Sausage and Eggplant Lasagna
+    categories: [Vegetables, Sausage, Casseroles]
+    description:
+      - Made with grilled eggplant instead of noodles, and cooked on the grill in a springform pan. Most of the roasted garlic head usually goes into the ricotta.
+    ingredients:
+      - { qty: 1, ingredient: Eggplant, note: large }
+      - { qty: 2, measure: cup, ingredient: Tomato sauce, note: "1 to 2 cups, jarred or homemade" }
+      - { qty: 15, measure: oz, ingredient: Ricotta }
+      - { ingredient: Mozzarella, note: "smoked, grated, to taste" }
+      - { ingredient: Pecorino Romano, note: "grated, to taste" }
+      - { qty: 1, measure: head, ingredient: Garlic, note: roasted }
+      - { qty: "1/2", measure: bunch, ingredient: Basil, note: "fresh, chopped, plus more for layering and topping" }
+      - { qty: 2, measure: sprig, ingredient: Oregano, note: "1 to 2 fresh, leaves roughly chopped" }
+      - { qty: 1, ingredient: Egg, note: whisked }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: fresh ground }
+      - { qty: "1/3", measure: lb, ingredient: Italian sausage, note: "hot, homemade or store-bought, browned and cooked through" }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil }
+      - { ingredient: Red pepper flakes, note: for garnish }
+    directions:
+      - Heat half the grill to high and the other half to moderate.
+      - Slice the eggplant into rounds, salt liberally and drain on paper towels.
+      - Mix the ricotta with the basil, oregano, several cloves of roasted garlic, a small handful of smoked mozzarella and 1 to 2 tablespoons Romano. Taste and add salt, pepper and more cheese as you like, then stir in the egg.
+      - Wipe the salt and liquid off the eggplant, brush with olive oil and season. Grill on the hot side 1 to 2 minutes per side, until marked and soft but not falling apart.
+      - Layer sauce, eggplant, ricotta and crumbled sausage in a springform pan until the eggplant is used up. Finish with sauce, smoked mozzarella and a little Romano, and drizzle with olive oil.
+      - Cover with foil and cook on the moderate side of the grill (about 350 degrees F) about 30 minutes, until bubbling at the sides. Uncover to brown the cheese, or finish under the broiler.
+      - Rest about 20 minutes, unmold and garnish with basil, cheese and pepper flakes.
+
+  - name: Beef and Cheese Manicotti
+    categories: [Pasta, Manicotti, Beef]
+    description:
+      - Recipe courtesy Giada De Laurentiis.
+    ingredients:
+      - { qty: 4, measure: tsp, ingredient: Olive oil, note: divided }
+      - { qty: 1, ingredient: Onion, note: "medium, coarsely chopped" }
+      - { qty: 1, measure: lb, ingredient: Ground beef }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 14, ingredient: Manicotti, note: 8-ounce package }
+      - { qty: 15, measure: oz, ingredient: Ricotta, note: whole milk }
+      - { qty: 3, measure: cup, ingredient: Mozzarella, note: "shredded, divided" }
+      - { qty: 1, measure: cup, ingredient: Parmesan, note: "grated, divided" }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh Italian, chopped" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 3, measure: cup, ingredient: Marinara sauce }
+      - { qty: 2, measure: tbsp, ingredient: Butter, note: cut into pieces }
+    directions:
+      - Heat 1 teaspoon oil in a heavy medium skillet over medium heat. Saute the onion and beef, seasoned, until browned and translucent, about 5 minutes. Cool.
+      - Brush a large baking sheet with 1 teaspoon oil. Cook the manicotti in salted boiling water until slightly softened but still very firm, 4 to 6 minutes. Lift onto the baking sheet and cool.
+      - Mix the ricotta, 1 1/2 to 2 cups mozzarella, 1/2 cup Parmesan, parsley and garlic and season. Stir in the cooled meat.
+      - Preheat the oven to 350 degrees F. Brush a 13 by 9 by 2-inch glass baking dish with the remaining oil and spoon in 1 1/2 cups sauce.
+      - Fill the manicotti, arrange in a single layer and spoon the rest of the sauce over. Sprinkle with the remaining mozzarella and Parmesan and dot with butter.
+      - Bake uncovered until heated through and bubbling at the sides, 30 to 35 minutes. Let stand 5 minutes.
+
+  - name: Anne Burrell's Bechamel Sauce
+    categories: [Sauces]
+    description:
+      - For Pork, Spinach and Ricotta Manicotti. It must come to a boil, or the flour won't cook out and will feel starchy. Use right away or refrigerate, covered.
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Butter }
+      - { qty: "1/2", ingredient: White onion, note: "small, 1/2-inch dice" }
+      - { ingredient: Kosher salt }
+      - { qty: 3, measure: tbsp, ingredient: Flour, note: "all-purpose, heaping" }
+      - { qty: 1, measure: qt, ingredient: Milk }
+      - { qty: 1, measure: pinch, ingredient: Nutmeg, note: grated }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: "Parmigiano-Reggiano, grated" }
+    directions:
+      - Cook the butter and onion in a large saucepan over medium heat, seasoned with salt, until translucent and very aromatic.
+      - Add the flour and cook until it looks like wet sand, 3 to 4 minutes. Gradually whisk in the milk, add the bay leaf and nutmeg and season.
+      - Slowly bring to a boil, stirring often so it doesn't scorch. Once thickened, take off the heat, discard the bay leaf, stir in the cheese and adjust the seasoning.
+
+  - name: Anne Burrell's Marinara Sauce
+    categories: [Sauces]
+    description:
+      - Tomatoes take a lot of salt - season in baby steps and taste every step of the way. Keeps a few days refrigerated, or freeze it.
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1/4", measure: lb, ingredient: Pancetta, note: diced }
+      - { qty: 2, ingredient: Onion, note: "large Spanish, 1/4-inch dice" }
+      - { ingredient: Kosher salt }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "large, smashed and chopped" }
+      - { qty: 4, measure: can, ingredient: Plum tomatoes, note: "28-ounce Italian San Marzano" }
+      - { ingredient: Water, note: "1 can, about 2 to 3 cups" }
+    directions:
+      - Coat a large sauce pot with olive oil, add the pancetta and cook over medium-high heat 4 to 5 minutes.
+      - Add the onions, season generously and cook 6 to 7 minutes, stirring often, until very soft but uncolored. Add the garlic for 2 to 3 minutes.
+      - Pass the tomatoes through a food mill, scraping all the pulp off the bottom and leaving only stems and seeds. Add to the pot with 1 can of water, season and taste.
+      - Cook 2 to 3 hours, stirring occasionally and tasting often.
+
+  - name: Basic Crepes
+    categories: [Breads]
+    description:
+      - Anne Burrell's crepes for Pork, Spinach and Ricotta Manicotti. The batter keeps up to 2 days, covered, in the refrigerator. The first couple always get wasted - accept it and move on.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: pinch, ingredient: Kosher salt }
+      - { qty: 2, ingredient: Egg }
+      - { qty: "1/2", measure: cup, ingredient: Milk, note: plus more if needed }
+      - { qty: "1/2", measure: cup, ingredient: Club soda }
+      - { qty: 6, measure: tbsp, ingredient: Butter, note: "melted - 3 for the batter, 3 for cooking" }
+    directions:
+      - Make a well in the flour and salt. Add the eggs, milk, club soda and 3 tablespoons melted butter and whisk until just combined; it should be like VERY loose pancake batter. Let sit at least 30 minutes.
+      - Melt about 1/2 teaspoon butter in a small nonstick pan over medium heat, wiping out any excess with a paper towel.
+      - Pour in an almost-full 2-ounce ladle of batter, tilting and rolling the pan to cover the bottom.
+      - When the edges pull away and the bottom browns a little, turn and cook about 1 minute more. Stack between parchment squares and repeat, re-buttering the pan as needed.
+
+  - name: Pork, Spinach and Ricotta Manicotti
+    categories: [Pasta, Manicotti, Pork]
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell, made with crepes instead of pasta. Uses Anne Burrell's Bechamel Sauce, half a recipe of Anne Burrell's Marinara Sauce and Basic Crepes (their own recipes). "Mamma mia!"
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Onion, note: "large, 1/2-inch dice" }
+      - { ingredient: Kosher salt }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { qty: 1, measure: lb, ingredient: Italian sausage, note: bulk fennel pork sausage }
+      - { qty: 1, measure: lb, ingredient: Baby spinach, note: "washed, cut into 1-inch lengths" }
+      - { qty: 2, measure: cup, ingredient: Ricotta }
+      - { qty: "1 1/2", measure: cup, ingredient: Parmesan, note: "Parmigiano-Reggiano, grated, plus extra for serving" }
+      - { qty: 2, ingredient: Egg }
+      - { ingredient: "Anne Burrell's Bechamel Sauce" }
+      - { ingredient: "Anne Burrell's Marinara Sauce", note: 1/2 recipe }
+      - { ingredient: Basic Crepes, note: 1 recipe }
+    directions:
+      - "Filling: coat a large saute pan with olive oil, add the onions and bring to medium heat. Season with salt and the red pepper and saute until translucent and very aromatic, 7 to 8 minutes. Add the garlic for 3 to 4 minutes."
+      - Brown the sausage, then stir in the spinach, season and saute until wilted, 2 to 3 minutes. Let cool.
+      - Mix the ricotta, 1 cup Parmigiano, the eggs and 1 cup bechamel, then the cooled sausage mixture. Taste and adjust.
+      - Preheat the oven to 350 degrees F. Spread 1 cup bechamel in a 9 by 13-inch baking dish.
+      - Put 2 heaping tablespoons of filling just below the middle of each crepe, form it into a log and roll up. Snuggle them into the dish.
+      - Spoon the tomato sauce over, spread the rest of the bechamel in a wide swath down the middle and sprinkle with the remaining 1/2 cup cheese.
+      - Cover with foil and bake until heated through, about 30 minutes. Uncover and bake until the top starts to brown, 5 to 10 minutes. Serve topped with a little extra cheese.
+
+  - name: Manny's Manly Meat Sauce
+    categories: [Pasta, Sauces, Beef]
+    description:
+      - '"No nonsense: meat, mushroom, and macaroni." Allspice is the secret ingredient. Serve with grated Parmesan or Romano and warm crusty bread.'
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1/2", measure: tsp, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 1, measure: lb, ingredient: Ground sirloin, note: 90 percent lean }
+      - { qty: 1, ingredient: Onion, note: "small, chopped" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: crushed }
+      - { qty: "1/2", measure: tsp, ingredient: Allspice }
+      - { ingredient: Salt, note: coarse }
+      - { ingredient: Black pepper }
+      - { qty: 1, ingredient: Portobello mushrooms, note: "medium cap, finely chopped" }
+      - { qty: "1/2", measure: cup, ingredient: Red wine }
+      - { qty: "3/4", measure: cup, ingredient: Beef broth, note: or stock }
+      - { qty: 1, measure: can, ingredient: Crushed tomato, note: 28 to 32 ounces }
+      - { qty: 1, measure: handful, ingredient: Parsley, note: "flat-leaf, chopped" }
+      - { qty: 1, measure: lb, ingredient: Rigatoni, note: cooked al dente }
+      - { ingredient: Parmesan, note: "or Romano, grated, for garnish" }
+    directions:
+      - Heat a deep skillet over medium-high heat with the olive oil. Add the pepper flakes and infuse 10 seconds.
+      - Add the beef, onions, garlic and seasonings and brown 5 minutes. Add the mushrooms and cook 5 minutes more.
+      - Add the wine and reduce 1 minute. Add the broth and tomatoes, lower the heat and simmer 5 to 10 minutes (the parsley goes in here).
+      - Toss the pasta with half the sauce and serve the rest on top.
+
+  - name: Fresh Chili Oil
+    categories: [Sauces, Asian]
+    description:
+      - Alex Guarnaschelli's, for Chinese Chilled Noodles. Store airtight.
+    ingredients:
+      - { qty: 8, ingredient: Red chile, note: fresh red cayenne chiles }
+      - { qty: 2, ingredient: Scotch bonnet, note: fresh red }
+      - { qty: 1, measure: cup, ingredient: Canola oil }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt }
+    directions:
+      - Stem the chiles and blend in a food processor until completely broken down. Scrape into a medium saute pan, add the oil and stir.
+      - Warm gently over medium-low heat to draw out the color and flavor, season with salt and cook at a bare simmer 5 to 6 minutes. Cool.
+
+  - name: Chinese Chilled Noodles
+    categories: [Pasta, Asian]
+    servings: 8
+    description:
+      - Recipe courtesy Alex Guarnaschelli. Serves 8 to 10. Uses Fresh Chili Oil (its own recipe). They can marinate a few hours or overnight; drying the noodles well keeps the sauce from being diluted.
+    ingredients:
+      - { qty: 7, measure: tbsp, ingredient: Sesame oil }
+      - { qty: 7, measure: tbsp, ingredient: Dark soy sauce, note: black soy sauce }
+      - { qty: 3, measure: tbsp, ingredient: Balsamic vinegar }
+      - { qty: 4, measure: tbsp, ingredient: Sugar }
+      - { qty: 1, measure: tbsp, ingredient: Kosher salt, note: plus more for the pasta water }
+      - { qty: 2, measure: tsp, ingredient: Fresh Chili Oil }
+      - { qty: 12, ingredient: Green onion, note: "roots trimmed, thinly sliced, divided" }
+      - { qty: 1, measure: lb, ingredient: Spaghetti, note: "thin noodles, regular spaghetti, or fresh Chinese egg noodles" }
+    directions:
+      - Whisk the sesame oil, soy sauce, balsamic, sugar, salt and chili oil in a large bowl. Stir in half the scallions and refrigerate.
+      - Salt boiling water until it tastes like seawater and cook the noodles 3 to 5 minutes, until al dente. Pour off most of the water into a colander, catching any pasta, then fill the pot with cold water to cool the noodles quickly for a chewy texture.
+      - Drain thoroughly, spread on a kitchen towel and gently pat dry with another.
+      - Gently toss the noodles in the sauce by hand until all are coated. Cover and refrigerate. Serve cold, tossed again, garnished with the remaining scallions.
