@@ -314,6 +314,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-24
+  arm64-darwin-25
   x86_64-darwin-19
   x86_64-linux
 
@@ -341,7 +342,7 @@ DEPENDENCIES
   web-console
 
 RUBY VERSION
-   ruby 3.4.3p32
+   ruby 4.0.7p0
 
 BUNDLED WITH
    2.7.2

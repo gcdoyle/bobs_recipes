@@ -1,0 +1,15 @@
+<%# A recipe tile: title bar over its photo. path defaults to the recipe page. %>
+<% path = local_assigns.fetch(:path) { recipe_path(recipe) } %>
+<div class="col-12 col-sm-6 col-md-4 card p-2" style="border: 0">
+  <div class="card-body p-0">
+    <h4 class="card-title text-center p-2 mb-0">
+      <%= link_to recipe.name, path, class: "stretched-link", style: "color: black" %>
+    </h4>
+    <p class="card-text">
+      <% if recipe.image.attached? %>
+        <%= image_tag recipe.image.variant(resize_to_limit: [240, 240]),
+                      class: "card-img-bottom", alt: "", loading: "lazy" %>
+      <% end %>
+    </p>
+  </div>
+</div>
