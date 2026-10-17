@@ -1,0 +1,485 @@
+# Recipes from "Sauces & Dressings.txt", part 3. Bob's Mint Sauce tip is already
+# a cook's note on Grilled Lamb Chops and is skipped.
+recipes:
+  - name: Jalapeno Hot Sauce
+    categories: [Sauces]
+    description:
+      - Keeps 6 months in the refrigerator.
+    ingredients:
+      - { qty: 1, measure: tsp, ingredient: Vegetable oil }
+      - { qty: 20, ingredient: Jalapeno, note: "fresh, sliced" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: "1/2", measure: cup, ingredient: Onion, note: minced }
+      - { qty: "3/4", measure: tsp, ingredient: Salt }
+      - { qty: 2, measure: cup, ingredient: Water }
+      - { qty: 1, measure: cup, ingredient: Distilled white vinegar }
+    directions:
+      - In a medium glass or enamel-lined saucepan over high heat, saute the oil, peppers, garlic, onion and salt for 4 minutes.
+      - Add the water and cook 20 minutes, stirring often. Cool to room temperature.
+      - Puree in a food processor, slowly adding the vinegar with the machine running.
+      - Pour into a sterilized jar with a tight lid.
+
+  - name: Jicama Salad
+    categories: [Salads]
+    servings: 4
+    description:
+      - Recipe courtesy Bobby Flay.
+    ingredients:
+      - { qty: 1, ingredient: Jicama, note: "large, julienned" }
+      - { qty: 2, ingredient: Carrot, note: "large, julienned" }
+      - { qty: 1, measure: cup, ingredient: Red onion, note: finely sliced }
+      - { qty: "1/2", ingredient: Red bell pepper, note: julienned }
+      - { qty: "1/2", ingredient: Yellow bell pepper, note: julienned }
+      - { qty: 1, ingredient: Tomato, note: julienned }
+      - { qty: "1/4", measure: cup, ingredient: Lime juice, note: fresh }
+      - { qty: "1/4", measure: cup, ingredient: Red wine vinegar }
+      - { qty: 1, measure: tsp, ingredient: Honey }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: tbsp, ingredient: Cilantro, note: chopped }
+    directions:
+      - Combine the jicama, carrots, onion, peppers and tomato in a medium bowl.
+      - Whisk the lime juice, vinegar, honey, oil and cayenne, season with salt and pepper and toss with the vegetables. Add the cilantro and let sit 30 minutes.
+
+  - name: Bobby Flay's "Kimchee" Salad
+    categories: [Salads, Asian]
+    servings: 6
+    description:
+      - Recipe courtesy Bobby Flay. Serves 6 to 8. Refrigerate 2 to 3 days before serving so the cabbage wilts and the flavors meld.
+    ingredients:
+      - { qty: 1, measure: head, ingredient: Napa cabbage, note: finely shredded }
+      - { qty: 4, ingredient: Green onion, note: thinly sliced }
+      - { qty: "1/4", measure: cup, ingredient: Rice vinegar, note: rice wine vinegar }
+      - { qty: 1, measure: tbsp, ingredient: Soy sauce }
+      - { qty: 1, measure: piece, ingredient: Ginger, note: "1-inch, peeled and chopped" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: "1/4", measure: cup, ingredient: Red pepper flakes, note: "red chili flakes, plus more to taste" }
+      - { qty: 1, measure: tbsp, ingredient: Sugar }
+      - { qty: "1/4", measure: cup, ingredient: Vegetable oil }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Put the cabbage and green onions in a large bowl.
+      - Blend the vinegar, soy sauce, ginger, garlic, chili flakes and sugar until smooth, then slowly add the oil with the motor running. Season with salt and pepper.
+      - Pour over the cabbage, toss gently, cover and refrigerate.
+
+  - name: Kimchi
+    categories: [Salads, Asian]
+    description:
+      - Some recipes advise wearing rubber gloves, since the chili paste can stain your hands. Best eaten within about 3 weeks; after that it can get too fermented.
+    ingredients:
+      - { qty: 1, ingredient: Napa cabbage, note: "large, Chinese or Napa" }
+      - { qty: 1, measure: gal, ingredient: Water }
+      - { qty: "1/2", measure: cup, ingredient: Salt, note: coarse }
+      - { qty: 1, measure: head, ingredient: Garlic, note: "small, peeled and finely minced" }
+      - { qty: 1, measure: piece, ingredient: Ginger, note: "2-inch, peeled and minced" }
+      - { qty: "1/4", measure: cup, ingredient: Fish sauce }
+      - { qty: "1/3", measure: cup, ingredient: Chili paste, note: or 1/2 cup Korean chili powder }
+      - { qty: 1, measure: bunch, ingredient: Green onion, note: "1-inch lengths, dark green part too" }
+      - { qty: 1, ingredient: Daikon, note: "medium, peeled and grated" }
+      - { qty: 1, measure: tsp, ingredient: Sugar, note: or honey }
+      - { ingredient: Sesame seeds, note: "toasted, optional for serving" }
+    directions:
+      - Halve the cabbage lengthwise, then cut each half lengthwise into 3 sections. Cut away the tough stem chunks.
+      - Dissolve the salt in the water in a very large container, submerge the cabbage with a plate on top and let stand 2 hours.
+      - Mix the other ingredients in a very large metal or glass bowl.
+      - Drain, rinse and squeeze the cabbage dry, then mix it all up.
+      - Pack tightly into a clean glass jar and let stand in a cool place around room temperature 1 to 2 days.
+      - If it's bubbling a bit, it's ready - refrigerate it. If not, give it another day. Sprinkle with toasted sesame seeds to serve if you like.
+
+  - name: Dunkley's Famous Macaroni Salad
+    categories: [Salads, Pasta]
+    description:
+      - Recipe courtesy Craig Dunkley, from a Food Network guest; not tested by Food Network. Start a day ahead - it rests overnight before dressing.
+    ingredients:
+      - { qty: 16, measure: oz, ingredient: Elbow macaroni, note: "1 package salad macaroni, or ditali" }
+      - { qty: 1, measure: cup, ingredient: Celery, note: diced }
+      - { qty: 1, measure: cup, ingredient: Red onion, note: diced }
+      - { qty: 1, measure: cup, ingredient: Onion, note: "yellow or white, diced" }
+      - { qty: 1, measure: cup, ingredient: Cheddar, note: "medium, diced" }
+      - { qty: 1, measure: cup, ingredient: Swiss cheese, note: diced }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: grated }
+      - { qty: 1, measure: cup, ingredient: Pickles, note: "dill, diced" }
+      - { qty: 1, measure: cup, ingredient: Salami, note: diced }
+      - { qty: 1, measure: can, ingredient: Black olive, note: "6-ounce large pitted, drained" }
+      - { qty: 2, measure: tbsp, ingredient: Garlic salt, note: "1 to 2, Lawry's" }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: "1 to 2, fresh minced" }
+      - { qty: "1/4", measure: tsp, ingredient: Horseradish, note: dried }
+      - { qty: "1/2", measure: tsp, ingredient: White pepper, note: ground }
+      - { qty: 2, measure: tsp, ingredient: Black pepper, note: "1 to 2, freshly ground" }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1/2", measure: tsp, ingredient: Dry mustard }
+      - { qty: "1/2", measure: tsp, ingredient: Celery salt }
+      - { qty: 3, measure: oz, ingredient: Pimentos, note: "1 jar diced, rinsed and drained" }
+      - { qty: "1 1/2", measure: cup, ingredient: Mayonnaise, note: 1 to 1 1/2 cups }
+    directions:
+      - Cook the macaroni in 2 quarts boiling water until al dente, about 9 minutes - don't overcook or it falls apart. Rinse until cool, drain well and let dry slightly.
+      - Fold in the celery, onions, cheeses, pickles, salami and olives. Refrigerate uncovered overnight, or at least 2 hours.
+      - Mix the garlic salt, garlic, horseradish, peppers, cayenne, mustard and celery salt and add to the salad. Fold in the pimentos.
+      - Fold in 1 cup mayonnaise, adding up to 1/2 cup more if needed. Refrigerate 30 minutes to 1 hour.
+
+  - name: Mint and Mustard Dipping Sauce
+    categories: [Sauces, Lamb]
+    description:
+      - Served with broiled loin lamb chops brushed with the garlic oil. The file stops before the broiling step and doesn't say how the radicchio is used; it's probably for serving.
+    ingredients:
+      - { qty: "2/3", measure: cup, ingredient: Olive oil, note: "extra-virgin, eyeball it" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 12, ingredient: Lamb chop, note: "loin, 1/2 to 3/4 inch thick" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 3, measure: tbsp, ingredient: Whole grain mustard, note: rounded }
+      - { qty: 2, measure: tbsp, ingredient: White wine vinegar, note: 2 splashes }
+      - { qty: 1, measure: tbsp, ingredient: Honey, note: a good drizzle }
+      - { qty: "1/4", measure: cup, ingredient: Mint, note: "leaves, a couple of handfuls of sprigs, 4 leaves reserved for garnish" }
+      - { qty: 4, measure: leaf, ingredient: Radicchio }
+    directions:
+      - Preheat the broiler to high. Warm the garlic in the oil in a small saucepan over low heat 5 minutes, then remove from the heat.
+      - Brush the chops with 3 teaspoons of the garlic oil and season with salt and pepper.
+      - In a food processor or blender, add the mustard, vinegar and honey and stream in the remaining garlic and oil with the motor running.
+      - Turn it off, add the mint and pulse to work in the leaves.
+
+  - name: Mint Pesto Dipping Sauce
+    categories: [Sauces, Lamb]
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Parsley, note: "flat-leaf tops, 3 handfuls" }
+      - { qty: "1/4", measure: cup, ingredient: Mint, note: "fresh, 6 to 8 sprigs" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: large }
+      - { qty: "1/4", measure: cup, ingredient: Almond, note: "sliced, a 2-ounce package" }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: "1/2", measure: tsp, ingredient: Ground coriander }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 1, measure: tbsp, ingredient: Red wine vinegar }
+      - { qty: "1/3", measure: cup, ingredient: Olive oil, note: extra-virgin }
+    directions:
+      - Pulse the parsley, mint, garlic, almonds, cumin and coriander in a food processor until finely chopped.
+      - Add a little salt, pepper and the vinegar, turn it back on and stream in the oil until a sauce forms. Taste and adjust.
+
+  - name: Mint and Shallot Sauce for Lamb
+    categories: [Sauces, Lamb]
+    description:
+      - Recipe courtesy Rachael Ray. Makes 1 1/2 cups.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: White balsamic vinegar }
+      - { qty: "1/2", measure: cup, ingredient: Water }
+      - { qty: "1/3", measure: cup, ingredient: Sugar }
+      - { qty: 1, measure: tbsp, ingredient: Sea salt }
+      - { qty: 3, ingredient: Shallot, note: "large, coarsely chopped" }
+      - { qty: 1, measure: cup, ingredient: Mint, note: "leaves, loosely packed" }
+      - { qty: "1/2", measure: cup, ingredient: Parsley, note: flat-leaf }
+    directions:
+      - Heat the vinegar, water and sugar in a small pot over medium heat to a boil, then stir in the salt until dissolved. Reduce to low.
+      - Pulse the shallots, mint and parsley in a food processor to finely chop and put in a small storage container.
+      - Pour the hot brine over, cover and refrigerate, or let stand at room temperature until serving.
+
+  - name: Parsley-Mint Sauce
+    categories: [Sauces, Lamb]
+    ingredients:
+      - { qty: "1 1/2", measure: cup, ingredient: Mint, note: "fresh leaves, tightly packed" }
+      - { qty: "3/4", measure: cup, ingredient: Parsley, note: "fresh flat-leaf, tightly packed" }
+      - { qty: 6, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: 2, ingredient: Serrano pepper, note: "grilled, peeled and chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Honey }
+      - { qty: 2, measure: tbsp, ingredient: Dijon mustard }
+      - { qty: 1, measure: cup, ingredient: Olive oil }
+      - { ingredient: Water, note: cold }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Process the mint, parsley, garlic and serranos until coarsely chopped. Add the honey and mustard and process to combine.
+      - With the motor running, slowly add the oil until emulsified.
+      - Transfer to a bowl, whisk in a few tablespoons of cold water to thin it to a sauce and season with salt and pepper.
+
+  - name: Tyler Florence's Potato Salad
+    categories: [Salads, Vegetables]
+    description:
+      - Recipe courtesy Tyler Florence.
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Yukon gold potatoes, note: small }
+      - { qty: 2, ingredient: Egg, note: large }
+      - { ingredient: Kosher salt }
+      - { qty: "1/2", measure: bunch, ingredient: Green onion, note: "scallions, sliced, white and green parts" }
+      - { qty: 2, measure: tbsp, ingredient: Capers, note: drained }
+      - { qty: 2, measure: cup, ingredient: Mayonnaise }
+      - { qty: "1/4", measure: cup, ingredient: Dijon mustard }
+      - { qty: "1/4", measure: cup, ingredient: Pickles, note: "dill, finely chopped (about 2), plus 1/4 cup of their juice" }
+      - { qty: "1/2", ingredient: Red onion, note: "small, chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh flat-leaf, chopped" }
+      - { qty: "1/2", measure: bunch, ingredient: Dill, note: chopped }
+      - { qty: "1/2", ingredient: Lemon, note: juiced }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Olive oil, note: "extra-virgin, for drizzling" }
+    directions:
+      - Put the potatoes and eggs in a big saucepan of cold salted water and bring to a simmer. After 12 minutes remove the eggs and let cool. Cook the potatoes until a knife goes in without resistance, about 3 minutes more. Drain and cool.
+      - Save some scallion greens and capers for garnish. Stir together the mayonnaise, mustard, pickles and juice, onion, remaining scallions and capers, parsley, dill and lemon juice in a bowl big enough for the potatoes.
+      - Peel the eggs and grate them into the bowl. Break the potatoes into rough chunks by hand, add and toss to coat.
+      - Season with salt and pepper and drizzle with a little olive oil before serving.
+
+  - name: Paula Deen's Blue Cheese Dressing
+    categories: [Sauces, Salads]
+    description:
+      - For Roasted Potato Salad with Blue Cheese Dressing.
+    ingredients:
+      - { qty: "3/4", measure: cup, ingredient: Mayonnaise }
+      - { qty: 5, measure: oz, ingredient: Blue cheese, note: "1 container, crumbled" }
+      - { qty: 2, measure: tbsp, ingredient: Sour cream }
+      - { qty: "1 1/2", measure: tsp, ingredient: Prepared horseradish }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: ground }
+    directions:
+      - Combine everything in a small bowl, cover and refrigerate until ready to use.
+
+  - name: Roasted Potato Salad with Blue Cheese Dressing
+    categories: [Salads, Vegetables]
+    servings: 12
+    description:
+      - Recipe courtesy Paula Deen. Serve right away, or refrigerate and bring to room temperature before serving.
+    ingredients:
+      - { qty: 5, measure: lb, ingredient: Potato, note: "red and white table potatoes, 1-inch pieces" }
+      - { qty: 3, measure: tbsp, ingredient: Olive oil }
+      - { qty: 2, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: "1 1/2", measure: tsp, ingredient: Salt, note: divided }
+      - { qty: "3/4", measure: tsp, ingredient: Black pepper, note: "ground, divided" }
+      - { qty: "1/4", measure: cup, ingredient: Butter }
+      - { qty: 1, ingredient: Onion, note: "large, chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Balsamic vinegar }
+      - { ingredient: "Paula Deen's Blue Cheese Dressing", note: 1 recipe }
+    directions:
+      - Preheat the oven to 450 degrees F and line a large shallow roasting pan with nonstick foil.
+      - Toss the potatoes with the oil, garlic, 1 teaspoon salt and 1/2 teaspoon pepper and spread in a single layer. Bake until tender and lightly browned, stirring occasionally, 35 minutes. Cool.
+      - Melt the butter in a large skillet over medium-low heat, add the onions, cover and cook 30 minutes, stirring occasionally. Uncover, add the vinegar and stir until it evaporates, 1 to 2 minutes.
+      - Combine the potatoes, onions, remaining salt and pepper and the dressing in a large serving bowl.
+
+  - name: Ranch Dressing
+    categories: [Sauces, Salads]
+    description:
+      - Refrigerate at least 1 hour before serving.
+    ingredients:
+      - { qty: "1/3", measure: cup, ingredient: Sour cream }
+      - { qty: "1/2", measure: cup, ingredient: Mayonnaise }
+      - { qty: 1, measure: cup, ingredient: Buttermilk }
+      - { qty: 3, measure: tbsp, ingredient: Chives, note: freshly chopped }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "Italian, freshly chopped" }
+      - { qty: "1/2", measure: tsp, ingredient: Dill, note: dried }
+      - { qty: 1, measure: tsp, ingredient: Salt, note: divided }
+      - { qty: 1, measure: tsp, ingredient: Black pepper, note: freshly cracked }
+      - { qty: 1, measure: tbsp, ingredient: White vinegar }
+      - { qty: 5, measure: clove, ingredient: Garlic, note: "smashed into a paste with half the salt (about 1 tablespoon)" }
+    directions:
+      - Combine everything in a medium bowl and blend well with a fork or stick blender. Cover and refrigerate.
+
+  - name: Emeril's Russian Dressing
+    categories: [Sauces, Sandwiches]
+    description:
+      - Makes about 1 1/2 cups.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Mayonnaise }
+      - { qty: "1/4", measure: cup, ingredient: Chili sauce }
+      - { qty: 1, measure: tbsp, ingredient: Onion, note: "yellow, minced" }
+      - { qty: 1, measure: tbsp, ingredient: Pickles, note: "dill, minced" }
+      - { qty: 1, measure: tbsp, ingredient: Celery, note: minced }
+      - { qty: 1, measure: tbsp, ingredient: Parsley, note: "leaves, minced" }
+      - { qty: 1, measure: tbsp, ingredient: Heavy cream }
+      - { qty: "1/2", measure: tsp, ingredient: Dry mustard }
+      - { qty: "1/2", measure: tsp, ingredient: Hot sauce }
+      - { qty: "1/4", measure: tsp, ingredient: Worcestershire sauce }
+      - { qty: "1/4", measure: tsp, ingredient: Sugar }
+      - { ingredient: Salt }
+    directions:
+      - Whisk everything except the salt until well blended. Salt to taste, cover and refrigerate until ready to serve.
+
+  - name: Russian Dressing
+    categories: [Sauces, Sandwiches]
+    description:
+      - Makes 2 cups.
+    ingredients:
+      - { qty: "3/4", measure: cup, ingredient: Mayonnaise }
+      - { qty: "1/4", measure: cup, ingredient: Chili sauce, note: plus 2 to 3 tablespoons }
+      - { qty: 2, measure: tbsp, ingredient: Sour cream }
+      - { qty: 2, measure: tsp, ingredient: Parsley, note: "curly leaves, chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Onion, note: "Spanish, minced, plus 1 teaspoon" }
+      - { qty: 1, measure: tbsp, ingredient: Pickles, note: "dill, minced, plus 1 teaspoon" }
+      - { qty: "1/2", measure: tsp, ingredient: Lemon juice, note: fresh }
+      - { qty: "1/2", measure: tsp, ingredient: Horseradish, note: grated }
+      - { qty: "1/4", measure: tsp, ingredient: Worcestershire sauce }
+    directions:
+      - Mix everything well in a bowl.
+
+  - name: Simple Russian Dressing
+    categories: [Sauces, Sandwiches]
+    description:
+      - The third Russian dressing in the file, which lists only the ingredients - just mix them.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Mayonnaise }
+      - { qty: "1/4", measure: cup, ingredient: Ketchup }
+      - { qty: 1, measure: tsp, ingredient: Worcestershire sauce }
+      - { qty: 1, measure: tbsp, ingredient: Parsley }
+      - { qty: 1, measure: tsp, ingredient: Onion, note: grated }
+      - { qty: 1, measure: tbsp, ingredient: Prepared horseradish }
+
+  - name: Simple Salsa
+    categories: [Sauces, Mexican]
+    ingredients:
+      - { qty: 1, measure: can, ingredient: Peeled tomatoes, note: "28-ounce whole, drained, juice reserved; recommended San Marzano" }
+      - { qty: 1, ingredient: Red onion, note: "small, roughly chopped" }
+      - { qty: 1, ingredient: Serrano pepper }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: roughly chopped }
+      - { qty: 2, ingredient: Lime, note: juiced }
+      - { qty: "1/2", measure: cup, ingredient: Cilantro, note: "leaves, chopped" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly cracked }
+      - { ingredient: Olive oil, note: "extra-virgin, for drizzling" }
+    directions:
+      - Pulse everything except the tomato juice in a food processor, adding the reserved juice if it's too thick.
+      - Drizzle with olive oil, cover with plastic wrap and let the flavors marry.
+
+  - name: Alton Brown's Salsa
+    categories: [Sauces, Mexican]
+    servings: 4
+    description:
+      - Recipe courtesy Alton Brown. Serves 4 to 6. Serve with tortilla chips.
+    ingredients:
+      - { qty: 6, ingredient: Roma tomato, note: chopped }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 4, ingredient: Jalapeno, note: "2 seeded and minced, plus 2 roasted, skinned and chopped" }
+      - { qty: 1, ingredient: Red bell pepper, note: fine dice }
+      - { qty: "1/2", ingredient: Red onion, note: finely chopped }
+      - { qty: 2, ingredient: Ancho chile, note: "dried, seeded, cut into short strips and snipped" }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, ingredient: Lime, note: juiced }
+      - { ingredient: Chili powder, note: to taste }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { ingredient: Green onion, note: "or cilantro or parsley, to taste" }
+    directions:
+      - Combine everything in a bowl and refrigerate up to 12 hours for the flavors to infuse.
+
+  - name: Honey Soy Dipping Sauce
+    categories: [Sauces, Asian]
+    description:
+      - Recipe courtesy Emeril Lagasse, 2003. For dumplings or potstickers. It can be made a day ahead; stir in the sesame seeds just before serving.
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Soy sauce }
+      - { qty: 2, measure: tbsp, ingredient: Orange blossom honey }
+      - { qty: 2, measure: tsp, ingredient: Ginger, note: "fresh, peeled and minced" }
+      - { qty: "1/2", measure: tsp, ingredient: Sesame oil }
+      - { qty: "1/4", measure: tsp, ingredient: Red pepper flakes }
+      - { qty: 1, measure: tsp, ingredient: Sesame seeds, note: toasted }
+    directions:
+      - Whisk the soy sauce, honey, ginger, sesame oil and pepper flakes in a small bowl. Stir in the sesame seeds just before serving.
+
+  - name: Red Wine Steak Sauce
+    categories: [Sauces, Beef]
+    description:
+      - The file gives the method but no ingredient list; the amounts other than the butter aren't given.
+    ingredients:
+      - { qty: 6, measure: tbsp, ingredient: Butter, note: "divided, 2 to start and 4 to finish" }
+      - { ingredient: Onion }
+      - { ingredient: Salt }
+      - { ingredient: Garlic }
+      - { ingredient: Oregano }
+      - { ingredient: Tomato paste }
+      - { ingredient: Red wine }
+      - { ingredient: Black pepper }
+    directions:
+      - Melt 2 tablespoons butter in a heavy large saucepan over medium-high heat. Saute the onions until tender, about 5 minutes, and season with salt.
+      - Add the garlic and oregano and saute until fragrant, about 30 seconds. Stir in the tomato paste and cook 2 minutes, stirring constantly.
+      - Whisk in the wine and simmer until reduced by half, about 10 minutes, stirring occasionally.
+      - Strain, pressing on the solids, and return to the pan at a slow simmer. Whisk in the remaining 4 tablespoons butter in 1/2-inch chunks a little at a time. Season with salt and pepper.
+
+  - name: Steak with Brandied Mushrooms and Fresh Thyme
+    categories: [Beef, Sauces]
+    description:
+      - Titled "Steak Sauce with Brandied Mushrooms and Fresh Thyme" in the file. The ingredient list leaves out the steaks and oil; amounts for those aren't given.
+    ingredients:
+      - { ingredient: Steak }
+      - { ingredient: Olive oil, note: "2 tablespoons for the steaks plus 1/4 cup for the mushrooms" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 2, measure: lb, ingredient: Mushroom, note: "wild, trimmed, brushed clean and stemmed, caps left whole" }
+      - { qty: 2, measure: sprig, ingredient: Thyme, note: "fresh, leaves only" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: "1/4", measure: cup, ingredient: Brandy }
+      - { qty: "1/2", measure: cup, ingredient: Heavy cream }
+    directions:
+      - Heat 2 tablespoons oil in a large saute pan over medium-high heat until smoking. Season the steaks all over and brown on all sides to medium-rare, 8 to 10 minutes depending on thickness. Tent with foil on a platter.
+      - Add 1/4 cup oil to the pan and heat until smoking. Cook the mushrooms, stirring, until golden, about 10 minutes. Add the thyme and garlic, season well and toss a few more times, then turn out onto a platter.
+      - Off the heat add the brandy and cook until almost evaporated. Add the cream and reduce by about half, 2 to 3 minutes.
+      - Return the mushrooms and their juices and simmer 2 minutes, until thickened again. Season and serve with the steaks.
+
+  - name: Stir Fry Sauce
+    categories: [Sauces, Asian]
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Soy sauce }
+      - { qty: "1/4", measure: cup, ingredient: Water }
+      - { qty: 2, measure: tbsp, ingredient: Mirin, note: sweet rice wine }
+      - { qty: 2, measure: tbsp, ingredient: Brown sugar }
+      - { qty: "1/4", measure: cup, ingredient: Sugar }
+      - { qty: "1 1/2", measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: "1 1/2", measure: tsp, ingredient: Ginger, note: minced }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Sesame oil }
+    directions:
+      - Combine everything in a saucepan over medium heat until the sugar dissolves.
+
+  - name: Tyler Florence's Homemade Tartar Sauce
+    categories: [Sauces, Seafood]
+    description:
+      - Recipe courtesy Tyler Florence. Makes about 1 1/4 cups. Chill before serving to let the flavors marry.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Mayonnaise }
+      - { qty: 3, measure: tbsp, ingredient: Capers, note: chopped }
+      - { qty: 10, measure: tbsp, ingredient: Cornichons, note: chopped }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "flat-leaf, finely chopped" }
+      - { qty: "1/2", ingredient: Lemon, note: juiced }
+      - { qty: 1, measure: dash, ingredient: Hot sauce }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+    directions:
+      - Combine everything in a small bowl and chill.
+
+  - name: Tomato Red Sauce (Gravy)
+    categories: [Sauces, Pork, Pasta]
+    description:
+      - A pork and tomato Sunday gravy made with Chianti. Simmer 2 hours.
+    ingredients:
+      - { qty: 1, ingredient: Pork shoulder, note: pork butt or shoulder }
+      - { ingredient: Salt, note: gray }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil }
+      - { qty: 1, ingredient: Carrot, note: chopped }
+      - { qty: 1, measure: stalk, ingredient: Celery, note: chopped }
+      - { qty: 1, ingredient: Onion, note: chopped }
+      - { qty: 1, measure: tbsp, ingredient: Rosemary, note: "fresh leaves, minced" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: minced }
+      - { ingredient: Red wine, note: "Chianti, 1 1/2 glasses" }
+      - { qty: 1, measure: can, ingredient: Tomato paste, note: small }
+      - { qty: 4, measure: can, ingredient: Diced tomatoes, note: 28-ounce chopped tomatoes }
+    directions:
+      - Cut the pork into roughly 1-inch cubes and season with salt and pepper.
+      - Heat the oil in a large soup pot over medium-high heat and brown the pork on all sides, about 2 minutes more after turning. Set aside in a bowl.
+      - In the same pot saute the carrot, celery, onion and garlic with a pinch of salt until lightly browned. Stir in the rosemary and return the pork.
+      - Add the Chianti and bring to a boil, then add the tomato paste and tomatoes. Simmer 2 hours, skimming off scum occasionally.
+
+  - name: Summer Stuffed Tomatoes
+    categories: [Vegetables]
+    servings: 2
+    ingredients:
+      - { qty: 2, ingredient: Tomato, note: large }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: "1/4", measure: cup, ingredient: Onion, note: chopped }
+      - { qty: 2, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 1, ingredient: Zucchini, note: "small, diced" }
+      - { qty: 1, ingredient: Yellow squash, note: "small, diced" }
+      - { qty: 2, measure: tsp, ingredient: Basil, note: "chopped, divided" }
+      - { qty: "1/2", measure: tsp, ingredient: Thyme, note: chopped }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: tbsp, ingredient: Parmesan, note: freshly grated }
+    directions:
+      - Preheat the oven to 450 degrees F.
+      - Cut the top 1/2 inch off the tomatoes and finely chop the tops. Scoop out the seeds, juice and pulp, leaving 1/2-inch shells. Lightly salt the insides and rest cut side down on paper towels.
+      - Heat the oil in a skillet over medium heat and cook the onions until soft, about 5 minutes. Add the garlic for 30 seconds, then the chopped tomato tops, zucchini and squash and saute until just soft and most of the juice has evaporated, about 3 minutes.
+      - Stir in 1 teaspoon basil and the thyme, season and cool slightly.
+      - Set the shells in an oiled baking dish and spoon in the filling, letting any extra spill into the pan. Top each with 1 tablespoon cheese.
+      - Bake on the upper rack until heated through, tender and the cheese is turning golden, about 10 minutes. Garnish with the remaining basil and serve hot.

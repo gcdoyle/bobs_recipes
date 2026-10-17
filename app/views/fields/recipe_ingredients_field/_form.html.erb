@@ -1,0 +1,30 @@
+<div class="field-unit__label">
+  <%= f.label field.attribute, "Ingredients" %>
+</div>
+<div class="field-unit__field" data-recipe-ingredients>
+  <table class="recipe-ingredients__table">
+    <thead>
+      <tr>
+        <th></th>
+        <th>Qty</th>
+        <th>Measure</th>
+        <th>Ingredient</th>
+        <th>Note</th>
+        <th class="recipe-ingredient__remove">Remove</th>
+      </tr>
+    </thead>
+    <tbody data-rows>
+      <%= f.fields_for :recipe_ingredients, include_id: false do |line| %>
+        <%= render "fields/recipe_ingredients_field/row", line: line, field: field %>
+      <% end %>
+    </tbody>
+  </table>
+
+  <template data-row-template>
+    <%= f.fields_for :recipe_ingredients, RecipeIngredient.new, child_index: "NEW_RECORD", include_id: false do |line| %>
+      <%= render "fields/recipe_ingredients_field/row", line: line, field: field %>
+    <% end %>
+  </template>
+
+  <button type="button" class="button button--alt" data-add-row>Add ingredient</button>
+</div>

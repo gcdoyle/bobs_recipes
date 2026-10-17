@@ -1,0 +1,52 @@
+# Recipes from "Eggs,Milk & Cheese.txt".
+recipes:
+  - name: Baked Eggs with Sausage and Mushrooms
+    categories: [Eggs]
+    prep_time: 25
+    cooking_time: 30
+    servings: 8
+    description:
+      - Recipe courtesy Anne Burrell.
+      - "Inactive prep: 12 minutes. Special equipment: 8 (6-ounce) ramekins."
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 1, measure: lb, ingredient: Italian sausage, note: "fennel sausage, casings removed" }
+      - { qty: 1, measure: lb, ingredient: Cremini mushroom, note: stemmed and sliced }
+      - { ingredient: Kosher salt }
+      - { qty: 4, measure: leaf, ingredient: Sage, note: finely chopped }
+      - { qty: "1/2", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 8, ingredient: Egg }
+      - { qty: 6, measure: oz, ingredient: Gruyere cheese, note: grated }
+    directions:
+      - Preheat the oven to 400 degrees F.
+      - Coat a large saute pan with olive oil, add the garlic cloves and the crushed red pepper and bring to a medium heat. When the garlic has become golden brown and very aromatic, remove it and discard; it has fulfilled its garlic destiny. Add the sausage and brown.
+      - Once nicely browned, add the mushrooms and season with kosher salt. When the mushrooms have softened, add in the sage and white wine. Cook until the wine has almost been absorbed. Turn off the heat and reserve.
+      - Brush 8 individual ramekins with olive oil. Divide the sausage mixture equally among the ramekins and press gently into the bottom. Top each with an egg. Sprinkle each egg with a couple drops of olive oil and arrange on a baking sheet. Bake for 8 minutes. Sprinkle each egg lightly with Gruyere cheese and bake until the cheese is brown and bubbly and the egg whites are cooked and the yolks are still runny, about 5 minutes.
+      - Serve with grilled bread rubbed with garlic, if desired.
+
+  - name: Eggs Flamenco
+    categories: [Eggs]
+    prep_time: 20
+    cooking_time: 45
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell.
+      - "Special equipment: 4 (6-inch wide) flat ovenproof dishes such as terra cotta cazuelas."
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Onion, note: diced }
+      - { ingredient: Kosher salt }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed and chopped }
+      - { qty: 1, measure: cup, ingredient: Chorizo, note: "Spanish, 1/2-inch dice" }
+      - { qty: 1, measure: tsp, ingredient: Pimenton }
+      - { qty: 1, measure: can, ingredient: Plum tomatoes, note: "28-ounce, coarsely chopped with their juice or passed through a food mill" }
+      - { qty: 8, ingredient: Egg }
+      - { qty: "1/2", measure: cup, ingredient: Manchego, note: "aged, finely grated" }
+      - { qty: 2, measure: tbsp, ingredient: Chives, note: chopped }
+    directions:
+      - Coat a saucepan with olive oil, add the onions and bring to a medium heat. Season the onions with salt and sweat for 7 to 8 minutes or until the onions are soft and very aromatic. Add the garlic and cook for 2 to 3 more minutes. Add the chorizo and pimenton and cook for another 2 to 3 minutes. Add the tomatoes and season with salt. Simmer for 15 to 20 minutes. Taste for seasoning and adjust, if needed.
+      - Preheat the oven to 400 degrees F.
+      - Oil the cazuelas. Fill each dish about halfway with the tomato sauce. Break 2 eggs into each dish and sprinkle with grated cheese. Place the cazuelas into the preheated oven and bake until the egg whites are set but the yolks are still runny, about 8 minutes.
+      - When the eggs are done, sprinkle with chives and serve.

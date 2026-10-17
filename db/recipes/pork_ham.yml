@@ -1,0 +1,1056 @@
+# Recipes from "Pork & Ham.txt". The file repeats several recipes; each is here
+# once. Already in from other files: Smoked Pork Butt, Anne Burrell's Pulled
+# Pork, Ingrid Hoffmann's Cuban Roasted Pork Leg (Pernil), Emeril's Essence.
+recipes:
+  - name: Chicken-Fried Pork Chops with Andouille-Milk Gravy
+    categories: [Pork]
+    servings: 4
+    description:
+      - Recipe courtesy Emeril Lagasse. Uses Emeril's Essence Creole Seasoning (its own recipe).
+    ingredients:
+      - { qty: 22, ingredient: Saltine crackers, note: finely crushed }
+      - { qty: "3/4", measure: cup, ingredient: Flour, note: plus 2 tablespoons }
+      - { qty: 1, measure: tsp, ingredient: Salt, note: "divided, plus more for seasoning" }
+      - { qty: "3/4", measure: tsp, ingredient: Black pepper, note: "freshly ground, divided, plus more for seasoning" }
+      - { qty: "3/4", measure: tsp, ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: "3/4", measure: tsp, ingredient: Baking powder }
+      - { qty: 2, ingredient: Egg, note: large }
+      - { qty: "3 1/3", measure: cup, ingredient: Milk, note: "whole (3 cups plus 1/3 cup)" }
+      - { qty: 8, ingredient: Pork chop, note: "boneless breakfast chops, about 1/4 inch thick" }
+      - { qty: 2, measure: cup, ingredient: Vegetable oil, note: 2 to 2 1/2 cups }
+      - { qty: 8, measure: oz, ingredient: Andouille sausage, note: cooked and crumbled }
+    directions:
+      - In a shallow bowl combine the crushed crackers, 3/4 cup of the flour, 1/2 teaspoon salt, 1/4 teaspoon pepper, the Essence, and the baking powder. In a separate small bowl, whisk together the eggs and 1/3 cup of the milk.
+      - Season the pork chops lightly with salt and pepper on both sides. Dust them one at a time with the cracker-flour mixture, dip in the egg mixture, then dredge in the cracker-flour mixture a second time, pressing to coat and shaking off the excess.
+      - Heat the oil (about 1/4 inch deep) to 375 degrees F in a large skillet with 2-inch sides. Pan-fry the chops without crowding for 2 minutes, until golden brown. Turn and cook another 2 to 3 minutes, until golden and cooked through. Drain on paper towels and keep warm.
+      - Discard most of the oil, keeping 2 tablespoons plus the browned bits. Heat over medium-low, add the andouille and stir until warmed through and fragrant. Add the remaining 2 tablespoons flour and stir constantly for about 2 minutes.
+      - In a slow, steady stream, add the remaining 3 cups milk, 1/2 cup at a time, whisking continuously. Simmer 8 to 10 minutes, until slightly thickened. Season with the remaining 1/2 teaspoon each salt and pepper and serve immediately.
+
+  - name: Roasted Garlic Rub
+    categories: [Seasonings]
+    description:
+      - Makes about 1 cup, for Slow Cooked Pork.
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Garlic, note: "roasted, minced" }
+      - { qty: 5, measure: tbsp, ingredient: Salt }
+      - { qty: "1/4", measure: cup, ingredient: Coriander seeds, note: ground and toasted }
+      - { qty: 2, measure: tbsp, ingredient: Mustard powder }
+      - { qty: 4, measure: tbsp, ingredient: Chipotle pepper, note: "dried, ground" }
+      - { qty: 2, measure: tbsp, ingredient: Dried thyme }
+      - { qty: 5, measure: tbsp, ingredient: Rosemary, note: "dried, finely chopped" }
+      - { qty: 5, measure: tbsp, ingredient: Lemon zest }
+      - { qty: "2 1/2", measure: tsp, ingredient: Black pepper }
+    directions:
+      - Combine all the ingredients in a food processor. They can also be mixed by hand in a bowl; just make sure they're well combined.
+
+  - name: Slow Cooked Pork
+    categories: [Pork]
+    cooking_time: 420
+    description:
+      - Uses Roasted Garlic Rub (its own recipe). Roasts 6 to 8 hours.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Roasted Garlic Rub }
+      - { qty: 6, measure: lb, ingredient: Pork shoulder, note: "boneless shoulder or butt roast, not tied" }
+    directions:
+      - Preheat the oven to 275 degrees F.
+      - If necessary, trim the fat from the top of the pork, leaving a 1/8-inch layer. Spread the rub all over the pork and inside any cavities, concentrating on the boned side.
+      - Put the pork fat side up in a roasting pan and roast in the middle of the oven 6 to 8 hours. Let stand on a cutting board 15 minutes, then pull into chunks with tongs and serve.
+
+  - name: Pork Chops with Fennel and Caper Sauce
+    categories: [Pork]
+    servings: 4
+    description:
+      - Recipe courtesy Giada De Laurentiis.
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Olive oil }
+      - { qty: 4, ingredient: Pork chop, note: "boneless, 2 inches thick (about 2 pounds total)" }
+      - { qty: "3/4", measure: tsp, ingredient: Salt, note: plus more for the meat }
+      - { qty: "3/4", measure: tsp, ingredient: Black pepper, note: "freshly ground, plus more for the meat" }
+      - { qty: 2, ingredient: Fennel, note: "bulbs with fronds, thinly sliced (about 2 cups)" }
+      - { qty: 2, ingredient: Shallot, note: "large, thinly sliced" }
+      - { qty: "2/3", measure: cup, ingredient: Parsley, note: "fresh flat-leaf, chopped, divided" }
+      - { qty: "1/2", measure: cup, ingredient: White wine }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: "28-ounce, with juices" }
+      - { qty: "1/2", ingredient: Lemon, note: zested }
+      - { qty: 2, measure: tbsp, ingredient: Capers }
+    directions:
+      - In a large heavy skillet heat the olive oil over high heat. Season the pork with salt and pepper and brown on both sides, about 4 minutes per side. Remove, cover loosely with foil and set aside.
+      - Add the fennel, shallots, and 1/3 cup parsley and cook over medium heat until beginning to brown, about 5 minutes. Add the wine and scrape up the browned bits. Add the tomatoes and stir.
+      - Nestle the chops back in the pan between the fennel and tomatoes so they're mostly submerged. Cook until the fennel is tender and the pork is done, 12 to 15 minutes.
+      - Place the pork on a serving dish. Finish the sauce with the lemon zest, remaining 1/3 cup parsley, capers, and 3/4 teaspoon each salt and pepper. Spoon over the chops and serve immediately.
+
+  - name: Roasted Pork Shoulder (Pernil al Horno)
+    categories: [Pork, Cuban]
+    cooking_time: 180
+    description:
+      - Recipe courtesy Tyler Florence. Marinate at least 3 hours or overnight.
+    ingredients:
+      - { qty: 1, ingredient: Pork shoulder, note: "boneless, about 4 pounds, skin on" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 1, measure: handful, ingredient: Oregano, note: fresh }
+      - { qty: 4, measure: tbsp, ingredient: Kosher salt, note: 1 tablespoon per pound of meat }
+      - { qty: 1, measure: tbsp, ingredient: Black pepper, note: coarsely ground }
+      - { qty: 3, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: 2, measure: tbsp, ingredient: White wine vinegar }
+    directions:
+      - Place the pork fat side up in a roasting pan fitted with a rack and score the surface with small slits.
+      - Mash the garlic, oregano, salt, and pepper into a paste on a cutting board with the flat of a knife. Put the adobo in a bowl and stir in the oil and vinegar.
+      - Rub the paste all over the pork, getting into the incisions so the salt can pull out moisture; this helps form a crust. Cover with plastic wrap and marinate in the refrigerator at least 3 hours or overnight.
+      - Let the meat sit at room temperature 30 minutes. Preheat the oven to 350 degrees F.
+      - Roast 3 hours, uncovered, until the skin is crispy-brown. Rest 10 minutes before slicing.
+
+  - name: Baked Fresh Ham with Citrus-Rum Glaze
+    categories: [Pork]
+    description:
+      - Recipe courtesy Emeril Lagasse. Uses Emeril's Essence Creole Seasoning (its own recipe).
+    ingredients:
+      - { qty: 3, measure: cup, ingredient: Orange juice, note: for the glaze }
+      - { qty: "1 1/3", measure: cup, ingredient: Light brown sugar, note: for the glaze }
+      - { qty: 1, ingredient: Orange, note: "zested, for the glaze" }
+      - { qty: 1, ingredient: Bay leaf, note: for the glaze }
+      - { qty: 1, ingredient: Cinnamon stick, note: for the glaze }
+      - { qty: 2, measure: tsp, ingredient: Black peppercorns, note: "whole, for the glaze" }
+      - { qty: 8, ingredient: Clove, note: "whole, for the glaze" }
+      - { qty: "1/4", measure: tsp, ingredient: Allspice, note: "ground, for the glaze" }
+      - { qty: 6, measure: tbsp, ingredient: Rum, note: "dark (1/4 cup plus 2 tablespoons), for the glaze" }
+      - { qty: 1, ingredient: Fresh ham, note: "8 to 10 pounds, shank end, bone-in and skin-on" }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Kosher salt }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: 2, measure: tsp, ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Make the glaze by combining the orange juice, brown sugar, orange zest, bay leaf, cinnamon stick, peppercorns, cloves and allspice in a large saucepan and bring to a boil. Simmer briskly until reduced to just over 1 cup and thick enough to coat a spoon, about 30 minutes. Remove from the heat, add the rum, and let cool.
+      - Take the ham out of the refrigerator at least 30 minutes before baking. While it's still cold, score the skin in a diamond pattern through the skin and fat, about 1/2 inch deep.
+      - Preheat the oven to 450 degrees F.
+      - Rub the salt, Essence, and pepper evenly over the ham. Bake uncovered in a large roasting pan for 1 hour, until the scores open up and the ham begins to color. Reduce to 325 degrees F and cook until an instant-read thermometer in the thickest part reads 155 to 160 degrees F, 3 to 3 1/2 hours longer.
+      - During the last hour, baste often with the glaze and pan juices. The skin should be crisp and dark; if it threatens to burn, cover loosely with foil.
+      - Let the ham sit at least 20 minutes before carving. Slice thinly across the grain and pass the pan juices on the side.
+
+  - name: Baked Ham
+    categories: [Pork]
+    description:
+      - Alton Brown's gingersnap-crusted ham.
+    ingredients:
+      - { qty: 1, ingredient: Ham, note: "in natural juices, shank end" }
+      - { qty: "1/4", measure: cup, ingredient: Mustard, note: brown }
+      - { qty: 2, measure: cup, ingredient: Dark brown sugar }
+      - { qty: 1, measure: oz, ingredient: Bourbon whiskey, note: poured into a spritz bottle }
+      - { qty: 2, measure: cup, ingredient: Gingersnap cookies, note: crushed }
+    directions:
+      - Heat the oven to 250 degrees F.
+      - Remove the ham from the bag, rinse and drain thoroughly. Place cut side down in a roasting pan. With a small paring knife, score the ham from bottom to top, spiraling clockwise, cutting only through the skin and first few layers of fat. Rotate the ham after each cut so the scores are no more than 2 inches apart. Then repeat spiraling counterclockwise to make a diamond pattern.
+      - Tent with heavy-duty foil, insert a thermometer, and cook 3 to 4 hours, until the deepest part of the meat reads 130 degrees F.
+      - Use tongs to pull away the diamonds of skin and any sheets of fat that come off with them. Heat the oven to 350 degrees F.
+      - Dab dry with paper towels and brush on a liberal coat of mustard. Sprinkle on the brown sugar, packing loosely until coated. Spritz lightly with bourbon, then pack on as much of the crushed cookies as you can.
+      - Insert the thermometer in a new spot and return to the oven uncovered. Cook until the interior reaches 140 degrees F, about 1 hour. Rest 30 minutes before carving.
+
+  - name: Buttermilk Biscuits
+    categories: [Breads]
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Flour, note: sifted }
+      - { qty: 2, measure: tsp, ingredient: Baking powder }
+      - { qty: "1/4", measure: tsp, ingredient: Baking soda }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: 4, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: "1/2", measure: cup, ingredient: Buttermilk, note: plus 2 teaspoons }
+    directions:
+      - Preheat the oven to 375 degrees F and line a baking sheet with parchment.
+      - Combine the dry ingredients in a large bowl. Cut in the butter with your fingers or a pastry blender until it resembles coarse crumbs. Add the buttermilk and blend in quickly without overworking the dough.
+      - Roll out on a lightly floured surface to 1/2 inch thick. Cut out as many biscuits as possible with a biscuit cutter or the rim of a glass; gather the scraps, knead quickly and cut again.
+      - Bake on the prepared sheet until golden brown, 15 to 20 minutes. Serve immediately.
+
+  - name: Country Ham with Redeye Gravy
+    categories: [Pork]
+    servings: 6
+    description:
+      - Serve with Buttermilk Biscuits (its own recipe).
+    ingredients:
+      - { qty: 6, ingredient: Ham steak, note: "country ham, 1/2 pound each, uncooked" }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 1, ingredient: Onion, note: "small, finely chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Flour }
+      - { qty: "3/4", measure: cup, ingredient: Coffee, note: very strong }
+      - { qty: "3/4", measure: cup, ingredient: Chicken stock }
+      - { qty: "1/4", measure: cup, ingredient: Green onion, note: chopped }
+      - { qty: "1/4", measure: cup, ingredient: Heavy cream }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Buttermilk Biscuits, note: for serving }
+    directions:
+      - Heat a large skillet over high heat and saute the ham steaks 4 to 5 minutes per side. Remove to a plate and keep warm.
+      - Add the butter and onions and cook until softened, scraping up the browned bits. Stir in the flour and cook 1 to 2 minutes, then whisk in the coffee and chicken stock. Cook until thickened, about 6 minutes.
+      - Add the green onions and cream and cook 5 minutes longer. Season with salt and pepper and serve over the ham steaks with biscuits.
+
+  - name: Sauteed Ham Steak with Pineapple
+    categories: [Pork]
+    servings: 4
+    ingredients:
+      - { qty: 2, ingredient: Ham steak, note: 1/2 inch thick }
+      - { qty: 4, measure: tbsp, ingredient: Butter, note: divided }
+      - { qty: 3, measure: can, ingredient: Pineapple, note: "8-ounce cans of chunks, liquid reserved" }
+      - { qty: "1/4", measure: cup, ingredient: Orange juice }
+      - { qty: 1, measure: tbsp, ingredient: Dijon mustard }
+      - { qty: 1, measure: tbsp, ingredient: Whole grain mustard }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Remove the rind from the ham and trim all but 1/4 inch of the outer fat. Cut into 4 serving pieces.
+      - In a large saute pan over moderately high heat, melt 2 tablespoons butter. Saute the ham 3 minutes per side, until lightly browned. Transfer to a plate.
+      - Blot the pineapple as dry as possible. Add the remaining 2 tablespoons butter and saute the pineapple until the edges caramelize, 4 to 5 minutes. Remove and reserve.
+      - Add the orange and reserved pineapple juices to the pan and reduce by half, 5 to 6 minutes. Whisk in both mustards. Return the ham and pineapple, toss and heat through. Season to taste.
+
+  - name: Brined Fresh Ham
+    categories: [Pork]
+    prep_time: 30
+    cooking_time: 150
+    servings: 8
+    description:
+      - Recipe courtesy Anne Burrell. Serves 8 to 10. The ham brines for 3 days.
+      - "Inactive prep: 72 hours."
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Kosher salt, note: for the brine }
+      - { qty: 2, measure: cup, ingredient: Sugar, note: for the brine }
+      - { qty: 6, ingredient: Bay leaf, note: for the brine }
+      - { qty: "1/2", measure: cup, ingredient: Fennel seed, note: for the brine }
+      - { qty: "1/2", measure: cup, ingredient: Mustard seed, note: for the brine }
+      - { qty: 2, measure: tbsp, ingredient: Red pepper flakes, note: "crushed, for the brine" }
+      - { qty: 1, measure: bunch, ingredient: Rosemary, note: for the brine }
+      - { qty: 20, measure: clove, ingredient: Garlic, note: "or garlic bulbs cut in half equatorially, for the brine" }
+      - { qty: 1, ingredient: Onion, note: "large, coarsely chopped, for the brine" }
+      - { qty: 4, measure: rib, ingredient: Celery, note: "coarsely chopped, for the brine" }
+      - { qty: 2, measure: gal, ingredient: Water, note: for the brine }
+      - { qty: 1, ingredient: Fresh ham, note: "bone-in, 6 to 8 pounds" }
+      - { qty: 8, measure: sprig, ingredient: Rosemary, note: "leaves finely chopped, for the paste" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "smashed, for the paste" }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: "large pinch, crushed, for the paste" }
+      - { ingredient: Kosher salt }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: "extra-virgin, about, for the paste" }
+      - { qty: 2, measure: lb, ingredient: Red potatoes, note: "red bliss, cut in half" }
+      - { ingredient: Olive oil, note: for the potatoes }
+      - { qty: 2, measure: cup, ingredient: Chicken stock }
+      - { qty: 1, measure: cup, ingredient: Dijon mustard, note: for the glaze }
+      - { qty: 1, measure: cup, ingredient: Whole grain mustard, note: for the glaze }
+      - { qty: 1, measure: cup, ingredient: Honey, note: for the glaze }
+    directions:
+      - "To brine: combine all the brine ingredients in a large container. Submerge the ham and refrigerate for 3 days. (It's a plan-ahead but so worth it!)"
+      - Preheat the oven to 450 degrees F. Remove the ham from the brine, pat dry and cut a diagonal cross-hatch pattern in the skin.
+      - "For the paste: in a food processor, combine the rosemary, garlic, crushed red pepper, salt to taste, and about 1/2 cup olive oil. Massage it generously all over the ham."
+      - Toss the potatoes in a large roasting pan with olive oil and salt. Nestle the ham on top and roast. After about 30 minutes the skin should be brown and crispy; turn the ham over, baste with any leftover paste, rearrange the potatoes so they don't burn, and roast another 30 minutes.
+      - After the first hour, rearrange the potatoes and add the chicken stock to the pan. Reduce the oven to 350 degrees F and roast another hour.
+      - "For the glaze: combine the mustards and honey. Brush the ham generously and roast about 30 minutes. Flip, brush again (really slather it on), and roast until it reaches 150 degrees F on an instant-read thermometer."
+      - Tent with foil and rest at least 20 to 30 minutes. Carve and serve with the potatoes.
+
+  - name: Mario Batali's Fresh Ham Italian Style
+    categories: [Pork]
+    servings: 6
+    description:
+      - Contributed by Mario Batali. Serves 6 to 8; takes over 2 hours plus a 24-hour brine. "This dish is great for any holiday, even Halloween."
+      - The paste directions mention pepper, which isn't in the ingredient list, and the glaze directions say anise seeds where the list has fennel seeds.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Kosher salt, note: for the brine }
+      - { qty: 6, measure: cup, ingredient: Light brown sugar, note: "packed, for the brine" }
+      - { qty: 6, measure: tbsp, ingredient: Fennel seed, note: "1/4 cup plus 2 tablespoons, for the brine" }
+      - { qty: "3/4", measure: cup, ingredient: Black peppercorns, note: "crushed, for the brine" }
+      - { qty: 1, ingredient: Fresh ham, note: "bone-in leg of pork, shank end, 6 to 8 pounds" }
+      - { qty: 1, measure: cup, ingredient: Sage, note: "fresh leaves (about 2 large bunches), for the paste" }
+      - { qty: 12, measure: clove, ingredient: Garlic, note: for the paste }
+      - { qty: "1/4", measure: cup, ingredient: Fennel seed, note: "fennel pollen or ground toasted fennel seeds, for the paste" }
+      - { qty: 3, measure: tbsp, ingredient: Kosher salt, note: for the paste }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: "extra-virgin, for the paste" }
+      - { qty: "1/2", measure: cup, ingredient: Light brown sugar, note: packed }
+      - { qty: 1, measure: cup, ingredient: Cider vinegar, note: for the glaze }
+      - { qty: "1/2", measure: cup, ingredient: Apricot jam, note: for the glaze }
+      - { qty: 2, measure: tbsp, ingredient: Dry mustard, note: "Colman's, for the glaze" }
+      - { qty: 2, measure: tbsp, ingredient: Fennel seed, note: for the glaze }
+    directions:
+      - "Make the brine: combine 6 cups water, the kosher salt, and the brown sugar in a large saucepan and heat over high heat, stirring, until dissolved. Pour into a container large enough to hold the pork and brine. Add the fennel seeds and peppercorns and let cool."
+      - "Make the ham: with a very sharp serrated knife, score parallel lines 1 inch apart and 1/2 inch deep in the skin, then another series diagonally across them to make a diamond pattern."
+      - Add 10 cups water to the brine; make sure it's completely cold. Submerge the ham, cover, and refrigerate 24 hours.
+      - Preheat the oven to 325 degrees F.
+      - Process the sage, garlic, fennel pollen, kosher salt, pepper, and olive oil in a food processor until smooth, about 1 minute. Rub into the nooks and crannies of the ham.
+      - Place the ham on a rack in a roasting pan and bake 3 hours, until the internal temperature reaches 150 degrees F (keep cooking until it does).
+      - "Meanwhile, make the glaze: combine the cider vinegar, apricot jam, dry mustard, and seeds in a medium saucepan and bring to a boil, stirring to dissolve. Simmer until reduced to 1 1/2 cups and syrupy."
+      - At 150 degrees F, brush on a thin layer of glaze. Continue cooking, brushing with the glaze two more times, until the internal temperature reaches 165 degrees F. Rest on a carving board before slicing.
+
+  - name: Asian Braised Pork Shoulder
+    categories: [Pork, Asian]
+    prep_time: 15
+    cooking_time: 140
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell.
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 3, measure: lb, ingredient: Pork shoulder, note: cut into 4 to 5 pieces }
+      - { ingredient: Kosher salt }
+      - { qty: 5, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { qty: 2, measure: piece, ingredient: Ginger, note: "one 2-inch piece, peeled and grated" }
+      - { qty: "1/2", measure: cup, ingredient: Soy sauce }
+      - { qty: "1/2", measure: cup, ingredient: Rice vinegar }
+      - { qty: 4, measure: cup, ingredient: Chicken stock, note: 3 to 4 cups }
+      - { qty: 1, measure: cup, ingredient: Oyster sauce }
+      - { qty: "1/2", measure: cup, ingredient: Brown sugar }
+      - { qty: "1/4", measure: cup, ingredient: Sambal oelek }
+      - { qty: 3, ingredient: Star anise }
+      - { qty: 1, ingredient: Orange, note: "zest removed in wide strips with a peeler, and juice" }
+    directions:
+      - Preheat the oven to 300 degrees F.
+      - Coat a large ovenproof pan or Dutch oven with olive oil over high heat. Sprinkle the pork with salt and brown on all sides. Remove and reserve.
+      - Discard the fat and add a few drops of fresh oil. Cook the garlic and ginger 1 to 2 minutes. Add the soy sauce and rice vinegar and reduce by half.
+      - Add 3 cups of the stock, the oyster sauce, brown sugar, sambal, star anise, and orange zest and juice. Bring to a boil and reduce to a simmer. Taste and adjust the seasoning.
+      - Return the pork, cover and braise in the oven 2 hours, turning once. Add the last cup of stock if the liquid reduces too much. Uncover for the last 30 minutes.
+      - When the pork is VERY tender, remove it, simmer the liquid on the stove until it reduces to a sticky sauce, and serve the pork draped with the sauce.
+
+  - name: BBQ Braised Pork
+    categories: [Pork, BBQ]
+    description:
+      - Shredded braised pork; the file has it as a fragment titled "Braised Pork".
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Pork shoulder, note: "pork butt, cut into 2-inch cubes" }
+      - { qty: 2, measure: cup, ingredient: BBQ sauce, note: your favorite }
+      - { qty: 2, measure: cup, ingredient: Rice vinegar }
+      - { qty: 1, ingredient: Red onion, note: "large, coarsely chopped" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Preheat the oven to 300 degrees F. Place the pork in a medium roasting pan.
+      - Stir together the BBQ sauce, vinegar, and onion, pour over the pork and season with salt and pepper.
+      - Cover with foil and cook 3 1/2 to 4 hours, until fork tender. Let cool in the liquid, then drain and shred into bite-sized pieces.
+
+  - name: Smothered Pork Chops
+    categories: [Pork, Cajun]
+    servings: 4
+    description:
+      - Recipe courtesy Emeril Lagasse, 2004. Uses Emeril's Essence Creole Seasoning (its own recipe). Serve with steamed white rice or rice pilaf.
+    ingredients:
+      - { qty: 8, ingredient: Pork chop, note: "thin (about 1/2 inch), about 3 pounds" }
+      - { qty: 2, measure: tsp, ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil }
+      - { qty: 6, measure: tbsp, ingredient: Flour, note: "all-purpose (1/4 cup plus 2 tablespoons)" }
+      - { qty: 4, measure: cup, ingredient: Onion, note: thinly sliced }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: tbsp, ingredient: Garlic, note: chopped }
+      - { qty: 4, ingredient: Bay leaf }
+      - { qty: 2, measure: can, ingredient: Chicken broth, note: "14 1/2-ounce, reduced-sodium" }
+      - { ingredient: Water, note: "1 1/2 cans, measured in the broth cans" }
+      - { qty: 1, measure: lb, ingredient: Smoked sausage, note: "or andouille, cut into 1-inch slices" }
+      - { qty: 1, measure: lb, ingredient: Russet potatoes, note: "peeled, cut into 1-inch cubes" }
+    directions:
+      - Season both sides of the chops with the Essence.
+      - Heat the oil in a large heavy pot or Dutch oven over high heat. Brown the chops 3 to 4 at a time, about 2 minutes per side. Set aside on a platter.
+      - Reduce the heat to medium. Add the flour and stir constantly until the roux is the color of peanut butter, about 4 minutes. Add the onions, salt, and pepper and cook, stirring, until slightly soft, about 5 minutes.
+      - Add the garlic, bay leaves, broth, and water and bring to a boil. Return the chops, reduce to medium-low, cover, and simmer 45 minutes.
+      - Add the sausage and potatoes, bring to a boil, then cook uncovered over medium-low, stirring occasionally, for 30 minutes. Serve with rice.
+
+  - name: Apple and Prune Stuffed Pork Loin
+    categories: [Pork]
+    prep_time: 30
+    cooking_time: 45
+    servings: 8
+    description:
+      - Recipe courtesy Anne Burrell. The file has the directions but no ingredient list; the ingredients below are the ones the directions name, without amounts.
+      - "Inactive prep: 12 hours (the stuffing log is frozen solid ahead of time)."
+    ingredients:
+      - { ingredient: Olive oil }
+      - { ingredient: Bacon }
+      - { ingredient: Onion }
+      - { ingredient: Kosher salt }
+      - { ingredient: Apple }
+      - { ingredient: Prune }
+      - { ingredient: Rosemary, note: "chopped, divided" }
+      - { ingredient: Brandy }
+      - { ingredient: Pork loin }
+      - { ingredient: Chicken stock }
+    directions:
+      - Coat a large saute pan lightly with olive oil, add the bacon and bring to medium heat. When the bacon is crispy and has released its fat, add the onions, season with salt and cook until soft, 5 to 6 minutes. Add the apples, prunes, and half the rosemary and cook until the apples start to soften, about 5 minutes. Off the heat, add the brandy, then return to the fire and flambe or let the alcohol burn off. Let cool.
+      - Spoon the mixture onto a 2-foot length of plastic wrap in a log down the center, about the length of the pork loin and 1 inch in diameter. Roll tightly, twist the ends and freeze solid. Do this ahead of time.
+      - "To stuff the pork: insert a long, thin knife into the center of each end of the loin and wiggle it to make a channel big enough for the frozen log. The handle of a long wooden spoon helps make sure it goes all the way through."
+      - Preheat the oven to 375 degrees F. Unwrap the stuffing log and slide it through the loin. Season the outside generously with salt and sprinkle with the remaining rosemary.
+      - Coat a roasting pan with olive oil over high heat and sear the pork on all sides. Remove the pork, discard the fat, return the pork and add the chicken stock.
+      - Roast 25 to 35 minutes, turning halfway through; Anne likes it pink, pulled at 130 degrees F. Cover with foil and rest 15 minutes before carving.
+
+  - name: Carla Hall's Pork Tacos
+    categories: [Pork, Mexican]
+    servings: 8
+    description:
+      - Makes 24 tacos. Brine 6 to 12 hours, then rub at least 3 hours.
+    ingredients:
+      - { qty: "1 1/2", measure: cup, ingredient: Sugar, note: for the brine }
+      - { qty: 1, measure: cup, ingredient: Kosher salt, note: for the brine }
+      - { qty: 3, measure: qt, ingredient: Water, note: "cold, for the brine" }
+      - { qty: 2, measure: cup, ingredient: Orange juice, note: "fresh, for the brine" }
+      - { qty: 2, measure: head, ingredient: Garlic, note: "peeled and cloves smashed, for the brine" }
+      - { qty: 3, ingredient: Bay leaf, note: "fresh or dried, for the brine" }
+      - { qty: 4, measure: lb, ingredient: Pork loin, note: boneless }
+      - { qty: 6, measure: clove, ingredient: Garlic, note: "coarsely chopped, for the rub" }
+      - { qty: 1, measure: tbsp, ingredient: Ground cumin, note: for the rub }
+      - { qty: 1, measure: tbsp, ingredient: Oregano, note: "dried leaves, for the rub" }
+      - { qty: 1, measure: tsp, ingredient: Red pepper flakes, note: "crushed red chile, for the rub" }
+      - { qty: 1, measure: tsp, ingredient: Orange zest, note: "freshly grated, for the rub" }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt, note: for the rub }
+      - { qty: 1, measure: tsp, ingredient: Black pepper, note: "freshly ground, for the rub" }
+      - { qty: 3, measure: tbsp, ingredient: Orange juice, note: "fresh, for the rub" }
+      - { qty: 1, measure: tbsp, ingredient: White vinegar, note: for the rub }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil, note: for the rub }
+      - { qty: 1, ingredient: Red onion, note: "medium, thinly sliced, for the marinated onions" }
+      - { qty: 1, ingredient: Red bell pepper, note: "stemmed, seeded and thinly sliced, for the marinated onions" }
+      - { qty: "1/2", ingredient: Habanero chili, note: "stemmed, seeded and finely chopped, for the marinated onions" }
+      - { qty: 2, ingredient: Bay leaf, note: "torn, for the marinated onions" }
+      - { qty: 2, measure: tbsp, ingredient: White vinegar, note: for the marinated onions }
+      - { qty: "1/2", measure: tsp, ingredient: Kosher salt, note: for the marinated onions }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: for the marinated onions }
+      - { qty: 2, measure: tbsp, ingredient: Canola oil }
+      - { qty: 24, ingredient: Flour tortilla, note: 6-inch }
+      - { qty: 4, measure: oz, ingredient: Queso fresco, note: "or queso blanco, crumbled (about 1 cup)" }
+      - { ingredient: Cilantro, note: "fresh sprigs, for garnish" }
+    directions:
+      - In a very large bowl or pot, stir the sugar, salt, and water until dissolved. Stir in the juice, garlic, and bay leaves, then add the pork, completely submerged. Cover and refrigerate at least 6 and up to 12 hours.
+      - In a food processor, pulse the rub garlic, cumin, oregano, chile flakes, orange zest, salt, and pepper to a coarse paste. With the machine running, add the juice, vinegar, and oil.
+      - Remove the pork from the brine (discard the brine), rinse thoroughly and pat dry. Rub the paste all over and refrigerate in a large resealable bag at least 3 hours or overnight.
+      - "For the marinated onions and peppers: combine the onion, bell pepper, chile, bay leaves, vinegar, salt and pepper. Let sit until the onion turns pink and soft, at least 1 hour and up to overnight (refrigerated)."
+      - Preheat the oven to 375 degrees F. Heat a large cast-iron skillet over high heat, add the canola oil and sear the pork on all sides, about 15 minutes total. Roast in the oven until it registers 140 degrees F, about 25 minutes.
+      - Rest at least 15 minutes, then cut into very thin slices.
+      - Warm the tortillas one at a time in a grill pan or cast-iron skillet over medium-high heat until lightly browned and softened.
+      - Fill each tortilla with a few slices of pork and top with marinated onions, cheese and cilantro. Serve immediately.
+
+  - name: Roasted Pork Loin with Apple and Caraway Stuffing
+    categories: [Pork]
+    prep_time: 20
+    cooking_time: 125
+    servings: 6
+    description:
+      - Recipe courtesy Michael Symon. Serves 6 to 8. The file has the directions but no ingredient list; the ingredients below are the ones the directions name, without amounts.
+      - "Inactive prep: 20 minutes."
+    ingredients:
+      - { ingredient: Butter }
+      - { ingredient: Onion }
+      - { ingredient: Bread crumbs }
+      - { ingredient: Apple }
+      - { ingredient: Raisin }
+      - { ingredient: Orange zest }
+      - { ingredient: Caraway seeds }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { ingredient: Pork loin, note: with the rind on }
+      - { ingredient: Cider }
+      - { ingredient: Sour cream }
+      - { qty: 2, measure: oz, ingredient: White wine }
+    directions:
+      - Melt the butter over low heat and cook the onions until translucent, then take off the heat. Fold in the bread crumbs, apples, raisins, orange zest, and caraway, and season with salt and pepper.
+      - Preheat the oven to 400 degrees F.
+      - Cut a pocket into the loin between the meat and the outer layer of fat, stopping an inch short of each end. Fill with the stuffing, roll the loin up lengthwise to close the pocket and tie with string. Score the rind with a sharp knife.
+      - Whisk together the cider and sour cream in a casserole about the size of the pork. Place the pork rind side down and bake 30 minutes, then turn rind side up and cook 30 minutes more.
+      - Reduce to 350 degrees F and cook another hour, basting every 20 minutes, until it reaches 150 degrees F inside. Rest 20 minutes.
+      - Deglaze the roasting pan with the white wine and season. Slice the meat and serve with the jus.
+
+  - name: Apple Stuffed Pork Loin Roast
+    categories: [Pork]
+    description:
+      - Recipe courtesy Paula Deen.
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, ingredient: Onion, note: "large, chopped" }
+      - { qty: 2, ingredient: Granny Smith apple, note: "peeled, cored and chopped, plus more for garnish" }
+      - { qty: 8, ingredient: Sage, note: fresh leaves }
+      - { qty: 2, measure: cup, ingredient: White bread, note: "thick-cut cubes, crusts removed" }
+      - { qty: 1, ingredient: Egg, note: beaten }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 1, measure: cup, ingredient: Chicken broth, note: "1/2 to 1 cup, plus more if needed" }
+      - { qty: 3, measure: lb, ingredient: Pork loin, note: "roast, butterflied" }
+      - { ingredient: Herbs, note: "fresh, for garnish" }
+    directions:
+      - Preheat the oven to 375 degrees F.
+      - In a large skillet heat the olive oil over medium-high heat. Saute the onion, apples and sage until softened. Off the heat, gently stir in the bread, egg, butter, salt and pepper. Add broth gradually until everything is moistened. Let the stuffing cool completely.
+      - Spoon the stuffing in a line down the pork. Roll the pork over it, jelly-roll style, ending seam down and fat side up. Lightly score the fat in a diamond pattern, tie tightly with butcher's twine, season with more salt and pepper and transfer to a roasting pan.
+      - Roast about 90 minutes, until an instant-read thermometer registers 160 degrees F. Rest 15 minutes before slicing. Garnish with apples and fresh herbs.
+
+  - name: Loin of Pork with Fennel and Garlic
+    categories: [Pork]
+    prep_time: 10
+    cooking_time: 60
+    servings: 8
+    description:
+      - Recipe by Ina Garten, 2007. The file has the directions but no ingredient list; the ingredients below are the ones the directions name, without amounts. The strings and bones in the directions suggest a tied, bone-in rack of pork.
+      - "Inactive prep: 50 minutes."
+    ingredients:
+      - { ingredient: Pork loin, note: "bone-in, tied" }
+      - { ingredient: Garlic }
+      - { ingredient: Rosemary }
+      - { ingredient: Lemon zest }
+      - { ingredient: Fennel seed }
+      - { ingredient: Olive oil }
+      - { ingredient: Dijon mustard }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+    directions:
+      - Preheat the oven to 400 degrees F. Let the pork stand at room temperature for 30 minutes.
+      - Place the pork fat side up in a roasting pan just large enough to hold it. In a food processor, process the garlic, rosemary, lemon zest, and fennel seeds until roughly chopped. Add the olive oil, mustard, salt and pepper and process to a smooth paste.
+      - Rub the paste on top of the pork and roast 1 to 1 1/4 hours, until the internal temperature reaches 140 degrees F.
+      - Transfer to a cutting board, cover with foil and let sit 20 minutes. Remove the strings, slice between the bones and serve warm.
+
+  - name: Stuffed Pork Loin with Butternut Squash and Blue Cheese
+    categories: [Pork]
+    description:
+      - Half the pork is served with all the sauce; the original saves the rest for quesadillas.
+    ingredients:
+      - { ingredient: Cooking spray }
+      - { qty: 2, measure: slice, ingredient: Bacon }
+      - { qty: 2, measure: cup, ingredient: Butternut squash, note: diced }
+      - { qty: "1/2", measure: cup, ingredient: Onion, note: diced }
+      - { qty: "1/2", measure: cup, ingredient: Seasoned bread crumbs, note: dry }
+      - { qty: "1/2", measure: cup, ingredient: Blue cheese, note: "crumbled, plus 2 tablespoons, divided" }
+      - { qty: 3, measure: tbsp, ingredient: Sage, note: "fresh leaves, chopped, divided" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 4, measure: lb, ingredient: Pork loin, note: boneless }
+      - { qty: 1, measure: cup, ingredient: Chicken broth, note: "reduced-sodium, divided" }
+      - { qty: "1/4", measure: cup, ingredient: Sherry, note: dry }
+      - { qty: 1, measure: tbsp, ingredient: Corn starch }
+    directions:
+      - Preheat the oven to 450 degrees F. Coat a roasting pan with cooking spray.
+      - Cook the bacon in a large skillet over medium-high heat until crisp. Remove, keeping the fat in the pan, and crumble. Cook the squash and onion in the fat 3 minutes, until the onion is soft.
+      - In a large bowl, mix the squash mixture with the bacon, bread crumbs, 1/2 cup blue cheese, 2 tablespoons sage, 1/2 teaspoon salt and 1/4 teaspoon pepper.
+      - Butterfly the pork and spread the stuffing evenly over it. Roll up and tie with kitchen twine at 2-inch intervals. Season all over with salt and pepper and put in the prepared pan.
+      - Roast 15 minutes, then reduce to 325 degrees F and bake 45 minutes more, until an instant-read thermometer reads 160 degrees F for medium-well. Rest 10 minutes, then cut into 1-inch slices.
+      - In a small saucepan, whisk together the broth, sherry and cornstarch and bring to a simmer over medium heat. Add the remaining 2 tablespoons blue cheese and 1 tablespoon sage and simmer 1 minute, until thickened. Season with salt and pepper and spoon over the pork.
+
+  - name: Bob's Stuffed Pork Loin
+    categories: [Pork]
+    description:
+      - Amounts depend on the size of the roast.
+    ingredients:
+      - { ingredient: Italian sausage }
+      - { ingredient: Onion, note: finely diced }
+      - { ingredient: Anise seed }
+      - { ingredient: Adobo seasoning, note: "with cumin (or a mix of ground cumin, oregano, granulated garlic and salt), to taste" }
+      - { ingredient: Olive oil }
+      - { ingredient: Pork loin, note: boneless }
+      - { ingredient: Garlic, note: "slivers, optional" }
+      - { ingredient: Seasoned salt, note: "Lawry's Seasoned Pork Rub or Goya Adobo with Cumin, for coating" }
+      - { ingredient: Celery, note: stalks }
+      - { ingredient: Carrot }
+      - { ingredient: Onion, note: chunks }
+      - { ingredient: Mojo Sauce, note: or chicken broth }
+    directions:
+      - "Stuffing: mix the Italian sausage with the onion, anise seed and adobo seasoning to taste, with a tad of olive oil."
+      - Slice the pork loin through the center lengthwise to form a pocket and fill with the stuffing. Sear the outside in a pan with olive oil.
+      - If you like, make small slits in the top of the loin and insert slivers of garlic. Coat the loin with olive oil and season with Lawry's Seasoned Pork Rub or Goya Adobo with Cumin.
+      - Line the bottom of a roasting pan with celery stalks, carrots and onion chunks and set the loin on top. Pour mojo or chicken broth into the pan to keep it moist.
+      - Roast at 350 degrees F until the temperature is about 150 degrees F.
+
+  - name: Porchetta with Roasted Fingerlings
+    categories: [Pork]
+    prep_time: 20
+    cooking_time: 240
+    servings: 10
+    description:
+      - Recipe courtesy Anne Burrell.
+      - "Inactive prep: 15 minutes."
+    ingredients:
+      - { qty: 1, measure: bunch, ingredient: Rosemary, note: "fresh, leaves finely chopped" }
+      - { qty: 1, measure: bunch, ingredient: Sage, note: "fresh, leaves finely chopped" }
+      - { qty: 20, measure: clove, ingredient: Garlic, note: thinly sliced }
+      - { qty: 1, measure: tbsp, ingredient: Red pepper flakes, note: crushed }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Pork shoulder, note: "picnic shoulder with the skin, bone removed" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, ingredient: Onion, note: "large Spanish onions, diced" }
+      - { qty: 10, measure: clove, ingredient: Garlic, note: "smashed, for the vegetables" }
+      - { qty: 1, measure: lb, ingredient: Fingerling potatoes, note: cut lengthwise }
+      - { qty: 2, measure: pt, ingredient: Brussels sprouts, note: halved }
+      - { qty: 1, ingredient: Celery root, note: cut into 1/2-inch dice }
+      - { qty: 2, ingredient: Carrot, note: "large, peeled, cut into 1/2-inch dice" }
+      - { qty: 2, measure: rib, ingredient: Celery, note: cut into 1/2-inch dice }
+      - { qty: 1, measure: bottle, ingredient: White wine, note: dry }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: "fresh, bundled" }
+      - { qty: 10, ingredient: Bay leaf }
+      - { qty: 2, measure: qt, ingredient: Chicken stock }
+    directions:
+      - Preheat the oven to 450 degrees F.
+      - "To make the porchetta: mix the rosemary, sage, garlic and crushed red pepper with enough olive oil to make a loose paste. Cut the sides of the pork so it opens like a book and lies flat. Rub the paste all over the inside, into every nook and cranny, and sprinkle generously with salt and pepper. Roll the pork and tie tightly with butcher's twine."
+      - In a large roasting pan, combine all the vegetables and the wine. Season with salt and add the thyme and bay leaves. Nestle the pork on the vegetables, rub the top with oil and roast 30 to 40 minutes, until the skin starts to brown and crisp.
+      - Brush the skin with the pan juices and add some chicken stock on and around the pork. Roast another 3 to 3 1/2 hours, basting occasionally and adding stock to keep the pan moist. If the skin gets too dark, tent with foil, removing it for the last 30 minutes.
+      - Rest the pork on a cutting board about 15 minutes and discard the string. Cut the crispy skin into pieces and slice the meat. Serve the meat on the vegetables and their juices, garnished with crispy skin.
+
+  - name: Habanero Lime Mojo
+    categories: [Sauces, Cuban]
+    description:
+      - Makes about 1 2/3 cups. From Pork Ribs and Roast with Mojo.
+    ingredients:
+      - { qty: "1/2", measure: tsp, ingredient: Cumin seeds, note: "toasted and ground" }
+      - { qty: 6, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil }
+      - { qty: 1, measure: cup, ingredient: Lime juice, note: fresh }
+      - { qty: 2, measure: tsp, ingredient: Oregano, note: "fresh, chopped (or 1 teaspoon dried, crumbled)" }
+      - { qty: 2, measure: tsp, ingredient: Kosher salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, ingredient: Habanero chili, note: seeded and minced }
+    directions:
+      - Heat the cumin in a skillet with the garlic and olive oil over medium-high heat until the garlic begins to sizzle, about 2 minutes.
+      - Remove from the heat, transfer to a nonreactive bowl, and stir in the remaining ingredients.
+
+  - name: Pork Ribs and Roast with Mojo
+    categories: [Pork, Cuban, BBQ]
+    prep_time: 30
+    cooking_time: 105
+    servings: 6
+    description:
+      - From Food Network Kitchens Get Grilling (Meredith, 2005). Uses Habanero Lime Mojo (its own recipe), with 3/4 cup reserved for serving.
+      - "Inactive prep: 4 hours 15 minutes."
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Cumin seeds, note: generous }
+      - { qty: 8, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Lime juice, note: "freshly squeezed (about 4 limes)" }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 2, measure: tbsp, ingredient: Kosher salt }
+      - { qty: 1, measure: tbsp, ingredient: Oregano, note: "dried, crumbled, generous" }
+      - { qty: 1, measure: tbsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 5, measure: lb, ingredient: Pork loin, note: "6-chop pork rib roast, chine bone attached and notched at each rib" }
+      - { ingredient: Habanero Lime Mojo }
+    directions:
+      - Toast the cumin seeds (plus the 1/2 teaspoon for the mojo) in a small pan over high heat until fragrant, about 30 seconds. Grind them and set aside 1/2 teaspoon for the mojo.
+      - Mix the remaining cumin with the garlic, lime juice, olive oil, salt, oregano, and pepper. Cut the loin off the ribs and chine bone, rub the marinade all over the loin and ribs, put the loin back on the ribs and tie together with butcher's twine. Cover and refrigerate in a nonreactive container 4 hours or overnight.
+      - Meanwhile, make the mojo and reserve 3/4 cup to serve with the pork.
+      - Prepare a grill with a medium-high fire for indirect grilling, with a drip pan under the cooler side. Set the roast rib side down over the pan, cover with the vents over the pork, and cook, basting periodically. Rotate the roast 180 degrees after 30 minutes, adding coals as needed.
+      - After an hour, baste with mojo every 15 minutes and stand the roast on its chine bone with the fat facing the heat so it browns evenly. Cook until the loin reaches 140 degrees F, about 1 1/2 hours in all.
+      - Cut the twine and rest the loin 10 minutes. Meanwhile, grill the ribs over direct heat, loin side down, turning as needed, until browned, about 4 minutes. Rest 5 minutes and cut between the ribs. Serve the ribs and sliced loin with the reserved mojo.
+
+  - name: Tyler Florence's Chimichurri
+    categories: [Sauces]
+    description:
+      - From Pork Tenderloin with Chimichurri.
+    ingredients:
+      - { qty: 6, measure: clove, ingredient: Garlic, note: peeled and minced }
+      - { qty: 2, ingredient: Jalapeno, note: seeded and minced }
+      - { qty: "1/4", measure: cup, ingredient: Red wine vinegar }
+      - { qty: "1/2", measure: cup, ingredient: Parsley, note: "fresh flat-leaf, finely chopped, about" }
+      - { qty: "1/2", measure: cup, ingredient: Oregano, note: "fresh leaves, finely chopped, about" }
+      - { qty: 3, ingredient: Lime, note: juiced }
+      - { qty: 1, measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt }
+      - { qty: 1, measure: tsp, ingredient: Black peppercorns, note: whole }
+    directions:
+      - Combine the garlic, jalapeno and vinegar in a bowl. Stir in the parsley, oregano, and lime juice.
+      - Whisk in the olive oil and season with the salt and pepper. Set aside at room temperature to let the flavors marry.
+
+  - name: Pork Tenderloin with Chimichurri
+    categories: [Pork]
+    prep_time: 15
+    cooking_time: 8
+    servings: 4
+    description:
+      - Recipe courtesy Tyler Florence, 2007. Serves 4 to 8. Uses Tyler Florence's Chimichurri (its own recipe).
+      - "Inactive prep: 35 minutes."
+    ingredients:
+      - { ingredient: Tyler Florence's Chimichurri }
+      - { qty: 2, ingredient: Pork tenderloin, note: "about 1 pound each, trimmed of excess fat, patted dry" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { ingredient: Lime juice, note: for drizzling }
+      - { ingredient: Parsley, note: "sprigs, for garnish" }
+    directions:
+      - Reserve 1/2 cup of the chimichurri for serving. Put the pork and the rest of the chimichurri in a sealable plastic bag and refrigerate 30 minutes.
+      - Preheat a charcoal grill or the broiler to high.
+      - Remove the pork from the marinade, wiping off the excess. Season generously with salt and pepper, drizzle with olive oil and grill on the hottest part of the grill 4 minutes per side, until well charred.
+      - Rest about 5 minutes before slicing. Spoon some chimichurri over the meat, drizzle with lime juice, garnish with parsley, and serve the rest of the sauce at the table.
+
+  - name: Cumin and Ginger Rubbed Pork Tenderloin
+    categories: [Pork]
+    prep_time: 10
+    cooking_time: 15
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell.
+      - "Inactive prep: 2 hours."
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Cumin seeds }
+      - { qty: "1/2", measure: tsp, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { qty: 1, measure: piece, ingredient: Ginger, note: "1-inch piece, peeled and grated on a zester" }
+      - { ingredient: Kosher salt }
+      - { qty: 2, ingredient: Pork tenderloin }
+      - { ingredient: Olive oil, note: extra-virgin }
+    directions:
+      - Toast the cumin seeds in a small saute pan over medium heat until very aromatic, 3 to 4 minutes. Grind with the crushed red pepper to a fine powder, then combine with the garlic and ginger.
+      - Season the pork with salt and rub with the cumin mixture. Refrigerate 2 hours or up to overnight. Take it out half an hour before cooking.
+      - Preheat the oven to 400 degrees F.
+      - Coat a large ovenproof saute pan with olive oil over high heat and sear the pork on all sides. Roast in the pan 5 to 7 minutes, turning halfway through.
+      - Rest 10 minutes, then slice 1/2 inch thick on the bias.
+
+  - name: Chunky Applesauce
+    categories: [Sauces]
+    description:
+      - From Roasted Pork Loin with Cider, which supplies the reserved pan cider.
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Butter }
+      - { qty: 4, ingredient: Granny Smith apple, note: "peeled, cored, cut into 1/2-inch chunks (toss in lemon juice if not using right away)" }
+      - { qty: "1 1/2", measure: cup, ingredient: Cider, note: reserved from the roasting pan }
+      - { qty: "1/4", measure: cup, ingredient: Cider }
+      - { qty: 1, measure: pinch, ingredient: Cinnamon, note: ground }
+      - { qty: "1/4", measure: cup, ingredient: Heavy cream }
+      - { qty: "1/2", measure: cup, ingredient: Walnut, note: "toasted, coarsely chopped" }
+    directions:
+      - Melt the butter in a saucepan large enough for the apples. Saute the apples over medium-low heat until they start to soften.
+      - Add the reserved cider, apple cider and cinnamon and cook over low-medium heat until most of the cider has evaporated and the apples are very soft.
+      - Add the cream and walnuts and cook until the cream reduces by half. It should be a very chunky, sweet-savory applesauce.
+
+  - name: Roasted Pork Loin with Cider
+    categories: [Pork]
+    description:
+      - Serve with the cider-braised onions and Chunky Applesauce (its own recipe).
+    ingredients:
+      - { qty: 2, measure: sprig, ingredient: Rosemary, note: "leaves, roughly chopped" }
+      - { qty: 2, measure: sprig, ingredient: Sage, note: roughly chopped }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { ingredient: Salt }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Pork loin, note: 6-chop pork rib roast }
+      - { qty: 2, ingredient: Onion, note: "large, sliced" }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: tied with string }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: 2, measure: qt, ingredient: Cider }
+      - { ingredient: Chunky Applesauce }
+    directions:
+      - Preheat the oven to 425 degrees F.
+      - In a food processor, combine the herbs, garlic, crushed red pepper, a generous pinch of salt and enough olive oil to make a paste. Brush it on the outside of the roast.
+      - Toss the onions with olive oil and salt in the bottom of a roasting pan. Add the thyme, bay leaves and 2/3 of the cider and set the pork on top.
+      - Roast 20 to 25 minutes, until a lovely brown crust develops. Stir the onions and cider if they start to burn, and add more cider as the level goes down.
+      - Lower to 375 degrees F and roast another 30 to 35 minutes, until an instant-read thermometer reads 150 degrees F; cover with foil if the crust gets too dark. Take 1 1/2 cups of cider from the pan for the applesauce.
+      - Rest at least 15 minutes. Remove the pork from the bone and slice the loin thinly. Serve with the onions braised in cider and the applesauce.
+
+  - name: Roast Loin of Pork with Baked Apples and Cider Gravy
+    categories: [Pork]
+    description:
+      - Recipe courtesy Tyler Florence.
+    ingredients:
+      - { qty: 2, ingredient: Pork loin, note: "5-pound roasts, rib bones attached, chine bone removed" }
+      - { qty: 1, measure: bunch, ingredient: Sage, note: "small, leaves chopped" }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: "small, leaves chopped" }
+      - { qty: "1 1/2", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 3, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: bottle, ingredient: Cider, note: "12-ounce hard cider" }
+      - { qty: 1, measure: cup, ingredient: Chicken broth }
+      - { qty: 1, ingredient: Lemon, note: "juiced, optional" }
+      - { qty: 8, ingredient: Gala apple, note: "or Golden Delicious, for the baked apples" }
+      - { qty: 1, ingredient: Lemon, note: "juiced, for the apples" }
+      - { qty: 4, measure: tbsp, ingredient: Unsalted butter, note: "1/2 stick, at room temperature" }
+      - { qty: "1/2", measure: cup, ingredient: Corn muffin, note: "1 or 2 large, crumbled, some reserved for sprinkling" }
+      - { qty: "1/2", measure: cup, ingredient: Golden raisins }
+      - { qty: 6, ingredient: Sage, note: "leaves, chopped, for the apples" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: "1/4", measure: cup, ingredient: Dark brown sugar }
+      - { qty: 1, measure: cup, ingredient: Cider, note: "hard, for the apples" }
+      - { qty: 1, measure: tbsp, ingredient: Lemon juice }
+    directions:
+      - Preheat the oven to 375 degrees F.
+      - Stand the roasts in a roasting pan ribs up, braced against each other. Add the sage and thyme to the olive oil, brush over the pork and season generously with salt and pepper. Roast 2 1/2 hours, until the skin is crackled; the apples go in for the last half hour.
+      - "For the apples: core them with an apple corer, leaving a good cavity, and douse the cut sides with lemon juice. Mix the butter, muffin crumbs, raisins, sage, garlic, brown sugar, salt, and pepper. Fill the apples, stand them side by side in a baking dish, sprinkle with the reserved crumbs, pour the cider around them and bake 30 to 35 minutes at 375 degrees F, until soft."
+      - Rest the pork on a cutting board 15 minutes before carving. Pour off some of the fat and set the roasting pan over medium-high heat. Sprinkle in the flour, stirring constantly, and cook the roux until light brown.
+      - Stir in the cider, then the broth, and boil 5 minutes until thick. Add lemon juice if needed.
+      - Set the warm apples in the center of a round platter, spoon the cider gravy around them and serve with the pork.
+
+  - name: Pork Roast with Warm Cabbage, Mustard and Champagne
+    categories: [Pork]
+    description:
+      - Recipe courtesy Michael Symon. If you can, salt the roast the night before.
+    ingredients:
+      - { qty: 6, measure: lb, ingredient: Pork loin, note: "bone-in roast" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/4", measure: cup, ingredient: Blended oil }
+      - { qty: 2, measure: cup, ingredient: Chicken stock, note: "or water, heated, plus more as needed" }
+      - { qty: 1, measure: head, ingredient: Green cabbage, note: cored and sliced }
+      - { qty: 3, ingredient: Red onion, note: sliced }
+      - { qty: 2, ingredient: Fresno chile, note: thinly sliced into rounds }
+      - { qty: 2, measure: tbsp, ingredient: Caraway seeds, note: toasted }
+      - { qty: 1, ingredient: New Mexico chile, note: "dried, toasted to release its oils" }
+      - { qty: 4, ingredient: Orange, note: juiced }
+      - { qty: 1, measure: bottle, ingredient: Champagne, note: "750 ml, semi-chilled" }
+      - { qty: 2, measure: tbsp, ingredient: Whole grain mustard }
+      - { measure: splash, ingredient: Sherry vinegar }
+      - { qty: "1/2", ingredient: Orange, note: zested }
+      - { qty: "1/2", measure: bunch, ingredient: Cilantro, note: "small, leaves picked" }
+    directions:
+      - Preheat the oven to 375 degrees F. Season the roast generously with salt and pepper on both sides and bring to room temperature.
+      - Heat the oil in a large oval cast-iron pan over medium-high heat. Sear the roast fat side down about 2 minutes, then each remaining side about 2 minutes.
+      - Toss the cabbage, onions, Fresnos, caraway, dried chile, salt, and orange juice together.
+      - Move the pork to a baking sheet. Deglaze the pan with the chicken stock, scraping the bottom. Add the cabbage mixture and set the pork on top. Roast uncovered 45 minutes to 1 hour, until an instant-read thermometer reads 140 to 145 degrees F.
+      - Set the pan on the stovetop and lean the pork against the side. Stand the Champagne bottle in the pan, remove the cage and let the cork pop (or ease it out with a towel), letting about 2 cups spill into the pan.
+      - Rest the pork briefly on a cutting board. Season the cabbage with salt and stir in the mustard and sherry vinegar. Cut the loin off the bone and slice. Pile the cabbage on a platter, fan the pork around it and add the bones. Garnish with orange zest and cilantro and spoon the pan sauce around.
+
+  - name: Mu Shu Pork
+    categories: [Pork, Asian]
+    description:
+      - Served in Mandarin pancakes with hoisin.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Soy sauce, note: for the marinade }
+      - { qty: 1, measure: tbsp, ingredient: Sherry, note: "dry, for the marinade" }
+      - { qty: 1, measure: tsp, ingredient: Hoisin sauce, note: for the marinade }
+      - { qty: "1/2", measure: lb, ingredient: Pork loin, note: "boneless lean pork, shredded" }
+      - { qty: 4, ingredient: Shiitake, note: dried black mushrooms }
+      - { qty: 2, measure: cup, ingredient: Napa cabbage, note: finely shredded }
+      - { qty: 1, ingredient: Carrot, note: julienned }
+      - { qty: 3, ingredient: Green onion, note: "white and light green parts, slivered" }
+      - { qty: 1, measure: cup, ingredient: Bean sprouts }
+      - { qty: 3, measure: tbsp, ingredient: Peanut oil }
+      - { qty: 2, ingredient: Egg, note: lightly beaten with 1/2 teaspoon salt }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 3, measure: tsp, ingredient: Ginger, note: freshly grated }
+      - { qty: 3, measure: tbsp, ingredient: Chicken stock }
+      - { qty: 2, measure: tbsp, ingredient: Soy sauce }
+      - { qty: 1, measure: tbsp, ingredient: Sherry, note: dry }
+      - { qty: 2, measure: tsp, ingredient: Sesame oil }
+      - { qty: 1, measure: tsp, ingredient: Sugar }
+      - { ingredient: Hoisin sauce, note: for serving }
+      - { ingredient: Mandarin pancakes, note: "warm, for serving" }
+    directions:
+      - Combine the soy sauce, sherry and hoisin. Add the pork, toss to coat, cover and marinate in the refrigerator 30 minutes.
+      - Meanwhile, soak the mushrooms in hot water to cover for 20 minutes. Drain and slice thinly. Set aside with the cabbage, carrot and scallions.
+      - Heat a wok or large skillet over medium-high heat. Add 1 tablespoon of the peanut oil and swirl. Pour in the eggs, tilting to form a thin film, and cook just until set and dry on top, about 1 minute. Let cool slightly and cut into 1-inch strips.
+      - Return the wok to high heat with the remaining 2 tablespoons oil. Stir-fry the garlic and ginger about 1 minute, then the pork until lightly browned, about 2 minutes. Add the mushrooms, cabbage, carrot, bean sprouts, scallions and chicken stock and stir-fry 2 minutes more.
+      - Stir in the soy sauce, sherry, sesame oil, and sugar and cook until the sauce boils, about 1 minute. Mix in the egg strips.
+      - Spread a little hoisin on a warm Mandarin pancake, spoon about 1/2 cup of the filling in the center, and wrap like a burrito, folding the ends to close.
+
+  - name: Pork Scallopini
+    categories: [Pork]
+    servings: 4
+    description:
+      - This also works with veal; reduce the cooking time significantly.
+    ingredients:
+      - { qty: "1 1/2", measure: lb, ingredient: Pork tenderloin, note: sliced about 1 inch thick }
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: sifted }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 2, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: "1/2", measure: cup, ingredient: White wine }
+      - { qty: "1/4", measure: cup, ingredient: Water }
+      - { qty: "1/2", measure: cup, ingredient: Onion, note: chopped }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: Dried thyme }
+      - { qty: "1/4", measure: tsp, ingredient: Rosemary, note: dried }
+      - { qty: "1/4", measure: tsp, ingredient: Oregano, note: dried }
+      - { qty: 2, measure: cup, ingredient: Mushroom, note: "fresh, sliced" }
+    directions:
+      - Dredge the pork in the flour. Brown it in a hot skillet in the butter and oil.
+      - Stir in the wine, water, onion, garlic, pepper, salt and herbs. Cover and cook slowly 30 minutes, adding a little water if needed.
+      - Add the mushrooms and cook, covered, 15 minutes longer.
+
+  - name: Pork Scaloppini with Mushrooms
+    categories: [Pork]
+    servings: 4
+    ingredients:
+      - { qty: 4, ingredient: Pork chop, note: "boneless loin chops, 6 ounces each" }
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: "1 1/2", measure: tsp, ingredient: Kosher salt, note: plus more to taste }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: "freshly ground, plus more to taste" }
+      - { qty: 3, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: "1/2", measure: lb, ingredient: Mushroom, note: "white, thinly sliced" }
+      - { qty: "1/4", measure: cup, ingredient: Marsala wine }
+      - { qty: "1 1/2", measure: cup, ingredient: Chicken stock, note: preferably homemade }
+      - { qty: 2, measure: tbsp, ingredient: Sour cream }
+      - { qty: 2, measure: tbsp, ingredient: Chives, note: "fresh, snipped" }
+    directions:
+      - Sprinkle a little water on a large sheet of plastic wrap, lay 2 chops on it and sprinkle again. Cover with more plastic and pound to about 1/4 inch thick. Repeat with the other 2.
+      - Mix the flour with the salt and pepper in a pie plate. Heat half the oil in a large skillet over medium-high heat until almost smoking. Coat half the pork in the flour, shake off the excess and cook until lightly browned and cooked through, 3 to 4 minutes per side. Cover loosely with foil and repeat with the remaining oil and pork.
+      - Melt the butter in the skillet until foamy. Cook the mushrooms, stirring often, until almost all their liquid has evaporated, about 5 minutes.
+      - Add the Marsala, raise the heat to high and cook until almost evaporated. Add the stock and simmer 3 minutes. Return the pork and simmer, turning often, until warmed through and the sauce thickens, about 2 minutes.
+      - Move the pork to warm plates. Stir the sour cream and chives into the sauce, season with salt and pepper and spoon over the pork.
+
+  - name: Pork Scaloppine with Sun-Dried Tomatoes and Rosemary
+    categories: [Pork]
+    servings: 2
+    ingredients:
+      - { qty: 8, measure: oz, ingredient: Pork tenderloin, note: well trimmed }
+      - { qty: 8, ingredient: Dried tomatoes, note: "sun-dried, not packed in oil" }
+      - { qty: 2, measure: tsp, ingredient: Olive oil }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: "large, thinly sliced" }
+      - { qty: 2, measure: tbsp, ingredient: White wine, note: dry }
+      - { qty: "1/2", measure: cup, ingredient: Chicken broth, note: "canned, unsalted" }
+      - { qty: "1/4", measure: tsp, ingredient: Rosemary, note: "fresh, minced" }
+    directions:
+      - Cut the tenderloin into 1-inch pieces. Pound each between sheets of waxed paper to 1/4 inch thick.
+      - Cover the sun-dried tomatoes with boiling water and let stand until soft, about 5 minutes. Drain and slice.
+      - Heat the oil in a heavy large skillet over medium-high heat. Fry the pork in batches until just cooked, turning once, about 4 minutes. Cover with foil and keep warm.
+      - Saute the garlic 1 minute. Add the wine and broth and simmer until reduced by half, about 2 minutes. Mix in the rosemary and tomatoes, pour over the pork and serve.
+
+  - name: Grilled Pork Tenderloin
+    categories: [Pork]
+    prep_time: 20
+    cooking_time: 15
+    servings: 4
+    description:
+      - Recipe courtesy Alton Brown, 2009. Grilled over natural lump charcoal.
+      - "Inactive prep: 6 hours."
+    ingredients:
+      - { qty: 1, ingredient: Pork tenderloin, note: about 1 pound }
+      - { qty: 1, ingredient: Lime, note: zest finely grated }
+      - { qty: "1/2", measure: cup, ingredient: Lime juice, note: freshly squeezed }
+      - { qty: "1/4", measure: cup, ingredient: Honey }
+      - { qty: "1 1/2", measure: tsp, ingredient: Kosher salt }
+      - { qty: "1/2", measure: tsp, ingredient: Garlic powder }
+      - { qty: 1, ingredient: Chipotle in adobo }
+      - { qty: 1, measure: tsp, ingredient: Vegetable oil }
+      - { qty: 1, measure: tbsp, ingredient: Cilantro, note: "fresh leaves, chopped" }
+    directions:
+      - Trim the tenderloin of excess fat and silver skin.
+      - Shake the lime zest, juice, honey, salt, and garlic powder in a lidded jar. Pour half into a 1-gallon resealable bag with the chipotle. Add the pork, seal with as little air as possible and marinate in the refrigerator 6 to 24 hours, turning halfway. Refrigerate the rest of the marinade.
+      - Let the tenderloin sit at room temperature while the grill heats. Light a large chimney of lump charcoal; when ashy and white, about 30 minutes, spread it on the lowest grate. Replace the cooking grate, cover and heat to medium, 2 to 3 minutes.
+      - Brush the grate with the oil. Place the tenderloin in the center (discard the bag and its marinade). Cover and cook 12 to 15 minutes, turning every 1 1/2 to 2 minutes, to 140 degrees F inside.
+      - Set the tenderloin on heavy-duty foil folded up into a basket, pour on the reserved marinade, wrap tightly and rest 10 minutes. Slice, garnish with cilantro and serve.
+
+  - name: Herb Crusted Pork Loin
+    categories: [Pork]
+    description:
+      - Titled "Herb Crusted Pork Tenderloin" in the file, but it's a 4-pound boneless loin.
+    ingredients:
+      - { qty: 4, measure: lb, ingredient: Pork loin, note: "boneless, fat left on" }
+      - { qty: 1, measure: tbsp, ingredient: Salt }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: tsp, ingredient: Dried thyme, note: "or 2 teaspoons fresh leaves, minced" }
+      - { qty: 1, measure: tsp, ingredient: Dried basil, note: or 2 teaspoons fresh leaves }
+      - { qty: 1, measure: tsp, ingredient: Rosemary, note: "dried (or 2 teaspoons fresh, minced)" }
+    directions:
+      - Preheat the oven to 475 degrees F. Place the pork on a rack in a roasting pan.
+      - Combine the remaining ingredients and massage over the pork, covering all the meat and fat.
+      - Roast 30 minutes, then reduce to 425 degrees F and roast another hour, until an instant-read thermometer reads 155 degrees F. Let sit about 20 minutes before carving; it keeps cooking as it rests.
+
+  - name: Mustard Fruit
+    categories: [Sauces]
+    description:
+      - Recipe courtesy Michael Symon, 2012. Makes 4 cups. Keep at least 2 days and up to 1 month in the refrigerator; it goes well with roasted meats and cheeses.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Red wine }
+      - { qty: "1/2", measure: cup, ingredient: Sugar }
+      - { qty: "1/4", measure: cup, ingredient: Red wine vinegar }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: "1/3", measure: cup, ingredient: Whole grain mustard }
+      - { qty: "1/2", measure: tsp, ingredient: Mustard seed }
+      - { qty: 1, ingredient: Pear, note: "under-ripe, peeled, cored and cubed" }
+      - { qty: 1, measure: cup, ingredient: Dried apricots, note: or dried cherries }
+    directions:
+      - Combine the wine, sugar, vinegar and salt in a saucepan and bring to a boil. Stir in the mustard, mustard seeds and pear.
+      - Put the dried fruit in a quart-size glass jar and top it off with the hot liquid and pears. Refrigerate at least 2 days and up to 1 month.
+
+  - name: Pork Tenderloin with Mustard Fruit
+    categories: [Pork]
+    description:
+      - Recipe courtesy Michael Symon, 2012. Uses Mustard Fruit (its own recipe), made at least 2 days ahead.
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Cilantro, note: "fresh, chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Dijon mustard }
+      - { qty: 2, measure: tsp, ingredient: Coriander seeds, note: toasted and ground }
+      - { qty: 2, measure: tsp, ingredient: Cumin seeds, note: toasted and ground }
+      - { qty: 2, measure: tsp, ingredient: Kosher salt }
+      - { qty: 1, measure: tsp, ingredient: Smoked paprika }
+      - { qty: 1, ingredient: Lime, note: zest and juice }
+      - { qty: 2, ingredient: Pork tenderloin, note: "cleaned, silver skin removed" }
+      - { qty: 1, measure: cup, ingredient: Arugula, note: for serving }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil, note: "extra-virgin, for drizzling" }
+      - { qty: "1/2", measure: cup, ingredient: Mustard Fruit }
+    directions:
+      - Whisk together the cilantro, mustard, coriander, cumin, salt, paprika, and lime juice and zest. Coat the tenderloins and marinate in a resealable bag or covered dish 30 minutes at room temperature or overnight in the fridge.
+      - Preheat a grill, preferably charcoal, to medium-high.
+      - Grill the pork until just under medium, 3 to 4 minutes per side. Rest 7 to 10 minutes.
+      - Dress the arugula lightly with the olive oil. Slice the pork onto a plate, spoon 1/2 cup of the mustard fruit (lifted from its liquid with a slotted spoon) on top and finish with the arugula.
+
+  - name: Pork Wellington
+    categories: [Pork]
+    prep_time: 30
+    cooking_time: 30
+    servings: 4
+    description:
+      - Recipe courtesy Alton Brown, 2009.
+      - "Inactive prep: 10 minutes."
+    ingredients:
+      - { qty: 1, ingredient: Egg }
+      - { qty: 1, measure: tbsp, ingredient: Water }
+      - { qty: 1, measure: oz, ingredient: Dried apple, note: rings }
+      - { qty: 1, ingredient: Pork tenderloin, note: about 1 pound }
+      - { qty: "4 1/2", measure: oz, ingredient: Prosciutto, note: thinly sliced }
+      - { qty: "1/4", measure: tsp, ingredient: Kosher salt }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: tsp, ingredient: Thyme, note: "fresh leaves, chopped" }
+      - { qty: 1, measure: tsp, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: piece, ingredient: Puff pastry, note: "sheet, thawed completely" }
+      - { qty: 1, measure: tbsp, ingredient: Whole grain mustard }
+    directions:
+      - Place a rack in the upper third of the oven and heat to 400 degrees F.
+      - Whisk the egg and water and set aside. Process the apple rings in a mini food processor 30 to 45 seconds, to a medium dice.
+      - Trim the tenderloin of fat and silver skin. Slice it lengthwise into 2 pieces and lay them head to tail so they're the same size at the ends.
+      - On a 12 by 16-inch sheet of parchment, overlap the prosciutto into a solid layer as long as the tenderloin. Cover with parchment and roll with a rolling pin so the slices stick together. Remove the top sheet and sprinkle with the salt, pepper, and thyme.
+      - Set the tenderloin down the middle, spread the apples between the 2 pieces and push them back together. Using the parchment, wrap the prosciutto around the tenderloin into a package.
+      - Flour the counter and roll the pastry to 12 by 14 inches. Spread the mustard thinly in the center and lay the tenderloin on it. Fold and roll the pastry to enclose, sealing the edges with egg wash. Turn seam side down and pinch the ends to seal.
+      - Brush all over with egg wash. Bake on a parchment-lined half sheet pan 25 to 30 minutes, until the pork reaches at least 140 degrees F.
+      - Rest on a cooling rack 10 minutes before slicing.
+
+  - name: Crab-Boiled Country Style Pork Ribs
+    categories: [Pork, BBQ, Cajun]
+    description:
+      - Recipe courtesy Emeril Lagasse, 2001.
+    ingredients:
+      - { qty: 6, measure: lb, ingredient: Pork ribs, note: country-style }
+      - { qty: "1/2", measure: cup, ingredient: Liquid crab boil }
+      - { qty: 1, measure: head, ingredient: Garlic, note: cut in 2 pieces }
+      - { qty: 2, measure: rib, ingredient: Celery, note: cut into 3-inch lengths }
+      - { qty: 1, ingredient: Onion, note: "large, quartered" }
+      - { qty: 2, ingredient: Carrot, note: "washed, trimmed and quartered" }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: 2, measure: tbsp, ingredient: Salt }
+      - { qty: 2, measure: tsp, ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: 1, measure: tsp, ingredient: Black peppercorns, note: whole }
+      - { qty: "1/4", measure: cup, ingredient: Vegetable oil, note: for the sauce }
+      - { qty: 2, ingredient: Onion, note: "small, finely chopped, for the sauce" }
+      - { qty: "1/4", measure: cup, ingredient: Garlic, note: "minced, for the sauce" }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin, note: "crushed and toasted, for the sauce" }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper, note: for the sauce }
+      - { qty: 2, measure: cup, ingredient: Ketchup, note: for the sauce }
+      - { qty: "1/2", measure: cup, ingredient: Horseradish, note: "freshly grated, for the sauce" }
+      - { qty: 1, measure: cup, ingredient: Cider vinegar, note: "or malt vinegar, for the sauce" }
+      - { qty: 2, measure: tbsp, ingredient: Soy sauce, note: for the sauce }
+      - { qty: "1/2", measure: cup, ingredient: Dark brown sugar, note: for the sauce }
+      - { qty: 4, measure: tsp, ingredient: Worcestershire sauce, note: for the sauce }
+    directions:
+      - In a large pot, combine all the rib ingredients with enough water to cover by 1 inch (about 12 cups) and bring to a boil over high heat. Reduce to a slow boil, cover, and cook 1 to 1 1/4 hours, until the ribs are very tender.
+      - "Meanwhile, make the BBQ sauce: heat the oil in a medium nonreactive saucepan over medium-high heat. Cook the onions until soft, about 4 minutes. Add the garlic, cumin and cayenne and cook 1 minute. Stir in the ketchup, horseradish, vinegar, soy sauce, brown sugar and Worcestershire. Simmer over medium-low until thickened, about 20 minutes."
+      - Preheat the broiler and line 2 baking sheets with foil. Move the ribs to one sheet with a slotted spoon and blot dry; discard the vegetables and liquid.
+      - Spread half the sauce on the second sheet, lay the ribs on it and spoon the rest of the sauce over them. Broil until the sauce caramelizes, about 10 minutes. Serve immediately.
+
+  - name: Braised Country-Style Ribs with White Beans and Fresh Herbs
+    categories: [Pork, Beans]
+    description:
+      - Recipe courtesy Emeril Lagasse, 2005. Uses Emeril's Essence Creole Seasoning (its own recipe).
+    ingredients:
+      - { qty: 3, measure: lb, ingredient: Pork ribs, note: country-style }
+      - { qty: 1, measure: tbsp, ingredient: Kosher salt }
+      - { qty: 2, measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil }
+      - { qty: 2, measure: cup, ingredient: Onion, note: diced }
+      - { qty: 1, measure: cup, ingredient: Green bell pepper, note: diced }
+      - { qty: 1, measure: cup, ingredient: Celery, note: diced }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: "1/4", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: "1/2", measure: lb, ingredient: Navy beans, note: dried }
+      - { qty: 8, measure: cup, ingredient: Chicken stock }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: 14 1/2-ounce }
+      - { qty: 2, measure: tbsp, ingredient: Sage, note: "fresh leaves, chopped" }
+      - { qty: 4, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 1, measure: tbsp, ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "fresh leaves, chopped" }
+      - { ingredient: Long grain rice, note: "steamed white, for serving" }
+    directions:
+      - Season the ribs on both sides with the salt and pepper. Heat the olive oil in a large Dutch oven over medium heat. Sear the ribs in batches until golden brown, about 5 minutes per side. Set aside.
+      - Cook the onions, bell peppers, and celery, stirring occasionally, until the onions are translucent and the vegetables lightly caramelized, 6 to 7 minutes. Add the garlic and cook 30 seconds.
+      - Sprinkle in the flour and stir constantly for 2 minutes to make a roux. Stir in the beans and stock, bring to a boil and reduce to a simmer.
+      - Add the tomatoes, ribs, sage, thyme and bay leaves. Simmer 2 hours, stirring and scraping the bottom occasionally.
+      - After 1 1/2 hours, check that the ribs and beans are tender, season with the Essence and cook 30 minutes more. Stir in the parsley and serve hot over steamed rice.

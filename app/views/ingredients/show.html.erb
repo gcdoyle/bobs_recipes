@@ -1,9 +1,20 @@
-<p id="notice"><%= notice %></p>
+<% content_for :title, @ingredient.name %>
 
-<p>
-  <strong>Title:</strong>
-  <%= @ingredient.title %>
-</p>
+<%= render "breadcrumbs", crumbs: [["Ingredients", ingredients_path], [@ingredient.name, nil]] %>
 
-<%= link_to 'Edit', edit_ingredient_path(@ingredient) %> |
-<%= link_to 'Back', ingredients_path %>
+<h1><%= @ingredient.name %></h1>
+
+<% if @ingredient.url.present? %>
+  <p><%= link_to "More about #{@ingredient.name}", @ingredient.url %></p>
+<% end %>
+
+<% if @ingredient.recipes.any? %>
+  <h2>Used in</h2>
+  <ul>
+    <% @ingredient.recipes.distinct.order(:name).each do |recipe| %>
+      <li><%= link_to recipe.name, recipe %></li>
+    <% end %>
+  </ul>
+<% else %>
+  <p class="text-muted">Not used in any recipe yet.</p>
+<% end %>

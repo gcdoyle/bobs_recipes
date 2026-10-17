@@ -1,0 +1,40 @@
+/* Admin tweaks layered over Administrate's stylesheet. */
+
+.main-content { min-width: 0; }
+.attribute-label { width: calc(15% - 1rem); }
+.attribute-data { width: calc(85% - 1rem); word-break: normal; }
+.attribute-data--rich-text .trix-content { min-height: 14px; }
+
+/* Recipe form tabs */
+.nav-tabs {
+  border-bottom: 1px solid #dee2e6;
+  margin-bottom: 1.5rem;
+}
+.nav-tabs .nav-link {
+  border: 1px solid transparent;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+  display: inline-block;
+  margin-bottom: -1px;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+}
+.nav-tabs .nav-link.active {
+  background-color: #fff;
+  border-color: #dee2e6 #dee2e6 #fff;
+  color: #495057;
+}
+.tab-pane { display: none; }
+.tab-pane.active { display: block; }
+
+/* Recipe ingredient rows */
+.field-unit--recipe-ingredients-field .field-unit__field { width: calc(85% - 2rem); }
+.recipe-ingredients__table { margin-bottom: 0.75rem; width: 100%; }
+.recipe-ingredients__table th { font-weight: normal; text-align: left; }
+.recipe-ingredients__table td { padding: 0.25rem; vertical-align: middle; }
+.recipe-ingredients__table tr:hover { background: none; cursor: default; }
+.recipe-ingredient__handle { color: #888; cursor: grab; user-select: none; width: 1.5rem; }
+.recipe-ingredient__qty { width: 5em; }
+.recipe-ingredient__remove { text-align: center; width: 4rem; }
+.recipe-ingredient.is-dragging { opacity: 0.5; }
+.recipe-ingredient.is-removed { opacity: 0.4; }

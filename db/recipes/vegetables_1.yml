@@ -1,0 +1,459 @@
+# Recipes from "Vegetables.txt", part 1 (asparagus through cauliflower).
+recipes:
+  - name: Garlic-Roasted Asparagus
+    categories: [Vegetables]
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Asparagus, note: "tough ends trimmed, rinsed and patted dry" }
+      - { qty: 3, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Garlic, note: minced }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: tsp, ingredient: Lemon juice, note: fresh }
+    directions:
+      - Preheat the oven to 425 degrees F.
+      - Toss the asparagus with the olive oil and garlic in a large glass baking dish and season lightly with salt and pepper.
+      - Bake until tender and lightly browned, 15 to 20 minutes depending on thickness, stirring twice. Toss with the lemon juice and adjust the seasoning.
+
+  - name: Roasted Asparagus with Hollandaise
+    categories: [Vegetables]
+    description:
+      - "The recipe doubles easily: lay the spears with the tips toward the center of the pan and the stems toward the edges, since the edges cook faster and the tips are thinner."
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Asparagus, note: medium }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1/4", measure: tsp, ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, ingredient: Egg yolk, note: "large, for the sauce" }
+      - { qty: "1 1/2", measure: tsp, ingredient: Lemon juice, note: "freshly squeezed, for the sauce" }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+      - { qty: 4, measure: tbsp, ingredient: Unsalted butter, note: 1/2 stick }
+      - { qty: "1/2", measure: tsp, ingredient: Kosher salt, note: for the sauce }
+    directions:
+      - Preheat the oven to 450 degrees F.
+      - Trim the woody ends. Spread the spears in a single layer in a shallow roasting pan, drizzle with the oil, sprinkle with salt and roll to coat. Roast until lightly browned and tender, about 10 minutes, shaking the pan halfway through.
+      - Meanwhile, pulse the egg yolk, lemon juice and cayenne in a blender.
+      - Microwave the butter until just melted. With the blender running, gradually add it to make a smooth, frothy sauce; blend in a teaspoon of lukewarm water if it's too thick. Season with the salt. Serve right away or keep warm in a bowl over hot (not simmering) water.
+      - Spread the asparagus on a platter, grind plenty of pepper over and serve with the sauce.
+
+  - name: Grilled Asparagus with Green Peppercorn Vinaigrette
+    categories: [Vegetables]
+    description:
+      - The vinaigrette can be made up to 8 hours ahead and refrigerated.
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: White wine vinegar }
+      - { qty: 2, measure: tsp, ingredient: Dijon mustard }
+      - { qty: "1/2", measure: tsp, ingredient: Kosher salt, note: plus more for the asparagus }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: "freshly ground, plus more for the asparagus" }
+      - { qty: 6, measure: tbsp, ingredient: Olive oil, note: "extra-virgin, 1/4 cup plus 2 tablespoons" }
+      - { qty: 2, measure: tbsp, ingredient: Green peppercorns, note: "in brine, drained" }
+      - { qty: 1, measure: lb, ingredient: Asparagus, note: "fresh, trimmed" }
+      - { qty: 2, measure: tbsp, ingredient: Canola oil }
+    directions:
+      - Whisk the vinegar, mustard, salt and pepper, then slowly whisk in the olive oil until emulsified. Stir in the peppercorns and let sit at room temperature 15 minutes.
+      - Heat the grill to high. Toss the asparagus with the canola oil, season and grill until tender, 5 to 7 minutes.
+      - Drizzle the vinaigrette over the asparagus on a platter.
+
+  - name: Farfalle with Broccoli
+    categories: [Vegetables, Pasta]
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Farfalle }
+      - { qty: 2, measure: head, ingredient: Broccoli, note: "trimmed to florets (about 4 cups)" }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 4, measure: tbsp, ingredient: Butter }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: 5, ingredient: Anchovy, note: "fillets, diced" }
+      - { qty: "1/4", measure: tsp, ingredient: Red pepper flakes }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: grated }
+    directions:
+      - Cook the pasta in a large pot of salted boiling water, stirring occasionally. After 5 minutes, add the broccoli and cook 4 minutes more. Drain, saving 1 cup of the pasta water.
+      - Meanwhile, heat the olive oil and butter in a large skillet over medium heat and cook the garlic, anchovies and red pepper flakes 5 minutes.
+      - Add the broccoli, pasta, salt and pepper and toss, adding pasta water as needed for a light sauce. Sprinkle with Parmesan to serve.
+
+  - name: Cheesy Broccoli Bake
+    categories: [Vegetables, Casseroles]
+    description:
+      - Recipe courtesy Paula Deen.
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Broccoli, note: "fresh, trimmed and cut up" }
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter, note: plus more for the casserole }
+      - { qty: "1/4", measure: cup, ingredient: Celery, note: chopped }
+      - { qty: "1/4", measure: lb, ingredient: Mushroom, note: "fresh, sliced" }
+      - { qty: "1/4", measure: cup, ingredient: Onion, note: chopped }
+      - { qty: 1, measure: can, ingredient: Water chestnut, note: "8-ounce, sliced" }
+      - { qty: 1, measure: can, ingredient: Cream of mushroom soup, note: "10 3/4-ounce, condensed" }
+      - { qty: "1/2", measure: lb, ingredient: Pasteurized processed cheese, note: "cheese product, softened" }
+      - { qty: "1/2", measure: tsp, ingredient: Garlic salt }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper }
+      - { qty: 1, measure: cup, ingredient: Cheddar, note: grated }
+    directions:
+      - Preheat the oven to 350 degrees F and butter a 9 by 13-inch casserole.
+      - Steam the broccoli until tender, about 10 minutes. Meanwhile, melt the butter in a medium skillet over medium heat and saute the celery, mushrooms and onion until soft, about 10 minutes; drain. Combine with the broccoli (the water chestnuts go in here too).
+      - Heat the soup and cheese product over low heat until the cheese melts. Pour over the broccoli mixture, add the garlic salt and pepper and combine.
+      - Bake in the casserole 20 to 25 minutes, sprinkling the Cheddar on top for the last 5 minutes.
+
+  - name: Oven Roasted Broccoli
+    categories: [Vegetables]
+    servings: 4
+    description:
+      - Recipe courtesy Alton Brown, 2007.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Broccoli, note: rinsed and trimmed }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: "1/2", measure: tsp, ingredient: Kosher salt }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/3", measure: cup, ingredient: Panko }
+      - { qty: "1/4", measure: cup, ingredient: Parmesan, note: "finely grated, or sharp Cheddar" }
+    directions:
+      - Preheat the oven to 425 degrees F.
+      - Cut the florets into bite-size pieces and the stalk into 1/8-inch rounds. Toss with the olive oil, garlic, salt and pepper.
+      - Toast the panko in a 13 by 9-inch metal cake pan in the oven 2 minutes. Toss it with the broccoli, return everything to the pan and roast until the broccoli is just tender, 8 to 10 minutes more.
+      - Toss in the cheese and serve immediately.
+
+  - name: Brussels Sprouts with Bacon
+    categories: [Vegetables]
+    ingredients:
+      - { qty: 3, measure: slice, ingredient: Bacon, note: chopped }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: "1 1/2", measure: lb, ingredient: Brussels sprouts, note: "trimmed, small ones whole, larger ones halved" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 1, measure: cup, ingredient: Chicken broth }
+    directions:
+      - Brown the bacon in a medium skillet over medium-high heat and drain on paper towels.
+      - Add the olive oil and saute the garlic 1 to 2 minutes. Add the sprouts, coat in the oil and season. Cook 2 to 3 minutes to begin to soften.
+      - Add the broth, bring to a bubble, cover and cook over medium-low 10 minutes, until tender. Lift into a serving dish with a slotted spoon and top with the bacon.
+
+  - name: Brussels Sprouts Gratin
+    categories: [Vegetables]
+    servings: 6
+    description:
+      - Recipe courtesy T'afia, for Food Network Magazine.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter, note: "cut into pieces, plus more for the dish" }
+      - { ingredient: Kosher salt }
+      - { qty: 1, measure: lb, ingredient: Brussels sprouts, note: outer leaves and stems removed }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: cup, ingredient: Heavy cream }
+      - { qty: "1/2", measure: cup, ingredient: White cheddar, note: grated }
+      - { qty: "1/2", measure: cup, ingredient: Bread crumbs }
+    directions:
+      - Preheat the oven to 400 degrees F and butter a 2-quart baking dish. Boil the sprouts in salted water until tender, 8 to 10 minutes.
+      - Drain, chop coarsely and toss in the dish with the red pepper flakes, salt and pepper. Spread evenly.
+      - Pour the cream over, sprinkle with the cheese and bread crumbs and dot with the butter. Bake until bubbly and golden, about 15 minutes.
+
+  - name: Brown Butter, Thyme and Honey Caramelized Brussels Sprouts
+    categories: [Vegetables]
+    description:
+      - Recipe from Curtis Stone.
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Brussels sprouts, note: fresh }
+      - { qty: 4, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: "1/4", measure: cup, ingredient: Honey }
+      - { qty: 2, measure: tbsp, ingredient: Thyme, note: fresh leaves }
+      - { ingredient: Salt }
+    directions:
+      - Cook the sprouts in batches in a large pot of boiling salted water until bright green, 3 to 5 minutes per batch. Chill in ice water, drain well and halve lengthwise.
+      - Working in 2 batches, melt half the butter in a large saute pan over medium-high heat until golden brown, about 2 minutes.
+      - Add the sprouts, raise to high and saute until golden, about 5 minutes. Add the thyme and honey, mix well and season with salt. Cover with foil on a platter and repeat. Serve immediately.
+
+  - name: Braised Savoy Cabbage
+    categories: [Vegetables]
+    description:
+      - Recipe courtesy Tyler Florence. Salt the water so it tastes like the sea, and keep a little bite in the cabbage.
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Vinegar, note: "cider, white wine or even sherry" }
+      - { qty: 1, measure: head, ingredient: Savoy cabbage, note: "large, quartered, cored, leaves separated and torn into large pieces" }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh flat-leaf, chopped" }
+      - { qty: "1/2", measure: bunch, ingredient: Chives, note: "fresh, chopped" }
+      - { ingredient: Salt, note: plus 2 to 4 tablespoons for the water }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Bring a big pot of water to a boil with 2 to 4 tablespoons salt. Add the vinegar, then the cabbage, and boil until wilted but still with some tooth, 2 to 3 minutes.
+      - Drain and toss with the butter, oil, parsley, chives, salt and pepper.
+
+  - name: Braised Red Cabbage
+    categories: [Vegetables]
+    servings: 6
+    description:
+      - From Food Network Kitchens.
+    ingredients:
+      - { qty: 4, measure: slice, ingredient: Bacon, note: thinly sliced }
+      - { qty: 2, ingredient: Yellow onion, note: "medium, thinly sliced" }
+      - { qty: 1, ingredient: Cinnamon stick }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 4, measure: tsp, ingredient: Kosher salt, note: divided }
+      - { qty: 3, measure: lb, ingredient: Red cabbage, note: "1 large or 2 small heads, cored and thinly sliced" }
+      - { qty: 1, ingredient: Granny Smith apple, note: "cored, bite-size pieces" }
+      - { qty: 3, measure: cup, ingredient: Chicken broth, note: "2 to 3 cups, low-sodium" }
+      - { qty: "1/2", measure: cup, ingredient: Red wine vinegar }
+      - { qty: 2, measure: tbsp, ingredient: Sugar }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Cook the bacon until crisp in a large lidded Dutch oven over medium heat, about 4 minutes. Add the onions, cinnamon, bay leaves and 1 teaspoon salt. Cover and cook, stirring occasionally, until tender, about 8 minutes.
+      - Raise to medium-high, add the cabbage and cook, stirring, until wilted, about 8 minutes. Add the apple, broth, vinegar, sugar, remaining salt and pepper. Cover and cook, stirring occasionally, until tender, about 1 hour.
+      - Uncover, bring to a boil and cook, stirring, until the liquid reduces to a sauce, about 5 minutes.
+
+  - name: Warm Savoy Cabbage Slaw
+    categories: [Vegetables, Slaw]
+    description:
+      - Recipe courtesy Anne Burrell. It tastes very vinegary at first; the salt offsets it. Probably even better after a couple of days in the fridge.
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 6, measure: slice, ingredient: Bacon, note: "thick-cut, cut into lardons" }
+      - { qty: 2, ingredient: Red onion, note: julienned }
+      - { ingredient: Salt }
+      - { qty: 3, ingredient: Carrot, note: peeled and grated }
+      - { qty: 1, measure: head, ingredient: Savoy cabbage, note: "medium, thick ribs removed, shredded" }
+      - { qty: "1 1/2", measure: cup, ingredient: Cider vinegar }
+      - { qty: 3, measure: tbsp, ingredient: Mustard seed }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: tied with string }
+      - { qty: 4, ingredient: Bay leaf }
+      - { qty: "1/2", measure: cup, ingredient: Cider, note: "1/4 to 1/2 cup apple cider" }
+      - { qty: 1, measure: bunch, ingredient: Chives, note: "small, cut into 2-inch pieces" }
+    directions:
+      - Coat a large wide pot with olive oil and render the bacon over medium heat. Add the onions, season with salt and sweat 4 to 5 minutes. Stir in the carrots.
+      - Add the cabbage, vinegar, mustard seeds, thyme and bay leaves, season with salt and taste.
+      - Cover and simmer 15 to 20 minutes, until very soft. Uncover, add the cider and simmer 10 minutes more, until most of the vinegar is absorbed but the cabbage is moist, not soupy. Garnish with chives.
+
+  - name: Emeril's Braised Cabbage
+    categories: [Vegetables]
+    description:
+      - Recipe courtesy Emeril Lagasse. Makes 5 cups.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 6, measure: slice, ingredient: Bacon, note: cut into 1-inch strips }
+      - { qty: 1, ingredient: Onion, note: "small, sliced" }
+      - { qty: 2, ingredient: Bay leaf }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: head, ingredient: Cabbage, note: "large, cored and thinly sliced or shredded" }
+      - { qty: 1, measure: bottle, ingredient: Beer }
+    directions:
+      - Cook the bacon in the oil in a large pot until browned and crispy. Add the onion and bay leaves and season.
+      - Stir in the cabbage, add the beer, season and cover. Braise, stirring occasionally, until wilted, about 30 minutes. Remove the bay leaves and serve.
+
+  - name: Bob's Cabbage with Apple
+    categories: [Vegetables]
+    description:
+      - Bob's quick note; no amounts.
+    ingredients:
+      - { ingredient: Cabbage, note: sliced }
+      - { ingredient: Granny Smith apple, note: sliced }
+      - { ingredient: Salt }
+      - { ingredient: Anise seed }
+      - { ingredient: Butter }
+      - { ingredient: Red wine, note: a little }
+      - { measure: dash, ingredient: Cider vinegar }
+    directions:
+      - Saute the cabbage and apple in butter with salt and anise seed. Deglaze with a little red wine and a dash of cider vinegar.
+
+  - name: Beer Braised Cabbage
+    categories: [Vegetables, Cajun]
+    description:
+      - Recipe courtesy Emeril Lagasse.
+    ingredients:
+      - { qty: "1/2", measure: lb, ingredient: Bacon, note: chopped }
+      - { qty: 2, measure: cup, ingredient: Onion, note: thinly sliced }
+      - { qty: "1/4", measure: tsp, ingredient: Salt }
+      - { qty: 2, measure: tsp, ingredient: Garlic, note: chopped }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: "freshly ground, or more to taste" }
+      - { qty: "1 1/2", measure: lb, ingredient: Cabbage, note: "1/2 head green or white, shredded" }
+      - { qty: "1/4", measure: cup, ingredient: Creole mustard }
+      - { qty: 1, measure: tsp, ingredient: Cane syrup, note: "Steen's pure cane syrup" }
+      - { qty: 12, measure: oz, ingredient: Beer, note: "dark, full-flavored (recommended: Abita Turbo Dog)" }
+      - { qty: "1/4", measure: cup, ingredient: Heavy cream }
+    directions:
+      - Render the bacon in a large saucepan over medium heat until crispy, about 10 minutes. Add the onions, salt and pepper and cook until soft, about 4 minutes. Add the garlic for 30 seconds.
+      - Add the cabbage, mustard and cane syrup and cook, stirring, 3 minutes. Add the beer, cover and cook 20 minutes, stirring occasionally.
+      - Stir in the cream and cook, covered, 10 minutes. Serve warm.
+
+  - name: Sauteed Cabbage
+    categories: [Vegetables]
+    servings: 6
+    description:
+      - Recipe from Barefoot Contessa Parties!, 2001.
+    ingredients:
+      - { qty: 1, measure: head, ingredient: Cabbage, note: "small white cabbage, including the outer green leaves (2 1/2 pounds)" }
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: "1 1/2", measure: tsp, ingredient: Kosher salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Halve the cabbage and, cut side down, slice it as thinly as possible around the core, as for coleslaw. Discard the core.
+      - Melt the butter in a large saute pan over medium-high heat. Add the cabbage, salt and pepper and saute 10 to 15 minutes, stirring occasionally, until tender and beginning to brown. Season and serve warm.
+
+  - name: Caponata
+    categories: [Vegetables, Hors d'Oeuvres]
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. Serves 6 to 8. Even better the next day or the day after.
+    ingredients:
+      - { qty: 1, ingredient: Eggplant, note: "large, peeled in alternating 1-inch strips, cut into 1-inch dice" }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { ingredient: Kosher salt }
+      - { qty: 1, ingredient: Red onion, note: "large, cut into 1/2-inch dice" }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 1, ingredient: Fennel, note: "bulb, cut into 1/2-inch dice" }
+      - { qty: 3, measure: rib, ingredient: Celery, note: cut into 1/2-inch dice }
+      - { qty: 6, measure: clove, ingredient: Garlic, note: thinly sliced }
+      - { qty: 1, ingredient: Red bell pepper, note: cut into 1/2-inch dice }
+      - { qty: 1, ingredient: Yellow bell pepper, note: cut into 1/2-inch dice }
+      - { qty: 2, ingredient: Zucchini, note: cut into 1/2-inch dice }
+      - { qty: "1/2", measure: cup, ingredient: Water }
+      - { qty: "1/2", measure: cup, ingredient: Tomato paste }
+      - { qty: 2, measure: tbsp, ingredient: Sugar }
+      - { qty: "1/4", measure: cup, ingredient: Red wine vinegar }
+      - { qty: "1/4", measure: cup, ingredient: Golden raisins }
+      - { qty: "1/4", measure: cup, ingredient: Capers }
+      - { qty: "1/4", measure: cup, ingredient: Pine nuts, note: toasted }
+      - { qty: "1/2", measure: bunch, ingredient: Mint, note: cut into chiffonade }
+    directions:
+      - Preheat the oven to 400 degrees F. Toss the eggplant generously with olive oil and salt and roast on a baking sheet until soft and mushy, 15 to 20 minutes.
+      - Coat a wide deep pot with olive oil. Cook the onion and red pepper with salt over medium-high heat until soft and aromatic, 8 to 10 minutes.
+      - Add the fennel, celery and garlic for 5 to 6 minutes, then the peppers for 5 to 6 minutes. Add the zucchini, season and cook until everything is soft and coming together as a stew, 5 to 6 minutes.
+      - Add the eggplant, water and tomato paste and cook until the water evaporates. Dissolve the sugar in the vinegar and stir it in with the raisins, capers, pine nuts and mint. Cook 5 to 6 minutes more.
+      - Let cool and serve.
+
+  - name: Candied Carrots
+    categories: [Vegetables]
+    ingredients:
+      - { qty: 1, measure: bunch, ingredient: Carrot, note: "young, with tops" }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { ingredient: Sea salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 4, measure: tbsp, ingredient: Unsalted butter, note: 1/2 stick }
+      - { qty: 1, ingredient: Orange, note: zested and halved }
+      - { qty: 1, measure: tbsp, ingredient: Brown sugar }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: 1, measure: tsp, ingredient: Cinnamon, note: ground }
+    directions:
+      - Preheat the oven to 350 degrees F. Trim all but 1 inch of the carrot tops. Turn the carrots in a large shallow pan with the oil, salt and pepper and bake 30 minutes, until fork-tender.
+      - Meanwhile, melt the butter in a skillet over medium-low heat and cook until brown and nutty. Squeeze in the orange juice, add the zest, brown sugar, cumin and cinnamon and cook 2 minutes, until syrupy.
+      - Drizzle the orange brown butter over the carrots and serve.
+
+  - name: Glazed Baby Carrots
+    categories: [Vegetables]
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell. Serves 4 to 6. Leave a little green attached ("it's cute").
+    ingredients:
+      - { ingredient: Kosher salt }
+      - { qty: 1, measure: lb, ingredient: Baby carrots, note: "tops removed, a little green left on" }
+      - { qty: 4, measure: tbsp, ingredient: Butter }
+      - { qty: 3, measure: tbsp, ingredient: Brown sugar }
+      - { qty: "1/2", ingredient: Lemon, note: juiced }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 3, measure: sprig, ingredient: Thyme, note: picked }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+    directions:
+      - Blanch the carrots in well-salted boiling water until cooked but still crunchy, then plunge into well-salted ice water. When cool, rub the skins off with a clean towel.
+      - Combine the butter, sugar, lemon juice, garlic, thyme, cayenne and about 1/2 cup water in a large skillet over medium heat, swirling occasionally.
+      - When most of the water has reduced and it looks homogenous, remove the garlic, add the carrots and stir to coat. Cook 2 to 3 minutes more, until coated and hot.
+
+  - name: Cauliflower Fritters
+    categories: [Vegetables, Hors d'Oeuvres]
+    prep_time: 15
+    cooking_time: 10
+    servings: 4
+    description:
+      - Recipe courtesy Alex Guarnaschelli. Serves 4 to 6. Test a piece first to check the batter and the oil; the batter should coat lightly (thin with water or whisk in more flour as needed).
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Ginger, note: "freshly grated, for the sauce" }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil, note: for the sauce }
+      - { qty: 2, measure: tsp, ingredient: Coriander seeds, note: "1 to 2 teaspoons, for the sauce" }
+      - { measure: splash, ingredient: Red wine vinegar, note: for the sauce }
+      - { qty: 1, measure: bunch, ingredient: Cilantro, note: "small, leaves snipped, for the sauce" }
+      - { qty: "1 1/2", measure: cup, ingredient: Flour, note: "all-purpose, plus more as needed" }
+      - { qty: 1, measure: tbsp, ingredient: Turmeric }
+      - { qty: 1, measure: tbsp, ingredient: Ground ginger }
+      - { qty: 1, measure: tbsp, ingredient: Canola oil, note: plus 6 cups for frying }
+      - { qty: 18, measure: oz, ingredient: Beer, note: "1 1/2 bottles, at room temperature" }
+      - { qty: 1, measure: head, ingredient: Cauliflower, note: "large, in bite-size pieces, washed and thoroughly dried" }
+      - { qty: 1, measure: tbsp, ingredient: Smoked paprika }
+      - { ingredient: Water, note: for thinning }
+      - { ingredient: Salt }
+    directions:
+      - "For the sauce: toss all the sauce ingredients together in a bowl."
+      - "For the fritters: sift the flour, turmeric and ground ginger into a medium bowl, add 1 tablespoon canola oil and whisk in the beer. Set aside somewhere warm; like bread dough, it will puff slightly."
+      - Sprinkle the cauliflower with an even layer of paprika through a small strainer and toss.
+      - Heat the 6 cups canola oil to 350 degrees F in a large pot over medium heat, and line a baking sheet with towels.
+      - Dip a piece in the batter, let the excess drip off and lower it into the oil; it should bubble slightly and gradually rise. Fry until golden on all sides, salt and taste; season the rest before battering if needed.
+      - Fry the rest in small batches, drain, season and serve immediately with the sauce.
+
+  - name: Curried Cauliflower and Carrots
+    categories: [Vegetables]
+    servings: 4
+    description:
+      - Serves 4 to 6. Serve hot or at room temperature.
+    ingredients:
+      - { qty: 2, measure: tsp, ingredient: Curry powder }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/3", measure: cup, ingredient: Olive oil, note: plus more for topping }
+      - { qty: 1, measure: head, ingredient: Cauliflower, note: "medium, cut into florets" }
+      - { qty: 2, ingredient: Carrot, note: "peeled, cut into 1-inch chunks" }
+      - { qty: 1, ingredient: Red onion, note: cut into eighths }
+      - { qty: 1, measure: tbsp, ingredient: Parsley, note: "fresh flat-leaf, finely chopped" }
+    directions:
+      - Preheat the oven to 425 degrees F.
+      - Whisk the curry powder, cumin, salt, pepper and olive oil in a medium bowl.
+      - Spread the vegetables on a foil-lined baking sheet, drizzle with the dressing and toss to coat.
+      - Roast until tender and browned, about 40 minutes, stirring halfway. Sprinkle with parsley and a drizzle of olive oil.
+
+  - name: Curry-Scented Cauliflower
+    categories: [Vegetables]
+    servings: 4
+    description:
+      - Recipe copyright Emeril Lagasse, courtesy MSLO, Inc. Serves 4 to 6.
+      - Ghee is butter melted slowly until the milk solids separate and brown, giving a nutty, caramel flavor and a higher smoke point than butter. Garam masala is a blend of ground Indian spices ("garam" means warm or hot).
+    ingredients:
+      - { qty: 3, measure: lb, ingredient: Cauliflower, note: "2 small heads (3 to 3 1/2 pounds), cored, medium florets" }
+      - { qty: 6, measure: tbsp, ingredient: Ghee, note: "or clarified butter, melted" }
+      - { qty: 2, measure: tsp, ingredient: Kosher salt }
+      - { qty: 2, measure: tsp, ingredient: Curry powder }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1/4", measure: tsp, ingredient: Garam masala }
+    directions:
+      - Preheat the oven to 400 degrees F.
+      - Stir the ghee, salt, curry powder, cayenne and garam masala together, pour over the cauliflower in a large bowl and toss until thoroughly coated.
+      - Roast on a large baking sheet until caramelized at the edges and crisp-tender, 18 to 20 minutes, stirring once. Serve hot.
+
+  - name: Cheesy Cauliflower Surprise
+    categories: [Vegetables, Casseroles]
+    ingredients:
+      - { qty: 2, measure: head, ingredient: Cauliflower, note: "chopped into bite-size pieces, divided" }
+      - { qty: 1, ingredient: Onion, note: finely chopped }
+      - { qty: 1, measure: cup, ingredient: Cheddar, note: shredded }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: roasted and minced }
+      - { qty: 2, measure: cup, ingredient: Cheese puffs, note: crumbled }
+      - { ingredient: Salt, note: to taste }
+      - { ingredient: Black pepper, note: to taste }
+      - { qty: 5, measure: tbsp, ingredient: Olive oil, note: plus extra }
+    directions:
+      - Toss 1 head of cauliflower on a baking sheet with salt, pepper, the garlic and olive oil to coat. Roast at 400 degrees F for 20 minutes.
+      - Boil the second head in water until soft and puree with an immersion blender until smooth.
+      - Saute the onion in the 5 tablespoons olive oil until soft.
+      - Layer the puree, roasted cauliflower, onions, cheese and cheese puffs in a casserole dish, repeating until full. Finish with an extra layer of cheese puffs and cheese.
+      - Bake at 400 degrees F until the cheese melts and the cheese puffs are crunchy. Serve warm.
+
+  - name: Cauliflower-Goat Cheese Gratin
+    categories: [Vegetables]
+    ingredients:
+      - { qty: 1, measure: head, ingredient: Cauliflower, note: cut into florets }
+      - { qty: 2, measure: cup, ingredient: Heavy cream }
+      - { qty: "1/2", measure: lb, ingredient: Monterey Jack, note: coarsely grated }
+      - { qty: 2, measure: cup, ingredient: Parmesan, note: grated }
+      - { qty: 6, measure: oz, ingredient: Goat cheese, note: cut into small pieces }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Preheat the oven to 400 degrees F.
+      - Layer the cauliflower, cream and the 3 cheeses in a medium casserole and season with salt and pepper.
+      - Roast 20 to 30 minutes, until the cauliflower is soft and the sauce thickens slightly. Rest 10 minutes before serving.

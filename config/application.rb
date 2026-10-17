@@ -9,7 +9,14 @@ Bundler.require(*Rails.groups)
 module Recipes
   class Application < Rails::Application
     # Initialize configuration defaults for originally generated Rails version.
-    config.load_defaults 6.0
+    config.load_defaults 8.1
+
+    # Keep the pre-7.0 key generator digest so existing sessions and the
+    # signed IDs embedded in rich-text attachments keep working.
+    config.active_support.key_generator_hash_digest_class = OpenSSL::Digest::SHA1
+
+    # Keep ImageMagick for image variants (Rails 7 defaults to libvips).
+    config.active_storage.variant_processor = :mini_magick
 
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration can go into files in config/initializers

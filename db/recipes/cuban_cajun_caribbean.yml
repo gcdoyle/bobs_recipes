@@ -1,0 +1,731 @@
+# Recipes from "Cuban, Cajun & Caribbean.txt". Achiote Oil, Sofrito and the
+# adobo blends embedded here already exist as their own recipes.
+recipes:
+  - name: Arroz con Pollo
+    categories: [Cuban, Poultry]
+    description:
+      - Chicken with rice. Uses Achiote Oil and Sofrito (their own recipes).
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Achiote oil }
+      - { qty: 1, ingredient: Chicken, note: "3 to 4 pounds, cut into 10 pieces" }
+      - { ingredient: Sea salt, note: "fine, or kosher salt" }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: cup, ingredient: Sofrito }
+      - { qty: "1/4", measure: cup, ingredient: Alcaparrado, note: or coarsely chopped pimiento-stuffed olives }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: 1, measure: pinch, ingredient: Clove, note: ground }
+      - { qty: 4, measure: cup, ingredient: Long grain rice }
+      - { qty: 4, measure: cup, ingredient: Chicken broth, note: homemade or reduced-sodium }
+      - { qty: 2, ingredient: Roasted red pepper, note: "large, bottled, cut into 1/4-inch strips (about 1 1/2 cups)" }
+    directions:
+      - In a paella pan or wide, shallow pan with a tight-fitting lid, heat the Achiote Oil over medium-high heat until rippling. Season the chicken with salt and pepper and add as many pieces skin side down as fit without touching. Cook, turning as necessary, until well browned on all sides, about 10 minutes. Remove the pieces as they are done and set aside, adjusting the heat so the chicken browns without the oil darkening.
+      - When all the chicken is removed, add the Sofrito and alcaparrado. Season with salt and pepper. Raise the heat to high and boil until most of the water has evaporated from the Sofrito. Add the cumin and cloves.
+      - Stir in the rice until coated with oil. Return the chicken to the pan, pour in enough broth to cover the rice by the width of 2 fingers (about 1 inch), and bring to a boil. Cook over high heat until the level of liquid reaches the rice.
+      - Stir gently and reduce the heat to low. Cover and cook until the liquid is absorbed, the chicken is cooked through, and the rice is tender but firm, about 20 minutes. Fluff the rice with a fork.
+      - Bring to the table in the pan or transfer to a large serving platter. Either way, garnish with the red pepper before serving.
+
+  - name: Arroz con Pollo with Salsa Verde
+    categories: [Cuban, Poultry]
+    prep_time: 25
+    cooking_time: 75
+    servings: 6
+    description:
+      - Television Food Network, 2001.
+      - "Inactive prep: 20 minutes."
+    ingredients:
+      - { qty: 1, ingredient: Chicken, note: "3-pound whole chicken, cut into 10 serving pieces" }
+      - { qty: 4, measure: tbsp, ingredient: Olive oil, note: divided }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 4, measure: tsp, ingredient: Ground cumin }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Oregano, note: dried }
+      - { qty: 2, measure: tsp, ingredient: Sweet paprika }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 2, ingredient: Chorizo, note: "dried (about 1 1/4 pounds), cut into 1-inch chunks" }
+      - { qty: 1, ingredient: Onion, note: "Spanish, chopped" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, ingredient: Red bell pepper, note: seeded and chopped }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 2, measure: cup, ingredient: Long grain rice, note: white }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: "15-ounce, with liquid" }
+      - { qty: 3, measure: cup, ingredient: Chicken broth, note: "low-sodium, warm" }
+      - { qty: 1, measure: cup, ingredient: Green olives, note: pimento-stuffed }
+      - { qty: 1, ingredient: Jalapeno, note: "seeded and minced, for the salsa verde" }
+      - { qty: "1/4", measure: cup, ingredient: Cilantro, note: "fresh leaves, for the salsa verde" }
+      - { qty: "1/4", measure: cup, ingredient: Almond, note: "blanched, toasted, for the salsa verde" }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: for the salsa verde }
+      - { qty: 1, ingredient: Lime, note: "juiced, for the salsa verde" }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Rinse the chicken pieces and pat dry. In a small bowl, blend 2 tablespoons oil, salt, pepper, cumin, oregano, paprika and cayenne. Rub each piece of chicken with the spice paste and refrigerate for at least 20 minutes for the flavor to develop.
+      - In a heavy, ovenproof casserole with a lid, heat the remaining 2 tablespoons oil. Fry the chorizo over medium heat until it is crispy and renders its fat. Remove the chorizo with a slotted spoon and drain on paper towels.
+      - Place the chicken in the pan, skin side down, and brown on all sides, about 10 minutes. Remove from the pan and set aside. Make a sofrito by sauteing the onion, garlic, bell pepper and bay leaves until the vegetables are very soft and almost dissolved. Stir in the rice so the grains are well coated.
+      - Add the tomatoes and broth and season with salt and pepper. Return the chorizo and chicken to the pan. Bring to a boil and simmer for 5 minutes. Cover and transfer the pot to the oven. Bake for 20 minutes, or until the chicken is done and the rice is tender and has absorbed the liquid. Scatter the olives on top before serving.
+      - "To prepare the salsa verde: in a mortar and pestle or food processor, mash together all the salsa verde ingredients to form a loose paste. Garnish the arroz con pollo with the salsa verde before serving."
+
+  - name: Black Beans and Rice
+    categories: [Cuban]
+    description:
+      - Recipe courtesy Ingrid Hoffmann.
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Olive oil }
+      - { qty: 2, ingredient: Onion, note: finely chopped }
+      - { qty: 2, ingredient: Green bell pepper, note: chopped }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: 4, ingredient: Bay leaf }
+      - { qty: 1, measure: tbsp, ingredient: Ground cumin }
+      - { qty: 2, measure: cup, ingredient: Long grain rice, note: white }
+      - { qty: 4, measure: can, ingredient: Black beans, note: "14-ounce, drained and rinsed" }
+      - { qty: 2, measure: can, ingredient: Diced tomatoes, note: "14-ounce, with green chiles, drained" }
+      - { qty: 2, measure: cup, ingredient: Water }
+      - { qty: "1/4", measure: cup, ingredient: Cider vinegar, note: apple cider vinegar }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Heat a large pot over medium-high heat and add the oil. Stir in the onions, peppers, garlic, bay leaves and cumin. Stir and cook for 8 minutes.
+      - Stir in the rice, black beans, tomatoes, water, vinegar and salt and pepper. Bring to a boil, cover and reduce the heat to low. Cook for about 40 minutes or until the rice is tender. Serve hot.
+
+  - name: Burritos de Machaca
+    categories: [Mexican, Beef]
+    prep_time: 15
+    cooking_time: 150
+    servings: 12
+    description:
+      - Recipe courtesy Marcela Valladolid. Makes 12 burritos.
+      - Maggi sauce is a popular seasoning in Mexico that can be found in Latin markets.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Maggi seasoning, note: "or 1 tablespoon soy sauce plus 1 tablespoon Worcestershire sauce, for the marinade" }
+      - { qty: 2, measure: tbsp, ingredient: Water, note: for the marinade }
+      - { qty: 4, measure: tbsp, ingredient: Lime juice, note: "fresh, for the marinade" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: "minced, for the marinade" }
+      - { qty: 1, ingredient: Serrano pepper, note: "stemmed, seeded, and minced, for the marinade" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: for the marinade }
+      - { qty: 1, ingredient: Skirt steak, note: "2 to 3 pounds, trimmed and cut into 3 pieces" }
+      - { qty: 3, measure: tbsp, ingredient: Vegetable oil, note: or olive oil }
+      - { qty: "1 1/2", measure: cup, ingredient: Onion, note: diced }
+      - { qty: 1, measure: cup, ingredient: Red bell pepper, note: diced }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 2, ingredient: Serrano pepper, note: "stemmed, seeded, and minced" }
+      - { qty: 1, measure: cup, ingredient: Beef broth }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: with juice }
+      - { qty: "1/2", measure: tsp, ingredient: Oregano, note: dried }
+      - { qty: 12, ingredient: Flour tortilla, note: 6-inch }
+      - { ingredient: Lime, note: "wedges, for serving" }
+    directions:
+      - Combine the Maggi sauce, water, lime juice, garlic, chile, salt, and pepper, to taste, in a medium bowl. Slowly add the 1/2 cup of olive oil, whisking constantly.
+      - Add the beef to the marinade, making sure each piece is coated. Transfer the meat and the marinade to a quart-size freezer bag. Seal and refrigerate for at least 8 hours or preferably overnight. Allow the meat to come to room temperature before cooking, about 30 minutes. Remove the meat from the marinade and pat dry with paper towels. Discard the marinade.
+      - In a large heavy pot, heat the vegetable oil over medium-high heat. Sear the meat on all sides, a few pieces at a time, about 4 minutes per side. Transfer the browned meat to a platter and set aside.
+      - Add the onions, peppers, garlic, and chiles to the hot pan. Saute for 5 minutes, then add the beef broth, tomatoes, oregano, salt and pepper, to taste. Mix well, then return the meat to the pan. Bring to a boil, reduce the heat, cover, and simmer slowly until the meat is very tender, about 2 hours.
+      - Transfer the meat to a cutting board and let rest until cool enough to handle, about 15 minutes. Continue to cook the onion mixture until most of the liquid has evaporated, about 10 minutes.
+      - Using your fingers or 2 forks, shred the meat into 2-inch-long pieces. Return the shredded meat to the pot, stir to combine, and cook until very hot, about 3 minutes.
+      - Warm the tortillas over a burner or in a dry skillet over medium heat for 20 seconds. Put about 2 tablespoons of the meat mixture in the center of each tortilla, and roll into a thin burrito. Arrange on a serving platter and garnish with lime wedges.
+
+  - name: Chicken Enchiladas
+    categories: [Mexican, Poultry]
+    servings: 8
+    description:
+      - Makes 16 enchiladas. Serve with Spanish rice and beans.
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: "1 1/2", measure: lb, ingredient: Chicken breast, note: skinless boneless }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 2, measure: tsp, ingredient: Ground cumin }
+      - { qty: 2, measure: tsp, ingredient: Garlic powder }
+      - { qty: 1, measure: tsp, ingredient: Mexican spice blend }
+      - { qty: 1, ingredient: Red onion, note: chopped }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: cup, ingredient: Corn, note: "frozen, thawed" }
+      - { qty: 5, ingredient: Green chiles, note: "canned whole, seeded and coarsely chopped" }
+      - { qty: 4, ingredient: Chipotle in adobo, note: "canned chipotle chiles, seeded and minced" }
+      - { qty: 1, measure: can, ingredient: Stewed tomatoes, note: 28-ounce }
+      - { qty: "1/2", measure: tsp, ingredient: Flour, note: all-purpose }
+      - { qty: 16, ingredient: Corn tortilla }
+      - { qty: "1 1/2", measure: cup, ingredient: Enchilada sauce, note: canned }
+      - { qty: 1, measure: cup, ingredient: Cheddar, note: "shredded Cheddar and Jack cheeses" }
+      - { ingredient: Cilantro, note: "chopped, for garnish" }
+      - { ingredient: Green onion, note: "chopped, for garnish" }
+      - { ingredient: Sour cream, note: for garnish }
+      - { ingredient: Tomato, note: "chopped, for garnish" }
+    directions:
+      - Coat a large saute pan with oil. Season the chicken with salt and pepper. Brown the chicken over medium heat, about 7 minutes each side or until no longer pink, sprinkling with the cumin, garlic powder and Mexican spices before turning. Remove the chicken to a platter and allow to cool.
+      - Saute the onion and garlic in the chicken drippings until tender. Add the corn and chiles and stir well to combine. Add the canned tomatoes and saute 1 minute.
+      - Pull the chicken breasts apart by hand into shredded strips. Add the shredded chicken to the saute pan and combine with the vegetables. Dust the mixture with flour to help set.
+      - Microwave the tortillas on high for 30 seconds to soften them. Coat the bottom of 2 (13 by 9-inch) pans with a ladle of enchilada sauce. Using a large shallow bowl, dip each tortilla in enchilada sauce to lightly coat. Spoon 1/4 cup chicken mixture onto each tortilla, fold over the filling, and place 8 enchiladas in each pan, seam side down. Top with the remaining enchilada sauce and cheese.
+      - Bake for 15 minutes in a preheated 350 degree F oven until the cheese melts. Garnish with cilantro, scallions, sour cream and chopped tomatoes before serving.
+
+  - name: Cuban Chicken Fricase
+    categories: [Cuban, Poultry]
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Sour orange juice }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: peeled and minced }
+      - { qty: "1 1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 4, measure: lb, ingredient: Chicken, note: "pieces, skinned" }
+      - { qty: "1/3", measure: cup, ingredient: Vegetable oil }
+      - { qty: 2, ingredient: Onion, note: "large, peeled and chopped" }
+      - { qty: 1, ingredient: Green bell pepper, note: "large, chopped" }
+      - { qty: 1, measure: cup, ingredient: Tomato sauce }
+      - { qty: 1, measure: cup, ingredient: White wine, note: dry }
+      - { qty: "1/2", measure: cup, ingredient: Green olives, note: stuffed }
+      - { qty: "1/2", measure: cup, ingredient: Raisin }
+      - { qty: 1, measure: lb, ingredient: Potato, note: peeled and cubed }
+    directions:
+      - Combine the sour orange juice, garlic, salt and pepper in a container suitable for marinating the chicken. Add the chicken pieces, cover and refrigerate 1 to 2 hours. Remove the chicken and blot it on paper towels. Reserve the marinade.
+      - Warm the oil in a large Dutch oven over medium heat and brown the chicken pieces, in batches rather than overcrowding the pan. Return all the chicken to the pan. Add the onions and green pepper, sauteing with the chicken until the onions are translucent, about 3 minutes.
+      - Add the reserved marinade, tomato sauce, wine, capers (if using; not in the ingredient list), olives, raisins, and potatoes. Reduce the heat to low, cover and simmer for 30 minutes. Transfer the chicken to a large serving dish and spoon the sauce over it.
+
+  - name: Cuban Beef Stew (Carne con Papas)
+    categories: [Cuban, Beef, Stews]
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Olive oil }
+      - { qty: 1, ingredient: White onion, note: "large, cut into 1/2-inch cubes" }
+      - { qty: 1, measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: 1, ingredient: Green bell pepper, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Tomato, note: "canned, chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Paprika }
+      - { qty: 1, measure: tbsp, ingredient: Oregano, note: dried }
+      - { qty: 1, measure: tbsp, ingredient: Cilantro, note: dried }
+      - { qty: "2 1/2", measure: lb, ingredient: Top round, note: "beef, cut into 1-inch cubes" }
+      - { qty: 1, measure: cup, ingredient: Sherry, note: dry }
+      - { qty: 4, ingredient: Potato, note: "large, peeled, cut into 1-inch cubes" }
+      - { ingredient: Salt }
+      - { ingredient: White pepper }
+      - { ingredient: White rice, note: for serving }
+    directions:
+      - In a heavy skillet, heat the oil and saute the onions for 5 minutes. Add the garlic, peppers, tomatoes, spices, and meat and saute for 5 more minutes.
+      - Add the Sherry and simmer, uncovered, 5 minutes. Add the potatoes and enough water to cover the meat and potatoes. Simmer until the potatoes are tender, about 25 minutes. Season with salt and pepper. Serve with white rice.
+
+  - name: Guacamole
+    categories: [Mexican]
+    description:
+      - Recipe courtesy Tyler Florence (served with his Fajitas).
+    ingredients:
+      - { qty: 5, ingredient: Avocado, note: ripe Hass }
+      - { qty: 3, ingredient: Lime, note: "3 to 4, juiced" }
+      - { qty: "1/2", ingredient: Onion, note: "small, chopped" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: "small, minced" }
+      - { qty: 1, ingredient: Serrano pepper, note: chopped }
+      - { qty: 1, measure: handful, ingredient: Cilantro, note: "big handful of fresh leaves, roughly chopped" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { measure: drizzle, ingredient: Olive oil }
+    directions:
+      - Halve and pit the avocados. With a tablespoon, scoop the flesh into a mixing bowl. Mash the avocados with a fork, leaving them still a bit chunky. Add all of the rest of the ingredients, and fold everything together.
+      - Lay a piece of plastic wrap directly on the surface of the guacamole so it doesn't brown and refrigerate for at least 1 hour before serving.
+
+  - name: Fajitas
+    categories: [Mexican, Beef]
+    servings: 6
+    description:
+      - Recipe courtesy Tyler Florence. Serve with Guacamole (its own recipe) and good store-bought salsa; also good with sour cream and shredded cheese.
+    ingredients:
+      - { qty: 1, ingredient: Orange, note: "juiced, for the mojo marinade" }
+      - { qty: 2, ingredient: Lime, note: "juiced, for the mojo marinade" }
+      - { qty: 4, measure: tbsp, ingredient: Olive oil, note: for the mojo marinade }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: "roughly chopped, for the mojo marinade" }
+      - { qty: 3, ingredient: Chipotle in adobo, note: for the mojo marinade }
+      - { qty: 3, measure: tbsp, ingredient: Cilantro, note: "fresh leaves, roughly chopped, for the mojo marinade" }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin, note: for the mojo marinade }
+      - { qty: 1, measure: tsp, ingredient: Salt, note: for the mojo marinade }
+      - { qty: "2 1/4", measure: lb, ingredient: Skirt steak, note: "or flank steak, trimmed of fat, cut into thirds or 8-inch pieces" }
+      - { ingredient: Black pepper }
+      - { qty: 2, ingredient: Red bell pepper, note: thinly sliced }
+      - { qty: 1, ingredient: Onion, note: "large, thinly sliced" }
+      - { ingredient: Lime juice, note: "optional, with olive oil, for the vegetables" }
+      - { qty: 12, ingredient: Flour tortilla, note: warm }
+      - { ingredient: Guacamole }
+      - { ingredient: Salsa, note: good-quality store-bought }
+    directions:
+      - In a 2-cup measuring cup or similar container, combine all the marinade ingredients. Using an immersion blender, puree the marinade until smooth. Transfer to a resealable plastic bag and add the steak, seal and shake to coat. Refrigerate for 2 to 4 hours to tenderize and flavor the beef.
+      - Preheat a ridged grill pan on high heat. Drain the marinade from the beef. Lightly oil the grill pan. Season the steak liberally with salt and pepper. Grill over medium-high heat for 4 minutes on each side, then transfer to a cutting board and let rest. Cook in batches if needed.
+      - While the beef rests, add the bell peppers and onions, tossed with lime juice and olive oil if using, to the grill pan. Grill for 7 to 8 minutes until the vegetables are just barely limp.
+      - While the peppers and onions cook, heat the tortillas over medium-low burner flames for 30 seconds to 1 minute per side until charred, then wrap in a clean tea towel to keep warm. (Or wrap them in a damp towel and microwave in 1-minute intervals until warm and pliable.)
+      - Thinly slice the steak against the grain on a diagonal.
+      - "To serve: spread some guacamole on a tortilla, top with a few slices of steak, peppers and onions, and salsa. Roll up the tortilla to enclose the filling."
+
+  - name: Bob's Cudjoe Smoked Chicken
+    categories: [Caribbean, Poultry]
+    description:
+      - "Hot peppers: leave that up to you as to how spicy: jalapeno, serrano, Scotch bonnet or habanero, or 1 to 3 chipotles from a can of chipotle in adobo. I used a Caribbean red habanero, diced, seeds removed; you don't need much!"
+    ingredients:
+      - { qty: 2, measure: tsp, ingredient: Allspice, note: ground }
+      - { qty: 1, measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: "1/2", measure: tsp, ingredient: Nutmeg, note: freshly ground }
+      - { qty: 1, measure: tbsp, ingredient: Kosher salt }
+      - { qty: 1, measure: tbsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: tsp, ingredient: Coriander seeds }
+      - { qty: "1/4", measure: tsp, ingredient: Clove, note: ground }
+      - { qty: "1/2", ingredient: Onion, note: "large, rough chop" }
+      - { qty: 8, measure: clove, ingredient: Garlic }
+      - { qty: 1, measure: piece, ingredient: Ginger, note: "1-inch, fresh, sliced" }
+      - { qty: 4, ingredient: Green onion, note: diced }
+      - { qty: 3, ingredient: Lime, note: juice of }
+      - { qty: "1/4", measure: cup, ingredient: Brown sugar }
+      - { qty: 6, measure: sprig, ingredient: Thyme, note: "fresh, leaves only" }
+      - { qty: "1/4", measure: cup, ingredient: Soy sauce }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil }
+      - { qty: 1, measure: tbsp, ingredient: Dijon mustard, note: Grey Poupon or brown mustard }
+      - { measure: splash, ingredient: Rum, note: Captain Morgan's spiced }
+      - { ingredient: Habanero chili, note: "or other hot pepper, to taste" }
+      - { ingredient: Chicken, note: "thighs or leg quarters, breasts cut in half, skin on" }
+    directions:
+      - Process all the marinade ingredients in a food processor and pour into a gallon-size zip-top bag with the chicken pieces.
+      - Marinate in the refrigerator overnight.
+      - Smoke with indirect heat for about 2 hours on foil. Remove to a sheet pan, cover the top with foil and finish in a 300 degree F oven.
+      - If using a water-pan smoker (heat under the water pan), add the marinade to the water and follow the smoker directions, maybe finishing in the oven.
+
+  - name: Jamaican Jerk Chicken
+    categories: [Caribbean, Poultry]
+    description:
+      - Made with the Jamaican jerk rum rub below. Makes 1/2 to 2/3 cup of rub.
+    ingredients:
+      - { qty: 1, ingredient: Chicken, note: "whole, halved" }
+      - { qty: 1, ingredient: Lime, note: halved }
+      - { qty: 1, measure: pinch, ingredient: Salt }
+      - { qty: 8, measure: leaf, ingredient: Allspice, note: "8 to 12 pimento (allspice) leaves, optional" }
+      - { qty: 1, ingredient: Red onion, note: "chopped, for the rub" }
+      - { qty: "1 1/2", measure: tsp, ingredient: Dried thyme, note: for the rub }
+      - { qty: 1, measure: tsp, ingredient: Allspice, note: "ground, for the rub" }
+      - { qty: "1/2", measure: tsp, ingredient: Cinnamon, note: "ground, for the rub" }
+      - { qty: 4, measure: tsp, ingredient: White pepper, note: for the rub }
+      - { qty: "1/4", measure: cup, ingredient: Green onion, note: "tops, chopped, for the rub" }
+      - { qty: 2, measure: tsp, ingredient: Salt, note: for the rub }
+      - { qty: "1/4", measure: tsp, ingredient: Nutmeg, note: "ground, for the rub" }
+      - { qty: 5, ingredient: Jalapeno, note: "small, for the rub" }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: "or vegetable oil, for the rub" }
+      - { measure: splash, ingredient: Rum, note: "flavorful, for the rub" }
+    directions:
+      - "For the rub: put all the rub ingredients into a food processor. Mix on high for 15 pulses."
+      - Rub the chicken with lime and salt. Rub 4 to 5 tablespoons of the jerk seasoning over the chicken halves. Marinate in the refrigerator overnight for the best results.
+      - Preheat a barbecue grill to medium-high. If using, spread the pimento leaves on the grill. Barbecue on medium-low heat. Grill the chicken for about 45 minutes, turning often.
+      - Alternatively, use your oven heated to 375 degrees F, but do not use pimento leaves.
+      - Let the chicken sit for 10 minutes before cutting into quarters.
+
+  - name: Cheryl Smith's Jerk Chicken
+    categories: [Caribbean, Poultry]
+    description:
+      - Recipe courtesy Cheryl Smith.
+    ingredients:
+      - { qty: 1, ingredient: Chicken, note: "whole, cut into 8 pieces" }
+      - { qty: "1/2", ingredient: Nutmeg, note: "whole nutmeg, toasted and ground" }
+      - { qty: 1, ingredient: Cinnamon stick, note: toasted and ground }
+      - { qty: 1, measure: tbsp, ingredient: Coriander seeds, note: toasted and ground }
+      - { qty: 1, measure: tsp, ingredient: Clove, note: "whole, toasted and ground" }
+      - { qty: 6, ingredient: Allspice, note: "pimento seeds, toasted and ground" }
+      - { qty: 1, measure: tsp, ingredient: Black peppercorns, note: toasted and ground }
+      - { qty: 1, measure: bunch, ingredient: Green onion, note: chopped }
+      - { qty: 1, ingredient: Onion, note: "large, roughly chopped" }
+      - { qty: 2, ingredient: Scotch bonnet, note: 2 to 3 }
+      - { qty: 10, measure: sprig, ingredient: Thyme, note: leaves picked }
+      - { qty: 10, measure: clove, ingredient: Garlic }
+      - { qty: "1/2", measure: cup, ingredient: Lime juice, note: "fresh, or white vinegar" }
+      - { qty: 1, measure: cup, ingredient: Soy sauce }
+      - { qty: "1/2", measure: cup, ingredient: Sugar, note: raw }
+      - { ingredient: Salt }
+    directions:
+      - Toast the nutmeg, cinnamon, coriander, cloves, allspice and peppercorns in a dry skillet, then grind.
+      - In a blender or food processor puree the scallions, onion, Scotch bonnets, thyme and garlic.
+      - Combine the ground spices and puree in a bowl and stir in the lime juice, soy sauce and sugar.
+      - Preheat the oven to 350 degrees F. Score the chicken and season with salt. Spoon the desired amount of jerk marinade over the chicken and rub it into the scores. Marinate in the refrigerator for 2 hours to overnight.
+      - Bake for 35 minutes. Remove from the oven and finish on the grill.
+
+  - name: The Ultimate Jerk Chicken
+    categories: [Caribbean, Poultry]
+    prep_time: 10
+    cooking_time: 70
+    servings: 4
+    description:
+      - Recipe courtesy Tyler Florence.
+      - "Inactive prep: 8 hours."
+    ingredients:
+      - { qty: 2, measure: tsp, ingredient: Allspice }
+      - { qty: "1/2", measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: "1/2", measure: tsp, ingredient: Nutmeg, note: ground }
+      - { qty: "1/2", ingredient: Onion }
+      - { qty: 8, measure: clove, ingredient: Garlic, note: or 1 whole head }
+      - { qty: 1, measure: piece, ingredient: Ginger, note: "1-inch, fresh, sliced" }
+      - { qty: 3, ingredient: Green onion, note: sliced }
+      - { qty: 3, ingredient: Lime, note: juiced }
+      - { measure: splash, ingredient: Soy sauce, note: low-sodium }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: "extra-virgin, plus more for drizzling" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 6, measure: sprig, ingredient: Thyme, note: "fresh, leaves picked" }
+      - { qty: 1, ingredient: Scotch bonnet, note: "halved, plus more to taste" }
+      - { qty: "1/4", measure: cup, ingredient: Light brown sugar, note: packed }
+      - { qty: 1, ingredient: Chicken, note: "whole free-range (about 5 pounds), cut into 10 pieces" }
+      - { ingredient: Lime, note: for garnish }
+      - { ingredient: Parsley, note: for garnish }
+      - { ingredient: Wood chips, note: soaked in water for 15 minutes }
+    directions:
+      - Make the jerk marinade by combining all the marinade ingredients in a blender and processing until smooth.
+      - Put the chicken pieces into a large resealable plastic bag and pour in the marinade. Put the bag into a baking dish and marinate in the refrigerator overnight.
+      - Preheat the grill to high. Prepare a tabletop smoker, or line a roasting tray with foil and add some soaked wood chips to the bottom. Place a wire rack over the top, upside down, and lay the chicken pieces on the rack over the chips. Cover with foil and smoke over high heat for 10 minutes.
+      - Preheat the oven to 300 degrees F. Transfer the chicken pieces to a baking sheet and drizzle with extra-virgin olive oil. Bake "low and slow" until the chicken is tender, about 1 hour.
+      - Remove the chicken to a serving platter and garnish with limes and parsley before serving.
+
+  - name: Mojo Sauce
+    categories: [Cuban, Sauces]
+    description:
+      - Recipe courtesy Luis Sanchez, La Tradicion Cubana. Scaled down from a restaurant recipe and not tested in these proportions by Food Network Kitchens.
+    ingredients:
+      - { qty: 3, ingredient: Orange, note: sour oranges }
+      - { qty: 1, measure: head, ingredient: Garlic, note: "cloves peeled and separated" }
+      - { ingredient: Salt, note: "more than a pinch, less than a teaspoon" }
+      - { ingredient: Oregano, note: "fresh leaves, chopped, to taste" }
+      - { ingredient: Black pepper, note: "freshly ground, to taste" }
+    directions:
+      - Slice the oranges down the middle and squeeze the juice.
+      - Mash the garlic in a mortar (morteros). Add a little salt, then the sour orange juice. Add oregano and pepper, to taste.
+      - Brush the mojo sauce on the food as it is cooking.
+
+  - name: Alton Brown's Paella
+    categories: [Rice, Poultry]
+    description:
+      - Recipe courtesy Alton Brown, 2010. Cooked over charcoal.
+      - "Special equipment: chimney starter, newspaper, vegetable oil, 4 pounds natural lump charcoal, and a 15-inch carbon steel paella pan."
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Tomato }
+      - { qty: 9, measure: cup, ingredient: Chicken broth, note: low-sodium }
+      - { qty: 3, measure: cup, ingredient: Rice, note: short or medium-grain }
+      - { qty: 20, ingredient: Saffron, note: threads }
+      - { qty: 2, measure: sprig, ingredient: Rosemary, note: leaves stripped }
+      - { qty: 3, measure: tsp, ingredient: Kosher salt, note: divided }
+      - { qty: 1, measure: tsp, ingredient: Smoked paprika, note: sweet }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 3, measure: lb, ingredient: Chicken thigh, note: "bone-in, skin-on thighs and legs" }
+      - { qty: "1/2", measure: lb, ingredient: Green bean, note: "fresh, trimmed and halved" }
+      - { qty: 1, measure: cup, ingredient: Red bell pepper, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Green bell pepper, note: chopped }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+    directions:
+      - Spritz 4 to 5 pieces of newspaper with vegetable oil and put in the bottom of a charcoal chimney starter. Fill the chimney with half of the charcoal and light the newspaper. When the charcoal is lightly covered with gray ash, pour it onto the bottom grate of a kettle grill and spread evenly. Top with the remaining unlit charcoal. Set the second grate in place and cover until ready to cook.
+      - Meanwhile, halve the tomatoes and remove the seeds to a fine mesh strainer set over a small bowl to catch the juice. Grate the seeded halves on the large holes of a box grater and discard the skins. Combine the reserved juice and grated tomato and set aside.
+      - Warm the chicken broth in a kettle or 4-quart saucepan over high heat until it reaches 200 degrees F. Remove from the heat and cover to keep warm.
+      - Combine the rice, saffron, rosemary, 1 teaspoon of the salt, and paprika in a small mixing bowl.
+      - Heat the olive oil in the paella pan on the grill. Season the chicken on all sides with the remaining 2 teaspoons of salt. Once the oil shimmers, add the chicken and cook until golden brown on both sides, approximately 5 to 6 minutes per side. Move the chicken to the outer edges of the pan. Add the green beans, peppers and garlic to the center and cook until they begin to soften and darken, 2 to 3 minutes. Add the tomatoes and their juice and cook until most of the liquid has dissipated and the tomatoes thicken and darken, 4 to 5 minutes.
+      - Add the rice mixture to the center of the pan and cook, stirring constantly, for 1 minute. Redistribute the chicken on top of the rice. Add 4 cups of the warm broth and stir to distribute the rice evenly, making sure all the rice is submerged. From this point forward do not stir the paella.
+      - After 8 to 9 minutes, when all of the liquid is absorbed and the rice appears dry, add another 4 cups of broth. Continue to cook without stirring until the liquid is absorbed, 8 to 9 minutes. The rice should be firm to the bite with a tiny white dot in the center. Add the remaining cup of broth as needed, until the rice is cooked through. Watch the fire and adjust the pan to prevent uneven cooking.
+      - Remove the pan from the heat, cover with a tea towel and rest for 15 minutes before serving.
+
+  - name: Cuban-Style Paella (Paella Cubana)
+    categories: [Cuban, Seafood, Rice]
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: plus 2 tablespoons for sauteing the seafood }
+      - { qty: 1, measure: cup, ingredient: Ham, note: diced }
+      - { qty: 1, measure: cup, ingredient: Chorizo, note: "or pepperoni, sliced into 1/2-inch pieces (Spanish sausage recommended)" }
+      - { qty: 1, ingredient: Onion, note: "large, diced" }
+      - { qty: 1, ingredient: Red bell pepper, note: diced }
+      - { qty: 5, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, ingredient: Chicken, note: "3-pound, cut into 6 to 8 pieces" }
+      - { qty: 3, measure: cup, ingredient: Rice, note: Valencia }
+      - { qty: 4, measure: cup, ingredient: Chicken broth }
+      - { qty: "1/2", measure: cup, ingredient: Red wine }
+      - { qty: 1, measure: can, ingredient: Mussel }
+      - { qty: 2, measure: tsp, ingredient: Salt }
+      - { measure: dash, ingredient: Bijol, note: powder }
+      - { qty: 1, measure: lb, ingredient: Shrimp, note: "medium, raw, peeled and deveined" }
+      - { qty: "1/2", measure: lb, ingredient: Scallop }
+      - { qty: 5, ingredient: Lobster, note: "tails, meat removed, shells reserved for garnish" }
+      - { qty: 1, measure: cup, ingredient: Green peas, note: frozen }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: minced leaves }
+      - { qty: 1, ingredient: Red bell pepper, note: "sliced, for garnish" }
+      - { qty: 1, measure: cup, ingredient: Mussel, note: "steamed in their shells, for garnish" }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Heat the olive oil in a large pan. Saute the ham and chorizo, then remove from the pan and reserve. (This draws the oil from the chorizo and flavors the pan.)
+      - Add the onions, red pepper, and garlic to the pan and saute until wilted but not overcooked. Add the chicken pieces and saute for about 15 minutes until brown, but not fully cooked. Remove and reserve.
+      - In a large pot combine the rice, broth, wine, and canned mussels. Add salt for flavor and Bijol for color. Stir. Turn up the heat, bring to a boil and cover. Add the chicken, ham and chorizo. Cover and simmer for 20 to 30 minutes, until the rice is cooked and fluffy, adding a little more broth if the mixture gets too dry.
+      - Saute the shrimp, scallops and lobster tails separately in the oil. Remove and keep covered and warm so they don't dry out.
+      - At the last minute, fold the seafood into the rice mixture. Transfer to a flat paella pan suitable for serving. Top with peas and red peppers. Place in the oven for about 5 minutes to heat through; take care not to overcook. Serve garnished with mussels, parsley and lobster shells.
+
+  - name: Cuban Pork Chops with Mojo
+    categories: [Cuban, Pork]
+    servings: 4
+    ingredients:
+      - { qty: "1 1/4", measure: cup, ingredient: Orange juice, note: "1 cup plus 1/4 cup, divided" }
+      - { qty: "3/4", measure: cup, ingredient: Lime juice, note: "fresh, 1/2 cup plus 1/4 cup, divided" }
+      - { qty: "1/4", measure: cup, ingredient: Vinegar }
+      - { qty: 4, ingredient: Pork chop, note: "1-inch-thick, bone-in" }
+      - { qty: 1, measure: tbsp, ingredient: Black pepper }
+      - { qty: 2, measure: tbsp, ingredient: Kosher salt }
+      - { qty: "1 1/2", measure: tsp, ingredient: Ground cumin }
+      - { qty: 1, measure: tbsp, ingredient: Garlic powder }
+      - { qty: 1, measure: tbsp, ingredient: Onion powder }
+      - { qty: 1, measure: tbsp, ingredient: Oregano, note: dried }
+      - { qty: 3, measure: tbsp, ingredient: Canola oil }
+      - { qty: "1/4", measure: cup, ingredient: Red onion, note: chopped }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: "1/4", measure: cup, ingredient: White wine }
+      - { qty: 1, measure: cup, ingredient: Watercress, note: for garnish }
+      - { qty: 1, ingredient: Roma tomato, note: "chopped, for garnish" }
+      - { qty: "1/2", ingredient: Avocado, note: "sliced, for garnish" }
+    directions:
+      - In a gallon-size resealable plastic bag, combine 1 cup orange juice, 1/2 cup lime juice, and the vinegar. Add the pork and marinate for about 1 hour in the refrigerator.
+      - In a small mixing bowl, combine all the dried spices. Pat the pork chops dry with a paper towel and rub with the spice mixture.
+      - Heat the oil in a large saute pan over high heat. Sear the pork chops on 1 side until brown. Flip over and turn the heat down to medium-low. Add the onion and saute for 2 minutes, then add the garlic and cook until it begins to brown.
+      - Pour in the remaining 1/4 cup orange juice, 1/4 cup lime juice, and the white wine. Simmer until the liquid is slightly reduced and begins to thicken and the chops are cooked through.
+      - Remove the chops to a warm plate. Continue to reduce the juices in the pan by half. Pour over the chops, garnish with the watercress, tomato and avocado, and serve immediately.
+
+  - name: Pernil (Cuban Fresh Pork Shoulder)
+    categories: [Cuban, Pork]
+    cooking_time: 180
+    ingredients:
+      - { qty: 1, ingredient: Pork shoulder, note: "boneless, about 4 pounds, skin on" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 1, measure: handful, ingredient: Oregano, note: fresh }
+      - { qty: 1, measure: bunch, ingredient: Cilantro, note: "fresh, plus chopped cilantro for garnish" }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: "fresh, coarsely ground" }
+      - { qty: 2, ingredient: Lime, note: "juiced, plus wedges for serving" }
+      - { qty: 2, ingredient: Orange, note: juiced }
+      - { qty: 1, measure: cup, ingredient: Olive oil, note: extra-virgin }
+    directions:
+      - Place the pork, fat side up, in a roasting pan fitted with a rack, and using a sharp knife, score the surface of the meat with small slits.
+      - "Prepare the adobo: in a food processor, add the garlic, oregano, cilantro, cumin, salt, and pepper. Add the lime juice and orange juice. Drizzle in the olive oil and pulse until you have a nice puree. Rub the marinade all over the pork, getting into the incisions so the salt can penetrate the meat; this helps form a crust when cooked."
+      - Preheat the oven to 300 degrees F.
+      - Roast the pork for 3 hours, uncovered, until the skin is crispy-brown. Let the meat rest on a cutting board, covered lightly with foil, for 10 minutes before slicing. Drizzle with lime juice and garnish with cilantro.
+
+  - name: Picadillo
+    categories: [Cuban, Beef]
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Ground beef }
+      - { qty: 2, ingredient: Onion, note: chopped }
+      - { qty: 1, ingredient: Green bell pepper, note: chopped }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "4 to 6, minced" }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: 14 1/2-ounce }
+      - { qty: 1, measure: can, ingredient: Tomato sauce, note: 8-ounce }
+      - { qty: 6, measure: oz, ingredient: White wine }
+      - { qty: 1, measure: tbsp, ingredient: Red wine vinegar }
+      - { qty: 2, measure: tbsp, ingredient: Capers }
+      - { qty: 4, ingredient: Bay leaf }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: 1, measure: tsp, ingredient: Oregano }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1/3", measure: cup, ingredient: Raisin }
+      - { qty: 4, measure: oz, ingredient: Green olives, note: "stuffed, about or to taste" }
+      - { ingredient: Olive oil }
+      - { ingredient: Salt, note: to taste }
+      - { ingredient: Black pepper, note: to taste }
+    directions:
+      - Sweat (do not brown) the onions and green pepper in olive oil. Add the garlic when the mixture starts to soften and continue until the onions are transparent. Remove from the pan.
+      - Add the ground beef to the pan and brown to medium-rare. Drain the excess fat.
+      - Return the onions and peppers. Add the diced tomatoes, tomato sauce, wine, olives, raisins, vinegar, bay leaves and the rest of the seasonings and simmer over low heat about 1 hour, adding water if necessary. Season with salt and pepper to taste.
+
+  - name: Ingrid Hoffmann's Cuban Roasted Pork Leg (Pernil)
+    categories: [Cuban, Pork]
+    prep_time: 25
+    cooking_time: 330
+    servings: 10
+    description:
+      - Recipe courtesy Ingrid Hoffmann, 2008. Her Delicioso Adobo is the same blend as Adobo Seasoning with Salt (its own recipe).
+      - "Inactive prep: 50 minutes, plus at least 4 hours marinating."
+    ingredients:
+      - { qty: 12, measure: clove, ingredient: Garlic }
+      - { qty: 1, measure: tbsp, ingredient: Salt, note: coarse }
+      - { qty: 6, measure: sprig, ingredient: Oregano, note: fresh leaves }
+      - { qty: "1/2", measure: cup, ingredient: Adobo seasoning, note: "Delicioso Adobo" }
+      - { qty: 1, measure: cup, ingredient: Mojo, note: store-bought mojo sauce }
+      - { qty: 2, measure: cup, ingredient: Orange juice }
+      - { qty: 4, ingredient: Lime, note: juiced }
+      - { qty: 1, ingredient: Pork leg, note: "bone-in whole fresh, 14 to 16 pounds" }
+    directions:
+      - Place the garlic cloves on a cutting board. Slice them in half lengthwise and smash with the side of a chef's knife. Sprinkle the salt over the garlic and chop and smear the garlic against the board until it makes a paste (or use a mortar and pestle). Add the oregano, chop it into the garlic paste and mix together.
+      - Put the garlic paste in a large bowl. Add the adobo, mojo, and the orange and lime juices. Mix well to combine.
+      - Place the pork in a roasting pan and, using a sharp knife, score the surface in a crosshatch pattern. Pour the marinade over the pork, making sure it gets into the incisions. Cover and marinate in the refrigerator for at least 4 hours or up to 1 day, turning once or twice.
+      - Preheat the oven to 450 degrees F. Uncover the pork and let stand at room temperature for 30 minutes before cooking.
+      - Roast the pork for 30 minutes. Lower the oven to 350 degrees F and continue to roast until the meat is falling apart and an instant-read thermometer reads 160 degrees F in the thickest part, basting with the marinade every 30 minutes. Total roasting time is approximately 5 to 5 1/2 hours.
+      - Remove from the oven and let stand 20 to 30 minutes, covered loosely with foil, before slicing.
+
+  - name: Cuban Style Crispy Roast Pork
+    categories: [Cuban, Pork]
+    description:
+      - Several fractions in the source file were unreadable (shown as ?); those amounts are left blank with a note.
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Pork loin, note: "2 to 3 pounds, trimmed roast" }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { ingredient: Distilled white vinegar, note: "amount unreadable in the source (a fraction of a cup)" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "peeled, mashed and chopped" }
+      - { ingredient: Yellow onion, note: "finely minced; amount unreadable in the source (a fraction of a cup)" }
+      - { qty: 1, measure: tbsp, ingredient: Ground cumin }
+      - { qty: 1, measure: tsp, ingredient: Garlic powder }
+      - { qty: 1, measure: tsp, ingredient: Onion powder }
+      - { ingredient: Cayenne pepper, note: "amount unreadable in the source (a fraction of a tablespoon)" }
+      - { qty: 3, measure: tbsp, ingredient: Parsley, note: "fresh, chopped" }
+      - { ingredient: Salt, note: to taste }
+      - { qty: 1, measure: tbsp, ingredient: Black pepper, note: ground }
+      - { qty: 6, measure: tbsp, ingredient: Dark brown sugar, note: light is OK }
+    directions:
+      - Combine all the dry ingredients and mash and mix them together fully. Rub the cleaned and trimmed roast vigorously and firmly with the dry mix to coat.
+      - Place the rubbed roast in a zip-top bag and carefully add the olive oil and vinegar. Close the bag tightly around the roast and refrigerate overnight, turning and kneading every couple of hours.
+      - Preheat the oven to 325 degrees F. Remove the roast from the bag, discarding the marinating liquid. Cake-coat the entire roast with the brown sugar.
+      - Roast on a rack at 325 degrees F until done, about 1 1/2 hours (also good grilled to an internal temperature of 160 degrees F). Let rest for 15 minutes at room temperature, then slice about 1/2 inch thick.
+
+  - name: Cuban Roast Pork with Mojo Criollo
+    categories: [Cuban, Pork]
+    servings: 8
+    description:
+      - This hearty pork dish is as indigenous to Cuba as black beans. Serve it hot with Mojo Criollo, the powerful garlic sauce; add it cold to a platter of entremeses variados, or use it to build a Media Noche sandwich. From Maria Urrutia, Memories of a Cuban Kitchen.
+    ingredients:
+      - { qty: 6, measure: lb, ingredient: Pork leg, note: or shoulder }
+      - { qty: 6, measure: clove, ingredient: Garlic }
+      - { qty: 1, measure: tsp, ingredient: Oregano, note: dried }
+      - { qty: 1, measure: tbsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Ground cumin }
+      - { ingredient: Black pepper, note: "freshly ground, to taste" }
+      - { qty: "1/2", measure: cup, ingredient: Sour orange juice, note: "Seville, or 1/4 cup sweet orange juice plus 1/8 cup each fresh lime and lemon juice" }
+      - { qty: "1/2", measure: cup, ingredient: Sherry, note: "dry, plus more if needed" }
+      - { qty: 2, ingredient: Onion, note: "large, thinly sliced" }
+      - { qty: 8, measure: clove, ingredient: Garlic, note: for the mojo criollo }
+      - { qty: 1, measure: tsp, ingredient: Salt, note: for the mojo criollo }
+      - { qty: 1, ingredient: Onion, note: "medium, very thinly sliced, for the mojo criollo" }
+      - { qty: "1/2", measure: cup, ingredient: Sour orange juice, note: "or sweet orange juice with lime and lemon juice, for the mojo criollo" }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: "pure Spanish, for the mojo criollo" }
+    directions:
+      - The night before serving, remove any excess fat from the pork and pierce the meat all over with the tip of a knife. In a mortar, mash the garlic, oregano, salt, and cumin into a paste. Place the pork in a nonreactive pan and rub it well with the paste, sprinkle liberally with pepper, add the orange juice, sherry and onions, cover with plastic wrap, and refrigerate overnight, turning the meat several times.
+      - About 4 1/2 hours before serving, preheat the oven to 350 degrees F. Remove the meat from the marinade, pat it dry, and reserve the marinade. Place the pork in a foil-lined roasting pan and roast 1 hour, turning to brown on all sides.
+      - Insert a meat thermometer, not touching the bone. Lower the oven to 325 degrees F, pour the reserved marinade over the pork, cover loosely with foil, and cook another 3 hours or so, turning once and basting frequently, until the meat reaches 180 degrees F. Remove the foil for the last 30 minutes, adding sherry if the meat becomes dry.
+      - Remove the pork to a serving platter and let stand, covered with foil, 15 minutes before carving.
+      - "For the mojo criollo: crush the garlic with the salt into a thick paste using a mortar and pestle or food processor. In a bowl, combine the garlic paste, onion, and juice, and let sit at room temperature for 30 minutes or longer. Just before serving, heat the oil in a medium pan over medium-high heat until very hot, add the garlic mixture quickly (it will splatter), stir, and serve immediately. The sauce keeps several weeks refrigerated; reheat over low heat 6 to 8 minutes."
+
+  - name: Ropa Vieja
+    categories: [Cuban, Beef]
+    description:
+      - Two steps. The first makes the broth and tenderizes the meat; keep the meat and broth and discard the rest.
+    ingredients:
+      - { qty: "1 1/2", measure: lb, ingredient: Flank steak, note: "1 1/2 to 2 pounds, or skirt steak, trimmed (flank if possible)" }
+      - { qty: 2, measure: qt, ingredient: Water }
+      - { qty: 2, ingredient: Carrot, note: coarsely chopped }
+      - { qty: 1, ingredient: Onion, note: "large, coarsely chopped" }
+      - { qty: 2, measure: rib, ingredient: Celery, note: coarsely chopped }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: lightly crushed }
+      - { qty: 1, measure: tsp, ingredient: Oregano, note: dried }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: Black peppercorns, note: whole }
+      - { qty: 1, ingredient: Green bell pepper, note: cut into 1/4-inch strips }
+      - { qty: "1 1/2", ingredient: Onion, note: "large (or 2 medium), cut into 1/4-inch strips" }
+      - { qty: 4, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, measure: can, ingredient: Stewed tomatoes, note: "14 to 16-ounce, with juice" }
+      - { qty: 1, measure: can, ingredient: Tomato sauce, note: 8-ounce }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: "1/2", measure: tsp, ingredient: Oregano, note: dried }
+      - { qty: 1, measure: cup, ingredient: White wine }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce }
+      - { ingredient: Cayenne pepper, note: or hot sauce to taste }
+    directions:
+      - "Step 1: if desired, brown the flank steak in olive oil, then put it in a stock pot with the water, carrots, onion, celery, bay leaves, garlic, oregano, cumin, salt and peppercorns and simmer about 2 hours. Remove the meat, let cool and reserve the liquid."
+      - "Step 2: put the olive oil in a pot, add the onion and green pepper and cook over medium heat about 2 to 3 minutes. Add the garlic and cook until the onions are transparent."
+      - Shred the meat. Add the meat, 2 cups of the braising liquid (plus more if desired) and the rest of the ingredients, and let simmer and cook down.
+      - "Optional: thicken the sauce with instant mashed potato flakes or cornstarch."
+
+  - name: Ingrid Hoffmann's Ropa Vieja
+    categories: [Cuban, Beef]
+    prep_time: 20
+    cooking_time: 200
+    servings: 16
+    description:
+      - Shredded steak with peppers, onions and tomatoes. Recipe courtesy Ingrid Hoffmann, 2008. Her Delicioso Adobo here is the same blend as Adobo Seasoning (its own recipe).
+      - "Inactive prep: 15 minutes."
+    ingredients:
+      - { qty: 6, measure: lb, ingredient: Flank steak }
+      - { qty: "3/4", measure: cup, ingredient: Adobo seasoning, note: Delicioso Adobo }
+      - { qty: "1/2", measure: cup, ingredient: Worcestershire sauce }
+      - { qty: 6, measure: bottle, ingredient: Beer }
+      - { qty: "1/2", measure: cup, ingredient: Canola oil }
+      - { qty: 2, ingredient: Yellow onion, note: "medium, chopped" }
+      - { qty: 2, ingredient: Red bell pepper, note: "cored, seeded, ribbed and chopped" }
+      - { qty: 2, ingredient: Green bell pepper, note: "cored, seeded, ribbed and chopped" }
+      - { qty: 6, ingredient: Green onion, note: "white and light green parts only, chopped" }
+      - { qty: 1, measure: can, ingredient: Crushed tomato, note: 28-ounce }
+      - { qty: 1, measure: can, ingredient: Tomato paste, note: 6-ounce }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Cut the flank steak into large pieces and place in a large bowl. In a small bowl, combine the adobo and Worcestershire sauce to make a paste. Rub the paste into the meat, add the beer, and marinate for 15 minutes in the refrigerator.
+      - Transfer the meat and marinade to a large pot and bring to a boil over medium heat. Reduce the heat to low, cover, and simmer until the meat is tender, about 3 hours.
+      - Remove the meat from the pot and reserve the cooking liquid. Using 2 forks, shred the meat and set aside.
+      - Heat the oil in a large deep skillet over medium-high heat. Add the onions, peppers, scallions, and tomatoes and cook until soft, 10 minutes. Add the tomato paste and meat along with 2 cups of the reserved cooking liquid. Cover and simmer until the juices cook down, about 15 minutes. Season with salt and pepper.
+
+  - name: Cajun Shrimp and Rice
+    categories: [Cajun, Seafood]
+    prep_time: 14
+    cooking_time: 6
+    servings: 4
+    description:
+      - Courtesy Food Network Magazine.
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: tsp, ingredient: Cajun seasoning }
+      - { qty: 1, measure: lb, ingredient: Shrimp, note: "large, peeled and deveined, tails intact" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 4, ingredient: Plum tomatoes, note: chopped }
+      - { qty: 2, measure: bunch, ingredient: Green onion, note: chopped }
+      - { qty: 3, measure: cup, ingredient: White rice, note: cooked }
+      - { qty: 3, measure: tbsp, ingredient: Parsley, note: "fresh, chopped" }
+      - { ingredient: Lemon, note: "wedges, for serving (optional)" }
+    directions:
+      - Heat the butter, olive oil and garlic in a large skillet over medium-high heat until fragrant, about 1 minute. Add the Cajun seasoning and shrimp and cook, stirring, until the shrimp begin to curl, about 1 minute. Season with salt and pepper.
+      - Add the tomatoes and scallions and cook, stirring, about 1 minute. Add the rice and 1/4 cup water and continue to cook until the rice is warmed through and the shrimp are opaque, about 3 more minutes. Stir in the parsley and serve with lemon, if desired.
+
+  - name: Palomilla Steak
+    categories: [Cuban, Beef]
+    servings: 6
+    description:
+      - From Three Guys From Miami, contributed by Patricia Perez, Tampa. The most typical steak served in Cuban restaurants. If you don't have a Cuban butcher, have your butcher slice sirloin no more than 1/4 inch thick, or pound out a thicker slice with a meat hammer or rolling pin.
+    ingredients:
+      - { qty: 6, ingredient: Sirloin steak, note: "thin-sliced, boneless" }
+      - { qty: 4, measure: tbsp, ingredient: Butter }
+      - { qty: 1, ingredient: Lime, note: "large, juice of" }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: for frying }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: peeled and minced }
+      - { ingredient: Salt, note: to taste }
+      - { ingredient: Black pepper, note: "freshly ground, to taste" }
+    directions:
+      - In a large frying pan, heat the olive oil over high heat. Just before the oil starts to smoke, add the steaks two or three at a time. Be very quick; cook each side no more than one minute, less if you like your meat rare.
+      - Remove the steaks, take the pan off the heat and quickly add the lime juice to deglaze. Add the butter and garlic. Return to low heat and cook just long enough to heat through, without browning the garlic.
+      - Pour the sauce over the steaks and serve with fresh lime sections.
+    notes:
+      - "Marble's note: I cook my steaks with slices of onion added to the sauce, for about two minutes in the sauce, to get the lime flavor into the meat."
+
+  - name: Quick Sofrito
+    categories: [Cuban, Seasonings]
+    description:
+      - A shorter sofrito; the source gives ingredients only.
+    ingredients:
+      - { qty: 2, ingredient: Onion, note: "Spanish, chopped" }
+      - { qty: 2, ingredient: Cubanelle pepper, note: chopped }
+      - { qty: 20, measure: clove, ingredient: Garlic }
+      - { qty: 1, measure: bunch, ingredient: Cilantro, note: plus more for garnish }
+      - { qty: "1/2", ingredient: Habanero chili, note: seeded }
+      - { qty: 1, ingredient: Red bell pepper }
+      - { qty: 1, measure: lb, ingredient: Plum tomatoes, note: chopped }
+      - { qty: 1, measure: can, ingredient: Tomato sauce, note: 8-ounce }
+      - { ingredient: Olive oil }
+      - { ingredient: Ground cumin }
+
+  - name: Yucca with Cuban Mojo
+    categories: [Cuban, Vegetables]
+    ingredients:
+      - { qty: 4, measure: lb, ingredient: Cassava, note: frozen yucca }
+      - { qty: 4, ingredient: Yellow onion, note: "medium, thinly sliced" }
+      - { qty: 24, measure: clove, ingredient: Garlic, note: thinly sliced }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: cup, ingredient: Lime juice, note: about 6 limes }
+      - { qty: "1/2", measure: cup, ingredient: Vegetable oil }
+      - { qty: "1/4", measure: cup, ingredient: Oregano, note: "fresh leaves, chopped" }
+    directions:
+      - Bring a large pot of salted water to a boil. Add the yucca and boil until tender, about 30 minutes. Drain and place on a serving platter.
+      - Heat the oil in a small skillet over high heat, add the onions and garlic and cook about 1 minute, making sure they don't start to brown; season with salt and pepper.
+      - Pour the onions and garlic directly over the yucca. Pour the lime juice on top and sprinkle with oregano.

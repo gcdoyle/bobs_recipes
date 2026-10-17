@@ -1,9 +1,0 @@
-<div class="row">
-  <div class="col col-12 mt-4">
-  <%= form_tag(root_path+"search", method: "get", :id=>"search-block") do %>
-    <%= text_field_tag(:q, nil, class: "form-control", 
-                        placeholder: "Search by recipe or ingredient",
-                        style: "width:50%;margin:auto") %>
-  <% end %>
-  </div>
-</div>

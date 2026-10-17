@@ -1,0 +1,339 @@
+# Recipes from "Aisian_ Stir_Fry.txt". Import with:
+#   bin/rails "recipes:import[db/recipes/asian_stir_fry.yml]"
+#
+# ingredients: qty may be a number or a fraction string ("4 1/2");
+# measure must be one of RecipeIngredient::MEASURES or left out.
+recipes:
+  - name: Ants in Trees
+    categories: [Asian]
+    prep_time: 10
+    cooking_time: 10
+    servings: 4
+    description:
+      - Ground pork and mung bean noodles. Recipe courtesy Alton Brown, 2011.
+      - "Inactive prep: 30 minutes."
+    ingredients:
+      - { qty: "4 1/2", measure: oz, ingredient: Mung bean noodles }
+      - { qty: 2, measure: oz, ingredient: Soy sauce }
+      - { qty: 1, measure: tbsp, ingredient: Rice wine }
+      - { qty: 1, measure: tbsp, ingredient: Sambal oelek, note: sambal chili paste }
+      - { qty: 1, measure: tsp, ingredient: Corn starch }
+      - { qty: 10, measure: oz, ingredient: Ground pork }
+      - { qty: 1, measure: tbsp, ingredient: Canola oil }
+      - { qty: 4, ingredient: Green onion, note: "chopped, divided" }
+      - { qty: "1/2", measure: cup, ingredient: Chicken broth }
+    directions:
+      - Soak the noodles in enough hot water to cover by 1 inch for 20 minutes. Use kitchen shears to cut the noodles into 3 to 4-inch pieces and drain thoroughly in a colander for 10 minutes.
+      - Combine the soy sauce, rice wine, and chili paste in a medium bowl and whisk until smooth. Add the cornstarch and whisk until combined. Add the pork and mix until thoroughly integrated. Set aside for 30 minutes.
+      - Place a 12-inch saute pan over high heat for 1 minute. Add the oil and swirl to coat the bottom and sides of the pan. Once the oil shimmers, add the meat mixture. Stir constantly for 2 minutes, breaking the meat up into very small pieces. Add 2/3 of the green onions and continue cooking and stirring until the meat is well browned and in very small pieces, approximately 2 minutes. Reduce the heat to medium-high and add the broth. Cook until reduced, approximately 3 minutes.
+      - Slowly add handfuls of the noodles to the pan, tossing with the meat mixture until combined and the pieces of meat cling to the noodles and no liquid remains. Serve immediately with the remaining green onions.
+
+  - name: Emeril's Favorite Miso Soup
+    categories: [Asian]
+    prep_time: 20
+    cooking_time: 20
+    servings: 4
+    description:
+      - Miso soup with lobster and wood ear mushrooms in a homemade ichiban dashi. Recipe courtesy Emeril Lagasse, 2002.
+    ingredients:
+      - { qty: "1/3", measure: oz, ingredient: Kombu, note: "kelp, about 2 or 3 squares (for the dashi)" }
+      - { qty: 4, measure: cup, ingredient: Water, note: for the dashi }
+      - { qty: "1/2", measure: cup, ingredient: Bonito flakes, note: "katsuobushi, dried (for the dashi)" }
+      - { qty: 3, ingredient: Wood ear mushroom, note: "large, dried black kikurage" }
+      - { qty: 1, ingredient: Lobster, note: "1-pound, cooked; meat in bite-size pieces, shell and body reserved" }
+      - { qty: 2, measure: tsp, ingredient: Soy sauce }
+      - { qty: 4, measure: tbsp, ingredient: White miso, note: saikyo (sweet white miso) }
+      - { qty: 1, measure: tbsp, ingredient: Brown miso, note: akamiso }
+      - { qty: 3, measure: tbsp, ingredient: Green onion, note: "scallions, finely sliced" }
+    directions:
+      - In a large saucepan, combine the konbu and water and heat over medium-low heat almost to the boiling point. Remove the konbu just before the mixture comes to a boil and discard. Add the bonito flakes and allow to steep for 10 seconds, or just until the mixture comes to a boil.
+      - Turn off the heat and skim any foam that has come to the surface of the liquid. Allow the mixture to stand for 2 minutes, then strain through a fine mesh sieve or cheesecloth. Discard bonito flakes and return the dashi to the saucepan over low heat. Add the reserved lobster body and shells to the dashi and allow to steep for 5 minutes. Remove and discard shells and body.
+      - Quickly rinse or wipe off the mushrooms to remove any loose sand or dirt, then add the mushrooms to the dashi and allow to steep over low heat until the mushrooms are softened, about 10 minutes. Remove the mushrooms and, when cool enough to handle, slice them crosswise into thin slivers, and return them to the dashi. Add the lobster meat and continue to cook until heated through, about 2 to 3 minutes. Stir in the soy sauce, white and brown misos, and scallions and combine well. Serve immediately.
+
+  - name: Beef Lo Mein
+    categories: [Asian]
+    ingredients:
+      - { qty: 8, measure: oz, ingredient: Egg noodles, note: "Chinese, dried" }
+      - { qty: "1/2", measure: cup, ingredient: Shiitake, note: dried }
+      - { qty: "3/4", measure: lb, ingredient: Flank steak, note: "trimmed of any fat and julienned" }
+      - { qty: 1, measure: tbsp, ingredient: Oyster sauce }
+      - { qty: "1/2", measure: cup, ingredient: Chicken stock }
+      - { qty: 2, measure: tbsp, ingredient: Soy sauce }
+      - { qty: 2, measure: tsp, ingredient: Sesame oil }
+      - { qty: 3, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: 2, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: tsp, ingredient: Ginger, note: minced }
+      - { qty: "1/4", measure: cup, ingredient: Green onion, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Bok choy, note: "cut into 1 1/2-inch pieces" }
+    directions:
+      - Drop noodles into a large quantity of boiling water (at least 2 quarts) and cook 3 1/2 to 5 minutes, until barely tender to the bite. Drain, rinse with cold water and reserve.
+      - Place the mushrooms in a bowl and add boiling water to cover. Let stand 15 to 30 minutes, until tender, then drain and squeeze the mushrooms to extract most of their moisture. Cut off and discard the tough stems and julienne the caps.
+      - Combine the beef and oyster sauce in a bowl; stir to coat. Let stand for 10 minutes.
+      - In another bowl, combine the chicken stock, soy sauce and sesame oil. Set aside.
+      - Heat a wok over high heat. When hot, add the vegetable oil, swirling to coat the sides. Add the garlic, ginger, and green onions and cook, stirring until fragrant, about 30 seconds. Add the beef and cook, stirring constantly, about 1 minute. Add the mushrooms and bok choy and cook for a minute longer. Add the sauce and noodles. Gently toss until heated through and sauce has thickened. Serve immediately.
+
+  - name: Beef and Bean Sprout Stir-Fry
+    categories: [Asian]
+    prep_time: 30
+    cooking_time: 20
+    description:
+      - Robert Irvine, 2009.
+      - "Inactive prep: 30 minutes."
+    ingredients:
+      - { qty: 1, ingredient: Egg white, note: slightly beaten }
+      - { qty: 5, measure: tsp, ingredient: Soy sauce, note: divided }
+      - { qty: 3, measure: tsp, ingredient: Corn starch, note: divided }
+      - { qty: "1/8", measure: tsp, ingredient: Ground ginger }
+      - { qty: "1/8", measure: tsp, ingredient: Garlic powder }
+      - { qty: "1/8", measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: pinch, ingredient: White pepper }
+      - { qty: 1, measure: lb, ingredient: Beef sirloin, note: "boneless, cut into thin strips" }
+      - { qty: "1/2", measure: cup, ingredient: Water, note: cold }
+      - { qty: 1, measure: tbsp, ingredient: Oyster sauce, note: optional }
+      - { qty: "1/2", measure: tsp, ingredient: Chicken bouillon, note: instant granules }
+      - { qty: "1/4", measure: cup, ingredient: Vegetable oil, note: divided }
+      - { qty: 1, measure: cup, ingredient: Mushroom, note: "fresh, sliced" }
+      - { qty: "1/2", measure: cup, ingredient: Green onion, note: "sliced (1-inch)" }
+      - { qty: 1, measure: can, ingredient: Bean sprouts, note: "14-ounce, drained" }
+      - { qty: "1/2", measure: cup, ingredient: Water chestnut, note: sliced }
+      - { ingredient: Rice, note: "hot cooked, for serving" }
+    directions:
+      - Blend egg white, 2 teaspoons soy sauce, 1 teaspoon cornstarch, ginger, garlic powder, salt and pepper in a medium mixing bowl. Add beef and stir to coat. Cover and refrigerate 30 minutes.
+      - Combine cold water, oyster sauce (if using), remaining 3 teaspoons soy sauce, remaining cornstarch, and bouillon granules in a small mixing bowl. Combine well and set aside.
+      - Heat 2 tablespoons oil in a large skillet. Add beef mixture and stir-fry over medium-high heat until beef is browned. Remove mixture from the skillet and set aside. Heat remaining oil in the skillet and add the mushrooms and onions. Stir-fry over medium-high heat 1 minute. Add bean sprouts and water chestnuts and stir-fry for another minute. Stir in the cornstarch mixture and the beef and cook until thickened and bubbly. Serve with rice and additional soy sauce, if desired.
+
+  - name: Spicy Beef Stir-Fry
+    categories: [Asian]
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Corn starch }
+      - { qty: 3, measure: tbsp, ingredient: Shaoxing wine, note: "Chinese rice wine, or dry sherry or white vermouth" }
+      - { qty: 1, measure: lb, ingredient: Beef sirloin, note: "thinly sliced against the grain into strips" }
+      - { ingredient: Kosher salt, note: to taste }
+      - { ingredient: Black pepper, note: "freshly ground, to taste" }
+      - { qty: 2, measure: tbsp, ingredient: Oyster sauce }
+      - { qty: 2, measure: tsp, ingredient: Sesame oil, note: toasted }
+      - { qty: 3, measure: tbsp, ingredient: Peanut oil, note: "3 to 4 tablespoons" }
+      - { qty: 1, measure: piece, ingredient: Ginger, note: "1-inch, fresh, thinly sliced" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 5, ingredient: Dried red chili, note: "5 to 7, halved" }
+      - { qty: 1, ingredient: Onion, note: "small, thinly sliced" }
+      - { qty: 8, measure: head, ingredient: Baby bok choy, note: halved }
+      - { qty: 1, measure: pinch, ingredient: Sugar }
+      - { ingredient: Rice, note: "cooked, for serving" }
+    directions:
+      - Whisk the cornstarch with 2 tablespoons rice wine in a medium bowl; add the beef, season with salt and pepper and toss to coat. Set aside for 15 minutes.
+      - Mix the remaining 1 tablespoon rice wine, the oyster sauce and sesame oil in a large bowl; set the bowl near the stove.
+      - Heat a wok or large nonstick skillet over high heat until very hot, about 1 minute. Add 3 tablespoons peanut oil, then the ginger, garlic and chiles; stir-fry until fragrant, about 1 minute. Add the beef and cook, stirring or shaking the skillet occasionally, 1 to 2 minutes. Transfer the beef with a slotted spoon to the sauce mixture and toss.
+      - If the pan is dry, add 1 tablespoon peanut oil, then add the onion and stir-fry until just soft, about 2 minutes. Add the bok choy and sugar; stir-fry until just wilted, 1 to 2 minutes. Return the beef and any juices to the pan and stir to combine. Serve over the rice.
+
+  - name: Baechu Kimchi
+    categories: [Asian]
+    description:
+      - This is the mother of all kimchi. When Koreans say "kimchi," this is the kind that comes to everyone's minds. Good either fresh or fermented, it goes with everything from meats to noodles.
+      - You will need a one-gallon glass jar or four 1-quart jars. Makes enough kimchi to fill a 1-gallon jar.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Sea salt, note: "plus 1 tablespoon; coarse sea salt or kosher salt" }
+      - { ingredient: Water }
+      - { qty: 2, measure: head, ingredient: Napa cabbage, note: "cut into quarters or 2-inch wedges, depending on size" }
+      - { qty: 1, measure: head, ingredient: Garlic, note: "cloves separated and peeled" }
+      - { qty: 1, measure: piece, ingredient: Ginger, note: "2-inch piece of ginger root" }
+      - { qty: "1/4", measure: cup, ingredient: Fish sauce, note: or Korean salted shrimp }
+      - { qty: 1, ingredient: Daikon, note: "Asian radish, peeled and grated" }
+      - { qty: 1, measure: bunch, ingredient: Green onion, note: cut into 1-inch lengths }
+      - { qty: "1/2", measure: cup, ingredient: Korean chili powder }
+      - { qty: 1, measure: tsp, ingredient: Sugar, note: optional }
+      - { ingredient: Sesame oil, note: optional }
+      - { ingredient: Sesame seeds, note: optional }
+    directions:
+      - Dissolve 1 cup salt in 1/2 gallon water. Soak cabbage in the salt water for 3 to 4 hours.
+      - Combine garlic, ginger, and fish sauce or shrimp in a food processor or blender until finely minced.
+      - In a large bowl, combine radish, green onions, mustard greens, garlic mixture, chili powder, 1 tablespoon salt and optional sugar. Toss gently but thoroughly. (If mixing with your hands, be sure to wear rubber gloves to avoid chili burn.)
+      - Remove cabbage from water and rinse thoroughly. Drain cabbage in a colander, squeezing as much water from the leaves as possible. Take cabbage and stuff radish mixture between leaves, working from outside in, starting with largest leaf to smallest. Do not overstuff, but make sure radish mixture adequately fills leaves. When entire cabbage is stuffed, take one of the larger leaves and wrap tightly around the rest of the cabbage. Divide cabbage among 4 (1-quart) jars or a 1-gallon jar, pressing down firmly to remove any air bubbles.
+      - Let sit for 2 to 3 days in a cool place before serving. Remove kimchi from jar and slice into 1-inch-length pieces. If serving before kimchi is fermented, sprinkle with a little bit of sesame oil and sesame seeds. Refrigerate after opening.
+    notes:
+      - Kimchi will be good enough to eat straight for up to about 3 weeks. After about 4 weeks, once the kimchi gets too fermented to eat by itself, use it to make hot pots, flatcakes, dumplings, or just plain fried rice.
+
+  - name: Hong Kong Style Noodles with Chicken and Vegetables
+    categories: [Asian]
+    prep_time: 20
+    cooking_time: 15
+    servings: 4
+    description:
+      - Recipe courtesy Guy Fieri, 2008. Serves 4 to 6.
+      - "Inactive prep: 1 hour."
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Soy sauce, note: divided }
+      - { qty: 2, measure: tbsp, ingredient: Ginger, note: minced }
+      - { qty: 1, measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: tbsp, ingredient: Chili garlic sauce, note: chili garlic paste }
+      - { qty: 4, measure: tbsp, ingredient: Corn starch, note: divided }
+      - { qty: 2, measure: cup, ingredient: Chicken breast, note: "skinless, cut in 1/4-inch slices" }
+      - { qty: 16, measure: oz, ingredient: Chow mein noodles }
+      - { qty: "1/2", measure: cup, ingredient: Canola oil }
+      - { qty: 1, measure: cup, ingredient: White onion, note: 1/8-inch julienne }
+      - { qty: "1/2", measure: cup, ingredient: Red bell pepper, note: 1/4-inch strips }
+      - { qty: 1, measure: cup, ingredient: Carrot, note: 1/4-inch sticks }
+      - { qty: 1, measure: cup, ingredient: Celery, note: 1/2-inch bias cut }
+      - { qty: "1/2", measure: cup, ingredient: Shiitake, note: 1/2-inch strips }
+      - { qty: "3/4", measure: cup, ingredient: Snow pea, note: 1/2-inch strips }
+      - { qty: 1, measure: cup, ingredient: Bean sprouts, note: mung bean }
+      - { qty: 3, measure: tbsp, ingredient: Hoisin sauce }
+      - { qty: "1/4", measure: tsp, ingredient: Sesame oil }
+      - { qty: "1 1/2", measure: cup, ingredient: Chicken stock, note: low-sodium }
+      - { qty: "1/2", measure: cup, ingredient: Green onion, note: strips }
+    directions:
+      - In a resealable plastic bag add 3 tablespoons soy sauce, ginger, garlic, chili garlic paste and 2 tablespoons cornstarch and mix thoroughly, then add chicken and marinate for 1 hour.
+      - In a medium stock pot boil water and cook chow mein noodles until al dente, remove and shock in an ice bath, shake dry and toss with 2 tablespoons oil to keep from sticking.
+      - In a large saute pan or wok, heat 2 tablespoons oil to almost smoke point and add chicken, separating each piece upon entry. Cook until browned on all sides. Remove and hold warm.
+      - In the same wok, add 2 tablespoons oil. Heat until almost the smoke point, then add the onions, bell peppers, carrots and celery. Saute for 2 minutes, then add mushrooms, peas and bean sprouts. Cook for 1 minute, then add chicken and saute for 1 minute; add hoisin, 3 tablespoons soy sauce and sesame oil, toss and remove.
+      - Heat a 12-inch nonstick saute pan, add 3 tablespoons oil, heat to almost smoke point, and add the chilled chow mein noodles. Cook on one side until crispy light golden brown. Flip the noodles, add another 2 tablespoons of oil and cook the other side. When done, remove and let drain on paper towels, while holding warm.
+      - Mix 2 tablespoons cornstarch and chicken stock, and deglaze the hot wok with the mixture and let reduce by one-third.
+      - Place noodles on a rimmed serving platter, top with chicken and vegetable saute, and pour chicken reduction over top. Garnish with green onions.
+
+  - name: Asian Stir Fry Noodles
+    categories: [Asian]
+    description:
+      - This Asian-inspired dish from audience member Sharon Laraway will have you saying "bye bye" to Thai take-out!
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: "1/2", measure: cup, ingredient: White onion, note: diced }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: 1, ingredient: Thai chili, note: chopped and seeded }
+      - { qty: 1, ingredient: Carrot, note: shredded }
+      - { qty: 1, measure: tbsp, ingredient: Hoisin sauce }
+      - { qty: 2, measure: tbsp, ingredient: Fish sauce }
+      - { qty: "1/4", measure: tbsp, ingredient: Ginger, note: "fresh, grated" }
+      - { qty: "1/2", measure: cup, ingredient: Soy sauce, note: low-sodium }
+      - { qty: "1/2", measure: cup, ingredient: Chicken stock }
+      - { qty: 3, measure: tbsp, ingredient: Peanut butter }
+      - { qty: 1, ingredient: Zucchini, note: peeled and sliced lengthwise }
+      - { qty: 5, measure: oz, ingredient: Soba noodles }
+      - { qty: 1, ingredient: Lime, note: cut into wedges }
+      - { qty: 1, measure: tbsp, ingredient: Sesame seeds, note: for garnish }
+      - { qty: 4, measure: leaf, ingredient: Thai basil, note: chiffonade }
+    directions:
+      - Cook the soba noodles according to package directions.
+      - Add olive oil to a pan set on medium heat. Add onions and cook till translucent and fragrant, about 6 minutes. Add garlic, Thai chili, carrot, hoisin sauce, fish sauce, ginger, soy sauce and chicken stock. Simmer on medium for about 4 minutes.
+      - Lower heat to low and stir in peanut butter until completely combined and smooth.
+      - Add zucchini and noodles and stir together till warm, about two minutes.
+      - Plate and garnish with two lime wedges, sesame seeds (optional), and Thai basil. Serve immediately.
+
+  - name: Fried Rice with Shiitake Mushrooms
+    categories: [Asian]
+    cooking_time: 35
+    description:
+      - This recipe is a great use for cold leftover rice. Order extra rice with Chinese takeout or make a double batch of your own one night; you can keep it, chilled, up to 1 week.
+      - "Active time: 35 minutes."
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Vegetable oil, note: plus 1 teaspoon }
+      - { qty: 1, ingredient: Egg, note: "large, beaten with 1 tablespoon water" }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Ginger, note: "fresh, peeled and minced" }
+      - { qty: 3, ingredient: Green onion, note: "white and green parts chopped separately" }
+      - { qty: "3/4", measure: tsp, ingredient: Kosher salt }
+      - { qty: "1/2", measure: lb, ingredient: Shiitake, note: "fresh; stems discarded, caps thinly sliced" }
+      - { qty: 3, measure: cup, ingredient: White rice, note: "cold, cooked" }
+      - { qty: "1/2", measure: tsp, ingredient: Sesame oil, note: Asian }
+    directions:
+      - Heat a wok or a 12-inch nonstick skillet over moderate heat until hot, then add 1/2 teaspoon vegetable oil and swirl around the wok. Add half of the egg mixture and swirl the wok to coat the bottom with a thin layer about 5 inches in diameter. When the egg crêpe is set, about 45 seconds, transfer with a wide metal spatula to a plate to cool. Make another egg crêpe with another 1/2 teaspoon vegetable oil and the remaining egg mixture in the same manner. Stack the crêpes, roll into a cylinder, and cut crosswise into 1/4-inch-wide strips, then unroll.
+      - Heat the remaining 2 tablespoons vegetable oil in the wok over high heat until it begins to smoke. Add ginger, the white part of the scallions, and salt and stir-fry until fragrant, about 30 seconds. Add shiitakes and stir-fry until tender, 3 to 5 minutes. Crumble rice into the wok and stir-fry until lightly browned, 10 to 15 minutes. Remove from heat and add scallion greens, egg strips, and sesame oil, tossing to combine.
+
+  - name: Ginger Fried Rice
+    categories: [Asian]
+    description:
+      - This dish is a wonderful accompaniment to grilled, steamed, or stir-fried seafood. Topped with diced steamed sweet potato or winter squash, it makes a satisfying light meal on its own.
+    ingredients:
+      - { qty: 3, measure: bunch, ingredient: Green onion }
+      - { qty: "2 1/2", measure: cup, ingredient: Bean sprouts, note: fresh }
+      - { qty: 3, measure: tbsp, ingredient: Chicken broth, note: for the seasoning liquid }
+      - { qty: 1, measure: tbsp, ingredient: Soy sauce, note: for the seasoning liquid }
+      - { qty: "1 1/2", measure: tsp, ingredient: Sesame oil, note: "Asian, for the seasoning liquid" }
+      - { qty: "1 1/4", measure: tsp, ingredient: Salt, note: "or to taste, for the seasoning liquid" }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: "freshly ground, for the seasoning liquid" }
+      - { qty: 5, measure: cup, ingredient: White rice, note: "chilled, Chinese-style" }
+      - { qty: 2, measure: tbsp, ingredient: Corn oil, note: or safflower oil }
+      - { qty: 3, measure: tbsp, ingredient: Ginger, note: "fresh gingerroot, peeled and minced" }
+      - { qty: "1/3", measure: cup, ingredient: Rice wine, note: Chinese rice wine or sake }
+    directions:
+      - Finely chop enough scallions to measure about 3 cups. Rinse bean sprouts and trim stringy root ends if desired.
+      - "Make the seasoning liquid: in a small bowl stir together the chicken broth, soy sauce, sesame oil, salt and pepper."
+      - Spread rice in a shallow baking pan and separate grains with a fork.
+      - In a deep 12-inch heavy nonstick skillet heat the corn or safflower oil over moderately high heat until hot but not smoking and stir-fry scallions and gingerroot until fragrant, about 20 seconds. Add bean sprouts and rice wine or sake and stir-fry until sprouts begin to soften, about 1 minute. Add rice and cook, stirring frequently, 2 to 3 minutes, or until heated through. Stir the seasoning liquid and add to the fried rice, tossing to coat evenly.
+
+  - name: Thai Shrimp Spring Rolls
+    categories: [Asian]
+    prep_time: 52
+    cooking_time: 11
+    servings: 12
+    description:
+      - Makes 12 rolls. Serve with Soy Ginger Dipping Sauce (its own recipe). Recipe courtesy Alton Brown, 2011.
+      - "Inactive prep: 30 minutes."
+    ingredients:
+      - { qty: 5, measure: oz, ingredient: Rice stick noodles, note: thin }
+      - { qty: 2, measure: tbsp, ingredient: Soy sauce, note: divided }
+      - { qty: 1, measure: lb, ingredient: Shrimp, note: "large, unpeeled" }
+      - { qty: 3, measure: tbsp, ingredient: Lime juice, note: freshly squeezed }
+      - { qty: 1, measure: tbsp, ingredient: Sambal oelek, note: sambal chili paste }
+      - { qty: 2, measure: tsp, ingredient: Sugar }
+      - { qty: 1, ingredient: Cucumber, note: "large, unpeeled, seeded, cut into matchsticks" }
+      - { qty: 1, ingredient: Carrot, note: "large, peeled and grated" }
+      - { qty: "3/4", measure: cup, ingredient: Cilantro, note: "fresh, chopped" }
+      - { qty: "3/4", measure: cup, ingredient: Mint, note: "fresh, chopped" }
+      - { qty: 12, ingredient: Rice paper, note: "8 1/2-inch round wrappers" }
+      - { qty: 12, measure: leaf, ingredient: Lettuce, note: "Bibb, Boston, or other soft lettuce" }
+    directions:
+      - Soak the rice sticks in enough hot water to cover by 1 inch for 15 minutes.
+      - Bring 1/2 gallon of water to a boil in a large pot set over high heat. Add 1 tablespoon soy sauce. Add the shrimp and cook until just firm, 1 to 2 minutes. Remove the cooked shrimp to a cutting board and cool for 3 minutes. When cool enough to handle, peel, devein, and coarsely chop. Set aside.
+      - Return the water-soy sauce to a boil. Drain the rice stick noodles and add to the hot soy-water. Cook until tender, approximately 3 minutes.
+      - Meanwhile, whisk the lime juice, remaining 1 tablespoon soy sauce, chili paste, and sugar together in a medium mixing bowl.
+      - Drain the noodles in a colander. Add the noodles to the lime juice mixture, toss, and set aside while preparing the vegetables.
+      - Toss the cucumber, carrot, cilantro, and mint together in a small bowl. Transfer any unabsorbed liquid from the noodles to the cucumber mixture and toss to combine.
+      - Cut the noodles into small 1 to 2-inch pieces with kitchen shears.
+      - Fill a pie dish with warm water. Dip 1 rice paper wrapper into the water for 10 seconds, then transfer to a cutting board until the wrapper is pliable and slightly tacky, approximately 1 minute.
+      - Place 1/4 cup of the vegetable mixture on the bottom 1/3 of the wrapper nearest to you. Spoon 2 tablespoons chopped shrimp on top of the vegetables. Top with 1/4 cup noodles. Bring the bottom edge of the wrap tightly over the filling, and then fold in the 2 sides. Finish rolling from bottom to top until the entire wrapper is rolled. Be careful not to tear the rice paper. Place on a parchment-lined half sheet pan and cover with a damp tea towel. Repeat with the remaining wrappers until the filling is gone.
+      - Wrap each roll in a lettuce leaf and serve with Soy Ginger Dipping Sauce.
+
+  - name: Soy Ginger Dipping Sauce
+    categories: [Asian]
+    prep_time: 10
+    description:
+      - Makes 1 cup. For tempura or Thai shrimp spring rolls. Recipe courtesy Alton Brown, 2010.
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Soy sauce, note: low-sodium }
+      - { qty: "1/4", measure: cup, ingredient: Rice vinegar, note: rice wine vinegar }
+      - { qty: 2, measure: tbsp, ingredient: Ginger, note: finely grated }
+      - { qty: 2, measure: tbsp, ingredient: Green onion, note: chopped }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: "medium, minced" }
+      - { qty: 2, measure: tsp, ingredient: Sugar }
+      - { qty: 1, measure: tsp, ingredient: Sesame oil }
+    directions:
+      - Add all of the ingredients to a lidded jar and shake well to combine. Serve as a dipping sauce for tempura or spring rolls.
+
+  - name: Tempura
+    categories: [Asian]
+    prep_time: 25
+    cooking_time: 35
+    servings: 6
+    description:
+      - Shrimp, tilapia and vegetable tempura. Serves 6 to 8. Serve with Soy Ginger Dipping Sauce. Recipe courtesy Alton Brown, 2010.
+    ingredients:
+      - { qty: 5, measure: oz, ingredient: Cake flour, note: unbleached }
+      - { qty: 5, measure: oz, ingredient: Rice flour, note: white }
+      - { qty: "1 1/2", measure: qt, ingredient: Vegetable oil }
+      - { qty: 1, ingredient: Egg, note: "large, beaten" }
+      - { qty: "1 1/2", measure: cup, ingredient: Seltzer water, note: cold }
+      - { qty: "1/2", measure: cup, ingredient: Vodka }
+      - { qty: 5, measure: oz, ingredient: Sweet potato, note: "5 to 6 ounces, peeled and cut into 1/8-inch slices" }
+      - { ingredient: Kosher salt }
+      - { qty: "1/4", measure: lb, ingredient: Green bean, note: "fresh, trimmed" }
+      - { qty: 8, measure: stem, ingredient: Parsley, note: flat-leaf }
+      - { qty: "1/2", measure: lb, ingredient: Shrimp, note: "31 to 35 count, head and tail on, peeled and deveined" }
+      - { qty: "1/2", measure: lb, ingredient: Tilapia, note: "fillets, cut into 1-inch pieces" }
+      - { ingredient: Ice }
+    directions:
+      - Whisk the cake flour and rice flour together in a medium glass bowl and divide it in half. Set aside.
+      - Heat the vegetable oil in a 5-quart Dutch oven over high heat until it reaches 375 degrees F on a deep-fry thermometer.
+      - Once the temperature reaches 365 degrees F, whisk the egg, seltzer water and vodka in a medium mixing bowl and divide it in half. Put half of the mixture in the refrigerator to reserve. Pour half of the liquid mixture into half of the dry mixture and whisk to combine, about 10 to 15 seconds. Some lumps may remain. Set the glass bowl in a larger bowl lined with ice.
+      - Dip the sweet potatoes into the batter using tongs, drain for 2 to 3 seconds over the bowl, and then add to the hot oil. Adjust the heat to maintain between 375 and 400 degrees F. Fry 6 to 8 pieces at a time, until puffy and very light golden, about 1 to 2 minutes. Remove to a cooling rack lined with 3 layers of paper towels set over a half sheet pan. Sprinkle with salt, if desired. Repeat the same dipping and frying procedure with the green beans and parsley leaves. Put the fried vegetables on a serving platter and serve as an appetizer while preparing the seafood.
+      - Whisk together the remaining halves of dry and liquid batter ingredients as above and repeat dipping and frying with the shrimp and fish fillets. Sprinkle with salt, if desired, transfer the fish to a serving platter and serve immediately.
+    notes:
+      - "Cook's note: tempura may be held in a 200 degree F oven for up to 30 minutes, though texture is compromised."

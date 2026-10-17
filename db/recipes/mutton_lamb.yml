@@ -1,0 +1,199 @@
+# Recipes from "Mutton & Lamb.txt".
+recipes:
+  - name: Grilled Lamb Chops
+    categories: [Lamb]
+    servings: 6
+    ingredients:
+      - { qty: 2, measure: clove, ingredient: Garlic, note: "large, crushed" }
+      - { qty: 1, measure: tbsp, ingredient: Rosemary, note: fresh leaves }
+      - { qty: 1, measure: tsp, ingredient: Thyme, note: fresh leaves }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+      - { ingredient: Sea salt, note: coarse }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 6, ingredient: Lamb chop, note: about 3/4 inch thick }
+    directions:
+      - In a food processor fitted with a metal blade add the garlic, rosemary, thyme, cayenne, and salt. Pulse until combined. Pour in the olive oil and pulse into a paste.
+      - Rub the paste on both sides of the lamb chops and let them marinate for at least 1 hour in the refrigerator. Remove from the refrigerator and allow the chops to come to room temperature, about 20 minutes.
+      - Heat a grill pan over high heat until almost smoking, add the chops and sear for about 2 minutes. Flip the chops over and cook for another 3 minutes for medium-rare and 3 1/2 minutes for medium.
+
+  - name: Roasted Leg of Lamb with Artichokes, Fennel and Red Bliss Potatoes
+    categories: [Lamb]
+    prep_time: 30
+    cooking_time: 100
+    servings: 8
+    description:
+      - Recipe courtesy Anne Burrell. Serves 8 to 10.
+      - "Note: you might not feel comfortable buying a big piece of meat and boning it out yourself. That's OK. Have your butcher do it, but keep the bone; you paid for it. Have the butcher separate the bones at the joints."
+    ingredients:
+      - { qty: 1, ingredient: Leg of lamb, note: "8 to 10 pounds, boned, bones reserved" }
+      - { ingredient: Kosher salt }
+      - { qty: 8, measure: sprig, ingredient: Rosemary, note: "finely chopped (about 1/4 cup)" }
+      - { qty: 6, measure: clove, ingredient: Garlic, note: thinly sliced }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Lemon, note: "cut in half, for the vegetables" }
+      - { qty: 12, ingredient: Artichoke, note: baby }
+      - { qty: 2, ingredient: Fennel, note: "bulbs, cut into 1/4-inch slices" }
+      - { qty: 2, measure: lb, ingredient: Red potatoes, note: "red bliss, about 20, quartered" }
+      - { qty: 10, measure: clove, ingredient: Garlic, note: whole }
+      - { qty: "1/2", measure: tsp, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 1, measure: bottle, ingredient: White wine, note: dry }
+      - { qty: 10, measure: sprig, ingredient: Thyme, note: tied together with string }
+      - { qty: 5, ingredient: Bay leaf }
+    directions:
+      - Preheat the oven to 425 degrees F.
+      - Cut the lamb into 2 equal halves and butterfly each half. Remove any huge gobs of fat, but don't try to get it all; fat tastes good and adds lots of moisture. Sprinkle each piece generously with salt, chopped rosemary, and sliced garlic. Drizzle with olive oil and massage the salt, rosemary, garlic and oil into the lamb, getting into the cracks and crevices. Roll each piece of lamb and tie with butcher twine. Sprinkle generously with salt. Reserve while you prepare the vegetables.
+      - "For the vegetables: fill a bowl with water, squeeze the lemon into the water and add the lemon halves as well. Remove the tough outer leaves of the artichokes, stopping when you get to the fresh, light green leaves. Trim off any dark green or brown on the stem as well. Cut them in half and add to the lemon water."
+      - Remove the artichokes from the water and add them with the fennel, potatoes, garlic cloves and crushed red pepper to a large roasting pan. Drizzle with olive oil and sprinkle generously with salt. Add the wine, thyme and bay leaves.
+      - Nestle the lamb bones in the vegetable mixture and place the 2 lamb roasts on the bones.
+      - Drizzle with olive oil and place in the oven. Roast the lamb for about 20 minutes, or until brown. Baste with the juices, turn the lamb over and brown the other side for about 20 minutes. Turn the lamb back over and baste again. Rearrange the vegetables if they begin to burn. Reduce the heat to 350 degrees F and roast for another 60 minutes, basting occasionally and adding water to the pan if the liquid reduces too much.
+      - Remove the lamb from the oven and let rest for 15 to 20 minutes. Carve as desired and serve with the vegetables and pan juices.
+
+  - name: Marinated Lamb Shoulder Chops with Tzatziki, Arugula and Feta
+    categories: [Lamb]
+    prep_time: 35
+    cooking_time: 6
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell.
+      - "Inactive prep: 2 hours 10 minutes."
+    ingredients:
+      - { qty: 1, ingredient: Lemon, note: "zested and juiced, for the marinade" }
+      - { qty: 3, measure: sprig, ingredient: Oregano, note: "leaves finely chopped, for the marinade" }
+      - { qty: 3, measure: sprig, ingredient: Dill, note: "finely chopped, for the marinade" }
+      - { qty: 3, measure: sprig, ingredient: Mint, note: "leaves cut into a chiffonade, for the marinade" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: "smashed and finely chopped, for the marinade" }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 1, measure: pinch, ingredient: Kosher salt }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: "extra-virgin, for the marinade" }
+      - { qty: 4, ingredient: Lamb shoulder chop, note: thick (3/4-inch) }
+      - { qty: "1/2", ingredient: Cucumber, note: "English, coarsely grated, for the tzatziki" }
+      - { qty: 2, measure: cup, ingredient: Greek yogurt, note: "plain, for the tzatziki" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: "smashed and finely chopped, for the tzatziki" }
+      - { qty: 1, measure: tbsp, ingredient: White wine vinegar, note: for the tzatziki }
+      - { qty: 1, measure: bunch, ingredient: Dill, note: "small, leaves finely chopped, for the tzatziki" }
+      - { qty: 2, measure: sprig, ingredient: Mint, note: "leaves cut into chiffonade, for the tzatziki" }
+      - { qty: 2, measure: cup, ingredient: Baby arugula, note: "washed, for the salad" }
+      - { qty: 1, ingredient: Lemon, note: "juiced, for the salad" }
+      - { ingredient: Olive oil, note: "high-quality extra-virgin, for the salad" }
+      - { qty: "1/2", measure: cup, ingredient: Feta, note: crumbled }
+      - { ingredient: Kosher salt }
+    directions:
+      - "Chops: combine all the ingredients for the marinade, except the lamb, and whisk together to form a thick paste. Slather on the lamb chops. Marinate the chops at room temperature up to 2 hours or in the refrigerator for up to 2 days."
+      - "Tzatziki: combine all the ingredients. Season with more salt, if necessary. Let sit for at least 1 hour at room temperature before serving."
+      - Preheat the grill to medium. When the grill is hot, brush the grates with a wire grill brush to loosen any crud, then wipe the grates with an oiled towel to pick up any loose soot.
+      - If the lamb was in the refrigerator, let it come to room temperature before grilling.
+      - Arrange the lamb chops on the grill. Do not move the chops for 2 to 3 minutes to allow grill marks to form. Rotate the chops 90 degrees to create cross-hatch grill marks, and let sit for another 2 to 3 minutes. Flip the chops and repeat. Remove the chops to a platter and let rest for 5 to 10 minutes before serving.
+      - Toss the arugula with lemon juice, finishing olive oil and salt, to taste. Adjust the seasoning, if necessary, and sprinkle with the crumbled feta.
+      - Divide the salad between 4 serving plates and top each with a lamb chop, which will slightly wilt the salad. Drizzle with extra-virgin olive oil and top with a dollop of tzatziki.
+
+  - name: Chile Crusted Rack of Lamb
+    categories: [Lamb]
+    ingredients:
+      - { qty: 4, measure: tbsp, ingredient: Unsalted butter, note: "1/2 stick, for the crust" }
+      - { qty: 3, ingredient: Shallot, note: "large, minced (about 3/4 cup)" }
+      - { qty: 2, measure: tsp, ingredient: Thyme, note: "fresh leaves, chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Ancho chili powder }
+      - { qty: "1 1/2", measure: cup, ingredient: Bread crumbs, note: fresh }
+      - { ingredient: Salt, note: to taste }
+      - { ingredient: Black pepper, note: "freshly ground, to taste" }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: 2, ingredient: Rack of lamb, note: "well trimmed, each about 1 1/4 pounds" }
+      - { qty: 4, measure: tsp, ingredient: Dijon mustard }
+    directions:
+      - "For the crust: in a heavy large skillet over medium-high heat, melt the butter. Add the shallots and thyme and saute until soft, about 2 minutes. Add the chile powder and stir. Add the bread crumbs and saute until golden brown, about 5 minutes. Season, to taste, with salt and pepper. Remove the crumbs to a small bowl and let cool."
+      - "For the lamb: preheat the oven to 400 degrees F."
+      - In the same skillet over high heat, heat the oil. Working in batches, add the lamb racks to the skillet, rounded side down. Sear until brown, 3 to 5 minutes. Transfer to a clean cutting board, seared side up.
+      - Spread 2 teaspoons of the mustard over each rack. Press the crumb topping into the mustard, dividing equally. Transfer to a rimmed baking sheet. Roast until desired doneness, 25 minutes for medium-well. Let the lamb rest 5 to 7 minutes before slicing. Arrange the sliced lamb on a serving platter and serve.
+    notes:
+      - "Cook's note: the ancho chile is a dried poblano chile, also sold as \"pasilla\" in the US. It is a deep red color, and the flavor ranges from mild to pungent; the rich, slightly fruity ancho is the sweetest of the dried chiles. Anchos are often sold whole and can be stemmed, seeded then ground at home in a coffee or spice grinder."
+      - "Cook's note: heat 1/2 cup beef broth with a little mint jelly and simmer several minutes for an easy and tasty sauce to go with your lamb."
+
+  - name: Herb-Marinated Rack of Lamb
+    categories: [Lamb]
+    description:
+      - The herb marinade really perfumes the meat if it is done a day or two ahead of time. It is best to remove as many of the herbs and garlic as possible before roasting, as they will burn and create off flavors.
+    ingredients:
+      - { qty: 2, ingredient: Rack of lamb, note: about 8 to 9 ribs each }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: "extra-virgin, plus 2 tablespoons" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "unpeeled, crushed" }
+      - { qty: 2, measure: sprig, ingredient: Rosemary, note: "4-inch, crushed" }
+      - { qty: 6, measure: sprig, ingredient: Thyme, note: crushed }
+      - { qty: 4, measure: sprig, ingredient: Rosemary, note: for garnish }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Sea salt }
+    directions:
+      - Clean the rib bones well by scraping off meat and sinew with a small sharp knife. Cut the racks in half so that each has four ribs.
+      - Mix together the olive oil, crushed garlic, crushed rosemary and thyme sprigs in a large bowl. Add the lamb and coat well. Grind some coarse black pepper over all. Wrap well and marinate the racks overnight.
+      - The next day remove the lamb from the marinade and scrape off as many herbs as possible. Preheat the oven to 400 degrees F.
+      - Heat a large saute pan over medium-high heat and add 2 tablespoons of olive oil. Season the lamb well with salt (no additional pepper should be necessary) and sear fat side down until golden, about 7 minutes. Turn over so that the fat side is up and roast in the oven for 20 to 30 minutes. Let the racks rest for 10 minutes before cutting.
+      - To serve, cut each lamb rack into 4 equal pieces, 2 bones per chop, and serve on individual plates or a platter with the accompaniments of your choice.
+
+  - name: Herbed Rack of Lamb
+    categories: [Lamb]
+    ingredients:
+      - { qty: 1, ingredient: Rack of lamb, note: "trimmed (6 ribs)" }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh, chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Green onion, note: "spring onions, chopped" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: crushed }
+      - { qty: 1, measure: tsp, ingredient: Rosemary, note: finely chopped }
+      - { qty: "1/2", measure: cup, ingredient: Bread crumbs, note: fresh }
+      - { qty: "1/2", measure: oz, ingredient: Butter, note: melted }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: oz, ingredient: Butter, note: "extra, for browning" }
+    directions:
+      - Combine the parsley, spring onions, garlic, rosemary, breadcrumbs and melted butter in a bowl.
+      - Sprinkle the rack of lamb with salt and pepper.
+      - Melt the extra butter in a pan and brown the lamb evenly all over.
+      - Cover the lamb with the herb mixture and place in a baking dish.
+      - Bake at 425 degrees F for 15 to 20 minutes (the lamb should be quite pink). Remove and keep warm for 10 minutes.
+      - Slice into individual chops and serve with the pan juices.
+
+  - name: Roasted Rack of Lamb with Cucumber, Tomato and Mint Salad
+    categories: [Lamb]
+    prep_time: 10
+    servings: 5
+    description:
+      - Recipe courtesy Paula Deen.
+      - "Inactive prep: 1 hour."
+    ingredients:
+      - { qty: 2, ingredient: Rack of lamb, note: frenched }
+      - { ingredient: Black pepper, note: coarsely ground }
+      - { qty: 10, measure: oz, ingredient: Goat cheese, note: for the salad }
+      - { qty: 2, ingredient: Tomato, note: "2 to 4, ripe, for the salad" }
+      - { qty: 4, ingredient: Cucumber, note: "medium, thinly sliced" }
+      - { qty: 2, ingredient: White onion, note: "small (Vidalia works great), julienned" }
+      - { qty: 20, measure: leaf, ingredient: Mint }
+      - { qty: "1/2", measure: cup, ingredient: White vinegar }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { ingredient: Salt, note: to taste }
+    directions:
+      - "For the salad: in a large mixing bowl crumble the goat cheese. Add the tomatoes, cucumbers and onions. Cut the mint leaves chiffonade-style into shreds and add to the salad. Add the vinegar and olive oil. Mix well. Add salt and pepper, to taste. Refrigerate for 1 hour, then serve."
+      - Preheat the oven to 375 degrees F.
+      - Rub the lamb racks thoroughly with black pepper. Place on a heated cast iron skillet and sear all sides. Place the racks in the oven to finish cooking for approximately 15 minutes, until medium-rare. (If you're not searing in cast iron, place the lamb in a shallow baking pan for the oven.)
+      - Allow the lamb to cool for about 10 minutes. Slice the racks into chops and fan around a small pile of the cucumber, tomato and mint salad.
+
+  - name: Seared Rack of Lamb with Pistachio Tapenade
+    categories: [Lamb]
+    prep_time: 30
+    cooking_time: 10
+    servings: 2
+    description:
+      - Recipe courtesy Anne Burrell. Serves 2 to 3.
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Pistachios, note: "shelled and toasted" }
+      - { qty: "1/2", measure: cup, ingredient: Green olives, note: "Cerignola, pitted" }
+      - { qty: 2, measure: tbsp, ingredient: Capers }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 1, measure: tbsp, ingredient: Oregano, note: "fresh leaves, chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh leaves, chopped" }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Lemon, note: zested }
+      - { qty: 1, ingredient: Rack of lamb, note: 8-rib }
+      - { ingredient: Salt }
+    directions:
+      - "To make the pistachio tapenade: in a food processor combine the pistachios, olives, capers, garlic and herbs and puree. While the machine is running, slowly drizzle in olive oil until the mixture becomes a paste. Add the zest and pulse 1 more time, drizzling in more oil if necessary. Reserve until ready to use."
+      - Remove 2 rib bones from the 8-rib rack to make a 6-rib rack; counting from either end, remove the 2nd and 7th bone. This creates 6 even chops that are thicker than a normal lamb chop. Cut 6 chops, season them generously with salt and let them sit for 10 to 15 minutes before cooking.
+      - Preheat the oven to 425 degrees F.
+      - Coat a large saute pan generously with olive oil and bring to medium-high heat. When the oil is hot but not smoking, add the lamb chops and cook for about 2 minutes on each side to brown, lowering the heat if the pan begins to smoke. The chops should be beautifully caramelized on both sides.
+      - Remove the chops to a sheet pan and spread generously with the pistachio tapenade. Place in the oven and cook another 4 to 5 minutes for medium-rare. Let rest for at least 5 minutes before serving.

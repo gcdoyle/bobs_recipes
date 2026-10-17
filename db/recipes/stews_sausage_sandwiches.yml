@@ -1,0 +1,118 @@
+# Recipes from "Stews & Sausage.txt" and "Sandwiches.txt"
+# (the bratwurst recipe appears in both files; imported once).
+recipes:
+  - name: Bratwurst Cooked in Beer with Smothered Cabbage
+    categories: [Sausage, Sandwiches]
+    servings: 8
+    description:
+      - Recipe courtesy of Emeril Lagasse. Serve with Flo's Potato Salad.
+    ingredients:
+      - { qty: 8, ingredient: Bratwurst, note: fresh links }
+      - { qty: 4, measure: can, ingredient: Beer, note: 8-ounce cans }
+      - { qty: 8, measure: oz, ingredient: Bacon, note: chopped }
+      - { qty: 2, measure: cup, ingredient: Onion, note: julienned }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: head, ingredient: Cabbage, note: "small, cored and shredded" }
+      - { ingredient: Salt }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: chopped }
+      - { qty: "1/4", measure: cup, ingredient: Whole grain mustard }
+      - { qty: 8, ingredient: Hot dog bun, note: egg buns }
+      - { qty: 4, measure: cup, ingredient: Potato salad, note: "Flo's Potato Salad, for serving" }
+    directions:
+      - Preheat the grill. Place the beer in a saucepan over medium heat and bring to a boil. Add the sausages and cook for 10 minutes. Remove the sausages from the liquid, reserving the liquid, and set the sausages aside.
+      - In a large saute pan over medium heat, render the bacon until crispy, about 6 to 8 minutes. Remove the bacon and set aside. Discard all the bacon fat except for 1/4 cup. Place the 1/4 cup of fat back into the pan and add the onions. Season with black pepper. Saute for 2 to 3 minutes, or until tender.
+      - Add the cabbage. Season with salt and pepper. Continue to saute for 4 minutes or until the cabbage is tender. Stir in the garlic, mustard and 2 cups of the liquid from the sausages. Bring the liquid to a simmer and cook for 8 to 10 minutes, stirring occasionally. Reseason with salt and pepper.
+      - Place the sausages on the grill and cook for 2 minutes on each side. To serve, place the sausages in the buns and top each sausage with some of the smothered cabbage.
+
+  - name: Corned Beef and Cabbage
+    categories: [Stews, Beef]
+    prep_time: 30
+    cooking_time: 360
+    servings: 6
+    description:
+      - Recipe courtesy Melissa d'Arabian. Serves 6 to 8.
+    ingredients:
+      - { qty: 5, measure: lb, ingredient: Corned beef }
+      - { qty: 5, measure: clove, ingredient: Garlic, note: lightly smashed }
+      - { qty: 10, ingredient: Black peppercorns }
+      - { qty: 4, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 12, measure: oz, ingredient: Stout, note: "recommended: Guinness" }
+      - { qty: 1, measure: cup, ingredient: Beef broth, note: or stock }
+      - { ingredient: Water, note: for simmering }
+      - { qty: 4, ingredient: Yellow onion, note: "cut into wedges, plus 1 medium yellow or sweet onion, sliced" }
+      - { qty: 2, ingredient: Parsnip, note: "peeled and cut into large chunks" }
+      - { qty: 3, ingredient: Carrot, note: "peeled and cut into large chunks" }
+      - { qty: 6, ingredient: Red potatoes, note: "medium, scrubbed" }
+      - { qty: 1, measure: head, ingredient: Green cabbage, note: "medium, cut into quarters, core removed" }
+      - { qty: 4, measure: tbsp, ingredient: Butter }
+    directions:
+      - Rinse the corned beef and put it into a large Dutch oven or heavy soup pot. Make a bouquet garni with the garlic, peppercorns, thyme and bay leaves and add to the pot. Stir in the stout, stock and enough water to cover the beef by 2 inches. Bring to a boil over medium heat, then reduce the heat to a gentle simmer and cook for 4 hours, covered, stirring occasionally.
+      - After 4 hours, add the onion wedges, parsnips, and carrots, and cook for 1/2 hour. Add the potatoes and the cabbage wedges and continue cooking until the cabbage is tender, but not limp, about 20 minutes. Remove the cabbage to a plate and allow the corned beef and other vegetables to continue cooking until the meat is tender.
+      - In a separate large saute pan, heat 4 tablespoons butter over medium heat. Add the sliced onion and a pinch of salt and saute until tender and beginning to brown, about 8 to 10 minutes.
+      - Meanwhile, slice the cabbage thinly, gently pressing with a paper towel to remove excess water. Add the cabbage to the onion mixture and toss to coat well with the butter. Cook over medium heat until the cabbage begins to brown.
+      - Remove the meat to a cutting board and slice. Serve at the table with all the vegetables piled onto a serving tray and the sliced meat onto another tray with some of the broth poured over the meat.
+
+  - name: Michael Symon's Kielbasa with Cabbage and Potatoes
+    categories: [Sausage]
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, ingredient: Kielbasa, note: whole }
+      - { qty: 1, ingredient: Yellow onion, note: sliced }
+      - { qty: "1/2", measure: head, ingredient: Green cabbage, note: sliced }
+      - { qty: "1/2", measure: lb, ingredient: Potato, note: "new potatoes, halved" }
+      - { qty: 12, measure: oz, ingredient: Beer, note: 1 to 2 bottles }
+      - { ingredient: Salt, note: to taste }
+      - { ingredient: Black pepper, note: to taste }
+      - { qty: 3, measure: tbsp, ingredient: Mustard, note: brown }
+    directions:
+      - In a large Dutch oven, heat the olive oil over medium-high heat.
+      - Add the kielbasa and sear until brown, 3 minutes per side. Remove from the pan.
+      - Add the onions and cabbage and cook for 3 to 4 minutes.
+      - Add the potatoes and kielbasa and season with salt and pepper.
+      - Fill the pot 3/4 of the way up with beer and simmer, uncovered, until the potatoes are tender, about 20 minutes. Remove from heat and stir in the mustard. Serve with crusty bread.
+
+  - name: Mario Batali's Lobster Rolls
+    categories: [Sandwiches, Seafood]
+    servings: 8
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Vegetable oil, note: for the mayo }
+      - { qty: 2, ingredient: Egg yolk, note: for the mayo }
+      - { qty: 1, measure: tsp, ingredient: Lemon juice, note: "and zest, for the mayo" }
+      - { ingredient: Hot sauce, note: "a couple dashes, for the mayo" }
+      - { qty: 1, measure: tsp, ingredient: Dijon mustard, note: for the mayo }
+      - { qty: 2, ingredient: Lobster, note: steamed or boiled with the meat picked out }
+      - { qty: 8, ingredient: Hot dog bun, note: split-top rolls }
+      - { qty: 2, measure: stalk, ingredient: Celery, note: small dice }
+      - { qty: 1, measure: tsp, ingredient: Celery salt }
+      - { ingredient: Salt, note: to taste }
+      - { ingredient: Black pepper, note: "freshly ground, to taste" }
+      - { ingredient: Butter, note: to brush the griddle }
+    directions:
+      - "For the fresh mayo: in a bowl, mix the egg yolks and lemon juice and zest. Drizzle in the oil slowly while whisking vigorously to emulsify the oil into the egg. Season with salt and pepper to taste. Add the mustard and hot sauce and combine thoroughly."
+      - "For the lobsters: roughly chop the lobster meat and add to a bowl with the celery, celery salt, and 1/4 cup of the fresh mayo. Season to taste with salt and pepper. Mix gently with a rubber spatula to combine."
+      - Preheat a griddle to medium-high. Brush the griddle with butter. Toast the rolls on both sides and fill with the lobster salad.
+    notes:
+      - If the mayo doesn't come together or the emulsion breaks, it can be saved by putting a teaspoon of water in a fresh clean bowl and slowly whisking in the broken mayo until it recombines.
+
+  - name: Reuben Sandwich
+    categories: [Sandwiches, Beef]
+    servings: 1
+    description:
+      - Modern-day Reuben sandwiches are often open-faced and broiled, which dries out the corned beef and makes the cheese rubbery. Or, under the misguided belief that more is better, they are overstuffed. The main things to remember for a great Reuben are to keep the filling under control and in balance, so when you bite into it you get a harmonious and succulent mouthful; and to grill the sandwich slowly and under some pressure, so the bread gets toasty brown and buttery crisp, the meat gets warmed through, and the cheese is just melted enough to be oozy.
+    ingredients:
+      - { qty: 2, measure: slice, ingredient: Rye bread, note: or pumpernickel }
+      - { qty: 2, measure: tsp, ingredient: Butter, note: at room temperature }
+      - { qty: 2, measure: tbsp, ingredient: Russian dressing }
+      - { qty: "1/4", measure: cup, ingredient: Sauerkraut, note: "fresh-style, well drained" }
+      - { qty: 2, measure: oz, ingredient: Gruyere cheese, note: "thinly sliced, or Switzerland Swiss" }
+      - { qty: "1/4", measure: lb, ingredient: Corned beef, note: thinly sliced }
+    directions:
+      - Butter each slice of bread evenly to the edges on one side.
+      - "Place one slice, buttered side down, in a small cold skillet: build the sandwich in the skillet you'll grill it in."
+      - Spread 1 tablespoon of the Russian dressing on the face-up, dry side of the bread. Then put on the sauerkraut, spreading it evenly.
+      - Arrange the cheese in an even layer over the sauerkraut, then do the same with the corned beef.
+      - Spread another 1 tablespoon Russian dressing on the dry side of the second slice of bread and place it, dressing side down, buttered side up, over the corned beef.
+      - Place the skillet over medium-low heat and grill the sandwich slowly, pressing down on it a few times with a wide metal spatula. Grill until the bread is browned and crisped, then turn the sandwich over with the help of the spatula.
+      - Weight the sandwich down by placing a plate (or another small skillet) over it, then adding a weight, such as a 28-ounce can of tomatoes. Grill until the second side has browned and crisped, then flip the sandwich over one more time to briefly reheat the other side.
+      - Serve immediately.

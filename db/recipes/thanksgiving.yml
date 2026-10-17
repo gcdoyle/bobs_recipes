@@ -1,0 +1,467 @@
+# Recipes from "Thanksgiving.txt". "Brine for Turkey" is already in from the
+# seasonings file (this file's copy uses 1 cup each of sugar and salt).
+recipes:
+  - name: Thanksgiving Turkey Brine
+    categories: [Thanksgiving, Marinades]
+    prep_time: 15
+    servings: 14
+    description:
+      - Recipe courtesy Alex Guarnaschelli, 2009. For a turkey serving 14 to 16.
+      - "Inactive prep: 12 hours."
+    ingredients:
+      - { qty: 6, measure: qt, ingredient: Water, note: tap water }
+      - { qty: 1, measure: lb, ingredient: Kosher salt }
+      - { qty: 1, measure: cup, ingredient: Molasses }
+      - { qty: 2, measure: cup, ingredient: Honey }
+      - { qty: 1, measure: cup, ingredient: Soy sauce }
+      - { qty: 1, measure: tbsp, ingredient: Red pepper flakes, note: dried }
+      - { qty: 1, measure: tbsp, ingredient: Sage, note: dried }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: "large, fresh" }
+      - { qty: 2, measure: head, ingredient: Garlic, note: "broken into individual cloves, unpeeled" }
+      - { qty: 5, measure: lb, ingredient: Ice, note: cubes }
+    directions:
+      - In a medium pot, bring 3 quarts of the tap water to a boil over medium heat. Put the kosher salt in a large bowl and slowly (and carefully!) pour the boiling water over the salt. Stir to blend.
+      - Add the molasses, honey, soy sauce, red pepper flakes, sage, thyme and garlic to the salt and water mixture. Stir to blend. Add the remaining 3 quarts of cool water.
+      - Add the ice to a cooler or bucket large enough to hold the brine and the turkey. Pour the brine over the ice and use a large whisk to blend all of the ingredients.
+      - Submerge the turkey, breast side down, in the brine, making sure the cavity fills with liquid. Cover the cooler and allow the bird to sit in the brine overnight or for about 12 hours.
+
+  - name: Sausage Stuffing
+    categories: [Thanksgiving]
+    description:
+      - Amounts to taste.
+    ingredients:
+      - { ingredient: Breakfast sausage, note: "Jimmy Dean sage, or hot Italian sausage with casings removed" }
+      - { ingredient: Onion, note: diced }
+      - { ingredient: Celery, note: thinly sliced }
+      - { ingredient: Green bell pepper, note: diced }
+      - { ingredient: Garlic, note: finely chopped }
+      - { ingredient: Mushroom, note: "button, sliced" }
+      - { measure: dash, ingredient: Cayenne pepper, note: if using the sage sausage }
+      - { qty: 1, ingredient: Stuffing mix, note: "bag of Pepperidge Farm herbed cubed stuffing (or crumbled cornbread)" }
+      - { ingredient: Poultry seasoning }
+      - { ingredient: Butter }
+      - { ingredient: Egg, note: beaten }
+      - { ingredient: Chicken broth, note: "or broth made from the turkey neck and gizzards, or both" }
+      - { ingredient: Parsley, note: chopped }
+      - { ingredient: Olive oil }
+    directions:
+      - Brown the sausage in a little olive oil, add the vegetables and soften.
+      - Melt the butter in warm broth.
+      - In a mixing bowl, combine the stuffing, seasonings, beaten egg and broth. Bake as desired in or out of the bird.
+
+  - name: Antoinette's Thanksgiving Stuffing
+    categories: [Thanksgiving]
+    ingredients:
+      - { qty: 1, ingredient: Stuffing mix, note: "14-ounce bag of cubed bread stuffing" }
+      - { qty: "3/4", measure: tbsp, ingredient: Poultry seasoning }
+      - { qty: 4, measure: tbsp, ingredient: Olive oil, note: "extra-virgin, divided" }
+      - { qty: "1 1/2", measure: lb, ingredient: Italian sausage, note: "sweet, with fennel, crumbled" }
+      - { qty: "2 1/2", measure: cup, ingredient: Celery, note: "fresh, chopped" }
+      - { qty: 1, ingredient: Onion, note: "medium, chopped" }
+      - { ingredient: Salt, note: to taste }
+      - { ingredient: Black pepper, note: to taste }
+      - { qty: 3, measure: cup, ingredient: Cremini mushroom, note: chopped }
+      - { qty: 3, measure: cup, ingredient: Chicken stock }
+      - { qty: 1, ingredient: Unsalted butter, note: stick }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Add the cubed bread to a large bowl and sprinkle with the poultry seasoning. Toss to coat.
+      - In a medium saute pan over medium-high heat add 1 tablespoon of olive oil and then add the crumbled sausage. Remove once browned and add to the bowl.
+      - Saute the celery and onion until just translucent, about 3 to 4 minutes. Season with salt and pepper. Add to the bowl once cooked. Add more olive oil to the pan and cook off the cremini mushrooms. Season with salt and pepper, and once cooked, add to the bowl of stuffing ingredients.
+      - Heat the chicken stock and melt the butter in it. Pour the liquid over the stuffing and gently fold together.
+      - Put the stuffing in a greased Dutch oven. Bake for 35 minutes covered. If you want a crispy top, take the lid off for the last 10 minutes of cooking.
+
+  - name: World's Best Cornbread Stuffing
+    categories: [Thanksgiving]
+    description:
+      - Recipe courtesy George Duran.
+    ingredients:
+      - { qty: 2, ingredient: Italian sausage, note: hot }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1/3", measure: cup, ingredient: Green bell pepper, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Celery, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Onion, note: chopped }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: bunch, ingredient: Sage, note: "fresh, leaves chopped" }
+      - { qty: 4, ingredient: Corn muffin, note: large }
+      - { qty: 3, ingredient: Egg, note: large }
+      - { qty: "1/2", measure: cup, ingredient: Chicken stock, note: plus more if needed }
+      - { ingredient: Cooking spray, note: nonstick }
+    directions:
+      - Heat the oven to 350 degrees F.
+      - Remove the casings from the sausages. Heat 1 tablespoon of the olive oil in a skillet over medium-high heat and add the sausage meat. Cook, breaking up the meat into small pieces, until browned and cooked through, about 5 minutes. Drain on a paper towel lined plate and set aside to cool while you cook the vegetables. Wipe out any excess fat from the pan with paper towels.
+      - Heat 1 tablespoon of oil in the same skillet over medium-high heat. Add the green pepper, celery, and onion. Season with salt and pepper and add the sage. Cook until the vegetables are soft, about 10 minutes. Set aside to cool a bit.
+      - Crumble the corn muffins into a large bowl. Put in the cooled sausage and vegetables. Add the eggs and 1/4 cup chicken stock. Using your hands, mix well, adding more stock if the stuffing is too dry.
+      - Spray a 2-quart ovenproof baking dish with cooking spray. Put the stuffing into the dish and bake for 45 minutes to 1 hour, or until the top is browned and crispy.
+
+  - name: Emeril's Cranberry Sauce
+    categories: [Thanksgiving, Sauces]
+    description:
+      - Recipe courtesy of Emeril Lagasse. Makes about 2 cups.
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Cranberry }
+      - { qty: 1, ingredient: Orange, note: juice and chopped zest }
+      - { qty: "1/4", measure: cup, ingredient: Port }
+      - { qty: "1/2", measure: cup, ingredient: Sugar, note: or more if needed }
+      - { qty: 1, measure: tsp, ingredient: Cinnamon }
+      - { qty: 1, measure: tbsp, ingredient: Corn starch }
+    directions:
+      - In a small saucepan combine the cranberries, orange juice and zest, port, sugar and cinnamon. Bring to a boil, reduce the heat to a simmer and cook until the cranberries are tender, stirring occasionally.
+      - In a small cup make a slurry with the cornstarch and 1 tablespoon water. Whisk the cornstarch mixture into the cranberry sauce and cook, whisking, until the sauce thickens. Taste and add more sugar, if necessary.
+
+  - name: Cranberry Orange Sauce
+    categories: [Thanksgiving, Sauces]
+    prep_time: 5
+    cooking_time: 20
+    servings: 8
+    description:
+      - Recipe courtesy Tyler Florence. Serves 8 to 10.
+    ingredients:
+      - { qty: 16, measure: oz, ingredient: Cranberry, note: "2 (8-ounce) packages, fresh or frozen" }
+      - { qty: 1, ingredient: Orange, note: "zest cut into strips, and juiced" }
+      - { qty: "1/2", measure: cup, ingredient: Sugar }
+      - { qty: 1, ingredient: Cinnamon stick }
+    directions:
+      - Put all the ingredients into a saucepan over medium heat and simmer until the cranberries burst and the sauce thickens, about 15 to 20 minutes.
+      - Serve at room temperature or cool and refrigerate. Remove the cinnamon stick before serving.
+
+  - name: Alton Brown's Cranberry Sauce
+    categories: [Thanksgiving, Sauces]
+    prep_time: 10
+    cooking_time: 20
+    servings: 6
+    description:
+      - Recipe courtesy Alton Brown, 2007. Serves 6 to 8.
+      - "Inactive prep: 12 hours."
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Orange juice, note: freshly squeezed }
+      - { qty: "1/4", measure: cup, ingredient: Cranberry juice, note: "100 percent juice, not cocktail" }
+      - { qty: 1, measure: cup, ingredient: Honey }
+      - { qty: 1, measure: lb, ingredient: Cranberry, note: "fresh, approximately 4 cups" }
+    directions:
+      - Wash the cranberries and discard any soft or wrinkled ones.
+      - Combine the orange juice, cranberry juice and honey in a 2-quart saucepan over medium-high heat. Bring to a boil and then reduce the heat to medium-low and simmer for 5 minutes.
+      - Add the cranberries and cook for 15 minutes, stirring occasionally, until the cranberries burst and the mixture thickens. Do not cook for more than 15 minutes, as the pectin will start to break down and the sauce will not set as well. Remove from the heat and allow to cool for 5 minutes.
+      - Carefully spoon the cranberry sauce into a 3-cup mold. Place in the refrigerator for at least 6 hours and up to overnight.
+      - Remove from the refrigerator, overturn the mold and slide out the sauce. Slice and serve.
+
+  - name: Cranberry Sauce with Ginger Ale and Grand Marnier
+    categories: [Thanksgiving, Sauces]
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Cranberry, note: fresh }
+      - { qty: 1, measure: cup, ingredient: Sugar }
+      - { qty: 1, measure: cup, ingredient: Water }
+      - { qty: "3/4", measure: can, ingredient: Ginger ale }
+      - { qty: 1, ingredient: Orange, note: "zest, plus 1/2 to 3/4 of the flesh, chopped" }
+      - { qty: "1/4", measure: tsp, ingredient: Clove, note: ground }
+      - { ingredient: Cinnamon, note: ground }
+      - { qty: 1, measure: tbsp, ingredient: Grand Marnier }
+    directions:
+      - Bring the sugar and water to a boil, stirring to dissolve.
+      - Add the cranberries, cloves, orange and zest, Grand Marnier and ginger ale. Simmer over medium heat until the cranberries pop and the mixture cooks down and starts to get syrupy, with the cranberries starting to break up.
+      - Pour into a container, sprinkle with cinnamon and refrigerate.
+
+  - name: Turkey Gravy
+    categories: [Thanksgiving, Sauces]
+    description:
+      - Recipe courtesy Tyler Florence.
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Turkey wing, note: plus backbone and neck if you have them }
+      - { qty: 5, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Onion, note: "medium, halved" }
+      - { qty: 4, ingredient: Carrot, note: chopped }
+      - { qty: 1, measure: head, ingredient: Garlic, note: smashed }
+      - { qty: 2, measure: sprig, ingredient: Sage, note: fresh }
+      - { qty: 2, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 2, measure: sprig, ingredient: Rosemary, note: fresh }
+      - { qty: 8, ingredient: Black peppercorns }
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: "1/4", measure: cup, ingredient: Flour, note: all-purpose }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Heat the oven to 375 degrees F.
+      - Put the turkey wings (and backbone and neck, if you have them) into a small roasting pan and roast until golden brown, about 30 minutes.
+      - Heat 3 tablespoons olive oil in a large stock pot over medium-high heat. Add the onion, carrots, garlic, herbs, and peppercorns and cook for 5 minutes. Add the turkey wings. Pour some water into the roasting pan and scrape up all the browned bits on the bottom; add this to the pot. Cover everything in the pot with cold water by 1 inch and bring to a boil, skimming any foam that rises to the surface. Reduce the heat and simmer for about 1 1/2 to 2 hours.
+      - Strain out the solids and discard. Wipe out the pot and put it over medium heat. Melt the butter with the remaining 2 tablespoons olive oil and add the flour. Cook this roux, stirring frequently, until golden brown.
+      - Slowly whisk in the strained stock, working out any lumps. Cook until the gravy has thickened, about 10 to 15 minutes. Season with salt and pepper.
+
+  - name: Family Fresh Green Bean Casserole
+    categories: [Thanksgiving, Vegetables]
+    prep_time: 15
+    cooking_time: 30
+    servings: 6
+    description:
+      - Recipe courtesy Claire Robinson, 2009. Serves 6 to 8.
+    ingredients:
+      - { ingredient: Kosher salt }
+      - { qty: "1 1/2", measure: lb, ingredient: Green bean, note: "fresh French green beans, ends trimmed" }
+      - { qty: 4, measure: tbsp, ingredient: Butter, note: divided }
+      - { qty: 2, measure: tbsp, ingredient: Vidalia onion, note: finely chopped }
+      - { qty: 4, measure: oz, ingredient: Cremini mushroom, note: "baby portobello, cleaned and finely chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: cup, ingredient: Sour cream, note: 8 ounces }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1 1/2", measure: cup, ingredient: Corn flakes, note: corn cereal }
+      - { qty: "1/2", measure: lb, ingredient: Mozzarella, note: grated }
+    directions:
+      - Preheat the oven to 400 degrees F.
+      - Bring a large pot of salted water to a boil over medium heat. Add the beans and cook until just tender but still firm, about 5 to 7 minutes. Remove the beans to a large bowl of ice water to preserve their color and stop the cooking. Drain and set aside.
+      - Melt 2 tablespoons of the butter in a large skillet over medium-high heat. Add the onions and saute until translucent. Stir in the mushrooms, season with salt and pepper, to taste, and saute about 3 to 5 minutes. Add the flour and stir for another minute to cook out the raw flour taste, then whisk in the sour cream. Simmer for just a couple of minutes to bring the flavors together and taste for seasoning.
+      - Cut the green beans into 2-inch pieces. Melt the remaining 2 tablespoons of butter in a small pan. Crush the cereal flakes in a resealable plastic bag and add them to the pan with the butter. Toss to coat.
+      - Spread the green beans over the bottom of a 9-inch casserole dish. Pour all of the mushroom sauce over the beans and top with the grated cheese. Sprinkle with the buttered cereal flakes and bake until light golden brown and bubbly, approximately 20 minutes. Remove from the oven and serve.
+
+  - name: Paula Deen's Green Bean Casserole
+    categories: [Thanksgiving, Vegetables]
+    description:
+      - Recipe courtesy Paula Deen.
+    ingredients:
+      - { qty: "1/3", ingredient: Butter, note: stick }
+      - { qty: "1/2", measure: cup, ingredient: Onion, note: diced }
+      - { qty: "1/2", measure: cup, ingredient: Mushroom, note: "fresh, sliced" }
+      - { qty: 2, measure: cup, ingredient: Green bean, note: sliced }
+      - { qty: 3, measure: cup, ingredient: Chicken broth }
+      - { qty: 1, measure: can, ingredient: Cream of mushroom soup, note: 10 3/4-ounce }
+      - { qty: 1, measure: can, ingredient: Fried onion, note: 2.8-ounce can of French-fried onion rings }
+      - { qty: 1, measure: pinch, ingredient: House seasoning, note: Paula Deen's }
+      - { qty: 1, measure: cup, ingredient: Cheddar, note: grated }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Melt the butter in a large skillet. Saute the onions and mushrooms in the butter.
+      - Boil the green beans in the chicken broth for 10 minutes and drain.
+      - Add the green beans, mushroom soup, onion rings, and House Seasoning, to taste, to the onion mixture. Stir well. Pour into a greased 1 1/2-quart baking dish.
+      - Bake for 20 minutes, then top the casserole with the Cheddar and bake for 10 minutes longer, or until the casserole is hot and the cheese is melted.
+
+  - name: Green Beans and Portobello Mushroom Saute
+    categories: [Thanksgiving, Vegetables]
+    ingredients:
+      - { qty: "1 1/4", measure: lb, ingredient: Green bean, note: "trimmed and cut in half" }
+      - { ingredient: Salt, note: coarse }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, measure: tbsp, ingredient: Butter }
+      - { qty: 1, ingredient: Onion, note: chopped }
+      - { qty: 2, ingredient: Portobello mushrooms, note: "caps, halved and thinly sliced" }
+      - { qty: "1/2", measure: cup, ingredient: Sherry, note: dry }
+      - { ingredient: Black pepper }
+    directions:
+      - Simmer the green beans in salted boiling water for 5 minutes. Drain the green beans and return the skillet to moderate heat.
+      - Add the oil and butter to the pan. Add the onions and saute 2 to 3 minutes. Add the mushrooms and season with salt and pepper. Saute the mushrooms 3 to 5 minutes with the onions, then add the green beans back to the pan.
+      - Heat the green beans through and add the sherry. Cook for 1 to 2 minutes. Transfer the green beans and mushrooms to a serving plate.
+
+  - name: Bob's Candied Sweet Potatoes
+    categories: [Thanksgiving, Vegetables]
+    ingredients:
+      - { qty: 2, ingredient: Sweet potato, note: "2 to 3, depending on size" }
+      - { qty: 1, ingredient: Butter, note: stick }
+      - { qty: "1 1/4", measure: cup, ingredient: Brown sugar }
+      - { qty: "2/3", measure: cup, ingredient: Maple syrup }
+      - { qty: 1, ingredient: Orange, note: "zest of 1, juice of 1/2" }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 1, measure: tsp, ingredient: Cinnamon }
+      - { qty: 2, measure: tsp, ingredient: Vanilla extract }
+      - { qty: "1/2", measure: cup, ingredient: Sugar, note: granulated }
+      - { qty: "1/4", measure: tsp, ingredient: Nutmeg, note: freshly grated }
+      - { qty: "1/2", measure: tsp, ingredient: Ginger, note: "fresh, minced" }
+      - { qty: 2, measure: tsp, ingredient: Flour }
+      - { qty: "1/4", measure: cup, ingredient: Rum, note: dark }
+    directions:
+      - Boil the sweet potatoes until they just start to soften (underdone). Wrap in plastic wrap and let cool in the refrigerator. This can be done a day ahead.
+      - In a saucepan melt the butter. Add the brown sugar, maple syrup, orange zest and juice, cayenne, cinnamon, vanilla, granulated sugar, nutmeg, ginger, flour and rum. Bring to a simmer and let thicken slightly.
+      - Peel and slice the potatoes and layer them in a buttered casserole dish. Pour the sugar mixture over the potatoes and bake at 350 degrees F.
+    notes:
+      - "Revisions to try: delete the ginger, possibly the nutmeg, and adjust the amount of orange."
+
+  - name: Sweet Potato Casserole
+    categories: [Thanksgiving, Vegetables]
+    servings: 6
+    description:
+      - Serves 6 to 8.
+    ingredients:
+      - { qty: 3, measure: cup, ingredient: Sweet potato, note: mashed }
+      - { qty: 1, measure: cup, ingredient: Brown sugar }
+      - { qty: 2, ingredient: Egg, note: lightly beaten }
+      - { qty: 1, measure: tsp, ingredient: Vanilla extract }
+      - { qty: "1/2", measure: cup, ingredient: Milk }
+      - { qty: "1/2", measure: cup, ingredient: Butter, note: melted }
+      - { qty: "1/2", measure: cup, ingredient: Brown sugar, note: for the topping }
+      - { qty: "1/3", measure: cup, ingredient: Flour, note: for the topping }
+      - { qty: "1/3", measure: cup, ingredient: Butter, note: "melted, for the topping" }
+      - { qty: 1, measure: cup, ingredient: Pecans, note: "chopped, for the topping" }
+    directions:
+      - Combine the first 6 ingredients. Pour into a buttered 1 1/2 to 2-quart casserole dish.
+      - Mix the topping ingredients together and sprinkle over the top.
+      - Bake at 350 degrees F for 30 to 40 minutes, until hot and browned.
+
+  - name: Sweet Potato-Pecan Casserole
+    categories: [Thanksgiving, Vegetables]
+    cooking_time: 75
+    servings: 8
+    description:
+      - Recipe courtesy Ellie Krieger for Food Network Magazine.
+    ingredients:
+      - { ingredient: Cooking spray }
+      - { qty: "3 1/2", measure: lb, ingredient: Sweet potato, note: "about 5 medium, peeled and cut into 1-inch chunks" }
+      - { qty: "1/3", measure: cup, ingredient: Honey }
+      - { qty: 1, ingredient: Egg, note: large }
+      - { qty: 1, measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: "1/4", measure: tsp, ingredient: Nutmeg, note: ground }
+      - { qty: "1/8", measure: tsp, ingredient: Ground ginger }
+      - { ingredient: Kosher salt }
+      - { qty: 1, measure: tbsp, ingredient: Dark brown sugar, note: packed }
+      - { qty: "1/3", measure: cup, ingredient: Pecans, note: finely chopped }
+    directions:
+      - Preheat the oven to 350 degrees F. Mist an 8-inch square baking dish with cooking spray.
+      - Bring a few inches of water to a boil in a pot with a large steamer basket in place. Put the sweet potatoes in the basket, cover and steam until tender, 20 to 25 minutes. Transfer the potatoes to a bowl and let cool slightly.
+      - Add the honey, egg, 1/2 teaspoon cinnamon, the nutmeg, ginger and 1/2 teaspoon salt; whip with an electric mixer until smooth. Spread the sweet potato mixture in the prepared baking dish.
+      - Mix the brown sugar, pecans and the remaining 1/2 teaspoon cinnamon in a bowl; sprinkle over the potatoes. Bake until hot and beginning to brown around the edges, 40 to 45 minutes.
+
+  - name: Stuffed Sweet Potatoes with Pecan and Marshmallow Streusel
+    categories: [Thanksgiving, Vegetables]
+    prep_time: 15
+    cooking_time: 65
+    servings: 12
+    description:
+      - Recipe courtesy Tyler Florence.
+    ingredients:
+      - { qty: 12, ingredient: Sweet potato, note: large }
+      - { qty: "3/4", measure: cup, ingredient: Unsalted butter, note: "1 1/2 sticks, at room temperature" }
+      - { qty: "3/4", measure: cup, ingredient: Light brown sugar }
+      - { qty: "3/4", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: "1/4", measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: "1/4", measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: cup, ingredient: Pecans, note: toasted pieces }
+      - { qty: 1, measure: cup, ingredient: Marshmallow, note: miniature }
+    directions:
+      - Preheat the oven to 400 degrees F.
+      - Wash the sweet potatoes, scrubbing them well to remove any dirt. With a fork, prick the sweet potatoes in a couple of spots and place them on a sheet pan. Bake for about 45 minutes, or until a knife inserted in the center goes in easily.
+      - In a large bowl, mix the butter, brown sugar, and flour together until crumbly. Add the cinnamon, salt, pecans, and marshmallows; fold the streusel topping together to combine.
+      - Slice the sweet potatoes lengthwise down the center and push the ends towards the middle so they open up. Stuff the sweet potatoes generously with the streusel topping and return to the oven. Bake for another 20 minutes, or until the topping is bubbly and brown.
+
+  - name: Cranberry Glazed Breast of Turkey
+    categories: [Thanksgiving, Poultry]
+    description:
+      - Recipe courtesy Emeril Lagasse. Uses Emeril's Essence Creole Seasoning (its own recipe).
+    ingredients:
+      - { qty: "3/4", measure: gal, ingredient: Water, note: for the brine }
+      - { qty: 2, measure: cup, ingredient: White wine, note: for the brine }
+      - { qty: "1 1/2", measure: cup, ingredient: Orange juice, note: for the brine }
+      - { qty: 1, measure: cup, ingredient: Kosher salt, note: for the brine }
+      - { qty: 1, measure: cup, ingredient: Light brown sugar, note: for the brine }
+      - { qty: "1/3", measure: cup, ingredient: Ginger, note: "chopped, for the brine" }
+      - { qty: 1, measure: tbsp, ingredient: Black peppercorns, note: for the brine }
+      - { qty: 4, ingredient: Bay leaf, note: for the brine }
+      - { qty: 4, measure: sprig, ingredient: Thyme, note: "fresh, for the brine" }
+      - { qty: 1, ingredient: Turkey breast, note: "6-pound, whole" }
+      - { qty: 1, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: 1, measure: tbsp, ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: 12, measure: oz, ingredient: Cranberry, note: "fresh (1 bag), for the glaze" }
+      - { qty: "1/3", measure: cup, ingredient: Ginger, note: "chopped, for the glaze" }
+      - { qty: 2, measure: tsp, ingredient: Orange zest, note: for the glaze }
+      - { qty: 1, measure: cup, ingredient: Sugar, note: for the glaze }
+      - { qty: "1/4", measure: cup, ingredient: Orange juice, note: for the glaze }
+      - { qty: "1 1/4", measure: cup, ingredient: Water, note: for the glaze }
+      - { qty: "1/4", measure: cup, ingredient: Grand Marnier, note: "orange-flavored liqueur, for the glaze" }
+    directions:
+      - Combine all of the brine ingredients in a large non-reactive container (a stockpot works well) and stir to dissolve the salt and sugar. Rinse the turkey well under cold running water. Place the turkey in the brine, cover, and refrigerate, turning occasionally, for at least 12 hours and up to 24 hours.
+      - While the bird is brining, make the cranberry glaze by combining the cranberries, ginger, orange zest, sugar, orange juice, and water in a medium saucepan. Bring to a boil over high heat, stirring occasionally, and reduce to a simmer. Cook for 5 to 10 minutes, or until the cranberries burst and the sauce is very thick. Strain through a fine mesh sieve into a mixing bowl to cool. When cooled, add the liqueur and stir to combine. Cover and refrigerate until you are ready to glaze the bird. (Return the glaze to room temperature before serving; if it gets too thick, thin it with a bit of water.)
+      - Preheat the oven to 375 degrees F.
+      - Remove the turkey from the brine and discard the brine. Place the turkey, breast side up, in an aluminum foil lined roasting pan. Pat dry with paper towels. Rub the turkey with the vegetable oil and sprinkle on all sides with Essence.
+      - Roast the turkey until it is golden brown and almost done, about 1 hour and 20 to 30 minutes. Remove from the oven and brush all over with about 1/3 cup of the cranberry glaze. Return to the oven and continue cooking until an instant-read thermometer inserted in the thickest part of the breast registers 160 to 165 degrees F, about 10 minutes longer. (If the turkey gets too dark before it is cooked through, cover loosely with aluminum foil.)
+      - Transfer to a platter and let rest at least 15 minutes before carving. Carve into thin slices and serve with the remaining glaze passed at the table.
+
+  - name: Good Eats Roast Turkey
+    categories: [Thanksgiving, Poultry]
+    prep_time: 15
+    cooking_time: 150
+    servings: 10
+    description:
+      - Recipe courtesy Alton Brown, also featured in Food Network Magazine. Serves 10 to 12.
+      - "Inactive prep: 7 hours, plus 2 to 3 days of thawing."
+    ingredients:
+      - { qty: 1, ingredient: Turkey, note: "14 to 16-pound frozen young turkey" }
+      - { qty: 1, measure: cup, ingredient: Kosher salt, note: for the brine }
+      - { qty: "1/2", measure: cup, ingredient: Light brown sugar, note: for the brine }
+      - { qty: 1, measure: gal, ingredient: Vegetable stock, note: for the brine }
+      - { qty: 1, measure: tbsp, ingredient: Black peppercorns, note: for the brine }
+      - { qty: "1 1/2", measure: tsp, ingredient: Allspice, note: "berries, for the brine" }
+      - { qty: "1 1/2", measure: tsp, ingredient: Candied ginger, note: "chopped, for the brine" }
+      - { qty: 1, measure: gal, ingredient: Water, note: "heavily iced, for the brine" }
+      - { qty: 1, ingredient: Red apple, note: "sliced, for the aromatics" }
+      - { qty: "1/2", ingredient: Onion, note: "sliced, for the aromatics" }
+      - { qty: 1, ingredient: Cinnamon stick, note: for the aromatics }
+      - { qty: 1, measure: cup, ingredient: Water, note: for the aromatics }
+      - { qty: 4, measure: sprig, ingredient: Rosemary }
+      - { qty: 6, measure: leaf, ingredient: Sage }
+      - { ingredient: Canola oil }
+    directions:
+      - "2 to 3 days before roasting: begin thawing the turkey in the refrigerator or in a cooler kept at 38 degrees F."
+      - Combine the vegetable stock, salt, brown sugar, peppercorns, allspice berries, and candied ginger in a large stockpot over medium-high heat. Stir occasionally to dissolve the solids and bring to a boil. Remove the brine from the heat, cool to room temperature, and refrigerate.
+      - "Early on the day or the night before you'd like to eat: combine the brine, water and ice in a 5-gallon bucket. Place the thawed turkey (with innards removed) breast side down in the brine. If necessary, weigh down the bird to ensure it is fully immersed, cover, and refrigerate or set in a cool area for 8 to 16 hours, turning the bird once halfway through brining."
+      - Preheat the oven to 500 degrees F. Remove the bird from the brine and rinse inside and out with cold water. Discard the brine. Place the bird on a roasting rack inside a half sheet pan and pat dry with paper towels.
+      - Combine the apple, onion, cinnamon stick, and 1 cup of water in a microwave-safe dish and microwave on high for 5 minutes. Add the steeped aromatics to the turkey's cavity along with the rosemary and sage. Tuck the wings underneath the bird and coat the skin liberally with canola oil.
+      - Roast the turkey on the lowest level of the oven at 500 degrees F for 30 minutes. Insert a probe thermometer into the thickest part of the breast and reduce the oven temperature to 350 degrees F. Set the thermometer alarm (if available) to 161 degrees F. A 14 to 16-pound bird should require a total of 2 to 2 1/2 hours of roasting.
+      - Let the turkey rest, loosely covered with foil or a large mixing bowl, for 15 minutes before carving.
+
+  - name: World's Simplest Thanksgiving Turkey
+    categories: [Thanksgiving, Poultry]
+    prep_time: 10
+    cooking_time: 180
+    description:
+      - Recipe courtesy Food Network Magazine. The original has no ingredient list; these come from the directions.
+    ingredients:
+      - { qty: 1, ingredient: Turkey, note: 10 to 12 pounds }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { ingredient: Onion, note: "chopped, for aromatics" }
+      - { ingredient: Carrot, note: "chopped, for aromatics" }
+      - { ingredient: Apple, note: "chopped, for aromatics" }
+      - { ingredient: Butter, note: melted }
+    directions:
+      - Preheat the oven to 325 degrees F. Pull the neck and giblets out of the cavity; discard the liver and save the rest of the giblets for gravy.
+      - Dry the turkey with paper towels, then season inside and out with salt and pepper. Fill the turkey with aromatics like chopped onions, carrots, apples and herbs, then place breast-side up in a roasting pan and brush with melted butter.
+      - Tent with foil and roast for 2 hours (for a 10 to 12-pound turkey; add an extra 15 minutes per pound for larger birds).
+      - Remove the foil, baste with more melted butter and raise the oven to 425 degrees F. Roast for another hour or until the meat at the thigh registers 165 degrees F. Let rest while you make the gravy.
+
+  - name: Brined Rosemary Crusted Turkey with Pan Gravy
+    categories: [Thanksgiving, Poultry]
+    prep_time: 20
+    cooking_time: 240
+    servings: 8
+    description:
+      - Recipe courtesy Anne Burrell. Serves 8 to 10.
+      - "Inactive prep: 2 to 3 days brining plus an overnight rest."
+    ingredients:
+      - { qty: 8, measure: qt, ingredient: Water, note: "cold, for the brine" }
+      - { qty: "3/4", measure: cup, ingredient: Kosher salt, note: for the brine }
+      - { qty: "1/3", measure: cup, ingredient: Sugar, note: for the brine }
+      - { qty: 2, measure: tbsp, ingredient: Coriander seeds, note: for the brine }
+      - { qty: 2, measure: tbsp, ingredient: Fennel seed, note: for the brine }
+      - { qty: 1, measure: tsp, ingredient: Red pepper flakes, note: "crushed, for the brine" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "smashed, for the brine" }
+      - { qty: 3, ingredient: Bay leaf, note: for the brine }
+      - { qty: 2, ingredient: Carrot, note: "peeled and diced, for the brine" }
+      - { qty: 2, measure: rib, ingredient: Celery, note: "diced, for the brine" }
+      - { qty: 1, ingredient: Onion, note: "diced, for the brine" }
+      - { qty: 1, ingredient: Turkey, note: "12 to 14 pounds (free-range organic is great)" }
+      - { qty: 3, ingredient: Butter, note: "sticks, at room temperature, for the crust" }
+      - { qty: 1, measure: bunch, ingredient: Rosemary, note: "fresh, finely chopped, for the crust" }
+      - { ingredient: Kosher salt }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "smashed, for the gravy" }
+      - { qty: 2, measure: rib, ingredient: Celery, note: "1/2-inch dice, for the gravy" }
+      - { qty: 2, ingredient: Onion, note: "large, 1/2-inch dice, for the gravy" }
+      - { qty: 1, ingredient: Celery root, note: "large, 1/2-inch dice, for the gravy" }
+      - { qty: 1, ingredient: Fennel, note: "bulb, 1/2-inch dice, for the gravy" }
+      - { qty: 5, ingredient: Bay leaf, note: for the gravy }
+      - { qty: 4, measure: sprig, ingredient: Sage, note: "fresh, tied in a bundle" }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: fresh }
+      - { qty: 1, measure: qt, ingredient: Chicken stock, note: plus more if needed }
+      - { qty: "1/2", measure: bottle, ingredient: White wine, note: dry }
+    directions:
+      - "For the brine: combine 8 quarts cold water, the salt, sugar, coriander seeds, fennel seeds, red pepper flakes, garlic, bay leaves, carrots, celery and onions in a large container. Immerse the turkey in the brine and refrigerate for 2 to 3 days."
+      - "To prepare the turkey for cooking: remove the turkey from the brine the night before roasting and pat it thoroughly dry with paper towels. Combine the butter, rosemary and some salt in a small bowl, tasting to make sure it tastes good. Work the butter under the skin of the turkey and massage it into the breasts and the legs, and on the outside of the skin as well. Tie the legs together and over the breast to protect it during cooking. Place the turkey on a sheet tray and refrigerate overnight, uncovered; this helps the skin dry out and become really brown and crispy. Keep any food that won't be cooked away from the turkey in the fridge."
+      - "Thanksgiving Day: take the turkey out of the fridge 1 hour before placing it in the oven. Preheat the oven to 450 degrees F."
+      - "For the gravy: place the garlic, celery, onions, celery root, fennel, bay leaves, sage and thyme in a roasting pan and season with salt. Put the chicken stock and wine in the bottom of the roasting pan and place the turkey on top."
+      - Roast until the skin gets really nice and brown, about 40 minutes. Lower the oven to 350 degrees F for the remainder of the cooking time, about 17 minutes per pound. Baste every 30 minutes or so and add more stock to the pan if needed. Tent the turkey with foil when it gets to the proper color to prevent it from getting too dark.
+      - Remove the turkey from the oven when a thermometer inserted in the thickest part (not touching a bone) reads 160 degrees F. Remove it from the roasting pan and let it rest, loosely covered with foil, for at least 30 minutes.
+      - "To finish the gravy: remove the bay leaves, sage and thyme from the roasting pan. Using an immersion blender, blend the vegetables together until smooth. Taste and adjust the seasoning."

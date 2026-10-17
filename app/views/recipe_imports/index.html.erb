@@ -1,0 +1,37 @@
+<h1 class="mt-4">Import recipes</h1>
+<p>Recipe files in <code>db/recipes/</code>. Recipes that already exist are skipped, so a file can be imported again safely.</p>
+
+<% if flash[:alert] %>
+  <div class="alert alert-danger"><%= flash[:alert] %></div>
+<% end %>
+
+<% if @result %>
+  <div class="alert <%= @dry_run ? "alert-info" : "alert-success" %>" id="import-result">
+    <strong><%= @file %>:</strong>
+    <%= pluralize(@result.created.size, "recipe") %> <%= @dry_run ? "would be created" : "created" %><%= ", #{@result.skipped.size} skipped (already exist)" if @result.skipped.any? %>.
+    <% if @result.new_categories.any? %>
+      <br>New categories: <%= @result.new_categories.join(", ") %>
+    <% end %>
+    <% if @result.new_ingredients.any? %>
+      <br>New ingredients (<%= @result.new_ingredients.size %>): <%= @result.new_ingredients.sort.join(", ") %>
+    <% end %>
+    <% if !@dry_run && @result.created.any? %>
+      <br><%= link_to "See all recipes", recipes_path %>
+    <% end %>
+  </div>
+<% end %>
+
+<table class="table">
+  <thead><tr><th>File</th><th></th></tr></thead>
+  <tbody>
+    <% @files.each do |file| %>
+      <tr>
+        <td><%= file.basename %></td>
+        <td class="text-end">
+          <%= button_to "Preview", recipe_imports_path, params: { file: file.basename.to_s, dry_run: 1 }, class: "btn btn-outline-secondary btn-sm d-inline" , form: { class: "d-inline" } %>
+          <%= button_to "Import", recipe_imports_path, params: { file: file.basename.to_s }, class: "btn btn-primary btn-sm d-inline", form: { class: "d-inline" } %>
+        </td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>

@@ -40,9 +40,6 @@ module Admin
     #     transform_values { |value| value == "" ? nil : value }
     # end
 
-    def default_sort
-      { order: :name, direction: :asc }
-    end
 
     # See https://administrate-prototype.herokuapp.com/customizing_controller_actions
     # for more information

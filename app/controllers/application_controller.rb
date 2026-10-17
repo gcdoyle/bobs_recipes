@@ -1,8 +1,7 @@
 class ApplicationController < ActionController::Base
   def search
-    if params[:q].blank?
-      redirect_to(root_path)
-    end
+    return redirect_to(root_path) if params[:q].blank?
+
     @recipes = Recipe.search(params[:q])
   end
 end

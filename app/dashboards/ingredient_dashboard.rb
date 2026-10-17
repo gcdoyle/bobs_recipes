@@ -9,7 +9,6 @@ class IngredientDashboard < Administrate::BaseDashboard
   # on pages throughout the dashboard.
   ATTRIBUTE_TYPES = {
     image: PhotoField,
-    recipe_ingredients: Field::HasMany,
     recipes: Field::HasMany,
     url: StringLinkField,
     id: Field::Number,
@@ -64,8 +63,4 @@ class IngredientDashboard < Administrate::BaseDashboard
     ingredient.name
   end
 
-
-  def default_sort
-    { order: :name, direction: :asc }
-  end
 end

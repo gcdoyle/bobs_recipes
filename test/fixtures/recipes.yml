@@ -1,7 +1,10 @@
-# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+garlic_soup:
+  name: Roasted Garlic Soup
+  slug: roasted-garlic-soup
+  servings: 4
+  prep_time: 10
+  cooking_time: 40
 
-one:
-  title: MyString
-
-two:
-  title: MyString
+secret:
+  name: Secret Chili
+  slug: secret-chili

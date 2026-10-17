@@ -1,0 +1,476 @@
+# Recipes from "Casseroles, Ragus'.txt", part 1. Already imported from other
+# files and skipped here: Brussels Sprouts Gratin, Crab and Ricotta Cannelloni,
+# Corned Beef and Cabbage, Tyler's Eggplant Parmesan, Paula Deen's Green Bean
+# Casserole, Portuguese Sausage and Bean Stew, Michael Symon's Orecchiette,
+# Alton Brown's Paella, Hurry Up Chicken Pot Pie and Sweet Potato Casserole.
+# "Not Your Mama's Green Bean Casserole" is the same Alton Brown recipe as
+# Best Ever Green Bean Casserole, so it is imported once.
+recipes:
+  - name: Mama's Black-Eyed Pea Casserole
+    categories: [Casseroles, Beef, Beans]
+    description:
+      - Recipe courtesy Chris Owens.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Ground beef }
+      - { qty: 1, ingredient: Onion, note: "medium yellow, diced" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: 3, measure: cup, ingredient: Black-eyed pea, note: cooked }
+      - { qty: 1, ingredient: Jalapeno, note: "medium, diced" }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: "10-ounce, recommended Ro-tel" }
+      - { qty: 1, measure: can, ingredient: Cream of mushroom soup, note: 10-ounce }
+      - { qty: 1, measure: can, ingredient: Cream of chicken soup, note: 10-ounce }
+      - { qty: 1, measure: can, ingredient: Enchilada sauce, note: "10-ounce, mild" }
+      - { ingredient: Hot sauce, note: "a few dashes, Louisiana" }
+      - { qty: 2, measure: tbsp, ingredient: Creole seasoning, note: "Emeril's Essence" }
+      - { qty: 1, ingredient: Corn tortilla, note: package }
+      - { ingredient: Butter }
+      - { qty: 2, measure: cup, ingredient: Cheddar, note: grated }
+      - { ingredient: Green onion, note: "chopped, for garnish" }
+    directions:
+      - Brown the ground beef in a large skillet and drain the excess grease. Add the onion, garlic, jalapeno and Essence and cook 3 to 5 minutes, until the onion softens.
+      - Add the peas, tomatoes, mushroom soup, chicken soup, enchilada sauce and a few dashes of hot sauce. Simmer until warm, about 10 minutes.
+      - Preheat the oven to 350 degrees F. Tear the tortillas into large pieces, butter a large casserole dish and line the bottom with tortilla pieces.
+      - Spoon on a thin layer of the beef mixture, then a layer of cheese. Repeat with tortillas, beef and cheese, finishing with cheese.
+      - Cover with foil and bake 35 to 45 minutes. Cut into 2-inch squares and garnish with green onion.
+
+  - name: Paula Deen's Broccoli Casserole
+    categories: [Casseroles, Vegetables]
+    servings: 8
+    description:
+      - Recipe courtesy Paula Deen. Serves 8 to 10.
+    ingredients:
+      - { qty: 2, ingredient: Broccoli, note: "10-ounce packages frozen chopped, cooked and drained" }
+      - { qty: 1, measure: cup, ingredient: Mayonnaise }
+      - { qty: 1, measure: cup, ingredient: Cheddar, note: "sharp, grated" }
+      - { qty: 1, measure: can, ingredient: Cream of mushroom soup, note: 10 3/4-ounce condensed }
+      - { qty: 2, ingredient: Egg, note: lightly beaten }
+      - { qty: 2, measure: cup, ingredient: Ritz crackers, note: "or other crackers, crushed" }
+      - { qty: 2, measure: tbsp, ingredient: Butter, note: melted }
+    directions:
+      - Preheat the oven to 350 degrees F and spray a 13 by 9-inch baking dish with cooking spray.
+      - In a large bowl combine the broccoli, mayonnaise, cheese, soup and eggs and mix well. Spread in the baking dish.
+      - Top with the crushed crackers, pour the melted butter evenly over them and bake 35 minutes, until set and browned.
+
+  - name: Cauliflower Gratin
+    categories: [Casseroles, Vegetables]
+    ingredients:
+      - { qty: 1, measure: head, ingredient: Cauliflower, note: sliced }
+      - { qty: 4, measure: tbsp, ingredient: Butter }
+      - { qty: 3, measure: tbsp, ingredient: Flour }
+      - { qty: 2, measure: cup, ingredient: Milk, note: hot }
+      - { qty: "1/8", measure: tsp, ingredient: Nutmeg, note: freshly ground }
+      - { qty: "1/2", measure: cup, ingredient: Gruyere cheese, note: plus more for garnish }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+    directions:
+      - Preheat the oven to 400 degrees F. Blanch the cauliflower in a large pot of boiling salted water for 5 minutes, until still crisp, then drain into an ice bath.
+      - Melt the butter in a saucepot over medium heat. Once it foams and subsides, add the flour and cook, whisking, 3 minutes. Add the hot milk and whisk constantly as it comes to a boil and thickens.
+      - Off the heat, add a pinch of salt, a few cracks of pepper, the nutmeg and the cheese and stir until melted.
+      - Pour 1/3 of the sauce into a lightly greased 9 by 9 casserole, add a layer of cauliflower and more sauce, then another layer and the rest of the sauce. Top with more cheese.
+      - Bake 30 minutes, until golden brown and bubbling.
+
+  - name: Cheesy Cauliflower Gratin
+    categories: [Casseroles, Vegetables]
+    ingredients:
+      - { qty: 10, measure: oz, ingredient: Cauliflower, note: "frozen florets, recommended Pictsweet" }
+      - { qty: 1, measure: can, ingredient: Cheddar cheese soup, note: "10.75-ounce condensed, recommended Campbell's" }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1/4", measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: cup, ingredient: Cheese, note: Mexican style shredded }
+      - { qty: 2, measure: tbsp, ingredient: Parmesan, note: grated }
+      - { qty: 2, measure: tbsp, ingredient: Bread crumbs, note: Italian style }
+      - { qty: 1, measure: tsp, ingredient: Olive oil, note: extra-virgin }
+    directions:
+      - Preheat the broiler.
+      - In a microwave-safe casserole stir together the cauliflower, soup, cayenne, salt and shredded cheese. Cover with plastic wrap and microwave on high 6 minutes.
+      - Combine the Parmesan, bread crumbs and olive oil. Uncover the cauliflower, spoon the crumbs over and broil 1 to 2 minutes, until golden.
+
+  - name: Chicken & Broccoli Alfredo
+    categories: [Casseroles, Poultry, Pasta]
+    description:
+      - "From Campbell's Kitchen, made with Campbell's Condensed Cream of Mushroom Soup."
+    ingredients:
+      - { qty: "1/2", measure: lb, ingredient: Linguine, note: half of a 1-pound package }
+      - { qty: 1, measure: cup, ingredient: Broccoli, note: fresh or frozen florets }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: "1 1/4", measure: lb, ingredient: Chicken breast, note: "skinless, boneless, cut into 1 1/2-inch pieces" }
+      - { qty: 1, measure: can, ingredient: Cream of mushroom soup, note: 10 3/4-ounce condensed }
+      - { qty: "1/2", measure: cup, ingredient: Milk }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: "grated, plus more for serving" }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper }
+    directions:
+      - Cook the linguine according to the package directions in a 3-quart saucepan, adding the broccoli for the last 4 minutes. Drain well.
+      - Heat the butter in a 10-inch skillet over medium-high heat. Cook the chicken until well browned and cooked through, stirring often.
+      - Stir in the soup, milk, cheese, pepper and linguine mixture and cook until hot and bubbling, stirring occasionally. Serve with more Parmesan.
+
+  - name: Best Ever Green Bean Casserole
+    categories: [Casseroles, Vegetables, Thanksgiving]
+    servings: 4
+    description:
+      - "Recipe courtesy Alton Brown, 2007. Serves 4 to 6. The file also has it as \"Not Your Mama's Green Bean Casserole\"."
+    ingredients:
+      - { qty: 2, ingredient: Onion, note: "medium, thinly sliced, for the topping" }
+      - { qty: "1/4", measure: cup, ingredient: Flour, note: for the topping }
+      - { qty: 2, measure: tbsp, ingredient: Panko, note: for the topping }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt, note: for the topping }
+      - { ingredient: Cooking spray }
+      - { qty: 2, measure: tbsp, ingredient: Kosher salt, note: "plus 1 teaspoon, divided" }
+      - { qty: 1, measure: lb, ingredient: Green bean, note: "fresh, trimmed and halved" }
+      - { qty: 2, measure: tbsp, ingredient: Butter, note: unsalted }
+      - { qty: 12, measure: oz, ingredient: Mushroom, note: "trimmed, 1/2-inch pieces" }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: "1/4", measure: tsp, ingredient: Nutmeg, note: freshly ground }
+      - { qty: 2, measure: tbsp, ingredient: Flour }
+      - { qty: 1, measure: cup, ingredient: Chicken broth }
+      - { qty: 1, measure: cup, ingredient: Half-and-half }
+    directions:
+      - Preheat the oven to 475 degrees F. Toss the onions with the 1/4 cup flour, panko and 1 teaspoon salt, spread on a sprayed sheet pan and bake until golden, about 30 minutes, tossing 2 to 3 times. Set aside and lower the oven to 400 degrees F.
+      - Meanwhile bring a gallon of water and 2 tablespoons salt to a boil in an 8-quart saucepan. Blanch the beans 5 minutes, drain and plunge into ice water. Drain.
+      - Melt the butter in a 12-inch cast iron skillet over medium-high heat. Add the mushrooms, 1 teaspoon salt and the pepper and cook until they give up some liquid, 4 to 5 minutes. Add the garlic and nutmeg and cook 1 to 2 minutes.
+      - Sprinkle with the 2 tablespoons flour and cook 1 minute. Add the broth and simmer 1 minute, then lower to medium-low, add the half-and-half and cook until thickened, 6 to 8 minutes.
+      - Off the heat stir in 1/4 of the onions and all of the beans. Top with the remaining onions and bake until bubbly, about 15 minutes.
+
+  - name: Clinton Kelly's Green Bean Casserole with Caramelized Onions and Puff Pastry
+    categories: [Casseroles, Vegetables, Thanksgiving]
+    ingredients:
+      - { qty: "1 1/2", measure: lb, ingredient: Green bean, note: "trimmed, cut into 1-inch pieces" }
+      - { qty: 2, ingredient: Onion, note: "large sweet yellow, halved and sliced" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: "1/2", measure: cup, ingredient: White wine }
+      - { qty: 3, measure: tbsp, ingredient: Butter, note: divided }
+      - { qty: 2, measure: tbsp, ingredient: Flour, note: plus more for rolling }
+      - { qty: "1 3/4", measure: cup, ingredient: Milk, note: whole }
+      - { qty: 8, measure: oz, ingredient: Cheddar, note: "high quality shredded blend" }
+      - { qty: 1, measure: tbsp, ingredient: Dijon mustard }
+      - { qty: 3, measure: dash, ingredient: Hot sauce }
+      - { qty: "1/4", measure: cup, ingredient: Parmesan, note: divided }
+      - { qty: 1, ingredient: Puff pastry, note: "sheet, frozen, thawed" }
+      - { qty: 1, ingredient: Egg, note: beaten }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly cracked }
+    directions:
+      - Melt 1 tablespoon butter in a large saute pan over medium heat, add the onions and salt and cook until brown and caramelized. Add the garlic and cook 1 minute. Deglaze with the wine and reduce by half.
+      - Blanch the beans in salted boiling water, plunge into ice water and drain. Toss them in the pan with the onions, then transfer to a 9 by 13 casserole.
+      - For the sauce, melt the remaining 2 tablespoons butter in a saucepan, whisk in the flour and cook over medium heat until golden. Slowly whisk in the milk and cook until thickened. Add the mustard, cheddar and 2 tablespoons Parmesan and stir until melted. Season with salt, pepper and hot sauce.
+      - Pour the sauce over the beans and press into an even layer. Roll the puff pastry on a floured surface to the size of the dish and lay it over, folding the edges over the sides.
+      - Brush with egg wash and sprinkle with the remaining Parmesan and pepper. Set on a baking sheet and bake at 400 degrees F for 20 to 25 minutes, until golden.
+
+  - name: Sausage and Pepper Frittata
+    categories: [Casseroles, Eggs, Sausage]
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell.
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 3, ingredient: Italian sausage, note: "hot links, removed from the casing and crumbled" }
+      - { qty: 1, ingredient: Red bell pepper, note: 1/4-inch dice }
+      - { qty: 1, ingredient: Yellow bell pepper, note: 1/4-inch dice }
+      - { qty: 1, measure: cup, ingredient: Parmesan, note: "Parmigiano-Reggiano, grated" }
+      - { qty: 12, ingredient: Egg, note: beaten with 1/4 cup water }
+      - { ingredient: Salt }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Coat a nonstick 10-inch saute pan with olive oil. Brown the sausage, then add the peppers and saute until soft.
+      - Stir the Parmigiano into the beaten eggs and season lightly with salt. With a heat-proof spatula stir the eggs into the pan to distribute the sausage and peppers.
+      - Once the eggs set on the bottom and sides, bake 7 to 8 minutes, until cooked through. Cut into wedges and serve hot or at room temperature.
+
+  - name: Eggplant and Sweet Sausage Bake
+    categories: [Casseroles, Vegetables, Sausage]
+    description:
+      - Recipe courtesy Emeril Lagasse.
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Olive oil }
+      - { qty: "1/2", measure: lb, ingredient: Italian sausage, note: "sweet, removed from the casing" }
+      - { qty: 1, ingredient: Eggplant, note: "medium, peeled, 1-inch cubes (about 1 pound)" }
+      - { qty: "1 1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: cup, ingredient: Onion, note: chopped }
+      - { qty: "1/4", measure: cup, ingredient: Bell pepper, note: chopped }
+      - { qty: "1/4", measure: cup, ingredient: Celery, note: chopped }
+      - { qty: "1/2", measure: tsp, ingredient: Thyme, note: dried }
+      - { qty: "1/2", measure: tsp, ingredient: Oregano, note: dried }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: cup, ingredient: Chicken stock }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Bread crumbs, note: fine dried }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: grated }
+    directions:
+      - Preheat the oven to 375 degrees F.
+      - Heat the oil in a large skillet over medium-high heat and brown the sausage. Add the eggplant, salt, cayenne and black pepper and saute 2 to 3 minutes, until slightly soft.
+      - Add the onions, bell peppers and celery and saute 2 to 3 minutes. Add the thyme, oregano and garlic and cook about 1 minute.
+      - Add the stock and parsley and cook about 3 minutes, stirring. Off the heat mix in the bread crumbs and cheese.
+      - Spoon into a casserole dish and bake about 45 minutes, until bubbly and golden brown.
+
+  - name: Cheesy Squash Casserole
+    categories: [Casseroles, Vegetables]
+    servings: 6
+    description:
+      - Serves 6 to 8. It appears twice in the file.
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: 6, ingredient: Yellow squash, note: "medium, thinly sliced" }
+      - { qty: 1, ingredient: Vidalia onion, note: "large, thinly sliced" }
+      - { qty: 1, measure: tbsp, ingredient: Butter }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: grated }
+      - { qty: 1, measure: cup, ingredient: Cheddar, note: "sharp, shredded" }
+      - { qty: "1/2", measure: cup, ingredient: Sour cream }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, ingredient: Ritz crackers, note: "sleeve, crushed medium to fine" }
+    directions:
+      - Preheat the oven to 350 degrees F and grease a 2-quart casserole.
+      - Heat the oil in a large skillet over medium heat and saute the squash, onion and butter until soft.
+      - Transfer to a bowl and stir in the Parmesan, Cheddar and sour cream. Season with salt and pepper.
+      - Spread in the dish, sprinkle the cracker crumbs evenly over the top and bake 20 minutes, until golden and bubbly.
+
+  - name: Galumkis
+    categories: [Casseroles, Pork, Beef]
+    description:
+      - Bob's ingredient list for stuffed cabbage, with no amounts for most items and no directions. See Bob's Stuffed Cabbage (Golumkis) for his method.
+    ingredients:
+      - { qty: 1, ingredient: Onion, note: "medium, chopped" }
+      - { qty: 1, measure: lb, ingredient: Ground pork }
+      - { qty: 2, measure: lb, ingredient: Ground beef }
+      - { qty: "3/4", measure: lb, ingredient: Bacon }
+      - { qty: 1, measure: cup, ingredient: Rice }
+      - { qty: 4, measure: oz, ingredient: Tomato sauce }
+      - { qty: 1, measure: splash, ingredient: Red wine }
+      - { ingredient: Allspice }
+      - { ingredient: Nutmeg }
+      - { ingredient: Parsley }
+      - { ingredient: Sauerkraut }
+      - { ingredient: Sugar }
+      - { ingredient: Tomato juice }
+    notes:
+      - Ingredients only; the file has no directions for this one.
+
+  - name: Bob's Stuffed Cabbage (Golumkis)
+    categories: [Casseroles, Pork, Beef]
+    description:
+      - Bob's own method. Try to balance the size of the dish, the amount of filling and the tomato mixture to keep it moist.
+    ingredients:
+      - { qty: 1, measure: head, ingredient: Cabbage }
+      - { ingredient: Vinegar, note: for the parboiling water }
+      - { qty: 2, ingredient: Onion, note: chopped }
+      - { qty: 1, measure: lb, ingredient: Bacon, note: diced }
+      - { qty: 8, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: 1, measure: bunch, ingredient: Celery, note: chopped }
+      - { qty: 1, measure: bunch, ingredient: Parsley, note: chopped }
+      - { qty: 1, measure: lb, ingredient: Ground pork, note: or 1 1/2 lb each pork and beef and no veal }
+      - { qty: 1, measure: lb, ingredient: Ground beef }
+      - { qty: 1, measure: lb, ingredient: Ground veal }
+      - { qty: 2, measure: cup, ingredient: Rice, note: parboiled and strained }
+      - { qty: "1/3", measure: tsp, ingredient: Cinnamon }
+      - { qty: "1/3", measure: tsp, ingredient: Nutmeg, note: ground }
+      - { qty: 2, measure: tsp, ingredient: Paprika }
+      - { qty: 4, ingredient: Egg }
+      - { ingredient: Sauerkraut, note: drained }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 1, measure: can, ingredient: Tomato, note: "large can tomato puree" }
+      - { qty: 3, measure: tbsp, ingredient: Sugar }
+      - { qty: 8, ingredient: Clove, note: whole }
+      - { qty: 1, measure: can, ingredient: Tomato juice, note: large can tomato or V8 juice }
+    directions:
+      - Parboil the cabbage in water with vinegar added.
+      - Saute the onions and bacon. Add the garlic, celery and parsley, then the ground pork, beef and veal. Let cool.
+      - Add the rice, cinnamon, nutmeg, paprika and eggs and mix.
+      - Stuff and roll the wilted cabbage leaves and arrange in layers in a casserole dish. Cover each layer with a mixture of the chopped remaining cabbage leaves and hearts, sauerkraut, salt and pepper, and the tomato puree - lightly over each layer and heavy on top.
+      - Sprinkle the top with the sugar and whole cloves and pour in the tomato or V8 juice.
+      - Cover and bring to a boil in a 500 degree oven, then reduce to 350 degrees and bake 2 1/2 hours, uncovering at the end to brown.
+
+  - name: Stuffed Cabbage
+    categories: [Casseroles, Beef]
+    servings: 8
+    description:
+      - Recipe courtesy Wayne Harley Brachman.
+    ingredients:
+      - { qty: 2, measure: head, ingredient: Cabbage, note: "large; outer leaves for rolling, inside leaves shredded" }
+      - { qty: "1 1/2", measure: lb, ingredient: Ground beef, note: for the stuffing }
+      - { qty: "1 1/2", measure: cup, ingredient: Barley, note: "cooked in beef stock per the package, for the stuffing" }
+      - { qty: 1, ingredient: Onion, note: "large, minced, for the stuffing" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "minced, for the stuffing" }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin, note: for the stuffing }
+      - { qty: 1, measure: tsp, ingredient: Paprika, note: "sweet, for the stuffing" }
+      - { qty: 1, ingredient: Egg, note: "large, for the stuffing" }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: for the sauce }
+      - { qty: 1, measure: tbsp, ingredient: Canola oil, note: for the sauce }
+      - { qty: 1, ingredient: Onion, note: "large, coarsely chopped, for the sauce" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: "minced, for the sauce" }
+      - { qty: 2, measure: cup, ingredient: Beef stock, note: strong }
+      - { qty: 1, measure: cup, ingredient: Tomato sauce }
+      - { qty: 1, measure: tbsp, ingredient: Paprika, note: "sweet, for the sauce" }
+    directions:
+      - If the leaves don't peel off, blanch the whole head in boiling water until each layer strips off. You need 16 big leaves. Cook them 2 minutes until pliable, drain and cut out the thick part of the stem.
+      - Mix the stuffing ingredients, form 1/4 cup into an oval and place in the center of a leaf. Roll once from the stem end, tuck in the sides and roll up.
+      - Preheat the oven to 325 degrees F.
+      - Saute the onion in the oils until golden, then the garlic for 1 more minute. Add the tomato sauce and stock and whisk in the paprika.
+      - Spread the shredded remaining cabbage in a large baking dish, arrange the rolls seam side down on top and cover with the sauce.
+      - Bake covered 1 hour, adding liquid as needed to keep the cabbage moist, then uncover and bake another hour.
+
+  - name: Anne Burrell's Lasagna
+    categories: [Casseroles, Pasta, Sausage]
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. Serves 6 to 8. For the best slicing, make and bake it the day before and reheat before slicing.
+    ingredients:
+      - { ingredient: Kosher salt }
+      - { qty: 24, measure: oz, ingredient: Lasagna noodles, note: 1 1/2 (16-ounce) boxes }
+      - { ingredient: Olive oil }
+      - { qty: 1, measure: lb, ingredient: Italian sausage, note: bulk }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "smashed, divided" }
+      - { ingredient: Red pepper flakes }
+      - { qty: 12, measure: oz, ingredient: Cremini mushroom, note: "stems removed, caps sliced" }
+      - { qty: 1, ingredient: Zucchini, note: halved lengthwise and cut on the bias }
+      - { qty: 2, measure: cup, ingredient: Ricotta }
+      - { qty: 2, measure: cup, ingredient: Parmesan, note: "Parmigiano-Reggiano, grated, divided" }
+      - { qty: 2, ingredient: Egg }
+      - { qty: 7, measure: leaf, ingredient: Basil, note: "6 to 7, chiffonade" }
+      - { ingredient: "Anne Burrell's Marinara Sauce", note: 1 recipe }
+      - { qty: 1, measure: lb, ingredient: Mozzarella, note: grated }
+    directions:
+      - Cook the noodles in batches in a large pot of well-salted boiling water until soft and pliable but not limp, 6 to 7 minutes. Lay flat on a sheet tray to cool.
+      - Coat a large saute pan with olive oil over medium-high heat and cook the sausage until brown and crumbly. Drain on paper towels.
+      - Wipe out the pan, add fresh oil, 2 cloves garlic and a pinch of red pepper. When the garlic is golden, discard it, add the mushrooms, season with salt and cook until soft and dark brown, 4 to 5 minutes. Remove, then repeat with the remaining garlic and the zucchini.
+      - Combine the ricotta, half the Parmigiano, the eggs and basil and season with salt. Preheat the oven to 350 degrees F.
+      - Spread a couple of ladles of sauce in a deep 9 by 13-inch dish and cover with noodles. Spread 1/3 of the ricotta mixture, then a layer of noodles going the other direction.
+      - Spread with sauce, then 1/3 of the sausage, mushrooms and zucchini, then mozzarella and Parmigiano. Repeat until the pan is full, ending with noodles, sauce, mozzarella and Parmigiano.
+      - Cover with foil, set on a baking sheet and bake until hot and bubbly, about 1 hour 15 minutes, uncovering for the last 15 minutes. Let cool 20 minutes before slicing.
+
+  - name: Lasagna al Forno
+    categories: [Casseroles, Pasta, Beef]
+    servings: 12
+    description:
+      - Recipe courtesy Tyler Florence.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Lasagna noodles, note: dried }
+      - { ingredient: Olive oil }
+      - { qty: 1, ingredient: Onion, note: chopped }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: sliced }
+      - { qty: 2, measure: tbsp, ingredient: Basil, note: "fresh, chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Oregano, note: "fresh, chopped, for the meat" }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: "1 1/2", measure: lb, ingredient: Ground beef }
+      - { qty: 1, measure: lb, ingredient: Italian sausage, note: ground }
+      - { qty: 6, measure: oz, ingredient: Tomato paste, note: 1 can }
+      - { qty: 30, measure: oz, ingredient: Ricotta, note: 2 containers }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "Italian flat-leaf, finely chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Oregano, note: "fresh, chopped, for the ricotta" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 2, ingredient: Egg, note: lightly beaten }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: "grated, plus more for topping" }
+      - { qty: 4, measure: cup, ingredient: Tomato sauce, note: prepared }
+      - { qty: 1, measure: lb, ingredient: Mozzarella, note: "shredded, plus more for topping" }
+    directions:
+      - Cook the noodles in plenty of boiling salted water until pliable and barely tender, about 10 minutes, stirring to prevent sticking. Drain and coat with olive oil.
+      - Coat a large skillet with olive oil and saute the onion, garlic, basil, oregano and bay leaves over medium heat for 5 minutes. Brown the beef and sausage, about 15 minutes, and drain the fat. Stir in the tomato paste and let cool.
+      - Combine the ricotta, parsley and oregano, stir in the eggs and Parmesan and season with salt and pepper.
+      - Coat the bottom of a 13 by 9-inch pan with a ladle of sauce. Arrange 4 noodles lengthwise, slightly overlapping, and line each end of the pan with a noodle to hold in the corners.
+      - Spread half the meat, then half the ricotta, then half the mozzarella and a ladle of sauce. Repeat, then top with noodles, sauce, mozzarella and Parmesan. Tap the pan to release air bubbles.
+      - Bake at 350 degrees F for 1 hour. Let rest 30 minutes, then cut into 2-inch squares.
+
+  - name: Mirliton, Shrimp and Crabmeat Casserole
+    categories: [Casseroles, Seafood, Cajun]
+    servings: 8
+    description:
+      - Recipe courtesy Emeril Lagasse, 2003. Serves 8 to 10.
+    ingredients:
+      - { qty: 1, measure: tsp, ingredient: Butter, note: "unsalted, for the dish" }
+      - { qty: 7, measure: lb, ingredient: Mirliton, note: "peeled, 1-inch thick slices, or 1 (7-pound) green pumpkin" }
+      - { qty: "1/4", measure: cup, ingredient: Vegetable oil }
+      - { qty: "1 1/4", measure: cup, ingredient: Onion, note: "yellow, finely chopped" }
+      - { qty: "1/3", measure: cup, ingredient: Garlic, note: finely chopped }
+      - { qty: "2 1/2", measure: tsp, ingredient: Salt }
+      - { qty: 2, measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: lb, ingredient: Shrimp, note: peeled and deveined }
+      - { qty: "1/2", measure: lb, ingredient: Crab, note: "lump crabmeat, picked over" }
+      - { qty: "1/4", measure: cup, ingredient: Green onion, note: finely chopped }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "fresh, finely chopped" }
+      - { qty: 1, measure: lb, ingredient: Gruyere cheese, note: "or mozzarella, finely grated" }
+    directions:
+      - Put the mirlitons in a large pot with water 1 inch up the sides. Cover, bring to a boil and cook over medium-high heat until very tender, 40 to 45 minutes. Drain in a colander, pressing out as much liquid as possible.
+      - Heat the oil in a large pot over medium-high heat and cook the onion until soft, about 4 minutes. Add the garlic and cook 1 minute.
+      - Add the mirliton, salt and pepper and cook, stirring often, until very thick and most of the liquid has evaporated, 30 to 40 minutes. Watch near the end that it doesn't burn.
+      - Preheat the broiler. Gently stir in the shrimp, crabmeat, green onions and parsley and adjust the seasoning.
+      - Transfer to the buttered dish, spread the cheese over the top and broil until bubbly and lightly browned, about 5 minutes. Serve immediately.
+    notes:
+      - Any bland squash can stand in for the mirliton or green pumpkin - yellow squash, zucchini or long green Italian squash. Big bland Jack o'lantern pumpkins work too, but not butternut or acorn squash.
+
+  - name: Paula Deen's Stuffed Red Peppers
+    categories: [Casseroles, Beef, Pork]
+    description:
+      - Recipe courtesy Paula Deen.
+    ingredients:
+      - { qty: 4, ingredient: Red bell pepper, note: large }
+      - { qty: "3/4", measure: lb, ingredient: Ground chuck }
+      - { qty: "1/2", measure: lb, ingredient: Ground pork }
+      - { qty: 1, ingredient: Onion, note: "medium, chopped" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: tsp, ingredient: Beef bouillon, note: "granules, divided" }
+      - { qty: 2, measure: tsp, ingredient: House seasoning, note: "Paula Deen's" }
+      - { qty: 1, measure: cup, ingredient: Cooked rice }
+      - { qty: "1/2", measure: cup, ingredient: Salsa, note: jarred cheese and salsa }
+      - { qty: "1/2", measure: cup, ingredient: Sour cream }
+      - { qty: 1, measure: cup, ingredient: Diced tomatoes }
+      - { qty: "1/2", measure: cup, ingredient: Green onion, note: "tops, chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Soy sauce }
+      - { qty: 1, measure: cup, ingredient: Water, note: hot }
+    directions:
+      - Preheat the oven to 350 degrees F. Halve the peppers lengthwise, leaving the stems on, and remove the seeds and ribs.
+      - In a hot skillet saute the beef, pork, onion, garlic, 1 teaspoon bouillon and the house seasoning until the onions are translucent. Drain the fat.
+      - Mix in the rice, cheese and salsa, sour cream, tomatoes, green onion and soy sauce, and stuff the peppers.
+      - Mix the hot water with the remaining bouillon and pour into a shallow casserole. Add the peppers, cover with foil and bake 25 to 35 minutes.
+      - Uncover, spoon the juices over the peppers and bake 10 to 15 minutes more.
+
+  - name: Cajun Stuffed Peppers
+    categories: [Casseroles, Cajun, Sausage]
+    servings: 4
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Brown rice, note: long-grain }
+      - { qty: "1/3", measure: cup, ingredient: Quinoa }
+      - { qty: 2, ingredient: Bell pepper, note: "large green, halved lengthwise and seeded" }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Onion, note: "medium, chopped" }
+      - { qty: "1/4", measure: lb, ingredient: Andouille sausage, note: finely chopped }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: "1/2", measure: tsp, ingredient: Thyme, note: dried }
+      - { qty: 1, measure: pinch, ingredient: Allspice, note: "large pinch, optional" }
+      - { ingredient: Kosher salt }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: "14-ounce, low-sodium" }
+      - { qty: 1, measure: bunch, ingredient: Kale, note: "small, stems removed, leaves chopped" }
+      - { ingredient: Parsley, note: "fresh, chopped, optional for topping" }
+    directions:
+      - Boil the brown rice in a saucepan of water for 10 minutes, then stir in the quinoa and cook until both are tender, about 15 more minutes. Drain well.
+      - Meanwhile drizzle the peppers with 1 tablespoon water in a microwave-safe bowl, cover and microwave 10 minutes.
+      - Heat the oil in a wide saucepan over medium-high heat and cook the onion until golden, about 5 minutes. Add the sausage, garlic, thyme, allspice and 1/2 teaspoon salt and cook until the sausage is crisp, about 3 minutes.
+      - Add the tomatoes and 1 cup water, pile the kale on top, cover and cook until wilted, about 2 minutes. Stir in and bring to a simmer.
+      - Arrange the peppers on top, cover and simmer until the kale is tender, about 8 minutes.
+      - Divide the peppers among plates, stir the grains into the kale mixture, season with salt and spoon into the peppers. Top with parsley.
+
+  - name: Chipotle Tamale Pie
+    categories: [Casseroles, Mexican, Poultry]
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Butter, note: "unsalted, room temperature" }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, measure: lb, ingredient: Turkey, note: "lean ground, or ground beef" }
+      - { qty: 1, ingredient: Onion, note: "medium yellow, chopped" }
+      - { qty: 1, ingredient: Bell pepper, note: "green, diced" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: finely minced }
+      - { qty: 2, measure: tsp, ingredient: Ground cumin }
+      - { qty: 1, measure: can, ingredient: Pinto beans, note: "15-ounce, drained and rinsed" }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: 8-ounce }
+      - { qty: 2, ingredient: Chipotle in adobo, note: "chiles, plus 1 teaspoon adobo sauce" }
+      - { qty: 1, measure: cup, ingredient: Cheddar, note: grated }
+      - { qty: "1/2", measure: cup, ingredient: Cilantro, note: "fresh, chopped" }
+      - { qty: 8.5, measure: oz, ingredient: Cornbread mix, note: 1 package }
+      - { qty: 1, ingredient: Egg }
+      - { qty: "1/3", measure: cup, ingredient: Milk }
+    directions:
+      - Preheat the oven to 400 degrees F and grease an 8-inch baking dish with the butter.
+      - Heat the oil in a nonstick skillet over medium heat. Cook the turkey, onion, green pepper and garlic until the turkey is cooked through, about 8 minutes. Drain the fat and sprinkle with the cumin.
+      - Add the beans, tomatoes, chiles and adobo sauce and bring to a boil, then simmer over medium heat until slightly thickened, about 5 minutes. Off the heat stir in the cheese and cilantro.
+      - Press the mixture into an even, compact layer in the dish.
+      - Mix the cornbread mix with the milk and egg per the package and spread over the filling. Bake until golden brown, 20 to 25 minutes. Let stand 5 minutes before cutting.

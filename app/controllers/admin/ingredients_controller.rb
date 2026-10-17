@@ -51,9 +51,6 @@ module Admin
     #     transform_values { |v| read_param_value(v) }
     # end
 
-    def default_sort
-      { order: :name, direction: :asc }
-    end
 
   end
 end

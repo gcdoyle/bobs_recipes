@@ -1,0 +1,650 @@
+# Recipes from "Seafood and Fish.txt", part 3. Cajun Shrimp and Rice is
+# already in from the Asian file.
+recipes:
+  - name: Seafood Dip
+    categories: [Seafood, Hors d'Oeuvres]
+    description:
+      - Serve with toast points or crackers.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 1, ingredient: Green bell pepper, note: "medium, diced" }
+      - { qty: 1, ingredient: Onion, note: "medium, diced" }
+      - { qty: 2, measure: stalk, ingredient: Celery, note: diced }
+      - { qty: "1/2", measure: can, ingredient: Cream of shrimp soup, note: "half of a 10 3/4-ounce can (discard the top half, use the bottom)" }
+      - { qty: 1, measure: cup, ingredient: Mayonnaise }
+      - { qty: "1/2", measure: lb, ingredient: Parmesan, note: freshly grated }
+      - { qty: 1, measure: can, ingredient: Crab, note: "6-ounce can crabmeat, picked free of shell, drained" }
+      - { qty: 6, measure: oz, ingredient: Shrimp, note: "fresh or canned, drained" }
+      - { qty: "1/2", measure: tsp, ingredient: White pepper }
+    directions:
+      - Preheat the oven to 325 degrees F.
+      - Melt the butter in a skillet over medium heat and saute the bell pepper, onion and celery 2 minutes.
+      - Combine the soup, mayonnaise, Parmesan, crabmeat, shrimp and pepper, then stir in the vegetables.
+      - Spoon into a lightly greased 8 by 11-inch casserole and bake 30 minutes.
+
+  - name: Gremolata
+    categories: [Sauces]
+    description:
+      - Makes 1/2 cup. Garnish for Seafood Newburg.
+    ingredients:
+      - { qty: 4, measure: tbsp, ingredient: Parsley, note: "flat-leaf, chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Rosemary, note: "fresh leaves, chopped" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: tbsp, ingredient: Lemon zest, note: grated }
+      - { qty: 1, measure: pinch, ingredient: Salt }
+    directions:
+      - Mix everything together in a small bowl and refrigerate until ready to use.
+
+  - name: Sea Salt Roasted Asparagus
+    categories: [Vegetables]
+    servings: 4
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Asparagus }
+      - { qty: 4, measure: tbsp, ingredient: Olive oil, note: "extra-virgin, 3 to 4 tablespoons" }
+      - { qty: 2, measure: tbsp, ingredient: Sea salt, note: 1 to 2 tablespoons }
+    directions:
+      - Preheat the oven to 400 degrees F.
+      - Trim the ends and toss the spears with the olive oil. Spread on a sheet pan, sprinkle with the salt and roast until they begin to brown, 15 to 20 minutes.
+
+  - name: Seafood Newburg
+    categories: [Seafood]
+    prep_time: 30
+    cooking_time: 45
+    servings: 4
+    description:
+      - Serves 4 to 6. Serve over steamed long-grain white rice with Gremolata and Sea Salt Roasted Asparagus (their own recipes); on a platter, arrange the asparagus around the edge.
+    ingredients:
+      - { qty: 4, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: tbsp, ingredient: Paprika }
+      - { qty: "1/2", measure: tsp, ingredient: Curry powder }
+      - { qty: "1/8", measure: tsp, ingredient: Nutmeg, note: ground }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+      - { ingredient: Salt, note: to taste }
+      - { qty: 4, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: 1, ingredient: Shallot, note: minced }
+      - { qty: 2, measure: cup, ingredient: Milk }
+      - { qty: 2, measure: tbsp, ingredient: Tomato paste }
+      - { qty: "1/2", measure: cup, ingredient: Sherry, note: dry }
+      - { qty: 4, measure: cup, ingredient: Water }
+      - { qty: 2, measure: tsp, ingredient: Kosher salt }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 10, ingredient: Black peppercorns }
+      - { qty: 1, measure: lb, ingredient: Scallop, note: sea scallops }
+      - { qty: 1, measure: lb, ingredient: Shrimp, note: "large, peeled and deveined" }
+      - { qty: "1/2", measure: lb, ingredient: Lobster, note: tail meat }
+      - { ingredient: Gremolata, note: for garnish }
+      - { ingredient: Sea Salt Roasted Asparagus, note: for serving }
+      - { ingredient: Long grain rice, note: "steamed white, for serving" }
+    directions:
+      - "For the Newburg sauce: combine the flour, paprika, curry powder, nutmeg, cayenne and salt to taste. Melt the butter in a large saucepan over low heat and cook the shallot 3 minutes, until it begins to brown."
+      - Meanwhile, bring the milk and tomato paste to a simmer in a small saucepan over medium heat, without letting it boil over.
+      - Stir the flour mixture into the shallot and butter. Whisk in the sherry until smooth, then slowly whisk in the hot milk until creamy and thick. Set aside off the heat.
+      - Bring the water, kosher salt, bay leaves and peppercorns to a boil in a large saucepan. Boil the scallops 3 minutes and remove; repeat with the shrimp, then the lobster.
+      - Add the shellfish to the sauce and bring to a simmer over low heat. Serve over rice, garnished with gremolata, with the asparagus alongside.
+
+  - name: Mario Batali's BBQ Shrimp
+    categories: [Seafood, Cajun]
+    description:
+      - New Orleans-style BBQ shrimp in a Worcestershire cream sauce. The Creole seasoning is the same blend as Emeril's Essence Creole Seasoning (its own recipe). The file lists "2 Extra Virgin Olive Oil" without a unit; the steps use 1 tablespoon.
+    ingredients:
+      - { qty: 3, measure: lb, ingredient: Shrimp, note: "large Gulf shrimp, in their shells" }
+      - { qty: 2, measure: tbsp, ingredient: Creole seasoning, note: "Emeril's Essence blend, divided" }
+      - { ingredient: Black pepper, note: cracked }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1/4", measure: cup, ingredient: Onion, note: chopped }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: 3, ingredient: Lemon, note: peeled and sectioned }
+      - { qty: 2, measure: cup, ingredient: Fish stock, note: shrimp stock made from the shells }
+      - { qty: "1/2", measure: cup, ingredient: Worcestershire sauce }
+      - { qty: "1/4", measure: cup, ingredient: White wine, note: dry }
+      - { qty: "1/4", measure: tsp, ingredient: Salt }
+      - { qty: 2, measure: cup, ingredient: Heavy cream }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 1, measure: tbsp, ingredient: Chives, note: chopped }
+      - { ingredient: Grits, note: "or polenta, optional, for serving" }
+    directions:
+      - Peel the shrimp, leaving the tails on. Boil the shells in 2 cups water for the shrimp stock.
+      - Toss the shrimp with 1 tablespoon Creole seasoning and cracked pepper and refrigerate while you start the sauce.
+      - Heat 1 tablespoon oil in a large pot over high heat and saute the shrimp 2 minutes, shaking the pan. Remove and set aside.
+      - Saute the onions and garlic 1 minute. Add the Worcestershire, stock, cream, wine, chives and butter, season with salt and pepper and bring to a boil. Simmer 30 minutes, until thick, syrupy and dark brown.
+      - Toss the shrimp in the sauce and serve over grits or polenta, squeezing the lemon sections over before serving.
+
+  - name: Black Pepper Shrimp
+    categories: [Seafood]
+    description:
+      - Recipe courtesy Paula Deen. Use a heavy hand with the pepper. Serve with warm bread and salad.
+    ingredients:
+      - { qty: 3, measure: lb, ingredient: Shrimp, note: "fresh, unpeeled" }
+      - { qty: 8, measure: tbsp, ingredient: Butter }
+      - { qty: 3, measure: tbsp, ingredient: Garlic, note: chopped }
+      - { qty: 4, measure: tbsp, ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Preheat the oven to 450 degrees F. Wash and drain the shrimp and spread in a shallow baking pan.
+      - Melt the butter in a saucepan, add the garlic and saute 3 to 4 minutes. Pour over the shrimp and toss. Pepper the shrimp until well covered.
+      - Bake until pink, about 5 minutes. Turn, bake a few minutes longer and pepper again.
+
+  - name: Emeril's Cocktail Sauce
+    categories: [Sauces]
+    description:
+      - Makes about 1 cup.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Ketchup }
+      - { qty: 1, measure: tbsp, ingredient: Lemon juice, note: fresh }
+      - { qty: 1, measure: tbsp, ingredient: Prepared horseradish }
+      - { qty: 1, measure: tsp, ingredient: Worcestershire sauce }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: ground }
+      - { qty: 3, measure: dash, ingredient: Hot sauce, note: "drops, optional" }
+    directions:
+      - Stir everything together in a small nonreactive bowl and refrigerate until ready to serve.
+
+  - name: Emeril's Favorite Boiled Shrimp
+    categories: [Seafood]
+    description:
+      - Recipe courtesy Emeril Lagasse, 2003. Uses Emeril's Essence Creole Seasoning and Emeril's Cocktail Sauce (their own recipes).
+    ingredients:
+      - { qty: 1, measure: tsp, ingredient: Black peppercorns, note: whole }
+      - { qty: 1, measure: tsp, ingredient: Coriander seeds }
+      - { qty: 1, measure: rib, ingredient: Celery, note: cut into 1-inch pieces }
+      - { qty: 1, measure: sprig, ingredient: Tarragon, note: fresh }
+      - { qty: 2, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 3, measure: sprig, ingredient: Parsley, note: fresh }
+      - { qty: 1, measure: tbsp, ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: 2, measure: tbsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1/2", ingredient: Lemon, note: "squeezed, juice and shell, plus 4 wedges for garnish" }
+      - { qty: "1/4", measure: cup, ingredient: White wine }
+      - { qty: 4, measure: cup, ingredient: Water }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 1, measure: lb, ingredient: Shrimp, note: "medium (about 30), peeled and deveined, tail segment left on" }
+      - { ingredient: "Emeril's Cocktail Sauce" }
+    directions:
+      - Bring everything but the shrimp and cocktail sauce to a boil in a large saucepan over high heat and boil 5 minutes.
+      - Add the shrimp, stir, cover and take off the heat. Let stand 8 to 10 minutes, until just cooked through.
+      - Drain, discarding the liquid and seasonings, and refrigerate the shrimp until well chilled, about 1 hour. Make the cocktail sauce meanwhile and serve with lemon wedges.
+
+  - name: Shrimp Boil with Clams and Lemon
+    categories: [Seafood]
+    prep_time: 10
+    cooking_time: 55
+    servings: 6
+    description:
+      - Recipe courtesy Tyler Florence, 2007. Serves 6 to 8. Make the broth strong so the flavor penetrates; the original saves it for Shrimp Cocktail Shots (not in the file).
+    ingredients:
+      - { ingredient: Water, note: about 4 quarts }
+      - { qty: 2, ingredient: Lemon, note: "halved, plus more for serving" }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: 2, measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: cup, ingredient: Old Bay seasoning, note: crab boil seasoning }
+      - { qty: "1/2", measure: bunch, ingredient: Thyme, note: tied together }
+      - { qty: 1, ingredient: Onion, note: "medium, quartered" }
+      - { qty: 2, ingredient: Serrano pepper, note: split lengthwise }
+      - { qty: 1, measure: head, ingredient: Garlic, note: halved }
+      - { qty: 21, measure: oz, ingredient: Red potatoes, note: "new, medium to large, halved (1 pound 5 ounces)" }
+      - { qty: 3, ingredient: Corn, note: "ears of sweet corn, halved" }
+      - { qty: 21, measure: oz, ingredient: Smoked sausage, note: "andouille or kielbasa, 1-inch pieces (about 1 pound 5 ounces)" }
+      - { qty: 12, ingredient: Clam, note: "littleneck, scrubbed (about 1 1/4 pounds)" }
+      - { qty: 2, measure: lb, ingredient: Shrimp, note: "jumbo, heads and tails on" }
+      - { ingredient: Kosher salt }
+    directions:
+      - Fill a huge stockpot (ideally with a basket insert) no more than halfway, about 4 quarts. Squeeze in the lemons and add the halves, bay leaves, salt, seasoning, thyme, onions, chiles and garlic. Bring to a boil over medium-high heat and simmer 10 minutes. Taste and adjust with salt; it should be very aromatic.
+      - Add the potatoes and simmer 20 minutes. Add the corn and sausage and cook 5 minutes, keeping everything covered with liquid.
+      - Add the clams and boil 8 to 10 minutes, until they open. Add the shrimp, shut off the heat, cover and steep 15 minutes.
+      - Drain and spread everything out on a newspaper-covered table. Serve with lemons and plenty of napkins.
+
+  - name: Marcelle's Shrimp Burgers
+    categories: [Seafood, Burgers, Cajun]
+    servings: 6
+    description:
+      - Recipe courtesy Emeril Lagasse. Uses Emeril's Essence Creole Seasoning (its own recipe). The file says "Homemade Tartar Sauce, recipe follows" but doesn't include it.
+    ingredients:
+      - { qty: "1 1/2", measure: lb, ingredient: Shrimp, note: "peeled, deveined and chopped" }
+      - { qty: "1/2", measure: cup, ingredient: Yellow onion, note: finely chopped }
+      - { qty: "1/4", measure: cup, ingredient: Red bell pepper, note: finely chopped }
+      - { qty: "1/2", measure: cup, ingredient: Celery, note: finely chopped }
+      - { qty: 1, ingredient: Egg, note: "large, beaten" }
+      - { qty: 2, measure: tsp, ingredient: Creole seasoning, note: "Emeril's Essence, divided" }
+      - { qty: "1/4", measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1/4", measure: cup, ingredient: Green onion, note: finely chopped }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: finely chopped }
+      - { qty: 1, measure: tsp, ingredient: Baking powder }
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: cup, ingredient: Vegetable oil, note: for frying }
+      - { qty: 6, ingredient: Hamburger bun, note: "split and lightly toasted" }
+      - { ingredient: Lettuce, note: shredded }
+      - { ingredient: Tomato, note: "vine-ripened, sliced" }
+    directions:
+      - Combine the shrimp, onions, bell peppers and celery with the egg. Mix in 1 teaspoon Essence, the salt, cayenne, green onions, parsley and baking powder. Cover and refrigerate 2 hours.
+      - Form 6 patties. Mix the flour with the remaining teaspoon Essence and dredge the patties on both sides.
+      - Heat the oil in a large heavy skillet over medium-high heat and fry the patties in batches until golden on both sides, about 8 minutes. Drain on paper towels.
+      - Spread the buns with tartar sauce and build the burgers with lettuce and tomato. Serve hot.
+
+  - name: Clinton Kelly's Coconut Shrimp
+    categories: [Seafood, Hors d'Oeuvres]
+    ingredients:
+      - { qty: 20, ingredient: Shrimp, note: "large, peeled and deveined" }
+      - { qty: 2, measure: cup, ingredient: Desiccated coconut, note: unsweetened flaked }
+      - { qty: 3, ingredient: Egg, note: lightly beaten }
+      - { qty: 2, measure: tbsp, ingredient: Coconut milk }
+      - { qty: 1, measure: cup, ingredient: Flour }
+      - { qty: 3, measure: tbsp, ingredient: Garlic powder }
+      - { ingredient: Vegetable oil, note: for frying }
+    directions:
+      - Blend the garlic powder with the flour. In another bowl, beat the eggs with the coconut milk.
+      - Set up three shallow dishes - the flour mixture, the egg mixture and the coconut.
+      - Heat the oil to 350 degrees F in a large Dutch oven.
+      - Dredge the shrimp in flour, shaking off the excess, dip in the egg, then the coconut, and fry until golden brown, without letting the coconut burn. Serve immediately.
+
+  - name: Shrimp Scampi with Linguini
+    categories: [Seafood, Pasta]
+    prep_time: 15
+    cooking_time: 25
+    servings: 4
+    description:
+      - Recipe courtesy Tyler Florence. Serves 4 to 6.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Linguine }
+      - { qty: 4, measure: tbsp, ingredient: Butter, note: divided }
+      - { qty: 4, measure: tbsp, ingredient: Olive oil, note: "extra-virgin, divided, plus more for drizzling" }
+      - { qty: 2, ingredient: Shallot, note: finely diced }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: optional }
+      - { qty: 1, measure: lb, ingredient: Shrimp, note: peeled and deveined }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 1, ingredient: Lemon, note: juiced }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "leaves, finely chopped" }
+    directions:
+      - Bring a large pot of water to a boil, add a couple tablespoons of salt and the linguini, and stir. Cover; when it returns to a boil, cook 6 to 8 minutes, until not quite done. Drain.
+      - Meanwhile, melt 2 tablespoons butter in 2 tablespoons oil in a large skillet over medium-high heat. Saute the shallots, garlic and red pepper until the shallots are translucent, 3 to 4 minutes.
+      - Season the shrimp and cook until pink, 2 to 3 minutes. Remove and keep warm.
+      - Add the wine and lemon juice and bring to a boil. Add the remaining 2 tablespoons butter and oil. When the butter melts, return the shrimp with the parsley and pasta, stir well and season. Drizzle with a bit more olive oil and serve immediately.
+    notes:
+      - A second copy in the file uses 1 large shallot, 5 sliced garlic cloves and 20 large tail-on shrimp, and saves 1 cup of pasta water to add with the pasta.
+
+  - name: Jalapeno Pickled Shrimp
+    categories: [Seafood, Hors d'Oeuvres]
+    prep_time: 10
+    servings: 4
+    description:
+      - Recipe courtesy Chef Jon Bonnell. Keeps 2 to 3 days in the refrigerator.
+      - "Inactive prep: 12 hours."
+    ingredients:
+      - { qty: 1, ingredient: Onion, note: "large, sliced" }
+      - { qty: 2, ingredient: Jalapeno, note: "fresh, sliced" }
+      - { qty: "1 1/2", measure: cup, ingredient: White vinegar }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 2, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Mustard powder }
+      - { qty: 1, ingredient: Italian dressing, note: "1 package Good Seasons cheese garlic dressing mix, dry ingredients only" }
+      - { qty: 15, ingredient: Black peppercorns, note: "10 to 15 whole" }
+      - { qty: 5, ingredient: Bay leaf }
+      - { qty: 1, measure: tbsp, ingredient: Dill, note: chopped }
+      - { qty: "1 1/2", measure: lb, ingredient: Shrimp, note: "cooked, preferably shelled" }
+    directions:
+      - Mix everything but the shrimp, pour over the shrimp and refrigerate overnight.
+
+  - name: Mario Batali's Shrimp Scampi
+    categories: [Seafood, Pasta]
+    ingredients:
+      - { qty: 12, ingredient: Shrimp, note: 16-20 count }
+      - { qty: 1, measure: lb, ingredient: Linguine, note: 1 box }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: plus extra for garnish }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: "1/2", ingredient: Lemon, note: zested }
+      - { qty: "1/2", measure: cup, ingredient: White wine }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 1, measure: tbsp, ingredient: Parsley, note: finely chopped }
+      - { ingredient: Red pepper flakes, note: to taste }
+      - { ingredient: Salt }
+    directions:
+      - Cook the pasta in boiling water according to the package directions.
+      - Heat the olive oil in a pan over medium-high heat and saute the shrimp until lightly pink, seasoning with salt. After a couple of minutes, add the garlic, butter, parsley and red pepper flakes to taste.
+      - Deglaze with the wine and cook until the shrimp are pink and cooked through.
+      - Add the pasta to the shrimp pan, toss to coat and mix in the lemon zest. Serve drizzled with a little olive oil and a sprinkle of red pepper flakes.
+
+  - name: Garlic Basil Shrimp
+    categories: [Seafood]
+    prep_time: 15
+    cooking_time: 10
+    servings: 4
+    description:
+      - "Serving size 1 cup. Per serving: 260 calories, 10 g fat (1.5 g saturated), 30 g protein, 6 g carbohydrate, 1 g fiber, 215 mg cholesterol, 215 mg sodium."
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: "1 1/4", measure: lb, ingredient: Shrimp, note: "large (20 to 25 per pound), peeled and deveined" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: "1/8", measure: tsp, ingredient: Red pepper flakes, note: "dried hot, or more to taste" }
+      - { qty: "3/4", measure: cup, ingredient: White wine, note: dry }
+      - { qty: "1/4", measure: cup, ingredient: Basil, note: "fresh leaves, finely chopped" }
+      - { qty: "1 1/2", measure: cup, ingredient: Grape tomatoes, note: halved }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Heat the oil in a large heavy skillet over moderately high heat until hot but not smoking. Saute the shrimp, turning once, until just cooked through, about 2 minutes. Move to a bowl with a slotted spoon.
+      - Cook the garlic and red pepper flakes in the remaining oil until fragrant, 30 seconds. Add the wine and cook over high heat, stirring occasionally, 3 minutes.
+      - Stir in the basil and tomatoes and season. Return the shrimp and cook just until heated through.
+
+  - name: Shrimp in Garlic Sauce
+    categories: [Seafood, Asian]
+    servings: 4
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Shrimp, note: "large (21 to 25 per pound), peeled" }
+      - { qty: 1, ingredient: Egg white }
+      - { qty: "1/4", measure: cup, ingredient: Corn starch }
+      - { qty: 2, measure: tbsp, ingredient: Water, note: 1 to 2 tablespoons }
+      - { qty: 2, measure: cup, ingredient: Vegetable oil, note: plus 1 tablespoon }
+      - { qty: "1/4", measure: cup, ingredient: Chicken broth }
+      - { qty: "1/4", measure: cup, ingredient: Cider vinegar }
+      - { qty: "1/4", measure: cup, ingredient: Ketchup }
+      - { qty: 3, measure: tbsp, ingredient: Dark soy sauce }
+      - { qty: 2, measure: tbsp, ingredient: Sherry, note: dry }
+      - { qty: 8, measure: clove, ingredient: Garlic, note: crushed and minced }
+      - { qty: 2, measure: tbsp, ingredient: Ginger, note: "fresh, finely minced" }
+      - { qty: 5, measure: tbsp, ingredient: Sugar }
+      - { qty: 1, measure: tsp, ingredient: Chili paste, note: or to taste and tolerance }
+      - { qty: "1/2", measure: cup, ingredient: Water chestnut, note: "fresh, sliced, optional" }
+      - { qty: 1, measure: tbsp, ingredient: Corn starch, note: mixed with 3 tablespoons cold water }
+      - { qty: "1/2", measure: cup, ingredient: Green onion, note: sliced on the diagonal in 1/2-inch pieces }
+    directions:
+      - Butterfly the shrimp by slicing from the back, leaving a small donut-like hole in the center, without cutting all the way through. Rinse out the veins and drain well.
+      - Mix the shrimp with the egg white, 1/4 cup cornstarch and 1 to 2 tablespoons water until silky and milky.
+      - Heat 2 cups oil in a large wok to 280 degrees F (a test shrimp should send up bubbles like Champagne). Add the shrimp and turn gently until white and fluffy. Lift out with a strainer and drain in a colander.
+      - Bring the broth, vinegar, ketchup, soy sauce, sherry, garlic, ginger, sugar and chili paste to a boil in a small saucepan, then lower to a simmer.
+      - Heat the remaining tablespoon of oil to smoking in a clean wok and stir-fry the water chestnuts 30 seconds. Add the sauce and bring to a boil, then stir in the cornstarch mixture until thickened.
+      - Add the shrimp, toss 3 times to coat, stir in the scallions and serve.
+
+  - name: Grilled Shrimp Marinated in Paprika, Garlic and Thyme with White Wine Sauce
+    categories: [Seafood]
+    prep_time: 20
+    cooking_time: 15
+    servings: 4
+    description:
+      - Recipe courtesy Bobby Flay. Finished with a drizzle of basil oil; the basil oil recipe isn't in the file.
+      - "Inactive prep: 30 minutes."
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: for the sauce }
+      - { qty: 1, ingredient: Shallot, note: sliced }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "finely chopped, for the sauce" }
+      - { qty: 1, measure: cup, ingredient: White wine, note: dry }
+      - { qty: 2, measure: tbsp, ingredient: Heavy cream }
+      - { qty: 16, measure: tbsp, ingredient: Unsalted butter, note: "2 sticks, cold, cut into 1-inch pieces" }
+      - { qty: "1/4", measure: cup, ingredient: Chives, note: "fresh, finely chopped, plus more for garnish" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/4", measure: cup, ingredient: Canola oil }
+      - { qty: 2, measure: tbsp, ingredient: Paprika, note: Spanish }
+      - { qty: 6, measure: clove, ingredient: Garlic, note: "finely chopped to a paste, for the shrimp" }
+      - { qty: 3, measure: tbsp, ingredient: Thyme, note: "fresh leaves, finely chopped" }
+      - { qty: 16, ingredient: Shrimp, note: "extra colossal (4 to 6 per pound), peeled and deveined" }
+      - { ingredient: Basil oil, note: for drizzling }
+    directions:
+      - "For the white wine sauce: heat the oil in a medium saucepan over medium heat and cook the shallots and garlic until soft, about 1 minute. Raise to high, add the wine and reduce by half. Add the cream and slowly whisk in the cold butter piece by piece until emulsified. Strain, stir in the chives, season and set aside."
+      - "For the shrimp: whisk the oil, paprika, garlic and thyme in a large bowl, toss in the shrimp, cover and refrigerate 30 minutes."
+      - Heat the grill to high. Season the shrimp and grill until slightly charred and just cooked through, about 2 1/2 minutes per side.
+      - Spoon some sauce on a large platter, drizzle with basil oil and top with the shrimp. Drizzle with more sauce, garnish with chives and serve.
+
+  - name: Ultimate Shrimp and Grits
+    categories: [Seafood, Cajun]
+    description:
+      - Recipe courtesy Tyler Florence. The directions also add Tabasco, which isn't in the ingredient list.
+    ingredients:
+      - { qty: 3, measure: cup, ingredient: Milk }
+      - { qty: 3, measure: cup, ingredient: Heavy cream, note: plus a little extra }
+      - { qty: 1, measure: cup, ingredient: Cornmeal, note: stone-ground white }
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: White onion, note: "medium, minced" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: lb, ingredient: Andouille sausage, note: "or spicy Italian sausage, cut in chunks" }
+      - { qty: "1/4", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 2, measure: cup, ingredient: Chicken stock }
+      - { qty: 3, ingredient: Bay leaf, note: 2 to 3 }
+      - { qty: 2, measure: lb, ingredient: Shrimp, note: "large, peeled and deveined, tails on" }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper, note: to taste }
+      - { ingredient: Hot sauce, note: Tabasco }
+      - { qty: "1/2", ingredient: Lemon, note: juiced }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh flat-leaf, finely chopped" }
+      - { qty: 4, ingredient: Green onion, note: sliced }
+    directions:
+      - "For the grits: heat the milk and cream in a 3-quart pot over medium-high heat and slowly whisk in the cornmeal. When it bubbles, lower to medium-low and simmer, stirring often, 10 to 15 minutes, until smooth and thick. Off the heat, stir in the butter, thin with a little extra cream and season."
+      - "For the shrimp: coat a deep skillet with the olive oil over medium heat and saute the onion and garlic 2 minutes. Add the sausage and cook until browned with a fair amount of fat in the pan."
+      - Sprinkle in the flour and stir to make a roux. Slowly stir in the stock to avoid lumps and add the bay leaves.
+      - When it simmers, add the shrimp and poach 2 to 3 minutes, until firm and pink and the gravy is smooth and thick. Add the cayenne, Tabasco and lemon juice, season, and stir in the parsley and green onion.
+      - Spoon the grits into a serving bowl, add the shrimp mixture, mix well and serve immediately.
+
+  - name: Bob's Chipotle Shrimp
+    categories: [Seafood, Mexican]
+    ingredients:
+      - { qty: "1/3", measure: cup, ingredient: Lime juice, note: for the marinade }
+      - { qty: 1, measure: tbsp, ingredient: Chicken base, note: "or a bouillon cube, for the marinade" }
+      - { qty: 1, measure: cup, ingredient: Beer, note: for the marinade }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce, note: for the marinade }
+      - { qty: 2, measure: tbsp, ingredient: Soy sauce, note: for the marinade }
+      - { ingredient: Black pepper, note: for the marinade }
+      - { qty: 6, measure: clove, ingredient: Garlic, note: "minced, for the marinade" }
+      - { ingredient: Shrimp }
+      - { ingredient: Chipotle in adobo, note: "canned, to taste" }
+      - { qty: 1, measure: tsp, ingredient: Oregano }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: about }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: 1/3 to 1/2 cup }
+    directions:
+      - Blend the marinade ingredients and marinate the shrimp about 30 minutes.
+      - In a processor or blender, blend the chipotle in adobo to taste, oregano, garlic and olive oil.
+      - Remove the shrimp from the marinade (discard it) and toss in the chipotle mixture. Saute quickly, about 1 minute; don't overcook.
+
+  - name: Baked Shrimp Scampi
+    categories: [Seafood]
+    prep_time: 30
+    cooking_time: 13
+    servings: 6
+    description:
+      - Recipe from Barefoot Contessa Back to Basics, 2008.
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Shrimp, note: "12 to 15 per pound, in the shell" }
+      - { qty: 3, measure: tbsp, ingredient: Olive oil, note: good }
+      - { qty: 2, measure: tbsp, ingredient: White wine, note: dry }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 12, measure: tbsp, ingredient: Unsalted butter, note: "1 1/2 sticks, at room temperature" }
+      - { qty: 4, measure: tsp, ingredient: Garlic, note: "minced (4 cloves)" }
+      - { qty: "1/4", measure: cup, ingredient: Shallot, note: minced }
+      - { qty: 3, measure: tbsp, ingredient: Parsley, note: "fresh leaves, minced" }
+      - { qty: 1, measure: tsp, ingredient: Rosemary, note: "fresh leaves, minced" }
+      - { qty: "1/4", measure: tsp, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 1, measure: tsp, ingredient: Lemon zest, note: grated }
+      - { qty: 2, measure: tbsp, ingredient: Lemon juice, note: freshly squeezed }
+      - { qty: 1, ingredient: Egg yolk, note: extra-large }
+      - { qty: "2/3", measure: cup, ingredient: Panko }
+      - { ingredient: Lemon, note: "wedges, for serving" }
+    directions:
+      - Preheat the oven to 425 degrees F.
+      - Peel, devein and butterfly the shrimp, leaving the tails on. Toss gently with the olive oil, wine, 2 teaspoons salt and 1 teaspoon pepper and let sit at room temperature.
+      - Mash the butter with the garlic, shallots, parsley, rosemary, red pepper flakes, lemon zest and juice, egg yolk, panko, 1/2 teaspoon salt and 1/4 teaspoon pepper.
+      - Starting from the outer edge of a 14-inch oval gratin dish, arrange the shrimp in a single layer cut side down with the tails curling up toward the center. Pour the remaining marinade over and spread the butter mixture evenly on top.
+      - Bake 10 to 12 minutes, until hot and bubbly. Broil 1 minute if you like the top browned. Serve with lemon wedges.
+
+  - name: Emeril's Shrimp Scampi
+    categories: [Seafood]
+    description:
+      - Recipe courtesy Emeril Lagasse. Serve over rice. The file says "shrimp stock, recipe follows" but doesn't include it.
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Shrimp, note: "peeled and deveined, tails on" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Olive oil }
+      - { qty: 1, ingredient: Onion, note: "small, thinly sliced" }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: chopped }
+      - { qty: 1, ingredient: Lemon, note: juiced }
+      - { qty: "1/2", measure: cup, ingredient: White wine }
+      - { qty: "1/2", measure: cup, ingredient: Fish stock, note: shrimp stock }
+      - { qty: 2, measure: tbsp, ingredient: Butter, note: cold }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "leaves, chopped" }
+      - { ingredient: Lemon, note: "slices, for garnish" }
+      - { ingredient: Cooked rice, note: for serving }
+    directions:
+      - Season the shrimp thoroughly with salt and pepper. Heat a large saute pan over medium-high heat and lightly coat with oil.
+      - Quickly saute the shrimp until just starting to turn pink, not cooked through. Set aside.
+      - Saute the onions until they begin to soften, about 3 minutes, then the garlic 30 seconds. Add the lemon juice, wine and stock and reduce by 2/3, about 5 minutes.
+      - Return the shrimp and swirl in the butter. Finish with the parsley, check the seasoning, garnish with lemon slices and serve over rice.
+
+  - name: Shrimp and Scallop Scampi with Linguine
+    categories: [Seafood, Pasta]
+    prep_time: 20
+    cooking_time: 9
+    servings: 4
+    description:
+      - Recipe courtesy The Quarterdeck, for Food Network Magazine.
+    ingredients:
+      - { ingredient: Kosher salt }
+      - { qty: 1, measure: lb, ingredient: Linguine }
+      - { qty: 12, ingredient: Shrimp, note: "jumbo, peeled and deveined" }
+      - { qty: 12, ingredient: Scallop, note: "large sea scallops, tough foot muscles removed" }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "3 1/2", measure: tbsp, ingredient: Unsalted butter, note: divided }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: "minced, divided" }
+      - { qty: 2, measure: tbsp, ingredient: Lemon juice, note: "fresh, plus lemon wedges for garnish" }
+      - { qty: "1/2", measure: cup, ingredient: White wine, note: dry }
+      - { qty: "1/4", measure: cup, ingredient: Basil, note: "fresh, torn" }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh, chopped" }
+    directions:
+      - Cook the linguine in a large pot of salted boiling water as the label directs.
+      - Heat a large skillet over medium-high heat. Pat the shrimp and scallops dry and season. Melt 1 1/2 tablespoons butter and cook the shrimp until golden on one side, about 3 minutes. Turn, add half the garlic and cook 1 to 2 minutes, until fragrant but the shrimp are still translucent. Move to a plate.
+      - Cook the scallops until golden on one side, about 3 minutes. Turn, add the rest of the garlic and cook 1 to 2 minutes more.
+      - Add the lemon juice and wine, scraping up the browned bits, and reduce by half, about 3 minutes. Return the shrimp, add the basil and remaining 2 tablespoons butter and season.
+      - Toss the drained pasta with the shrimp, scallops and sauce in a serving bowl and garnish with parsley and lemon.
+
+  - name: Bob's Shrimp Pasta Salad
+    categories: [Seafood, Salads, Pasta]
+    description:
+      - Measurements are approximate or to taste. Bob's shorter "Shrimp Salad" note lists the same idea - elbows, Old Bay (or Cajun seasoning), onion, celery, Miracle Whip and black olives.
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Elbow macaroni, note: 1 1/2 to 2 cups }
+      - { qty: "3/4", measure: cup, ingredient: Onion, note: "1/2 to 3/4 cup, finely diced" }
+      - { qty: "1/2", ingredient: Green bell pepper, note: diced }
+      - { qty: 2, measure: stalk, ingredient: Celery, note: "small, diced" }
+      - { qty: 1, ingredient: Key lime juice, note: juice of 1 Key lime }
+      - { qty: 1, measure: lb, ingredient: Shrimp, note: "cooked, cut into small bites (some crabmeat wouldn't hurt)" }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 5, measure: tbsp, ingredient: Old Bay seasoning, note: "2 tablespoons or more, plus 3 tablespoons or more" }
+      - { qty: 1, measure: tbsp, ingredient: Adobo seasoning, note: "Goya, red cap, or more" }
+      - { ingredient: Turmeric }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { measure: dash, ingredient: Worcestershire sauce }
+      - { qty: 2, measure: tbsp, ingredient: Paprika }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: "extra-virgin, about" }
+      - { ingredient: Mayonnaise }
+      - { ingredient: Miracle Whip }
+      - { ingredient: Black olive, note: "sliced, optional" }
+    directions:
+      - Cook the pasta and let cool.
+      - Put everything in a large bowl, drizzle with about 1/4 cup olive oil and add mayonnaise and Miracle Whip, about 1 part mayo to 4 parts Miracle Whip, to the consistency you like. Fold together.
+      - Add sliced black olives if you like.
+
+  - name: Southern Shrimp Salad
+    categories: [Seafood, Salads, Rice]
+    description:
+      - Recipe courtesy Paula Deen.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Shrimp boil, note: tied in cheesecloth }
+      - { qty: 2, measure: lb, ingredient: Shrimp, note: "cleaned, peeled and deveined" }
+      - { qty: 1, measure: cup, ingredient: Long grain rice, note: "white, uncooked" }
+      - { qty: "1/2", measure: cup, ingredient: Onion, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Green olives, note: chopped }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: cup, ingredient: Mayonnaise }
+      - { ingredient: Paprika, note: for garnish }
+      - { ingredient: Lemon, note: "wedges, for garnish" }
+      - { ingredient: Tomato, note: "wedges, for garnish" }
+    directions:
+      - Bring 4 cups water to a boil with the shrimp boil sachet. Boil the shrimp 4 minutes and drain, saving the water. Chop the shrimp into bite-size chunks and cool on paper towels.
+      - Cook the rice in the reserved water until tender, 15 to 20 minutes. Drain and cool.
+      - Stir the onion, olives and pepper into the rice, then the mayonnaise. Blend in the cooled shrimp. Sprinkle with paprika and garnish with lemon and tomato wedges.
+
+  - name: Soy Ginger Marinated Shrimp
+    categories: [Seafood, Asian]
+    description:
+      - Serve on brown paper bags, if you like.
+    ingredients:
+      - { qty: 2, ingredient: Shallot, note: "large, peeled and chopped" }
+      - { qty: 2, measure: piece, ingredient: Ginger, note: "2-inch piece, fresh, peeled and chopped" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: "3/4", measure: cup, ingredient: Soy sauce }
+      - { qty: "1/2", measure: cup, ingredient: Lime juice, note: fresh }
+      - { qty: 2, measure: tbsp, ingredient: Sugar }
+      - { qty: "1/4", measure: cup, ingredient: Green onion, note: chopped }
+      - { qty: "1/4", measure: cup, ingredient: Peanut oil }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: coarsely ground }
+      - { qty: 2, measure: lb, ingredient: Shrimp, note: "large, shells and tails on" }
+    directions:
+      - Blend the shallots, ginger, garlic, soy sauce, lime juice and sugar until smooth. Add the green onion and oil and blend to combine. Season with the pepper.
+      - Pour over the shrimp in a large bowl and marinate at room temperature 20 minutes.
+      - Preheat a grill to high and grill the shrimp 1 1/2 to 2 minutes per side.
+
+  - name: Chipotle Shrimp Tacos with Avocado Salsa Verde
+    categories: [Seafood, Mexican]
+    servings: 4
+    ingredients:
+      - { qty: 1, ingredient: Onion, note: "small, quartered" }
+      - { qty: 1, ingredient: Jalapeno, note: "quartered, seeds optional" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 4, ingredient: Tomatillo, note: "medium (about 8 ounces), husked, rinsed and coarsely chopped" }
+      - { qty: "1/2", ingredient: Hass avocado, note: "peeled, seeded and cut into chunks" }
+      - { qty: "1 1/4", measure: tsp, ingredient: Kosher salt, note: for the salsa }
+      - { qty: "1/4", measure: cup, ingredient: Cilantro, note: "fresh leaves, loosely packed, coarsely chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, measure: tsp, ingredient: Chipotle chili powder, note: or blended chili powder }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt, note: for the shrimp }
+      - { qty: 1, measure: lb, ingredient: Shrimp, note: "medium (about 20), peeled and deveined" }
+      - { qty: 8, ingredient: Corn tortilla }
+      - { qty: 8, measure: sprig, ingredient: Cilantro, note: for garnish }
+      - { qty: 2, ingredient: Lime, note: cut into wedges }
+    directions:
+      - Finely chop the onion, jalapeno and garlic in a food processor. Add the tomatillos, avocado and salt and pulse until chopped but still chunky. Stir in the cilantro.
+      - Heat a stovetop or outdoor grill to medium-high. Toss the shrimp with the oil, chili powder and salt and grill until translucent, 1 1/2 to 2 minutes per side.
+      - Grill the tortillas until slightly charred and pliable, about 20 seconds per side (or wrap in a damp paper towel and microwave).
+      - Spoon salsa on each tortilla and top with 2 or 3 shrimp and a cilantro sprig. Serve 2 tacos per person with a lime wedge.
+
+  - name: Smoked Trout
+    categories: [Seafood]
+    prep_time: 30
+    cooking_time: 180
+    description:
+      - Recipe courtesy Alton Brown, 2009. Makes 2 pounds. Serve with a green salad, in a dip or as an appetizer. Keeps a week refrigerated airtight, or a month vacuum-sealed.
+      - "Inactive prep: 27 hours."
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Kosher salt }
+      - { qty: 1, measure: qt, ingredient: Water }
+      - { qty: 2, measure: lb, ingredient: Trout, note: "fillets, 3 to 5 ounces each, skin on, pin bones removed" }
+    directions:
+      - Stir the salt into the water in a 4-quart container until dissolved, 1 to 2 minutes. Submerge the trout, cover and refrigerate 3 hours.
+      - Rinse the trout thoroughly and pat dry. Set skin side down on a rack in a half sheet pan and refrigerate 21 to 24 hours, until the skin is shiny and somewhat tacky.
+      - Bring the smoker to 150 to 160 degrees F. Set the trout skin side down on the racks at least 1/4 inch apart and smoke 2 1/2 to 3 hours, until cooked through, darkened, and as smoky as you like.
+
+  - name: Sole Meuniere
+    categories: [Seafood]
+    prep_time: 10
+    cooking_time: 10
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell. Don't flour the fish ahead of time or it will be gummy instead of crisp.
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 4, ingredient: Sole, note: fillets }
+      - { ingredient: Kosher salt }
+      - { qty: 2, measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 6, measure: tbsp, ingredient: Butter }
+      - { qty: 3, measure: sprig, ingredient: Thyme, note: "fresh, leaves stripped" }
+      - { qty: 2, measure: tbsp, ingredient: Lemon juice, note: fresh }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "fresh flat-leaf, finely chopped" }
+    directions:
+      - Preheat the oven to 200 degrees F.
+      - Generously coat a large saute pan with olive oil over high heat. Salt 2 fillets, dredge in flour and put them straight into the hot oil.
+      - When the fish turns opaque about 2/3 of the way through, turn and cook the other side. Keep warm on a sheet tray in the oven and repeat with the other 2.
+      - Pour off the excess oil. Add the butter and thyme, shaking the pan so it doesn't scorch. When the butter is very bubbly, whisk in the lemon juice.
+      - As it bubbles again and turns nutty brown, season with salt and whisk in the parsley. Plate the fish and spoon the sauce over.

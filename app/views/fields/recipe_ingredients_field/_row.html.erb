@@ -1,0 +1,11 @@
+<tr class="recipe-ingredient" data-row>
+  <td class="recipe-ingredient__handle" title="Drag to reorder">&#9776;
+    <%= line.hidden_field :id if line.object.persisted? %>
+    <%= line.hidden_field :position, data: { position: true } %>
+  </td>
+  <td><%= line.number_field :qty, step: "any", min: 0, class: "recipe-ingredient__qty", "aria-label": "Quantity" %></td>
+  <td><%= line.select :measure, RecipeIngredient::MEASURES, { include_blank: true }, data: { controller: "select" }, "aria-label": "Measure" %></td>
+  <td><%= line.select :ingredient_id, field.ingredient_options, { include_blank: true }, data: { controller: "select" }, "aria-label": "Ingredient" %></td>
+  <td><%= line.text_field :note, class: "ingredient-note", "aria-label": "Note" %></td>
+  <td class="recipe-ingredient__remove"><%= line.check_box :_destroy, "aria-label": "Remove" %></td>
+</tr>

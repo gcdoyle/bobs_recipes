@@ -1,0 +1,456 @@
+# Recipes from "soups, chowder, gumbo, stews stocks.txt", part 3 (potato-leek,
+# bisques, onion soups, gumbos, kale and lentil). Emeril's Potato and Leek Soup
+# appears twice; Anne Burrell's Gulf Shrimp Jambalaya is already in.
+recipes:
+  - name: Potato and Leek Soup
+    categories: [Soups]
+    prep_time: 16
+    cooking_time: 44
+    servings: 6
+    description:
+      - Recipe courtesy Emeril Lagasse, 2003. Makes 1 1/2 quarts.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Leek, note: "1 large or 2 small" }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 20, ingredient: Black peppercorns }
+      - { qty: 4, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 2, measure: slice, ingredient: Bacon, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 5, measure: cup, ingredient: Chicken stock }
+      - { qty: "1 1/4", measure: lb, ingredient: Russet potatoes, note: "1 to 1 1/4 pounds, diced" }
+      - { qty: "1 1/2", measure: tsp, ingredient: Salt }
+      - { qty: "3/4", measure: tsp, ingredient: White pepper }
+      - { qty: "3/4", measure: cup, ingredient: Creme fraiche, note: "1/2 to 3/4 cup, or heavy cream" }
+      - { qty: 2, measure: tbsp, ingredient: Chives, note: snipped }
+    directions:
+      - Trim the leek greens. Fold 2 of the largest leaves around the bay leaves, peppercorns and thyme and tie into a bundle with twine for a bouquet garni (or tie them in cheesecloth).
+      - Halve the white part lengthwise, rinse well under cold water and slice thinly crosswise.
+      - Melt the butter in a large soup pot over medium heat and cook the bacon 5 to 6 minutes, until very soft and rendered. Add the leeks and cook until wilted, about 5 minutes.
+      - Add the wine and bring to a boil. Add the bouquet garni, stock, potatoes, salt and white pepper, bring to a boil, then simmer 30 minutes, until the potatoes are falling apart.
+      - Remove the bouquet garni and puree. Stir in the creme fraiche, adjust the seasoning and serve sprinkled with chives.
+
+  - name: Creole Shrimp and Lobster Bisque
+    categories: [Soups, Seafood, Cajun]
+    description:
+      - Recipe courtesy Paula Deen.
+    ingredients:
+      - { qty: 2, ingredient: Lobster, note: "steamed fresh lobster tails" }
+      - { qty: 4, measure: tbsp, ingredient: Butter }
+      - { qty: 1, ingredient: White onion, note: "small, finely chopped" }
+      - { qty: 2, measure: stalk, ingredient: Celery, note: finely chopped }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: "1/3", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 3, measure: cup, ingredient: Chicken broth }
+      - { qty: "1/2", measure: lb, ingredient: Shrimp, note: "medium, steamed, peeled, deveined and chopped" }
+      - { qty: 2, measure: cup, ingredient: Half-and-half }
+      - { qty: 1, measure: tsp, ingredient: Creole seasoning }
+    directions:
+      - Remove the lobster meat from the shells, coarsely chop and set aside.
+      - Melt the butter in a large saucepan over medium heat and cook the onion, celery and garlic 5 minutes, stirring occasionally. Stir in the flour and cook 2 minutes.
+      - Stir in the broth and cook 10 minutes, stirring occasionally, until thickened.
+      - Add the lobster and shrimp, stir in the half-and-half and Creole seasoning and cook 10 minutes, until heated through. Serve immediately.
+
+  - name: Classic Shrimp Bisque
+    categories: [Soups, Seafood]
+    description:
+      - Recipe courtesy Emeril Lagasse. The ingredient list includes 1/2 cup rice, which the directions never use.
+    ingredients:
+      - { qty: 3, measure: lb, ingredient: Shrimp, note: "head-on, with peels" }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, measure: cup, ingredient: Onion, note: small dice }
+      - { qty: "1/2", measure: cup, ingredient: Carrot, note: small dice }
+      - { qty: "1/2", measure: cup, ingredient: Celery, note: small dice }
+      - { qty: "1/2", measure: cup, ingredient: Shallot, note: minced }
+      - { qty: "1/4", measure: cup, ingredient: Leek, note: finely chopped }
+      - { qty: 2, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: tbsp, ingredient: Tomato paste }
+      - { qty: 6, measure: cup, ingredient: Chicken broth, note: or water }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: 1, measure: sprig, ingredient: Thyme }
+      - { qty: 2, measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: White pepper, note: fresh ground }
+      - { qty: 1, measure: tbsp, ingredient: Paprika }
+      - { qty: 4, measure: tbsp, ingredient: Butter }
+      - { qty: 4, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: "1/2", measure: cup, ingredient: Long grain rice, note: listed but not used }
+      - { qty: 1, measure: cup, ingredient: Heavy cream }
+      - { qty: "1/2", measure: cup, ingredient: Brandy }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 1, measure: tbsp, ingredient: Sherry vinegar, note: or to taste }
+      - { qty: 2, measure: tsp, ingredient: Lemon juice, note: or to taste }
+      - { ingredient: Chives, note: "fresh, chopped, for garnish" }
+    directions:
+      - Peel and devein the shrimp, saving half the heads and all the peels (discard the rest of the heads). Refrigerate the shrimp.
+      - Heat the oil in a deep wide pot over medium-high heat and saute the onions, carrots and celery until lightly caramelized, 7 to 8 minutes. Add the shallots, leeks and garlic for 1 minute, then the tomato paste until everything is coated, 2 to 3 minutes.
+      - Add the shells and heads and cook until pink and well caramelized, about 5 minutes. Add the broth, bay leaf and thyme, bring to a boil and simmer. Season with the salt, white pepper and paprika and simmer about 45 minutes.
+      - Make a roux of the butter and flour in a clean pot big enough for the stock. Strain the stock into it through a fine sieve.
+      - Add the cream, brandy and cayenne and return to a simmer. Add sherry vinegar and lemon juice to taste and adjust the seasoning.
+      - Stir in the shrimp and cook until just done, 1 to 2 minutes. Garnish with chives and serve immediately.
+
+  - name: Shrimp Bisque
+    categories: [Soups, Seafood]
+    description:
+      - Recipe courtesy Tyler Florence.
+    ingredients:
+      - { qty: "1 1/2", measure: lb, ingredient: Shrimp, note: "shelled and deveined, shells reserved" }
+      - { qty: 3, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 8, measure: tbsp, ingredient: Unsalted butter, note: 1 stick }
+      - { qty: 2, ingredient: Leek, note: "trimmed, halved lengthwise and rinsed well" }
+      - { qty: 3, measure: stalk, ingredient: Celery, note: big chunks }
+      - { qty: 2, ingredient: Carrot, note: big chunks }
+      - { qty: 3, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: 2, measure: piece, ingredient: Orange, note: "strips of zest, plus finely grated zest for garnish" }
+      - { qty: 2, measure: tbsp, ingredient: Tomato paste }
+      - { qty: "1/4", measure: cup, ingredient: Brandy }
+      - { qty: 3, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: 4, measure: cup, ingredient: Heavy cream }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Chives, note: "finely chopped, for garnish" }
+    directions:
+      - Heat the olive oil in a large pot over medium heat and melt in the butter. Add the shells, leeks, celery, carrots, thyme, bay leaf, orange zest strips and tomato paste and cook, stirring now and then, until the shells are red and the vegetables soft, about 10 minutes.
+      - Off the heat, carefully pour in the brandy and ignite it with a long match; let the flame die down.
+      - Return to the heat, stir in the flour and cook 2 minutes. Add water to cover and deglaze, scraping the bottom. Add the cream and bring to a boil, then immediately simmer gently over low heat until reduced and thickened, 30 to 45 minutes.
+      - Strain into a clean pot and season. Chop the shrimp, return the bisque to a simmer and cook the shrimp 2 to 3 minutes.
+      - Taste, pour into warm bowls and garnish with grated orange zest and chives.
+
+  - name: Quick Crawfish Etouffee
+    categories: [Seafood, Cajun]
+    description:
+      - Recipe courtesy Emeril Lagasse. Serve over steamed rice. Bob's variations - white wine, sausage, Worcestershire or gizzards.
+    ingredients:
+      - { qty: 8, measure: tbsp, ingredient: Butter, note: 1 stick }
+      - { qty: 2, measure: cup, ingredient: Onion, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Celery, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Green bell pepper, note: chopped }
+      - { qty: 1, measure: lb, ingredient: Crawfish tails, note: peeled }
+      - { qty: 2, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 1, measure: tbsp, ingredient: Flour }
+      - { qty: 1, measure: cup, ingredient: Water }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: finely chopped }
+      - { qty: 3, measure: tbsp, ingredient: Green onion, note: chopped }
+      - { ingredient: Cooked rice, note: "steamed, for serving" }
+    directions:
+      - Melt the butter in a large saute pan over medium-high heat and saute the onions, celery and peppers until wilted, 10 to 12 minutes.
+      - Add the crawfish, garlic and bay leaves, reduce to medium and cook 10 to 12 minutes, stirring occasionally.
+      - Dissolve the flour in the water and stir it in. Season with the salt and cayenne and stir until it thickens, about 4 minutes.
+      - Stir in the parsley and green onions, cook 2 minutes and serve over rice.
+
+  - name: French Onion Soup
+    categories: [Soups]
+    description:
+      - Bob's copy adds a tablespoon of Worcestershire and Swiss or mozzarella as alternatives to Gruyere. Or ladle into bowls, top each with 2 slices of bread and the cheese, and melt it in the oven.
+    ingredients:
+      - { qty: 8, measure: tbsp, ingredient: Unsalted butter, note: 1/2 cup }
+      - { qty: 4, ingredient: Onion, note: sliced }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 2, measure: sprig, ingredient: Thyme, note: fresh }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: cup, ingredient: Red wine, note: about 1/2 bottle }
+      - { qty: 3, measure: tbsp, ingredient: Flour, note: "all-purpose, heaping" }
+      - { qty: 2, measure: qt, ingredient: Beef broth }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: 1, ingredient: Baguette, note: sliced }
+      - { qty: "1/2", measure: lb, ingredient: Gruyere cheese, note: "grated, or Swiss or mozzarella" }
+    directions:
+      - Melt the butter in a large pot over medium heat. Add the onions, garlic, bay leaves, thyme, salt and pepper and cook until very soft and caramelized, about 25 minutes.
+      - Add the wine, bring to a boil, then simmer until it has evaporated and the onions are dry, about 5 minutes. Discard the bay leaves and thyme.
+      - Dust the onions with the flour and stir. Turn to medium-low so the flour doesn't burn and cook 10 minutes.
+      - Add the broth (and Worcestershire), bring back to a simmer and cook 10 minutes. Season.
+      - Heat the broiler. Lay the baguette slices on a baking sheet, sprinkle with the cheese and broil until bubbly and golden, 3 to 5 minutes. Float several on each bowl of soup.
+
+  - name: Melissa d'Arabian's French Onion Soup
+    categories: [Soups]
+    servings: 4
+    description:
+      - Recipe courtesy Melissa d'Arabian, 2010. Serves 4 to 6.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 4, ingredient: Yellow onion, note: "about 1 3/4 pounds, thinly sliced with the grain" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: tsp, ingredient: Flour }
+      - { qty: "1/2", measure: cup, ingredient: Red wine, note: dry }
+      - { qty: 1, measure: tbsp, ingredient: Thyme, note: "fresh, chopped" }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: 1, measure: tsp, ingredient: Lemon juice }
+      - { qty: 2, measure: cup, ingredient: Beef stock }
+      - { qty: 2, measure: cup, ingredient: Chicken stock }
+      - { qty: "1/2", measure: cup, ingredient: Swiss cheese, note: grated }
+      - { qty: 1, measure: tbsp, ingredient: Parmesan, note: grated }
+      - { qty: 4, measure: slice, ingredient: Baguette, note: "1 inch thick, on the bias" }
+    directions:
+      - Melt the butter in a heavy Dutch oven over medium-low heat. Add the onions, salt, cover and cook until deeply caramelized, 1 to 1 1/2 hours.
+      - Raise to medium, sprinkle with the flour and cook 1 or 2 minutes. Deglaze with the wine, add the thyme, bay leaf, lemon juice and stocks and simmer 10 minutes. Season.
+      - Ladle into 4 ovenproof crocks. Heat the broiler. Mix the cheeses, top each crock with a baguette slice and the cheese and broil until bubbly and browning, about 1 minute.
+
+  - name: Anne Burrell's French Onion Soup
+    categories: [Soups]
+    servings: 6
+    description:
+      - Caramelized onions take about an hour - low and slow, no shortcuts. They're very sweet, so the soup needs a fair amount of salt.
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 8, ingredient: Onion, note: "large, thinly sliced from stem to root" }
+      - { ingredient: Kosher salt }
+      - { qty: 6, measure: oz, ingredient: Sherry, note: dry }
+      - { qty: 4, ingredient: Bay leaf }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: bundle }
+      - { qty: 2, measure: qt, ingredient: Chicken stock }
+      - { qty: 12, measure: slice, ingredient: Baguette, note: thin }
+      - { qty: "1/2", measure: lb, ingredient: Gruyere cheese, note: grated }
+      - { qty: "1/2", measure: bunch, ingredient: Chives, note: chopped }
+    directions:
+      - Coat a large deep pot with olive oil, add the onions, salt generously and bring to medium heat. Stir to coat, cover and sweat 15 to 20 minutes.
+      - When very soft and they've let off a lot of water, uncover and cook low and slow, about an hour, until very brown and much smaller.
+      - Add the sherry and reduce by half. Add the bay leaves, thyme and stock, bring to a boil and simmer at least 1 hour, adding water if it reduces too much. Taste and season; it should be thick and full-flavored.
+      - Toast or grill the baguette slices. Fill ovenproof crocks 3/4 full, float 2 toasts in each, top with Gruyere and broil until brown and bubbly. Top with chives.
+
+  - name: Barefoot Contessa French Onion Soup
+    categories: [Soups]
+    servings: 4
+    description:
+      - From The Barefoot Contessa Cookbook, 1999. Serves 4 to 6.
+    ingredients:
+      - { qty: "2 1/2", measure: lb, ingredient: Yellow onion, note: "halved and sliced 1/4 inch thick (8 cups)" }
+      - { qty: 8, measure: tbsp, ingredient: Unsalted butter, note: 1/4 pound }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: "1/2", measure: cup, ingredient: Sherry, note: medium-dry }
+      - { qty: "1/2", measure: cup, ingredient: Brandy, note: or Cognac }
+      - { qty: "1 1/2", measure: cup, ingredient: White wine, note: good dry }
+      - { qty: 4, measure: cup, ingredient: Beef stock }
+      - { qty: 4, measure: cup, ingredient: Veal stock }
+      - { qty: 1, measure: tbsp, ingredient: Kosher salt }
+      - { qty: "1/2", measure: tsp, ingredient: White pepper, note: freshly ground }
+      - { ingredient: Parmesan, note: "freshly grated, for serving" }
+    directions:
+      - Saute the onions with the butter and bay leaf in a large stockpot over medium-high heat 20 minutes, until rich golden brown.
+      - Deglaze with the sherry and brandy and simmer uncovered 5 minutes. Add the wine and simmer uncovered 15 minutes more.
+      - Add the stocks, salt and pepper, bring to a boil and simmer uncovered 20 minutes. Remove the bay leaf, season and serve hot with Parmesan.
+
+  - name: Asiago Crostini
+    categories: [Breads, Hors d'Oeuvres]
+    description:
+      - Recipe courtesy Guy Fieri, for Roasted Garlic Soup.
+    ingredients:
+      - { qty: "1/3", measure: cup, ingredient: Olive oil }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: finely minced }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: tsp, ingredient: Paprika, note: hot Hungarian }
+      - { qty: "1/2", measure: tsp, ingredient: Oregano, note: "dried, crushed" }
+      - { qty: 1, ingredient: Baguette, note: "sourdough, 1-inch slices on a slight diagonal" }
+      - { qty: "1/2", measure: cup, ingredient: Asiago, note: shredded }
+    directions:
+      - Preheat the oven to 400 degrees F. Mix the oil, garlic and spices.
+      - Brush the bread slices on a parchment-lined baking sheet with the oil mixture and sprinkle each with about 1 teaspoon cheese.
+      - Bake until the cheese melts and the edges crisp and darken, 8 to 10 minutes. Cool before serving.
+
+  - name: Roasted Garlic Soup
+    categories: [Soups]
+    servings: 4
+    cooking_time: 130
+    description:
+      - Recipe courtesy Guy Fieri, 2010. Serves 4 to 6. Serve with Asiago Crostini (its own recipe).
+    ingredients:
+      - { qty: 6, measure: head, ingredient: Garlic, note: "large, whole" }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: 2, measure: tsp, ingredient: Salt, note: divided }
+      - { qty: "1 1/2", measure: tsp, ingredient: Black pepper, note: "freshly cracked, divided" }
+      - { qty: 6, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: "3/4", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 4, measure: cup, ingredient: Chicken stock }
+      - { qty: 2, measure: cup, ingredient: Water }
+      - { qty: 1, measure: tbsp, ingredient: Italian seasoning }
+      - { qty: 1, measure: cup, ingredient: Heavy cream }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh Italian flat-leaf, minced" }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: "extra-virgin, for drizzling" }
+      - { ingredient: Asiago Crostini, note: for serving }
+    directions:
+      - Preheat the oven to 375 degrees F. Cut the tops off the garlic heads to expose the cloves and remove the excess papery skin. Set on foil, drizzle with 1 tablespoon oil and 1/2 teaspoon each salt and pepper, and close the foil loosely. Roast on a baking sheet until soft and fragrant, about 1 hour 15 minutes. Cool and squeeze out the garlic.
+      - Melt the butter in a large heavy soup pot over medium-high heat and cook the garlic 5 minutes. Add the flour and cook to a dark golden roux, 5 to 6 minutes, stirring often.
+      - Add the stock 1 cup at a time, incorporating each, then the water the same way. Add the Italian seasoning and remaining salt and pepper and simmer 15 minutes.
+      - Add the cream and cook 10 minutes more at a very low simmer, stirring occasionally. Adjust the seasoning and serve with parsley, a drizzle of extra-virgin olive oil and the crostini.
+
+  - name: Shrimp Gumbo
+    categories: [Soups, Gumbo, Seafood, Cajun]
+    prep_time: 60
+    cooking_time: 150
+    servings: 6
+    description:
+      - Recipe courtesy Alton Brown, 2007. The roux bakes in the oven. Serve over rice.
+    ingredients:
+      - { qty: 4, measure: oz, ingredient: Vegetable oil }
+      - { qty: 4, measure: oz, ingredient: Flour, note: all-purpose }
+      - { qty: "1 1/2", measure: lb, ingredient: Shrimp, note: "raw, whole, head-on, medium (31-50 count)" }
+      - { qty: 2, measure: qt, ingredient: Water }
+      - { qty: 1, measure: cup, ingredient: Onion, note: diced }
+      - { qty: "1/2", measure: cup, ingredient: Celery, note: diced }
+      - { qty: "1/2", measure: cup, ingredient: Green bell pepper, note: diced }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: "1/2", measure: cup, ingredient: Tomato, note: "peeled, seeded and chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Kosher salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: tsp, ingredient: Thyme, note: "fresh, chopped" }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: "1/2", measure: lb, ingredient: Andouille sausage, note: "1/4-inch pieces, browned" }
+      - { qty: 1, measure: tbsp, ingredient: File powder }
+      - { ingredient: Cooked rice, note: for serving }
+    directions:
+      - Preheat the oven to 350 degrees F. Whisk the oil and flour together in a 5- to 6-quart cast-iron Dutch oven and bake uncovered on the middle shelf 1 1/2 hours, whisking 2 to 3 times.
+      - Meanwhile, head, peel and devein the shrimp and refrigerate. Simmer the heads and shells in the water in a 4-quart saucepan about 1 hour, until reduced to 1 quart. Strain.
+      - Set the roux over medium-high heat and cook the onions, celery, peppers and garlic, moving constantly, 7 to 8 minutes, until the onions begin to turn translucent.
+      - Stir in the tomatoes, salt, pepper, thyme, cayenne and bay leaves. Gradually whisk in the shrimp broth. Cover and cook over low heat 35 minutes.
+      - Off the heat, stir in the shrimp and sausage, then the file powder, stirring constantly. Cover and let sit 10 minutes before serving.
+
+  - name: Emeril's Seafood Gumbo
+    categories: [Soups, Gumbo, Seafood, Cajun]
+    description:
+      - Recipe courtesy Emeril Lagasse. Serve in large bowls over hot white rice.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Butter }
+      - { qty: 1, measure: cup, ingredient: Flour }
+      - { qty: 2, ingredient: Onion, note: chopped }
+      - { qty: 2, measure: rib, ingredient: Celery, note: finely chopped }
+      - { qty: "1/2", ingredient: Green bell pepper, note: finely chopped }
+      - { qty: 6, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: 2, measure: qt, ingredient: Fish stock, note: shrimp or seafood stock }
+      - { qty: 4, ingredient: Crab, note: "blue crabs, halved" }
+      - { qty: 1, measure: lb, ingredient: Shrimp, note: "raw, peeled and deveined" }
+      - { qty: 1, measure: lb, ingredient: White fish, note: "redfish or another firm fish, cut into pieces" }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: chopped }
+      - { qty: 1, measure: bunch, ingredient: Green onion, note: chopped }
+      - { qty: 1, measure: pt, ingredient: Oyster, note: in their liquor }
+      - { ingredient: Cooked rice, note: "white, for serving" }
+    directions:
+      - Melt the butter in a large heavy saucepan and whisk in the flour until smooth. Cook over medium heat, stirring constantly, until the roux is peanut-butter colored, about 20 minutes.
+      - Immediately add the onions, celery, pepper, garlic and bay leaves and cook until very soft, about 8 minutes. Whisk in the stock, bring to a boil, skim and simmer.
+      - Add the crabs and cook 1 1/2 hours, until thickened and flavorful, thinning with water or stock if too thick.
+      - Add the shrimp and fish and cook 5 to 7 minutes. Add the oysters with their liquor, parsley and green onions and cook until the oyster edges curl, 5 to 7 minutes. Adjust the seasoning.
+
+  - name: Savannah Seafood Gumbo
+    categories: [Soups, Gumbo, Seafood]
+    description:
+      - Recipe courtesy Paula Deen. Uses Paula Deen's House Seasoning (its own recipe). Add the file powder in the bowls - in the pot it thickens the gumbo too much.
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Vegetable oil }
+      - { qty: 6, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: 2, measure: cup, ingredient: Onion, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Green bell pepper, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Celery, note: diced }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: "large, minced" }
+      - { qty: 4, measure: cup, ingredient: Chicken broth }
+      - { qty: 1, measure: tbsp, ingredient: Chicken base }
+      - { qty: 3, measure: cup, ingredient: Water }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: "1 1/2", measure: tsp, ingredient: Dried thyme }
+      - { qty: 1, measure: tsp, ingredient: Dried basil }
+      - { qty: "1/3", measure: cup, ingredient: Parsley, note: dried }
+      - { qty: 1, measure: tsp, ingredient: Lemon pepper }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 2, measure: tsp, ingredient: House seasoning }
+      - { qty: 2, measure: tbsp, ingredient: Soy sauce, note: or Worcestershire }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: "14 1/2-ounce, with garlic, basil and oregano (or 2 cups fresh)" }
+      - { qty: 4, measure: cup, ingredient: Andouille sausage, note: "Cajun-style fresh link sausage, sliced" }
+      - { qty: 4, measure: cup, ingredient: Okra, note: "cut, fresh or frozen" }
+      - { qty: 2, measure: cup, ingredient: Oyster, note: with liquor }
+      - { qty: "1/2", measure: lb, ingredient: Crab, note: crabmeat }
+      - { qty: "1 1/2", measure: lb, ingredient: Shrimp, note: "fresh, peeled" }
+      - { qty: 3, measure: cup, ingredient: Scallop, note: bay scallops }
+      - { ingredient: File powder, note: for serving }
+      - { ingredient: Cooked rice, note: "hot buttered, for serving" }
+    directions:
+      - Cook the oil and flour in a large pot over medium heat, stirring constantly, until the roux is light chocolate brown. Add the onion, pepper, celery and garlic and saute 2 to 3 minutes, stirring.
+      - Slowly stir in the broth and chicken base, then the water, herbs, lemon pepper, cayenne, house seasoning, soy sauce and tomatoes.
+      - Cut the sausage into 1/2-inch pieces and add with the okra. Cover and simmer 1 to 1 1/2 hours, stirring occasionally.
+      - Add the oysters, crabmeat, shrimp and scallops and simmer 15 minutes more. Serve over rice with file powder sprinkled on each bowl and stirred in.
+
+  - name: Jambalaya
+    categories: [Cajun, Rice, Poultry, Seafood]
+    description:
+      - Chicken, andouille and shrimp. Uses Emeril's Essence Creole Seasoning (its own recipe).
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: divided }
+      - { qty: 1, measure: lb, ingredient: Shrimp, note: "medium, peeled and deveined" }
+      - { ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: 1, ingredient: Chicken, note: cut into 8 pieces }
+      - { qty: "1 1/2", measure: lb, ingredient: Andouille sausage, note: 1/2-inch cubes }
+      - { qty: 2, measure: cup, ingredient: Onion, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Celery, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Bell pepper, note: chopped }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Thyme, note: "leaves, chopped" }
+      - { qty: 1, measure: cup, ingredient: Tomato, note: chopped }
+      - { qty: 6, measure: cup, ingredient: Water }
+      - { qty: 2, measure: cup, ingredient: Long grain rice }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 1, measure: cup, ingredient: Green onion, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Parsley, note: chopped }
+    directions:
+      - Heat 2 tablespoons oil in a large Dutch oven over medium-high heat. Season the shrimp with Creole seasoning and saute until almost cooked, about 4 minutes. Set aside.
+      - Season the chicken, add the remaining oil and brown on both sides, about 8 minutes. Set aside. Brown the sausage.
+      - Add the onion, celery, bell pepper, garlic, bay leaves, cayenne and thyme and cook until wilted, about 6 minutes.
+      - Add the tomatoes and water, return the chicken, season and simmer covered 20 minutes.
+      - Stir in the rice, return to a boil, then cover and cook over low heat 15 minutes.
+      - Carefully mix in the shrimp, green onions and parsley and cook covered 10 minutes more. Let sit 10 minutes before serving.
+
+  - name: Kale Soup
+    categories: [Soups, Sausage]
+    description:
+      - Portuguese-style. Bob's notes - kielbasa works for the sausage, canned beans (14-ounce cans, red or black) for the dried ones (they need less simmering), and canned broth and water with chicken base for the stock. Serve with crusty Portuguese or French bread.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, measure: lb, ingredient: Chorizo, note: "or andouille or kielbasa, 1/2-inch slices" }
+      - { qty: 1, ingredient: Onion, note: "large, chopped" }
+      - { qty: 8, measure: clove, ingredient: Garlic, note: "6 to 8, minced" }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "fresh, chopped" }
+      - { qty: "1/4", measure: lb, ingredient: Navy beans, note: "dried, soaked overnight and drained (or a 14-ounce can)" }
+      - { qty: "1/4", measure: lb, ingredient: Red beans, note: "dried, soaked overnight and drained (or a 14-ounce can)" }
+      - { qty: 4, measure: qt, ingredient: Chicken stock }
+      - { qty: 2, ingredient: Potato, note: "large, peeled and diced" }
+      - { qty: 1, measure: bunch, ingredient: Kale, note: stemmed and torn }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: "1/4", measure: tsp, ingredient: Dried thyme }
+      - { qty: "1 1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: Red pepper flakes }
+      - { ingredient: Black pepper, note: ground }
+      - { qty: "1/2", measure: cup, ingredient: Mint, note: "fresh, chopped" }
+      - { ingredient: Bread, note: "crusty Portuguese, for serving" }
+    directions:
+      - Heat the olive oil in a heavy 8- to 9-quart stockpot over high heat and saute the sausage and onion 2 minutes. Add the garlic, parsley and beans and cook 2 minutes.
+      - Add the stock and bring to a boil. Stir in the bay leaves, thyme, salt, pepper flakes and black pepper. Simmer uncovered over medium until the beans are tender, about 1 1/2 hours (less with canned beans).
+      - Add the potatoes and kale and simmer 30 minutes more, until the potatoes are tender. Skim the fat.
+      - Ladle into bowls and stir 1 tablespoon mint into each; let it steep 1 to 2 minutes before eating.
+
+  - name: Lentil Soup
+    categories: [Soups, Beans]
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: plus more for drizzling }
+      - { qty: 1, ingredient: Onion, note: "medium, chopped" }
+      - { qty: 2, ingredient: Carrot, note: peeled and chopped }
+      - { qty: 2, measure: stalk, ingredient: Celery, note: chopped }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: chopped }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: 14 1/2-ounce }
+      - { qty: 1, measure: lb, ingredient: Lentils }
+      - { qty: 11, measure: cup, ingredient: Chicken broth, note: low-salt }
+      - { qty: 6, measure: sprig, ingredient: Thyme, note: "4 to 6, fresh" }
+      - { qty: "2/3", measure: cup, ingredient: Elbow macaroni, note: dried }
+      - { qty: 1, measure: cup, ingredient: Parmesan, note: shredded }
+    directions:
+      - Heat the oil in a heavy large pot over medium heat. Add the onion, carrots, celery, garlic, salt and pepper and saute until tender, 5 to 8 minutes.
+      - Add the tomatoes with their juices and simmer, stirring occasionally, until they break down, about 8 minutes.
+      - Stir in the lentils, then the broth and thyme. Bring to a boil, then cover and simmer over low heat until the lentils are almost tender, about 30 minutes.
+      - Stir in the pasta and simmer until al dente, about 8 minutes. Season, and serve sprinkled with Parmesan and drizzled with olive oil.

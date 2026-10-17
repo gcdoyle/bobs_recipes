@@ -1,0 +1,341 @@
+# Recipes from "Sauces & Dressings.txt", part 1. Already imported from other
+# files and skipped: Bob's BBQ Sauce (Bourbon or Rum, twice), Neelys BBQ Sauce,
+# Mango Barbecue Sauce, Mama T's Puttanesca Sauce, Classic BBQ Rub, Emeril's
+# Essence, and three sauces already part of their main recipes - Spicy
+# Cilantro Sauce (Black Bean Cakes), Horseradish Cream (Classic Standing Prime
+# Rib) and Horseradish Sauce (Oven-Roasted Prime Rib).
+recipes:
+  - name: Garlic Aioli
+    categories: [Sauces]
+    description:
+      - Made with raw egg yolks.
+    ingredients:
+      - { qty: 3, measure: clove, ingredient: Garlic }
+      - { qty: "1/2", measure: cup, ingredient: Red wine vinegar }
+      - { qty: 2, ingredient: Egg yolk }
+      - { qty: 1, measure: cup, ingredient: Peanut oil, note: or other neutral oil }
+      - { ingredient: Kosher salt }
+    directions:
+      - Put the garlic, vinegar and egg yolks in a food processor and turn it on.
+      - With the machine running, add the oil drop by drop until it thickens. Once it looks smooth and homogeneous, add the rest in a slow thin stream. Thin with a few drops of water if too thick.
+      - Season with salt and taste.
+
+  - name: Barbecue Sauce with Jerk Rub
+    categories: [Sauces, BBQ]
+    description:
+      - The file lists only the ingredients for this one.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Ketchup }
+      - { qty: "1/4", measure: cup, ingredient: White vinegar }
+      - { qty: "1/4", measure: cup, ingredient: Brown sugar }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: 1, measure: tbsp, ingredient: Lemon juice }
+      - { qty: 1, measure: tsp, ingredient: Jerk Rub, note: jerk chicken rub }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+    notes:
+      - Ingredients only; the file has no directions.
+
+  - name: White Roux
+    categories: [Sauces]
+    description:
+      - "Bob's ratios: bechamel is 2 tablespoons butter and 2 tablespoons flour to 1 1/2 to 2 cups milk; gravy is 1 ounce fat and 1 ounce flour to 1 cup liquid. This roux thickens 1 pint."
+    ingredients:
+      - { qty: 4, measure: tbsp, ingredient: Butter, note: and/or pan drippings }
+      - { qty: 6, measure: tbsp, ingredient: Flour }
+    directions:
+      - Heat the fat over medium-high heat. Add the flour all at once, whisking vigorously.
+      - When it thins and starts to bubble, reduce the heat to low and whisk less. Cook until it smells toasty, then 2 minutes more, stirring occasionally.
+      - Use it right away to thicken a liquid at or below room temperature. To thicken a hot liquid, cool the roux to room temperature first.
+    notes:
+      - Tightly wrapped, roux keeps up to a month in the refrigerator; break off pieces as needed.
+
+  - name: Beet Vinaigrette
+    categories: [Sauces, Salads]
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Red wine vinegar }
+      - { qty: 2, measure: tbsp, ingredient: Honey }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper }
+      - { qty: "1/4", measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil }
+      - { qty: 6, measure: oz, ingredient: Goat cheese, note: crumbled }
+    notes:
+      - Ingredients only; the file has no directions.
+
+  - name: Bob's Hot Sauce
+    categories: [Sauces]
+    description:
+      - "Bob's notes for next time: less or no mustard, peaches in lite syrup, honey instead of molasses, a dash of liquid smoke, and garlic cloves."
+    ingredients:
+      - { qty: 12, ingredient: Habanero chili, note: seeded and chopped }
+      - { qty: 1, measure: can, ingredient: Peach, note: "15.5-ounce sliced in heavy syrup" }
+      - { qty: "1/2", measure: cup, ingredient: Molasses, note: dark }
+      - { qty: "1/2", measure: cup, ingredient: Yellow mustard }
+      - { qty: "1/2", measure: cup, ingredient: Light brown sugar }
+      - { qty: 1, measure: cup, ingredient: Distilled white vinegar }
+      - { qty: 2, measure: tbsp, ingredient: Salt }
+      - { qty: 2, measure: tbsp, ingredient: Paprika }
+      - { qty: 1, measure: tbsp, ingredient: Black pepper }
+      - { qty: 1, measure: tbsp, ingredient: Ground cumin }
+      - { qty: "1/2", measure: tsp, ingredient: Ground coriander }
+      - { qty: "1/2", measure: tsp, ingredient: Ground ginger }
+      - { qty: "1/2", measure: tsp, ingredient: Allspice, note: ground }
+    directions:
+      - Put the peppers, peaches, molasses, mustard, brown sugar and vinegar in a food processor or blender. Add the salt, paprika, pepper, cumin, coriander, ginger and allspice.
+      - Blend until liquefied. Pour into clean jars and refrigerate overnight before using.
+
+  - name: Sawmill Gravy
+    categories: [Sauces, Pork]
+    description:
+      - Recipe courtesy Alton Brown. Makes 2 1/2 cups. Serve over toast or biscuits.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Breakfast sausage, note: bulk }
+      - { qty: "1/4", measure: cup, ingredient: Flour }
+      - { qty: 2, measure: cup, ingredient: Milk }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+    directions:
+      - Cook the sausage in a cast iron skillet. Remove it and pour off all but 2 tablespoons fat.
+      - Whisk the flour into the fat and cook over low heat 5 minutes.
+      - Off the heat whisk in the milk a little at a time. Return to medium-high heat and stir occasionally as it simmers and thickens, scraping up the brown bits.
+      - Season, add the crumbled sausage and serve.
+
+  - name: Anne Burrell's Tartar Sauce
+    categories: [Sauces, Seafood]
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. Serves 6 to 8. Made with raw egg yolks.
+    ingredients:
+      - { qty: 3, ingredient: Egg yolk }
+      - { qty: "1/4", measure: cup, ingredient: Malt vinegar }
+      - { qty: "1 1/2", measure: cup, ingredient: Peanut oil, note: or vegetable oil }
+      - { qty: 2, ingredient: Shallot, note: finely diced }
+      - { qty: "3/4", measure: cup, ingredient: Cornichons, note: finely chopped }
+      - { qty: "1/2", measure: cup, ingredient: Whole grain mustard }
+      - { qty: 1, measure: tsp, ingredient: Celery salt }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+      - { ingredient: Kosher salt }
+    directions:
+      - Combine the yolks and vinegar in a food processor. With it running, add the oil drop by drop until it looks thick and silky, then a bit faster until it's all in.
+      - Add the remaining ingredients, taste and season with salt. Refrigerate in a lidded container until ready to use.
+
+  - name: Creole Tartar Sauce
+    categories: [Sauces, Cajun, Seafood]
+    description:
+      - Emeril Lagasse's sauce for Crawfish Boulettes. Made with a raw egg. Best used within 24 hours.
+    ingredients:
+      - { qty: 1, ingredient: Egg }
+      - { qty: 2, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: tbsp, ingredient: Lemon juice, note: fresh }
+      - { qty: 1, measure: tbsp, ingredient: Parsley, note: chopped }
+      - { qty: 1, measure: tbsp, ingredient: Green onion, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Olive oil }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 1, measure: tbsp, ingredient: Creole mustard, note: or whole-grain mustard }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt }
+    directions:
+      - Puree the egg, garlic, lemon juice, parsley and green onions in a food processor for 15 seconds.
+      - With the processor running, pour the oil through the feed tube in a slow, steady stream. Add the cayenne, mustard and salt and pulse once or twice.
+      - Cover and refrigerate 1 hour before using.
+
+  - name: Alfredo Sauce
+    categories: [Sauces, Pasta]
+    ingredients:
+      - { qty: 1, measure: pt, ingredient: Heavy cream }
+      - { qty: "1/2", measure: cup, ingredient: Butter, note: "1 stick, unsalted, softened" }
+      - { qty: 1, measure: cup, ingredient: Parmesan, note: "Parmigiano-Reggiano, freshly grated, plus more for topping" }
+      - { ingredient: Black pepper, note: freshly cracked }
+      - { ingredient: Parsley, note: "fresh flat-leaf, chopped, for garnish" }
+    directions:
+      - Heat the cream over low-medium heat in a deep saute pan. Whisk in the butter gently to melt, then stir in the cheese and season with pepper.
+      - Cook fresh pasta in plenty of boiling salted water for 3 minutes, drain quickly and toss in the sauce.
+      - Transfer to a warm bowl, top with more cheese and parsley and serve immediately.
+
+  - name: Homemade Applesauce
+    categories: [Sauces, Desserts]
+    description:
+      - Recipe by Ina Garten, 2007. Makes 2 1/2 quarts. Baked in the oven.
+    ingredients:
+      - { qty: 2, ingredient: Orange, note: "large navel, zested and juiced" }
+      - { qty: 1, ingredient: Lemon, note: zested and juiced }
+      - { qty: 3, measure: lb, ingredient: Granny Smith apple, note: about 6 to 8 }
+      - { qty: 3, measure: lb, ingredient: Apple, note: "sweet red, such as Macoun, McIntosh or Winesap, about 6 to 8" }
+      - { qty: "1/2", measure: cup, ingredient: Light brown sugar, note: packed }
+      - { qty: 4, measure: tbsp, ingredient: Butter, note: unsalted }
+      - { qty: 2, measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: "1/2", measure: tsp, ingredient: Allspice, note: ground }
+    directions:
+      - Preheat the oven to 350 degrees F. Put the orange and lemon zest and juice in a large bowl.
+      - Peel, quarter and core the apples, saving the peel of 2 red apples, and toss them in the juice.
+      - Pour the apples, reserved peel and juice into a nonreactive Dutch oven or enameled iron pot. Add the brown sugar, butter, cinnamon and allspice, cover and bake 1 1/2 hours, until the apples are soft.
+      - Discard the red peel and whisk until smooth. Serve warm or at room temperature.
+
+  - name: Joseph Realmuto's BBQ Sauce
+    categories: [Sauces, BBQ]
+    description:
+      - Recipe by Joseph Realmuto, 2009. Makes 4 quarts.
+    ingredients:
+      - { qty: "1/4", measure: lb, ingredient: Butter }
+      - { qty: "3/4", measure: cup, ingredient: Onion, note: minced }
+      - { qty: "1/2", measure: cup, ingredient: Garlic, note: minced }
+      - { qty: 2, ingredient: Lemon, note: zested }
+      - { qty: 5, measure: tbsp, ingredient: Lemon juice, note: freshly squeezed }
+      - { qty: "4 1/4", measure: cup, ingredient: Ketchup }
+      - { qty: 1, measure: cup, ingredient: Tomato juice }
+      - { qty: "3/4", measure: cup, ingredient: Light brown sugar }
+      - { qty: 6, measure: tbsp, ingredient: Molasses }
+      - { qty: "1/2", measure: cup, ingredient: Worcestershire sauce }
+      - { qty: "1/2", measure: cup, ingredient: Chili powder }
+      - { qty: 4, measure: tbsp, ingredient: White wine vinegar }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Chipotle, note: puree }
+      - { qty: 1, measure: pinch, ingredient: Kosher salt }
+      - { qty: 3, measure: cup, ingredient: Water }
+    directions:
+      - Melt the butter in a large heavy pot or Dutch oven over medium heat. Cook the onion 5 minutes, then the garlic 5 minutes more.
+      - Stir in everything else with the 3 cups water and bring to a boil. Lower the heat and simmer 30 minutes, stirring frequently.
+
+  - name: Honey Hoisin Barbecue Sauce
+    categories: [Sauces, BBQ]
+    description:
+      - Use right away or store in the refrigerator.
+    ingredients:
+      - { qty: "1 1/2", measure: cup, ingredient: Onion, note: "yellow, chopped (1 large)" }
+      - { qty: 1, measure: tbsp, ingredient: Garlic, note: "minced (3 cloves)" }
+      - { qty: "1/2", measure: cup, ingredient: Vegetable oil }
+      - { qty: 1, measure: cup, ingredient: Tomato paste, note: 10 ounces }
+      - { qty: 1, measure: cup, ingredient: Cider vinegar }
+      - { qty: 1, measure: cup, ingredient: Honey }
+      - { qty: "1/2", measure: cup, ingredient: Worcestershire sauce }
+      - { qty: 1, measure: cup, ingredient: Dijon mustard }
+      - { qty: "1/2", measure: cup, ingredient: Soy sauce }
+      - { qty: 1, measure: cup, ingredient: Hoisin sauce }
+      - { qty: 2, measure: tbsp, ingredient: Chili powder }
+      - { qty: 1, measure: tbsp, ingredient: Ground cumin }
+      - { qty: "1/2", measure: tbsp, ingredient: Red pepper flakes }
+    directions:
+      - Saute the onions and garlic in the oil in a large saucepan on low heat 10 to 15 minutes, until translucent but not browned.
+      - Add everything else and simmer uncovered on low heat 30 minutes.
+
+  - name: Bourbon BBQ Sauce
+    categories: [Sauces, BBQ]
+    description:
+      - The file lists only the ingredients for this one.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Butter, note: unsalted }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, ingredient: Onion, note: "large Spanish, coarsely chopped" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: coarsely chopped }
+      - { qty: 2, measure: cup, ingredient: Bourbon whiskey, note: plus 2 tablespoons }
+      - { qty: 3, measure: cup, ingredient: Plum tomatoes, note: "canned, with their juices, pureed" }
+      - { qty: 2, measure: cup, ingredient: Water }
+      - { qty: "1/4", measure: cup, ingredient: Ketchup }
+      - { qty: "1/4", measure: cup, ingredient: Red wine vinegar }
+      - { qty: 2, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: 2, measure: tbsp, ingredient: Dark brown sugar }
+      - { qty: 2, measure: tbsp, ingredient: Honey }
+      - { qty: "1/4", measure: cup, ingredient: Molasses }
+      - { qty: 2, measure: tbsp, ingredient: Dijon mustard }
+      - { qty: 3, measure: tbsp, ingredient: Ancho chili powder }
+      - { qty: 1, measure: tbsp, ingredient: Chipotle, note: pepper puree }
+    notes:
+      - Ingredients only; the file has no directions.
+
+  - name: Anne Burrell's Bearnaise
+    categories: [Sauces, Beef]
+    description:
+      - Recipe courtesy Anne Burrell. It should be full flavored, foamy and yellow - serve it on a big fat steak.
+    ingredients:
+      - { qty: 2, ingredient: Butter, note: sticks }
+      - { qty: "1/4", measure: cup, ingredient: Tarragon vinegar }
+      - { qty: "1/4", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 1, measure: tsp, ingredient: Black peppercorns, note: crushed }
+      - { qty: 1, ingredient: Shallot, note: "small, finely chopped" }
+      - { qty: 3, ingredient: Egg yolk, note: large }
+      - { qty: 2, measure: tbsp, ingredient: Tarragon, note: "fresh leaves, finely chopped" }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+      - { ingredient: Kosher salt }
+    directions:
+      - Gently melt the butter over low heat and simmer about 15 minutes, skimming off the froth. Cool and ladle off the clear butterfat, leaving the milk solids - that's clarified butter.
+      - Cook the vinegar, wine, peppercorns and shallot in a small saute pan over medium heat until almost all the liquid is gone. Off the heat add 1 large ice cube and let it melt.
+      - Strain into a medium metal bowl, add the yolks and whisk vigorously.
+      - Set the bowl over barely simmering water and whisk until fluffy, about 5 minutes. Slowly drizzle in the clarified butter, a couple of drops at first, pulling the pan off the heat if the eggs cook too fast.
+      - Once all the butter is in, add the tarragon and cayenne and season with salt.
+
+  - name: Black-Eyed Pea Salad
+    categories: [Salads, Beans, Cajun]
+    description:
+      - Recipe courtesy Emeril Lagasse. Refrigerate at least 4 hours, preferably overnight, and let it sit at room temperature 30 minutes before serving.
+    ingredients:
+      - { qty: 5, measure: cup, ingredient: Black-eyed pea, note: cooked and drained }
+      - { qty: 4, measure: slice, ingredient: Bacon, note: "cooked crisp and crumbled, fat reserved" }
+      - { qty: "1/2", measure: cup, ingredient: Red wine vinegar, note: plus 2 tablespoons }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil }
+      - { qty: "1/2", measure: cup, ingredient: Red onion, note: "finely chopped (1/2 medium)" }
+      - { qty: "1/2", measure: cup, ingredient: Red bell pepper }
+      - { qty: 3, measure: tbsp, ingredient: Green onion, note: finely chopped }
+      - { qty: 2, measure: tbsp, ingredient: Jalapeno, note: finely chopped }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh leaves, finely chopped" }
+      - { qty: "1 1/2", measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: "1 1/2", measure: tsp, ingredient: Emeril's Essence Creole Seasoning }
+      - { qty: "3/4", measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+    directions:
+      - In a large bowl toss the peas, bacon and 3 tablespoons of the reserved bacon fat with all the remaining ingredients.
+      - Cover and refrigerate at least 4 hours or overnight, stirring occasionally. Toss well just before serving.
+
+  - name: Bleu Cheese Dressing
+    categories: [Sauces, Salads]
+    description:
+      - Served over a wedge salad with grape tomatoes, a drizzle of extra-virgin olive oil and chives.
+    ingredients:
+      - { qty: "1 1/2", measure: cup, ingredient: Mayonnaise }
+      - { qty: "1 1/2", measure: cup, ingredient: Sour cream }
+      - { qty: 1, measure: tbsp, ingredient: Lemon juice, note: fresh }
+      - { qty: 6, measure: oz, ingredient: Blue cheese, note: "mild, crumbled (3/4 cup)" }
+      - { qty: 2, measure: tbsp, ingredient: Chives, note: "fresh, chopped" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Combine the mayonnaise and sour cream in a large bowl. Squeeze in the lemon juice, fold in the blue cheese and chives and season with salt and pepper.
+
+  - name: Tyler Florence's Caesar Salad
+    categories: [Salads]
+    servings: 4
+    description:
+      - Recipe courtesy Tyler Florence. Serves 4 to 6. The dressing uses raw egg yolks.
+    ingredients:
+      - { qty: 1, measure: clove, ingredient: Garlic, note: smashed with a pinch of salt and a little olive oil }
+      - { qty: 4, ingredient: Anchovy, note: fillets }
+      - { qty: 2, ingredient: Egg yolk }
+      - { qty: 1, measure: tbsp, ingredient: Dijon mustard }
+      - { qty: 2, ingredient: Lemon, note: juiced }
+      - { qty: 2, measure: tbsp, ingredient: Water }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1/4", measure: cup, ingredient: Parmesan, note: "freshly grated, plus extra for garnish" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: head, ingredient: Romaine lettuce }
+    directions:
+      - Smear the garlic paste over the inside of the salad bowl.
+      - Blend the anchovies, yolks, mustard, lemon juice and water 30 seconds until smooth. With the blender running, slowly pour in the oil to emulsify. Stir in the Parmesan, a pinch of salt and some pepper.
+      - Tear the lettuce into the bowl, add dressing to taste and extra Parmesan, toss well and serve immediately.
+
+  - name: Grilled Romaine Dressing
+    categories: [Sauces, Salads]
+    description:
+      - Titled "dressing for Romaine" in the file, for grilled romaine with crumbled blue cheese.
+    ingredients:
+      - { qty: 6, measure: clove, ingredient: Garlic, note: peeled }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt }
+      - { qty: 1, measure: tbsp, ingredient: Lemon juice, note: fresh }
+      - { qty: 1, measure: tsp, ingredient: Capers }
+      - { qty: 1, measure: tbsp, ingredient: Sherry vinegar }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: "1/2", measure: tsp, ingredient: Hot sauce, note: recommended Tabasco }
+      - { qty: 6, ingredient: Anchovy, note: "fillets, plus 1/2 teaspoon of their oil" }
+      - { qty: "3/4", measure: cup, ingredient: Olive oil, note: "1/2 to 3/4 cup, plus more for grilling the romaine" }
+      - { qty: 20, measure: leaf, ingredient: Basil, note: washed and dried }
+      - { qty: 1, measure: cup, ingredient: Blue cheese, note: "crumbled, for garnish" }
+    notes:
+      - Ingredients only; the file has no directions.

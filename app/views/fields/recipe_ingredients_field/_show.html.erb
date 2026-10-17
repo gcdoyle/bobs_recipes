@@ -1,0 +1,7 @@
+<ul>
+  <% field.lines.each do |line| %>
+    <li>
+      <%= [format_qty(line.qty), line.measure, line.ingredient.name].compact_blank.join(" ") %><%= ", #{line.note}" if line.note.present? %>
+    </li>
+  <% end %>
+</ul>

@@ -6,19 +6,20 @@
 # you're free to overwrite the RESTful controller actions.
 module Admin
   class ApplicationController < Administrate::ApplicationController
+    # Administrate's controllers come from its engine, so the app's helpers
+    # aren't included automatically. The recipe ingredients field uses format_qty.
+    helper RecipesHelper
+
     before_action :authenticate_user!
     before_action :authenticate_admin
 
-    def order
-      @order ||= Administrate::Order.new(
-        params.fetch(resource_name, {}).fetch(:order, default_sort[:order]),
-        params.fetch(resource_name, {}).fetch(:direction, default_sort[:direction]),
-      )
+    # Index pages sort by name unless a controller says otherwise.
+    def default_sorting_attribute
+      :name
     end
 
-    # override this in specific controllers as needed
-    def default_sort
-      { order: :name, direction: :asc }
+    def default_sorting_direction
+      :asc
     end
 
     def authenticate_admin

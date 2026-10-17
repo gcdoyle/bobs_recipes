@@ -4,7 +4,7 @@ class CategoriesController < ApplicationController
   include SetInstance
 
   def index
-    @categories = Category.where.not(name: :chris)
+    @categories = Category.where.not(name: :chris).order(:name)
     @cards = []
     card = {}
     @categories.each do |category|
@@ -15,7 +15,7 @@ class CategoriesController < ApplicationController
   end
 
   def show
-    @recipes =  @category.recipes
+    @recipes = @category.recipes.with_attached_image.order(:name)
   end
 
 

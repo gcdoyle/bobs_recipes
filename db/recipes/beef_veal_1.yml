@@ -1,0 +1,466 @@
+# Recipes from "Beef & Veal.txt", part 1. Smoked Brisket (Mike Davis) is
+# already in from the BBQ file.
+recipes:
+  - name: Anne Burrell's Bourguignon
+    categories: [Beef, Stews]
+    prep_time: 15
+    cooking_time: 225
+    servings: 8
+    description:
+      - Recipe courtesy Anne Burrell. Serve with crusty bread to sop up the sauce.
+      - "Inactive prep: 12 hours (overnight marinade). Don't skip it; it makes a huge flavor difference."
+    ingredients:
+      - { qty: 4, measure: lb, ingredient: Beef chuck, note: cut into 1-inch chunks }
+      - { qty: 1, ingredient: Onion, note: "large, quartered, for the marinade" }
+      - { qty: 2, ingredient: Carrot, note: "peeled and halved, for the marinade" }
+      - { qty: 2, measure: rib, ingredient: Celery, note: "halved, for the marinade" }
+      - { qty: 5, measure: clove, ingredient: Garlic, note: "smashed, for the marinade" }
+      - { qty: 1, measure: bottle, ingredient: Red wine, note: "750 ml, for the marinade (2 cups reserved for the stew)" }
+      - { qty: 3, ingredient: Bay leaf, note: "fresh, for the marinade" }
+      - { ingredient: Olive oil, note: "extra-virgin, to coat the pan" }
+      - { ingredient: Kosher salt }
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 8, measure: oz, ingredient: Bacon, note: "slab, cut into lardons" }
+      - { qty: 1, ingredient: Onion, note: "large, 1/4-inch dice" }
+      - { qty: 2, ingredient: Carrot, note: 1/4-inch dice }
+      - { qty: 2, measure: rib, ingredient: Celery, note: 1/4-inch dice }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: finely chopped }
+      - { qty: "1/4", measure: cup, ingredient: Tomato paste }
+      - { qty: 3, measure: cup, ingredient: Beef stock, note: "3 to 4 cups, plus more as needed" }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: "fresh, bundled" }
+      - { qty: 1, measure: lb, ingredient: Cremini mushroom, note: quartered }
+      - { qty: 1, measure: lb, ingredient: Red potatoes, note: "red bliss, quartered" }
+      - { qty: "1/2", measure: bunch, ingredient: Chives, note: "fresh, finely chopped, for garnish" }
+    directions:
+      - "For the marinade: combine the onion, carrots, celery, garlic, bay leaves, and wine in a large bowl or container. Add the beef, cover, and refrigerate overnight."
+      - "For the stew: remove the beef from the marinade. Strain the vegetables and bay leaves from the wine and discard them, reserving the wine."
+      - Preheat the oven to 350 degrees F.
+      - Coat a large, wide pan or Dutch oven with olive oil and bring to medium-high heat. Season the beef generously with salt and toss with flour (don't flour it until you're ready to brown it). Brown the beef well on all sides in batches, without crowding the pan, and remove to a sheet tray.
+      - Add the bacon and cook until brown and crispy. Add the onions, carrots and celery and season with salt. Cook for 8 to 10 minutes, until the mixture starts to soften and become very aromatic. Add the garlic and cook 2 to 3 more minutes. Add the tomato paste and cook 1 to 2 minutes.
+      - Add 2 cups of the reserved wine and the beef. Stir and cook until the wine has reduced by half. Add beef stock to just cover the beef. Add the bay leaves and thyme bundle and season with salt, if needed. Bring to a boil, cover and put in the oven.
+      - Cook 2 hours, checking occasionally to add more stock if needed. During the last 30 minutes, add the mushrooms, potatoes, and more stock if needed.
+      - Remove from the oven and skim off any excess grease. Serve with crusty bread and garnish with chopped chives.
+
+  - name: Tyler Florence's Beef Bourguignon
+    categories: [Beef, Stews]
+    description:
+      - Recipe courtesy Tyler Florence.
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 4, measure: slice, ingredient: Bacon, note: cut into 3-inch strips }
+      - { qty: 4, measure: lb, ingredient: Beef chuck, note: "or round, cut into 2-inch cubes" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: tbsp, ingredient: Tomato paste }
+      - { qty: 3, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: cup, ingredient: Cognac }
+      - { qty: 1, measure: bottle, ingredient: Red wine, note: "dry, such as Burgundy" }
+      - { qty: 5, measure: cup, ingredient: Beef broth, note: low-sodium }
+      - { qty: 2, measure: sprig, ingredient: Rosemary, note: "fresh, for the bouquet garni" }
+      - { qty: 8, measure: sprig, ingredient: Thyme, note: "fresh, for the bouquet garni" }
+      - { qty: 2, ingredient: Bay leaf, note: for the bouquet garni }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: 1, measure: lb, ingredient: Mushroom, note: "white, stems trimmed" }
+      - { qty: 3, measure: cup, ingredient: Pearl onion, note: blanched and peeled }
+      - { qty: 1, measure: pinch, ingredient: Sugar }
+      - { ingredient: Parsley, note: "fresh flat-leaf, chopped, for garnish" }
+    directions:
+      - Put a large Dutch oven over medium heat and drizzle in a little oil. Add the bacon and cook until crisp. Remove to a paper towel; crumble when cool and set aside for the garnish.
+      - Season the beef generously with salt and pepper. Fry the cubes in the bacon fat in batches until evenly browned on all sides, about 8 to 10 minutes. Remove to a plate.
+      - Add the tomato paste and flour to the pot and stir to combine. Turn off the heat, pour in the Cognac and scrape up the browned bits. Turn the heat back on and carefully light the Cognac with a long kitchen match, standing back as the flame dies down.
+      - Whisk in the red wine and beef broth. Tie the rosemary, thyme and bay leaves together with kitchen twine (or in cheesecloth) and add with the beef. Bring to a simmer and cook until the liquid starts to thicken to a sauce, about 15 minutes. Cover, reduce the heat to low, and simmer for 1 hour.
+      - In a small skillet over medium-low heat, heat a little olive oil. Add the garlic and mushrooms and cook until the mushrooms start to brown, about 4 to 5 minutes. Add the pearl onions and cook until heated through.
+      - Uncover the pot and add the mushroom mixture and the pinch of sugar to balance the acid from the wine. Season with salt and pepper. Simmer 45 minutes longer, until the vegetables and meat are tender. Remove the bouquet garni. Serve showered with parsley and the crumbled bacon.
+
+  - name: Braciole
+    categories: [Beef]
+    prep_time: 35
+    cooking_time: 180
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell. Special equipment, toothpicks.
+      - "Inactive prep: 3 hours."
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1/2", measure: cup, ingredient: Pancetta, note: "finely diced, for the stuffing" }
+      - { qty: 1, ingredient: Onion, note: "large, finely diced, for the stuffing" }
+      - { ingredient: Kosher salt }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: "crushed, for the stuffing" }
+      - { qty: 2, measure: cup, ingredient: Bread, note: "day-old Italian, crusts removed, cut into 1-inch chunks" }
+      - { qty: 1, measure: cup, ingredient: Milk }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: "smashed and finely chopped, for the stuffing" }
+      - { qty: "1/2", measure: lb, ingredient: Mushroom, note: "button or cremini, sliced" }
+      - { qty: "1/2", measure: lb, ingredient: Spinach, note: "stems removed, cut into chiffonade" }
+      - { qty: "1/2", measure: cup, ingredient: Pine nuts, note: toasted }
+      - { qty: "1/2", measure: cup, ingredient: Provolone, note: grated }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: "Parmigiano-Reggiano, grated, plus more for garnish" }
+      - { qty: 2, measure: lb, ingredient: Top round, note: "cut into 1/2-inch-thick slices (about 12)" }
+      - { qty: 1, ingredient: Onion, note: "large, finely diced, for the sauce" }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: "crushed, for the sauce" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: "smashed and finely chopped, for the sauce" }
+      - { qty: 4, measure: tbsp, ingredient: Tomato paste }
+      - { qty: 1, measure: cup, ingredient: Red wine }
+      - { qty: 1, measure: can, ingredient: Tomato, note: "32-ounce San Marzano, passed through a food mill" }
+      - { qty: 2, measure: cup, ingredient: Water }
+      - { ingredient: Parsley, note: "leaves, chopped, for garnish" }
+    directions:
+      - "For the beef rolls: coat a large saute pan with olive oil, add the pancetta and bring to medium heat. Cook until brown and crispy, 5 to 7 minutes. Add the onions and crushed red pepper and season with salt. Cook until soft and very aromatic, 7 to 8 minutes."
+      - Meanwhile, combine the bread and milk in a large bowl and let sit until the bread absorbs the milk and is very soft; squish everything together with your hands. Reserve.
+      - Add the garlic to the pancetta and onion and saute 2 to 3 minutes. Add the mushrooms, season with salt, and saute until soft and they have released their moisture, 4 to 5 minutes. Remove from the heat and stir in the spinach.
+      - Add the onion-mushroom mixture to the bread and stir. Add the pine nuts, provolone and Parmigiano and stir to combine. Taste and season with salt if needed.
+      - Lay the beef slices between 2 pieces of plastic wrap and gently pound with a meat mallet to flatten evenly. Put about 1/4 cup of filling on one end of each slice and roll up, securing with toothpicks.
+      - Coat a large, wide pot with olive oil over medium-high heat. Season the rolls with salt and brown on all sides. Remove and reserve.
+      - "Sauce: pour the oil out of the pot. Add a light coating of fresh olive oil, the onions and crushed red pepper. Season with salt and sweat over medium heat until translucent, 7 to 8 minutes. Add the garlic and saute 2 to 3 minutes. Stir in the tomato paste and red wine and cook 6 to 8 minutes. Add the tomatoes and 2 cups of water and season with salt."
+      - Return the beef rolls to the pot and snuggle them into the sauce. Bring to a boil, then reduce the heat and simmer until the beef is very tender, about 2 to 2 1/2 hours. Remove the toothpicks.
+      - To serve, arrange 2 or 3 braciole on each plate, halving 1 or 2 rolls to show the stuffing. Spoon on some sauce and garnish with Parmigiano and chopped parsley.
+
+  - name: Tyler Florence's Beef Brisket
+    categories: [Beef]
+    description:
+      - Recipe courtesy Tyler Florence. Originally served with potato pancakes.
+    ingredients:
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "large, smashed" }
+      - { qty: "1/2", measure: tsp, ingredient: Kosher salt, note: plus more for seasoning }
+      - { qty: 4, measure: sprig, ingredient: Rosemary, note: "fresh, needles stripped and chopped" }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Beef brisket, note: "4-pound, first-cut" }
+      - { ingredient: Black pepper, note: coarsely ground }
+      - { qty: 4, ingredient: Carrot, note: "large, cut in 3-inch chunks" }
+      - { qty: 3, measure: stalk, ingredient: Celery, note: cut in 3-inch chunks }
+      - { qty: 4, ingredient: Red onion, note: "large, halved" }
+      - { qty: 2, measure: cup, ingredient: Red wine, note: dry }
+      - { qty: 1, measure: can, ingredient: Tomato, note: "16-ounce whole tomatoes, hand-crushed" }
+      - { qty: 1, measure: handful, ingredient: Parsley, note: fresh flat-leaf leaves }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: 1, measure: tbsp, ingredient: Flour, note: "all-purpose (optional)" }
+    directions:
+      - Preheat the oven to 325 degrees F.
+      - On a cutting board, mash the garlic and 1/2 teaspoon salt into a paste with the flat side of a knife. Add the rosemary and mash until incorporated. Put the paste in a small bowl and stir in 2 tablespoons of the olive oil.
+      - Season both sides of the brisket with salt and pepper. Coat a large roasting pan or Dutch oven with the remaining olive oil over medium-high heat and sear the brisket to a nice brown crust on both sides.
+      - Lay the vegetables around the brisket and pour the rosemary paste over everything. Add the wine and tomatoes, and the parsley and bay leaves. Cover tightly with foil and bake for about 3 to 4 hours, basting every 30 minutes, until fork tender.
+      - Remove the brisket to a cutting board and let rest 15 minutes. Scoop the vegetables onto a platter and keep warm. Pour off some of the excess fat and boil the pan juices on the stove over medium-high heat for 5 minutes, until reduced by half. (For a thicker sauce, mix 1 tablespoon flour with 2 tablespoons wine or water and blend into the gravy.)
+      - Slice the brisket across the grain at a slight diagonal.
+
+  - name: Paula Deen's House Seasoning
+    categories: [Seasonings]
+    description:
+      - Makes 1 1/2 cups. Keeps in an airtight container for up to 6 months.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Salt }
+      - { qty: "1/4", measure: cup, ingredient: Black pepper }
+      - { qty: "1/4", measure: cup, ingredient: Garlic powder }
+    directions:
+      - Mix the ingredients together and store in an airtight container.
+
+  - name: Paula Deen's Texas Brisket
+    categories: [Beef, BBQ]
+    description:
+      - Recipe courtesy Paula Deen. Uses Paula Deen's House Seasoning (its own recipe).
+    ingredients:
+      - { qty: 1, ingredient: Beef brisket, note: "5 to 6 pounds, trimmed but left with about 1/4 inch of fat" }
+      - { qty: 6, measure: tbsp, ingredient: House seasoning }
+      - { qty: 3, measure: tbsp, ingredient: Chili powder }
+      - { qty: "1 1/2", measure: tsp, ingredient: Brown sugar }
+      - { qty: "1 1/2", measure: tsp, ingredient: Onion powder }
+      - { qty: 1, measure: tsp, ingredient: Oregano, note: dried }
+      - { qty: 1, measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 6, measure: cup, ingredient: Wood chips, note: "hickory, soaked in water for 30 minutes" }
+    directions:
+      - Rinse the brisket under cold water and pat dry. In a small bowl mix the House Seasoning, chili powder, brown sugar, onion powder, oregano and cayenne. Rub the brisket on all sides.
+      - Set up your grill or smoker for indirect grilling. Put the soaked chips in the chip box, or in a foil pouch placed directly on the coals. Place the brisket fat side up in a large disposable aluminum pan in the center of the grate and cover the grill.
+      - Slow grill until tender and an instant-read thermometer in the center reads about 190 degrees F, about 6 hours, adding coals and chips as needed to keep a constant temperature.
+      - Rest on a cutting board for about 10 minutes, then slice across the grain and serve.
+
+  - name: Emeril's Rustic Rub
+    categories: [Seasonings]
+    ingredients:
+      - { qty: 8, measure: tbsp, ingredient: Paprika }
+      - { qty: 3, measure: tbsp, ingredient: Cayenne pepper }
+      - { qty: 5, measure: tbsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 6, measure: tbsp, ingredient: Garlic powder }
+      - { qty: 3, measure: tbsp, ingredient: Onion powder }
+      - { qty: 6, measure: tbsp, ingredient: Salt }
+      - { qty: "2 1/2", measure: tbsp, ingredient: Oregano, note: dried }
+      - { qty: "2 1/2", measure: tbsp, ingredient: Dried thyme }
+    directions:
+      - Combine all ingredients and store in an airtight container.
+
+  - name: Bacon-Braised and Smoked Brisket of Beef
+    categories: [Beef]
+    prep_time: 30
+    cooking_time: 330
+    servings: 4
+    description:
+      - Recipe courtesy Emeril Lagasse, 2007. Serves 4 to 6. The recipe calls for Emeril's Rib Rub; the rub printed with it is Emeril's Rustic Rub (its own recipe).
+    ingredients:
+      - { qty: 1, ingredient: Beef brisket, note: "3 to 4 pounds, well-marbled, preferably with 1/4 inch of outer fat" }
+      - { qty: 1, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: "4 1/2", measure: tsp, ingredient: BBQ seasoning, note: Emeril's Rib Rub }
+      - { qty: 4, measure: slice, ingredient: Bacon, note: "thick-cut apple-smoked, diced" }
+      - { qty: 4, measure: cup, ingredient: Yellow onion, note: chopped }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: "14 1/2-ounce, petite diced" }
+      - { qty: 1, measure: bottle, ingredient: Chili sauce, note: 12-ounce }
+      - { qty: 1, measure: cup, ingredient: Light brown sugar }
+      - { qty: 2, measure: cup, ingredient: Beef broth }
+      - { qty: "1/4", measure: cup, ingredient: Red pepper sauce, note: Emeril's Kick It Up }
+      - { qty: 1, measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: bottle, ingredient: Beer, note: "12-ounce amber, as needed" }
+      - { qty: "1/4", measure: cup, ingredient: Cider vinegar }
+      - { qty: 6, measure: tbsp, ingredient: Wood chips, note: hickory or mesquite smoking chips }
+    directions:
+      - Preheat the broiler to high. Place the brisket in a 9 by 13-inch baking dish or small roasting pan just large enough to hold it, rub on all sides with the oil and sprinkle with 4 teaspoons of the rub. Broil until well browned, 8 to 10 minutes per side.
+      - Meanwhile, cook the bacon in a large skillet over medium-high heat until crispy, 4 to 6 minutes. Add the onions and cook until soft, about 4 minutes. Add the garlic and cook until the onions are lightly caramelized, about 2 minutes. Add the remaining rub, tomatoes, chili sauce, brown sugar, beef broth, pepper sauce, and black pepper and bring to a simmer.
+      - Pour the sauce over the brisket and cover tightly with foil. Reduce the oven to 325 degrees F and cook until fork tender, about 4 hours, turning the brisket every hour. Don't let the liquid drop below halfway up the brisket; add beer as needed (you should use the whole bottle).
+      - Remove the brisket from the braising liquid and let cool briefly. Prepare a cast iron stovetop smoker with the chips. When it begins to smoke, place the brisket on the rack, close the lid, and smoke over medium-low heat for 45 minutes to 1 hour.
+      - Meanwhile, transfer the braising liquid to a large skillet, skim the fat, add the cider vinegar and bring to a boil. Cook, stirring frequently, until reduced to barbecue sauce consistency, 30 to 35 minutes.
+      - Let the brisket cool slightly, then slice across the grain with a very sharp knife and serve with the warm sauce.
+
+  - name: Braised Beef Brisket with Onions, Mushrooms, and Balsamic
+    categories: [Beef]
+    prep_time: 25
+    cooking_time: 180
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. Serves 6 to 8.
+      - "Inactive prep: 20 minutes."
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Beef brisket, note: 5-pound }
+      - { ingredient: Kosher salt }
+      - { qty: "1/4", measure: lb, ingredient: Bacon, note: "slab, skin removed and reserved, cut into lardons" }
+      - { qty: 3, ingredient: Onion, note: "large, thinly sliced" }
+      - { qty: 3, measure: rib, ingredient: Celery, note: thinly sliced on the bias }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { qty: 1, measure: lb, ingredient: Cremini mushroom, note: "stemmed and finely sliced" }
+      - { qty: 2, measure: cup, ingredient: Balsamic vinegar }
+      - { qty: 3, measure: cup, ingredient: Chicken stock, note: 3 to 4 cups }
+      - { qty: 4, ingredient: Bay leaf }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: "fresh, bundled" }
+      - { qty: 1, measure: bunch, ingredient: Chives, note: "fresh, finely chopped, for garnish" }
+    directions:
+      - Coat a large roasting pan with olive oil over high heat. Season the brisket generously with salt and brown well on both sides. Remove and reserve.
+      - Preheat the oven to 375 degrees F.
+      - Lower the heat to medium, discard the excess oil, and add the bacon and reserved skin with a little more oil. Cook, stirring occasionally, until crispy and it has released a lot of fat. Add the onions and celery, season with salt and cook until very soft and aromatic, 7 to 8 minutes. Add the garlic and cook 2 to 3 minutes. Add the mushrooms and cook until soft and wilted.
+      - Add the balsamic vinegar and reduce it by half. It will taste very vinegary; that's OK. Season with salt, if needed. Lay the brisket on top of the vegetables and add chicken stock until it just covers the brisket. Add the bay leaves and thyme.
+      - Cover with foil and roast for 1 hour. Turn the brisket over and add more stock if the level has reduced. Cover and roast another hour. Remove the foil and roast 30 minutes more.
+      - Transfer the brisket to a cutting board, cover with foil, and let rest 20 minutes. Skim the fat from the cooking liquid; if the vegetables are swimming, reduce the liquid on the stovetop over medium-high heat. You want the sauce soupy. Taste and reseason if needed.
+      - Slice the brisket against the grain on the bias. Serve topped with the onion-mushroom mixture and sprinkled with chopped chives.
+
+  - name: Texas Oven-Roasted Beef Brisket
+    categories: [Beef]
+    prep_time: 10
+    cooking_time: 240
+    servings: 10
+    description:
+      - Recipe courtesy Tom Perini.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Chili powder }
+      - { qty: 2, measure: tbsp, ingredient: Salt }
+      - { qty: 1, measure: tbsp, ingredient: Garlic powder }
+      - { qty: 1, measure: tbsp, ingredient: Onion powder }
+      - { qty: 1, measure: tbsp, ingredient: Black pepper, note: ground }
+      - { qty: 1, measure: tbsp, ingredient: Sugar }
+      - { qty: 2, measure: tsp, ingredient: Dry mustard }
+      - { qty: 1, ingredient: Bay leaf, note: crushed }
+      - { qty: 4, measure: lb, ingredient: Beef brisket, note: trimmed }
+      - { qty: "1 1/2", measure: cup, ingredient: Beef stock }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Make a dry rub by combining the chili powder, salt, garlic and onion powders, black pepper, sugar, dry mustard, and bay leaf. Season the brisket on both sides with the rub. Place in a roasting pan and roast, uncovered, for 1 hour.
+      - Add the beef stock and enough water for about 1/2 inch of liquid in the pan. Lower the oven to 300 degrees F, cover tightly and cook for 3 hours more, or until fork tender.
+      - Trim the fat and slice the meat thinly across the grain. Top with the pan juices.
+
+  - name: Spicy Beef Kebabs
+    categories: [Beef]
+    prep_time: 20
+    cooking_time: 12
+    servings: 4
+    description:
+      - Recipe courtesy Alton Brown, 2005. Special equipment, 4 (12-inch) metal skewers.
+      - "Inactive prep: 2 hours."
+    ingredients:
+      - { qty: "1 1/2", measure: lb, ingredient: Beef sirloin, note: "1 1/2 to 2 pounds, boneless" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: tsp, ingredient: Smoked paprika }
+      - { qty: "1/2", measure: tsp, ingredient: Turmeric, note: ground }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/3", measure: cup, ingredient: Red wine vinegar }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil }
+    directions:
+      - Cut the beef into 1 1/2 to 1 3/4-inch cubes and place in a large mixing bowl.
+      - In a food processor combine the garlic, paprika, turmeric, cumin, salt, pepper and vinegar. With the processor running, drizzle in the olive oil.
+      - Pour the marinade over the meat and toss to coat. Refrigerate in an airtight container or sealable bag for 2 to 4 hours.
+      - Preheat the grill to medium-high. Thread the meat onto the skewers with about 1/2 inch between pieces. Grill, lid lowered, 2 to 3 minutes per side, 8 to 12 minutes in all (8 for rare, 12 for medium).
+      - Wrap in foil and let rest 2 to 3 minutes before serving.
+
+  - name: Braised Short Ribs
+    categories: [Beef]
+    prep_time: 25
+    cooking_time: 210
+    servings: 8
+    description:
+      - Recipe courtesy Anne Burrell.
+    ingredients:
+      - { qty: 6, ingredient: Beef short ribs, note: "bone-in, about 5 3/4 pounds" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Onion, note: "large Spanish, cut into 1/2-inch pieces" }
+      - { qty: 2, measure: rib, ingredient: Celery, note: cut into 1/2-inch pieces }
+      - { qty: 2, ingredient: Carrot, note: "peeled, halved lengthwise, cut into 1/2-inch pieces" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: "1 1/2", measure: cup, ingredient: Tomato paste }
+      - { qty: 2, measure: cup, ingredient: Red wine, note: "2 to 3 cups, hearty" }
+      - { qty: 2, measure: cup, ingredient: Water }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: "fresh, tied with kitchen string" }
+      - { qty: 2, ingredient: Bay leaf }
+    directions:
+      - Season each short rib generously with salt. Coat a pot large enough for the meat and vegetables with olive oil over high heat. Brown the short ribs very well, 2 to 3 minutes per side, in batches if necessary.
+      - Preheat the oven to 375 degrees F.
+      - While the ribs brown, puree the vegetables and garlic in a food processor to a coarse paste. Remove the ribs from the pan, drain the fat, coat the pan with fresh oil and add the vegetable puree. Season generously with salt and brown until very dark and a crust has formed on the bottom of the pan, 5 to 7 minutes. Scrape it up, let it reform, and scrape again.
+      - Add the tomato paste and brown for 4 to 5 minutes. Add the wine and scrape the bottom of the pan, lowering the heat if things start to burn. Reduce by half.
+      - Return the ribs to the pan and add about 2 cups water, until the meat is just about covered. Add the thyme and bay leaves. Cover and cook in the oven for 3 hours, checking periodically and adding water if needed, and turning the ribs halfway through.
+      - Remove the lid for the last 20 minutes to brown and reduce the sauce. The meat should be very tender but not falling apart. Serve with the braising liquid.
+
+  - name: Emeril's Slow Cooker Beef Stew
+    categories: [Beef, Stews]
+    description:
+      - Recipe courtesy Emeril Lagasse, 2006. Uses Emeril's Essence Creole Seasoning (its own recipe).
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 2, measure: lb, ingredient: Beef stew meat, note: cut into 1-inch pieces }
+      - { qty: "1 1/2", measure: tsp, ingredient: Kosher salt }
+      - { qty: 1, measure: tsp, ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: "3/4", measure: tsp, ingredient: Black pepper, note: cracked }
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: "1/2", measure: lb, ingredient: Mushroom, note: "button, thinly sliced" }
+      - { qty: 3, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: 3, measure: cup, ingredient: Veal stock, note: "or beef stock, at room temperature" }
+      - { qty: 2, measure: tbsp, ingredient: Tomato paste }
+      - { qty: "1/4", measure: tsp, ingredient: Dried thyme }
+      - { qty: "1/4", measure: tsp, ingredient: Oregano, note: dried }
+      - { qty: "1/4", measure: tsp, ingredient: Dried basil }
+      - { qty: "1/8", measure: tsp, ingredient: Allspice, note: ground }
+      - { qty: 1, measure: lb, ingredient: Potato, note: "small (golf-ball size) new potatoes, quartered" }
+      - { qty: 1, measure: cup, ingredient: Carrot, note: diced }
+      - { qty: 1, measure: cup, ingredient: Pearl onion, note: "frozen, thawed" }
+      - { qty: "1/2", measure: cup, ingredient: Green peas, note: "frozen, thawed" }
+      - { qty: 1, measure: tbsp, ingredient: Parsley, note: "fresh leaves, chopped" }
+    directions:
+      - Set a 12-inch saute pan over medium-high heat and add 1 tablespoon of the olive oil. Season the beef with 1 teaspoon of the salt, the Essence and 1/2 teaspoon of the pepper. Sear the beef in 2 batches, about 2 or 3 minutes per side.
+      - Add the butter, mushrooms, flour, stock, tomato paste, herbs, spices, and browned meat to a slow cooker. Cover and cook on high for 1 hour.
+      - Add the potatoes and carrots and cook another 7 hours, adding the pearl onions during the last hour.
+      - Stir in the peas and parsley and serve immediately.
+
+  - name: Old-Time Beef Stew
+    categories: [Beef, Stews]
+    prep_time: 5
+    cooking_time: 135
+    servings: 6
+    description:
+      - Recipe courtesy Paula Deen.
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Beef stew meat }
+      - { qty: 2, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: 2, measure: cup, ingredient: Water, note: plus 1/4 cup for thickening }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: peeled }
+      - { qty: 1, ingredient: Bay leaf, note: 1 or 2 }
+      - { qty: 1, ingredient: Onion, note: "medium, sliced" }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: tsp, ingredient: Sugar }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper }
+      - { qty: "1/2", measure: tsp, ingredient: Paprika }
+      - { measure: dash, ingredient: Allspice, note: "ground, or ground cloves" }
+      - { qty: 3, ingredient: Carrot, note: "large, sliced" }
+      - { qty: 3, measure: rib, ingredient: Celery, note: chopped }
+      - { qty: 2, measure: tbsp, ingredient: Corn starch }
+    directions:
+      - Brown the meat in hot oil. Add the water, Worcestershire, garlic, bay leaves, onion, salt, sugar, pepper, paprika, and allspice. Cover and simmer 1 1/2 hours.
+      - Remove the bay leaves and garlic. Add the carrots and celery. Cover and cook 30 to 40 minutes longer.
+      - To thicken the gravy, remove 2 cups of the hot liquid. In a separate bowl, combine 1/4 cup water and the cornstarch until smooth. Mix with a little of the hot liquid and return to the pot. Stir and cook until bubbly.
+
+  - name: Beef Stew
+    categories: [Beef, Stews]
+    description:
+      - From Food Network Kitchens. Beef chuck, from the shoulder, is the choice for any stew because of its marbling; if you can't find it cubed, buy a thick chuck steak and cut it into 2-inch cubes.
+    ingredients:
+      - { ingredient: Vegetable oil, note: for searing }
+      - { qty: "2 1/2", measure: lb, ingredient: Beef chuck, note: cut into 2-inch cubes }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: 2, ingredient: Onion, note: "medium, cut into sixths" }
+      - { qty: 5, measure: clove, ingredient: Garlic, note: crushed }
+      - { qty: 1, measure: tbsp, ingredient: Tomato paste }
+      - { qty: "1/3", measure: cup, ingredient: Flour, note: "all-purpose, or enough to coat" }
+      - { qty: 10, measure: cup, ingredient: Water, note: "cold, or chicken or beef broth" }
+      - { qty: 6, measure: sprig, ingredient: Parsley }
+      - { qty: 6, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: "1 1/4", measure: lb, ingredient: Red potatoes, note: "medium, quartered" }
+      - { qty: 4, ingredient: Carrot, note: "medium, cut into 2-inch pieces" }
+      - { qty: 2, measure: stalk, ingredient: Celery, note: cut into 2-inch pieces }
+      - { qty: 7, ingredient: Tomato, note: "canned whole peeled, lightly crushed" }
+      - { qty: 2, measure: tsp, ingredient: Red wine vinegar, note: "2 to 3 teaspoons, or to taste" }
+    directions:
+      - Heat a large Dutch oven with a tight-fitting lid over medium-high heat. Pour in oil about 1/4 inch deep. Season the beef generously with salt and pepper. Saute half the meat, uncovered, stirring only occasionally, until well browned, about 8 minutes. Transfer to a plate with a slotted spoon and repeat. Discard the oil and wipe out the pan.
+      - Preheat the oven to 325 degrees F. Melt the butter in the pot over medium-high heat. Add the onion and cook until lightly browned, about 5 minutes. Add the garlic and cook until fragrant, about 1 minute. Add the tomato paste and cook until lightly browned, about 1 minute more.
+      - Add the beef, scatter the flour over to lightly coat, and cook, stirring, until lightly toasted. Add the water or broth and bring to a simmer. Tie the parsley, thyme, and bay leaves together with kitchen twine and add to the pot. Season with 2 teaspoons salt, or to taste. Cover and cook in the oven until the meat is just tender, about 1 1/2 hours (or simmer on the stove).
+      - Skim the fat from the liquid. Add the potatoes, carrots, celery and tomatoes and bring to a simmer on top of the stove. Cook, uncovered, stirring occasionally, until the liquid thickens and the vegetables are tender, about 1 hour.
+      - Discard the herb bundle. Stir in the vinegar and season with salt and pepper. Serve immediately.
+
+  - name: Beef, Mushroom, and Broccoli Stir-Fry
+    categories: [Beef, Asian]
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Flank steak }
+      - { qty: 3, measure: tbsp, ingredient: Water }
+      - { qty: 7, measure: tbsp, ingredient: Vegetable oil, note: divided }
+      - { qty: 4, measure: tbsp, ingredient: Soy sauce, note: divided }
+      - { qty: 8, measure: tsp, ingredient: Corn starch, note: divided }
+      - { qty: 1, measure: cup, ingredient: Chicken broth, note: "canned low-salt, plus 6 tablespoons" }
+      - { qty: "1/4", measure: cup, ingredient: White wine, note: "the source says just \"1/4\"" }
+      - { qty: 2, measure: tbsp, ingredient: Oyster sauce }
+      - { qty: 4, measure: tsp, ingredient: Sesame oil, note: Asian }
+      - { qty: "1/2", measure: tsp, ingredient: Sugar }
+      - { qty: 6, measure: slice, ingredient: Ginger, note: "quarter-size, peeled and minced" }
+      - { qty: 2, measure: lb, ingredient: Broccoli, note: "cut into florets, stems discarded" }
+      - { qty: 1, measure: lb, ingredient: Mushroom, note: sliced }
+      - { ingredient: Rice, note: "steamed, for serving" }
+    directions:
+      - Cut the steak with the grain into 2-inch-wide pieces, then slice thinly across the grain. Combine 3 tablespoons water, 2 tablespoons vegetable oil, 2 tablespoons soy sauce, and 2 teaspoons cornstarch in a large bowl. Add the steak and stir to coat. Refrigerate at least 30 minutes.
+      - Combine 6 tablespoons broth, the remaining 2 tablespoons soy sauce and 6 teaspoons cornstarch, the wine, oyster sauce, sesame oil and sugar in a small bowl, stirring to dissolve the cornstarch completely.
+      - Heat 2 tablespoons vegetable oil in a wok or heavy large skillet over high heat. Add the steak with its marinade and stir-fry until no longer pink, about 2 minutes. Transfer to a platter.
+      - Add 2 tablespoons vegetable oil to the wok. Add the ginger and stir until aromatic, about 30 seconds. Add the broccoli and stir-fry 1 minute. Add 1 cup broth, cover, reduce the heat and simmer 2 1/2 minutes. Transfer the broccoli to a bowl.
+      - Add 1 tablespoon vegetable oil to the wok. Add the mushrooms and cook 2 minutes. Return the steak and broccoli to the wok. Stir the sauce, add to the wok and stir until it thickens, about 30 seconds. Serve immediately with steamed rice.
+
+  - name: Beef Stroganoff for Noodles
+    categories: [Beef]
+    prep_time: 5
+    cooking_time: 30
+    servings: 4
+    description:
+      - Recipe courtesy of Michele Urvater.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Beef tenderloin, note: "filet mignon or mignon tips, cut 2 inches long and 1/4 inch wide" }
+      - { qty: 3, measure: tbsp, ingredient: Butter }
+      - { qty: 1, ingredient: Onion, note: "small, finely chopped" }
+      - { qty: 1, measure: lb, ingredient: Mushroom, note: "domestic or wild, caps only, thinly sliced" }
+      - { qty: "1/2", measure: cup, ingredient: Beef broth }
+      - { qty: 1, measure: tbsp, ingredient: Dijon mustard }
+      - { qty: "1/4", measure: cup, ingredient: Heavy cream }
+      - { qty: "1/2", measure: cup, ingredient: Sour cream }
+      - { qty: 2, measure: tsp, ingredient: Flour }
+      - { qty: 2, measure: tbsp, ingredient: Dill, note: "fresh, minced" }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: minced }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 8, measure: oz, ingredient: Egg noodles, note: "medium, cooked" }
+    directions:
+      - Heat a large nonstick skillet over high heat and sear the meat on all sides for about a minute, working in small batches so it doesn't give off liquid. Remove to a plate.
+      - In a clean wide skillet, heat the butter. Sweat the onions, add the mushrooms and saute until deep golden, about 20 minutes. Meanwhile, blend the broth, mustard, heavy cream and sour cream together.
+      - Lower the heat, add the flour and cook, stirring, for a minute. Whisk in the liquids and any meat juices and simmer, without boiling, until the sauce thickens, about 5 minutes.
+      - Return the meat to the sauce and heat, without boiling, until warmed through. Season with salt and pepper, stir in the dill and parsley, and spoon over the noodles.

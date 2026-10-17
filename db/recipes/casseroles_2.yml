@@ -1,0 +1,662 @@
+# Recipes from "Casseroles, Ragus'.txt", part 2: macaroni and cheese, potato
+# gratins, pasta bakes, shepherd's pies, squash and tuna. Cheesy Squash
+# Casserole appears twice in the file; it is in part 1.
+recipes:
+  - name: Steph's Mac N Cheese
+    categories: [Casseroles, Pasta]
+    servings: 4
+    description:
+      - Recipe courtesy Janet Johnston.
+    ingredients:
+      - { qty: 8, measure: oz, ingredient: Elbow macaroni }
+      - { qty: "1/2", measure: tbsp, ingredient: Smoked paprika, note: Spanish sweet }
+      - { qty: 1, measure: tsp, ingredient: Garlic powder }
+      - { qty: 1, measure: tsp, ingredient: Smoked salt, note: hickory }
+      - { qty: "1/2", measure: tsp, ingredient: Mustard powder }
+      - { qty: "1/4", measure: tsp, ingredient: Nutmeg, note: ground }
+      - { qty: "1/4", measure: tsp, ingredient: Marjoram, note: "dried, crushed" }
+      - { qty: 1, measure: can, ingredient: Evaporated milk, note: 12-ounce }
+      - { qty: 1, measure: cup, ingredient: Cheddar, note: "sharp, shredded" }
+      - { qty: "1/4", measure: cup, ingredient: Parmesan, note: finely grated }
+      - { qty: 3, measure: tbsp, ingredient: Chives, note: "thinly sliced, for garnish" }
+    directions:
+      - Cook the macaroni in a large saucepan of boiling salted water to al dente and drain.
+      - Whisk together the smoked paprika, garlic powder, smoked salt, mustard powder, nutmeg and marjoram.
+      - Warm the evaporated milk in the saucepan, whisk in the spices and stir in the cheese a handful at a time until smooth.
+      - Stir in the pasta and cook until creamy and hot. Serve sprinkled with chives.
+
+  - name: Mueller's Mac and Cheese
+    categories: [Casseroles, Pasta]
+    description:
+      - The Mueller's package recipe.
+    ingredients:
+      - { qty: 8, measure: oz, ingredient: Elbow macaroni }
+      - { qty: "1/4", measure: cup, ingredient: Butter, note: or margarine }
+      - { qty: 3, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: "1/8", measure: tsp, ingredient: Dry mustard }
+      - { qty: "1/8", measure: tsp, ingredient: Salt }
+      - { qty: "1/8", measure: tsp, ingredient: Black pepper }
+      - { qty: 2, measure: cup, ingredient: Milk }
+      - { qty: 8, measure: oz, ingredient: Cheddar, note: "sharp, shredded (2 cups)" }
+      - { qty: 1, measure: cup, ingredient: Crouton }
+    directions:
+      - Cook the pasta 3 minutes, drain and set aside. Preheat the oven to 350 degrees.
+      - Melt the butter in a medium saucepan and blend in the flour, mustard, salt and pepper. Cook until smooth and bubbly, then gradually add the milk.
+      - Cook and stir over medium heat until it boils, then simmer 1 minute, stirring. Gradually mix in the cheese and stir over low heat until melted.
+      - Lightly mix in the pasta, pour into a 2-quart casserole, top with croutons and bake 25 minutes.
+
+  - name: Bob's Mac and Cheese
+    categories: [Casseroles, Pasta]
+    ingredients:
+      - { qty: "2 1/4", measure: cup, ingredient: Elbow macaroni }
+      - { qty: 8, measure: oz, ingredient: Cheddar, note: "medium sharp, shredded, plus more for topping" }
+      - { qty: 4, measure: oz, ingredient: Monterey Jack, note: shredded }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: grated }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: "1/3", measure: cup, ingredient: Onion, note: finely diced }
+      - { qty: 3, measure: tbsp, ingredient: Butter }
+      - { qty: 3, measure: tbsp, ingredient: Flour }
+      - { qty: "1/2", measure: tsp, ingredient: Dry mustard }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 1, ingredient: Egg, note: beaten }
+      - { qty: "2 1/4", measure: cup, ingredient: Half-and-half }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { ingredient: Bread crumbs }
+      - { ingredient: Paprika }
+    directions:
+      - Cook the macaroni per the package (not overcooked) and put it in a mixing bowl.
+      - Melt the butter in a saucepan and cook the onion and garlic gently until soft. Add the flour to make a roux and cook about 2 minutes without browning.
+      - Add the half-and-half, egg, cayenne, mustard, and salt and pepper to taste and simmer until it starts to thicken. Stir in the cheeses over low heat until melted into a sauce.
+      - Pour over the macaroni and stir to combine. Spread in a buttered baking dish and top with extra cheddar, bread crumbs and paprika.
+      - Bake in a preheated 350 oven for 25 minutes, then let rest.
+
+  - name: Curried Macaroni and Cheese
+    categories: [Casseroles, Pasta]
+    servings: 4
+    description:
+      - Recipe courtesy Roger Mooking.
+    ingredients:
+      - { qty: 1, ingredient: Butter, note: stick }
+      - { qty: 1, measure: tsp, ingredient: Vegetable oil }
+      - { qty: "1/2", ingredient: Red onion, note: diced }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, ingredient: Green chiles, note: "1 chile, split lengthwise, optional" }
+      - { qty: 1, measure: tbsp, ingredient: Curry powder }
+      - { qty: "1/4", measure: cup, ingredient: Flour, note: "plus 2 tablespoons, all-purpose" }
+      - { qty: 5, measure: cup, ingredient: Milk, note: 2 percent }
+      - { qty: "2 1/2", measure: cup, ingredient: Provolone, note: "or other mild cheese, grated" }
+      - { qty: "1 1/4", measure: lb, ingredient: Elbow macaroni, note: cooked per the package }
+      - { qty: "1/2", measure: cup, ingredient: Bread crumbs }
+      - { qty: 1, measure: bunch, ingredient: Asparagus, note: trimmed }
+      - { ingredient: Kosher salt }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Melt the butter with the oil in a large pot over medium heat. Saute the onion, garlic and chile until tender, about 2 minutes. Sprinkle in the curry powder and flour, whisk out the lumps and cook about 1 minute.
+      - Slowly whisk in the milk over low heat, bring to a simmer and whisk 2 minutes more.
+      - Off the heat, discard the chile and stir in 2 cups of the cheese until smooth. Add the macaroni, mix well and season with salt.
+      - Spread in a 9 by 9-inch dish and sprinkle with 1/4 cup each bread crumbs and cheese.
+      - Arrange the asparagus in a line on top, sprinkle with the remaining crumbs and cheese and bake 30 to 40 minutes, until golden.
+
+  - name: Smokin' Bacon Mac and Cheese
+    categories: [Casseroles, Pasta, Pork]
+    servings: 6
+    description:
+      - Baked in 6 to 8 ramekins.
+    ingredients:
+      - { qty: 10, measure: oz, ingredient: Elbow macaroni, note: about 2/3 box }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 16, measure: oz, ingredient: Cheddar, note: "mild, grated" }
+      - { qty: "1/2", ingredient: Onion, note: "medium, grated, juice saved" }
+      - { qty: 1, ingredient: Egg, note: large }
+      - { qty: 4, measure: slice, ingredient: Bacon, note: thick cut hickory }
+      - { qty: 1, measure: cup, ingredient: Milk }
+      - { qty: "1/2", measure: cup, ingredient: Evaporated milk }
+      - { qty: "1/2", measure: cup, ingredient: Heavy cream }
+      - { qty: 2, measure: tbsp, ingredient: Bread crumbs }
+      - { qty: 2, measure: tsp, ingredient: Red pepper flakes, note: crushed red pepper }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+    directions:
+      - Preheat the oven to 400 degrees F. Cook the macaroni and set aside.
+      - Melt the butter in a medium cast iron pot and cook the grated onion and bacon until done.
+      - Add the macaroni, milks and cream, stir in the egg and 3/4 of the cheese. Add the crushed red pepper, salt and pepper.
+      - Divide among 6 to 8 ramekins and sprinkle with the remaining cheese and bread crumbs.
+      - Bake on the top shelf 10 to 15 minutes, until the cheese has crusted.
+
+  - name: Kicked Up Sausage Macaroni and Cheese
+    categories: [Casseroles, Pasta, Sausage]
+    description:
+      - Recipe courtesy Emeril Lagasse.
+    ingredients:
+      - { qty: 9, measure: tbsp, ingredient: Butter, note: "unsalted, divided" }
+      - { qty: "1/2", measure: lb, ingredient: Elbow macaroni }
+      - { qty: 1, measure: lb, ingredient: Pork sausage, note: "homemade-style spicy, removed from casings and crumbled" }
+      - { qty: 1, measure: cup, ingredient: Onion, note: "yellow, chopped" }
+      - { qty: "1/2", measure: cup, ingredient: Bell pepper, note: "green, chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Creole seasoning, note: "Emeril's Essence, divided" }
+      - { qty: 4, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: "1/2", measure: tsp, ingredient: Anise seed }
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 3, measure: cup, ingredient: Milk, note: whole }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: ground }
+      - { qty: "1/8", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 3, measure: cup, ingredient: Cheddar, note: "sharp, grated (8 ounces)" }
+      - { qty: "1/2", measure: cup, ingredient: Bread crumbs, note: fine dry }
+    directions:
+      - Preheat the oven to 350 degrees F. Butter a large casserole with 1 tablespoon of the butter.
+      - Cook the macaroni in boiling salted water until al dente, about 10 minutes. Drain, rinse under cold water and drain well.
+      - Brown the sausage in a large skillet over medium-high heat. Remove with a slotted spoon and drain. Pour off all but 1 tablespoon fat.
+      - Add the onions, bell peppers and 1 teaspoon Essence and cook until soft, about 3 minutes. Add the garlic and anise and cook 1 minute. Remove from the heat.
+      - Melt the remaining stick of butter in a large heavy saucepan over medium heat. Add the flour and cook, stirring, 3 to 4 minutes without browning. Whisk in the milk in a steady stream and cook until thick and smooth, 4 to 5 minutes.
+      - Off the heat add the salt, pepper, cayenne and 2 cups of the cheese. Stir in the noodles, sausage and vegetables and pour into the dish.
+      - Combine the remaining cheese, bread crumbs and remaining 2 teaspoons Essence and sprinkle over the top. Bake until golden and bubbly, about 25 minutes. Rest 5 minutes before serving.
+
+  - name: Baked Macaroni and Cheese
+    categories: [Casseroles, Pasta]
+    description:
+      - Recipe courtesy Alton Brown. Save leftovers for fried macaroni and cheese.
+    ingredients:
+      - { qty: "1/2", measure: lb, ingredient: Elbow macaroni }
+      - { qty: 3, measure: tbsp, ingredient: Butter }
+      - { qty: 3, measure: tbsp, ingredient: Flour }
+      - { qty: 1, measure: tbsp, ingredient: Mustard powder }
+      - { qty: 3, measure: cup, ingredient: Milk }
+      - { qty: "1/2", measure: cup, ingredient: Onion, note: "yellow, finely diced" }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: "1/2", measure: tsp, ingredient: Paprika }
+      - { qty: 1, ingredient: Egg, note: large }
+      - { qty: 12, measure: oz, ingredient: Cheddar, note: "sharp, shredded" }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: fresh }
+      - { qty: 3, measure: tbsp, ingredient: Butter, note: for the topping }
+      - { qty: 1, measure: cup, ingredient: Panko, note: for the topping }
+    directions:
+      - Preheat the oven to 350 degrees F. Cook the pasta to al dente in boiling salted water.
+      - Meanwhile melt the butter in another pot, whisk in the flour and mustard and keep it moving about 5 minutes, free of lumps.
+      - Stir in the milk, onion, bay leaf and paprika, simmer 10 minutes and remove the bay leaf.
+      - Temper in the egg, stir in 3/4 of the cheese and season with salt and pepper. Fold in the macaroni, pour into a 2-quart casserole and top with the remaining cheese.
+      - Melt the topping butter in a saute pan and toss the panko to coat. Top the macaroni, bake 30 minutes and rest 5 minutes before serving.
+
+  - name: Wilson's Own Mac n' Cheese
+    categories: [Casseroles, Pasta]
+    ingredients:
+      - { qty: 2, measure: qt, ingredient: Water }
+      - { qty: 1, measure: tbsp, ingredient: Kosher salt, note: plus more for seasoning }
+      - { qty: 1, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: 2, measure: cup, ingredient: Elbow macaroni, note: uncooked }
+      - { qty: 2, ingredient: Egg }
+      - { qty: "1 1/2", measure: cup, ingredient: Evaporated milk }
+      - { qty: "1/2", ingredient: Butter, note: "stick, melted" }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 16, measure: oz, ingredient: Cheddar, note: "sharp, shredded" }
+      - { ingredient: Paprika, note: for dusting }
+    directions:
+      - Preheat the oven to 325 degrees F.
+      - Bring the water, salt and oil to a boil, add the pasta and cook until al dente, 8 to 9 minutes. Drain and rinse with cold water.
+      - In a large bowl mix the eggs, evaporated milk, melted butter, and salt and pepper to taste. Stir in 3/4 of the cheese and the pasta.
+      - Spread in a sprayed 8 by 8-inch pan, top with the remaining cheese and dust with paprika.
+      - Bake until golden and bubbly, about 30 minutes. Serve hot.
+
+  - name: Potato Gratin with Thyme
+    categories: [Casseroles, Vegetables]
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Yukon gold potatoes, note: or red potatoes }
+      - { qty: "1 1/2", measure: cup, ingredient: Gruyere cheese, note: grated }
+      - { qty: 1, ingredient: Egg, note: large }
+      - { qty: 1, measure: cup, ingredient: Milk, note: whole }
+      - { qty: 2, measure: tbsp, ingredient: Thyme, note: "fresh leaves, chopped" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Preheat the oven to 400 degrees F and butter a 1 1/2-quart shallow baking dish.
+      - Peel the potatoes and cut into 1/8-inch slices (a food processor is good for this). Boil in salted water 4 minutes and drain thoroughly.
+      - Layer 1/3 of the potatoes, 1/3 of the cheese and 1/3 of the thyme and sprinkle with salt and pepper. Repeat twice, ending with cheese and thyme.
+      - Heat the milk just to boiling. Whisk the egg in a small bowl and whisk in the hot milk, then pour evenly over the potatoes.
+      - Bake 30 minutes, until golden and the potatoes are tender.
+
+  - name: Potatoes Gratin
+    categories: [Casseroles, Vegetables]
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Potato, note: "baking, peeled and sliced paper-thin" }
+      - { qty: 2, measure: cup, ingredient: Heavy cream }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: split }
+      - { qty: 4, measure: sprig, ingredient: Thyme, note: leaves only }
+      - { qty: 3, measure: tbsp, ingredient: Chives, note: "fresh, chopped, plus more for garnish" }
+      - { qty: 1, measure: cup, ingredient: Parmesan, note: "Parmigiano-Reggiano, grated" }
+      - { ingredient: Sea salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Preheat the oven to 375 degrees F. Toss all the ingredients together in a large bowl and season with salt and pepper.
+      - Spread in a casserole dish, flatten with a spatula and bake 40 minutes, until tender and bubbly.
+      - Let stand 10 minutes and garnish with chives.
+
+  - name: Onion and Potato Gratin
+    categories: [Casseroles, Vegetables]
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 3, ingredient: Onion, note: "large Spanish, peeled and thinly sliced" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: finely chopped }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 4, ingredient: Potato, note: "large, peeled and thinly sliced" }
+      - { qty: 3, measure: tbsp, ingredient: Balsamic vinegar }
+      - { qty: "1 1/4", measure: cup, ingredient: Heavy cream }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "fresh, finely chopped" }
+      - { qty: 1, measure: cup, ingredient: Gruyere cheese, note: grated }
+    directions:
+      - Heat the oil in a large saute pan over medium heat and cook the onions slowly until caramelized. Add the garlic and vinegar and cook 2 minutes.
+      - Preheat the oven to 375 degrees F and butter a 9-inch baking pan.
+      - Layer potatoes and season with salt and pepper, then spoon over 1/5 of the onions, 1/4 cup cream and a tablespoon of parsley. Repeat to make 5 layers.
+      - Sprinkle the cheese over the top and bake 50 to 60 minutes, until the potatoes are soft and the cream is absorbed.
+
+  - name: Scalloped Potato Gratin
+    categories: [Casseroles, Vegetables]
+    ingredients:
+      - { qty: "1 1/2", measure: cup, ingredient: Heavy cream }
+      - { qty: 1, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: "1/2", measure: tsp, ingredient: Nutmeg, note: ground }
+      - { ingredient: Butter }
+      - { qty: 2, ingredient: Russet potatoes, note: "peeled, 1/8-inch thick slices" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: "grated, plus more for broiling" }
+    directions:
+      - Preheat the oven to 375 degrees F. Heat the cream with the thyme, garlic and nutmeg.
+      - Butter a casserole dish. Lay in overlapping potato slices and season with salt and pepper. Pour a little cream over and top with Parmesan. Make 2 more layers.
+      - Bake uncovered 45 minutes. Sprinkle with more Parmesan and broil until browned, about 5 minutes.
+
+  - name: Pommes Chef Anne (Potato Cake)
+    categories: [Vegetables]
+    description:
+      - Recipe courtesy Anne Burrell.
+      - "Special equipment: mandoline and an 8-inch nonstick saute pan."
+    ingredients:
+      - { qty: 3, ingredient: Russet potatoes, note: scrubbed clean }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: "3/4", measure: cup, ingredient: Parmesan, note: "Parmigiano, grated" }
+      - { ingredient: Kosher salt }
+    directions:
+      - Preheat the oven to 425 degrees F.
+      - Working one potato at a time, slice very thin on the mandoline, quickly so they don't discolor. Don't put them in water - it washes off the starch.
+      - Coat the pan with olive oil and arrange the slices in concentric circles from the center; the first layer ends up on top, so make it pretty. Brush each layer with oil, sprinkle every 2nd or 3rd layer with Parmigiano and salt, and press each layer compact. Repeat with the other potatoes.
+      - Cook over medium heat until the oil sizzles and the bottom browns, then bake 20 to 25 minutes.
+      - Put a tight lid on the pan and drain off the excess oil - this is extremely important, or it will run out on your wrist and burn you. Flip the cake onto the lid and slide it back into the pan browned side up.
+      - Bake another 10 to 15 minutes, until fork tender. Cut into wedges.
+
+  - name: Baked Ricotta and Spinach Rigatoni
+    categories: [Casseroles, Pasta]
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Rigatoni }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: 4, measure: tbsp, ingredient: Butter }
+      - { qty: 1, ingredient: Shallot, note: "large, minced" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: pressed }
+      - { qty: "1/4", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: "1/2", measure: cup, ingredient: White wine }
+      - { qty: 2, measure: cup, ingredient: Milk }
+      - { qty: "1/8", measure: tsp, ingredient: Nutmeg, note: ground }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 20, measure: oz, ingredient: Spinach, note: "2 (10-ounce) packages frozen chopped, thawed and squeezed dry" }
+      - { qty: 2, measure: cup, ingredient: Ricotta }
+      - { qty: 2, ingredient: Egg, note: lightly beaten }
+      - { qty: 8, measure: oz, ingredient: Mozzarella, note: "smoked or fresh, grated" }
+    directions:
+      - Preheat the oven to 350 degrees F. Cook the rigatoni 5 minutes in boiling salted water, drain and toss with the olive oil.
+      - For the bechamel, melt the butter in a large saucepan over medium heat and sweat the shallot and garlic until soft but not colored. Stir in the flour to a smooth paste, then gradually whisk in the wine and the milk.
+      - Simmer, whisking, until thickened, about 5 minutes. Season with nutmeg, salt and pepper and let cool slightly.
+      - In a large bowl mix the bechamel with the spinach, ricotta and eggs, then the rigatoni. Spread in a greased 9 by 13-inch dish and top with the mozzarella.
+      - Cover loosely with foil and bake 40 minutes, then uncover and bake 20 minutes more, until lightly browned and bubbly and the center is no longer runny.
+
+  - name: Hearty Sausage & Rice Casserole
+    categories: [Casseroles, Rice, Sausage]
+    servings: 6
+    description:
+      - "Recipe courtesy of Campbell's Kitchen. For an extra-special touch, use 8 ounces sliced baby portobello mushrooms."
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Pork sausage, note: bulk }
+      - { qty: 8, measure: oz, ingredient: Mushroom, note: sliced }
+      - { qty: 2, measure: stalk, ingredient: Celery, note: "coarsely chopped, about 1 cup" }
+      - { qty: 1, ingredient: Red bell pepper, note: "large, coarsely chopped" }
+      - { qty: 1, ingredient: Onion, note: "large, coarsely chopped" }
+      - { qty: 1, measure: tsp, ingredient: Thyme, note: "dried leaves, crushed" }
+      - { qty: "1/2", measure: tsp, ingredient: Marjoram, note: "dried leaves, crushed" }
+      - { qty: 6, measure: oz, ingredient: Wild rice, note: "1 box seasoned long-grain and wild rice mix, with its seasoning packet" }
+      - { qty: "1 3/4", measure: cup, ingredient: Chicken stock, note: "Swanson" }
+      - { qty: 1, measure: can, ingredient: Cream of mushroom soup, note: "10 3/4-ounce condensed, Campbell's" }
+      - { qty: 1, measure: cup, ingredient: Cheddar, note: "shredded, about 4 ounces, divided" }
+    directions:
+      - Cook the sausage in a 12-inch skillet over medium-high heat until well browned, stirring to break it up. Pour off the fat.
+      - Add the mushrooms, celery, pepper, onion, thyme, marjoram and the rice seasoning packet and cook until the vegetables are tender-crisp.
+      - Stir the sausage mixture, stock, soup, rice and 1/2 cup cheese together in a 3-quart shallow baking dish and cover.
+      - Bake at 375 degrees F for 1 hour, until the rice is tender. Stir and sprinkle with the remaining cheese.
+
+  - name: Sausage, Eggplant and Ziti Casserole
+    categories: [Casseroles, Pasta, Sausage]
+    servings: 8
+    description:
+      - Recipe courtesy Emeril Lagasse, 2001. Serves 8 to 10.
+    ingredients:
+      - { qty: 1, ingredient: Eggplant, note: "large, cut crosswise into 1/3-inch rounds" }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: plus more as needed }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: cup, ingredient: Onion, note: "yellow, chopped" }
+      - { qty: 1, measure: lb, ingredient: Italian sausage, note: removed from casings }
+      - { qty: 2, measure: tbsp, ingredient: Tomato paste }
+      - { qty: 1, measure: can, ingredient: Italian plum tomatoes, note: "28-ounce whole, crushed, with juices" }
+      - { qty: 1, measure: tsp, ingredient: Italian seasoning }
+      - { qty: "1/2", measure: cup, ingredient: Black olive, note: "pitted, coarsely chopped" }
+      - { qty: "1/4", measure: tsp, ingredient: Red pepper flakes }
+      - { qty: "1/4", measure: cup, ingredient: Basil, note: "fresh leaves, minced" }
+      - { qty: 4, measure: tbsp, ingredient: Butter }
+      - { qty: 4, measure: tbsp, ingredient: Flour }
+      - { qty: 2, measure: cup, ingredient: Milk, note: whole }
+      - { qty: "1/8", measure: tsp, ingredient: Nutmeg, note: freshly grated }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: grated }
+      - { qty: 8, measure: oz, ingredient: Ziti, note: cooked per the package and drained }
+      - { qty: 1, measure: cup, ingredient: Mozzarella, note: grated }
+    directions:
+      - Preheat the oven to 375 degrees F and lightly grease a 9 by 13-inch casserole.
+      - Heat 1/4 cup oil in a large skillet over medium-high heat. Fry the eggplant in batches, seasoning both sides with salt and pepper, until golden, adding oil as needed. Set aside.
+      - Heat 2 tablespoons oil in a large skillet, add the onion and sausage and cook until browned, about 6 minutes. Add the tomato paste and cook until it begins to brown, 1 to 2 minutes.
+      - Add the tomatoes and juices, Italian seasoning, olives, 1 teaspoon salt and red pepper. Simmer uncovered over medium-low until slightly thickened, about 20 minutes. Off the heat add the basil and adjust the seasoning.
+      - Meanwhile melt the butter in a saucepan, stir in the flour and cook 2 minutes for a light roux. Whisk in the milk and cook until thick and smooth, about 4 minutes. Season with nutmeg, salt and pepper.
+      - Layer half the eggplant, half the pasta and half the sauce, then repeat. Pour on the white sauce and top with the mozzarella and Parmesan.
+      - Bake 1 hour, until puffed and golden brown.
+
+  - name: Cheesy Mashed Potatoes
+    categories: [Vegetables]
+    description:
+      - The topping for Traditional Shepherd's Pie.
+    ingredients:
+      - { qty: 4, measure: lb, ingredient: Yukon gold potatoes, note: "peeled, quartered" }
+      - { qty: 1, measure: tbsp, ingredient: Salt, note: for the water }
+      - { qty: 4, measure: tbsp, ingredient: Butter }
+      - { qty: "1/4", measure: cup, ingredient: Heavy cream }
+      - { qty: 1, measure: cup, ingredient: Cheddar, note: "mature white, grated" }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Cover the potatoes with cold water and a tablespoon of salt in a large saucepan and bring to a boil. Cook until soft, about 20 minutes.
+      - Drain and return to the pan. Add the butter and cream and mash until semi-smooth, then mix in the cheese. Season with salt and pepper.
+
+  - name: Traditional Shepherd's Pie
+    categories: [Casseroles, Beef, Lamb]
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Butter }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, ingredient: Onion, note: diced }
+      - { qty: 2, ingredient: Carrot, note: diced }
+      - { qty: 2, measure: stalk, ingredient: Celery, note: diced }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: crushed }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: tbsp, ingredient: Tomato paste }
+      - { qty: 2, measure: lb, ingredient: Ground beef, note: "lean, or ground lamb" }
+      - { qty: 2, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: "1/2", measure: cup, ingredient: Beef stock }
+      - { qty: "1 1/2", measure: cup, ingredient: Pea, note: garden peas }
+      - { ingredient: Cheesy Mashed Potatoes, note: 1 recipe }
+    directions:
+      - Preheat the oven to 400 degrees F.
+      - Heat the butter and oil in a large skillet over medium heat and saute the onions, carrots, celery and garlic until tender, 7 to 10 minutes. Season with salt and pepper.
+      - When the vegetables start to brown, mix in the tomato paste. Add the beef and cook until no longer pink, about 10 minutes.
+      - Add the Worcestershire and stock, season and simmer 10 minutes. Mix in the peas.
+      - Spread in an oven-proof baking dish and cover with the potatoes, then rake with a fork to make peaks that brown nicely.
+      - Bake until browned, about 20 minutes.
+
+  - name: Beef Shepherd's Pie
+    categories: [Casseroles, Beef]
+    description:
+      - The file calls for 4 cups of Mashed Potatoes, "recipe follows", but no recipe is included.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 3, measure: tbsp, ingredient: Butter, note: "unsalted, divided" }
+      - { qty: 1, ingredient: Onion, note: "medium, diced" }
+      - { qty: 3, ingredient: Carrot, note: "medium, peeled and sliced" }
+      - { qty: 1, measure: rib, ingredient: Celery, note: sliced }
+      - { qty: "1/2", measure: lb, ingredient: Cremini mushroom, note: quartered }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: tbsp, ingredient: Kosher salt, note: divided }
+      - { qty: "3/4", measure: tsp, ingredient: Oregano, note: dried }
+      - { qty: 3, measure: tbsp, ingredient: Tomato paste }
+      - { qty: 1, measure: lb, ingredient: Ground beef }
+      - { qty: "1/4", measure: cup, ingredient: Beef broth, note: "canned, low sodium" }
+      - { qty: "1/2", measure: tsp, ingredient: Worcestershire sauce }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 4, measure: cup, ingredient: Mashed potatoes }
+      - { qty: "1/4", measure: cup, ingredient: Parmesan, note: "grated, optional" }
+    directions:
+      - Preheat the oven to 375 degrees F.
+      - Heat the oil and 2 tablespoons butter in a large skillet over medium heat. Add the onion, carrots, celery, mushrooms, garlic, half the salt and the oregano and cook until tender, about 10 minutes.
+      - Stir in the tomato paste and cook until it turns brick red, about 8 minutes. Add the beef, broth, remaining salt, Worcestershire and pepper, breaking up the meat, and cook until no longer pink, about 3 minutes.
+      - Transfer to a 2-quart oval casserole and spread the potatoes over the top, leaving a 1/4-inch border. Make a pattern on top if you like, sprinkle with cheese and dot with the remaining butter.
+      - Bake until the potatoes brown and the juices bubble at the edge, about 40 minutes. Cool 10 minutes before serving.
+
+  - name: Alton Brown's Shepherd's Pie
+    categories: [Casseroles, Lamb]
+    description:
+      - Recipe courtesy Alton Brown, 2008.
+    ingredients:
+      - { qty: "1 1/2", measure: lb, ingredient: Russet potatoes, note: for the potatoes }
+      - { qty: "1/4", measure: cup, ingredient: Half-and-half }
+      - { qty: 2, measure: oz, ingredient: Butter, note: unsalted }
+      - { qty: "3/4", measure: tsp, ingredient: Kosher salt, note: for the potatoes }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: "freshly ground, for the potatoes" }
+      - { qty: 1, ingredient: Egg yolk }
+      - { qty: 2, measure: tbsp, ingredient: Canola oil }
+      - { qty: 1, measure: cup, ingredient: Onion, note: chopped }
+      - { qty: 2, ingredient: Carrot, note: "peeled, diced small" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: "1 1/2", measure: lb, ingredient: Lamb, note: ground }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt, note: for the filling }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: "freshly ground, for the filling" }
+      - { qty: 2, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: 2, measure: tsp, ingredient: Tomato paste }
+      - { qty: 1, measure: cup, ingredient: Chicken broth }
+      - { qty: 1, measure: tsp, ingredient: Worcestershire sauce }
+      - { qty: 2, measure: tsp, ingredient: Rosemary, note: "fresh leaves, chopped" }
+      - { qty: 1, measure: tsp, ingredient: Thyme, note: "fresh leaves, chopped" }
+      - { qty: "1/2", measure: cup, ingredient: Corn, note: fresh or frozen kernels }
+      - { qty: "1/2", measure: cup, ingredient: Pea, note: "fresh or frozen English peas" }
+    directions:
+      - Peel the potatoes, cut into 1/2-inch dice and cover with cold water in a saucepan. Bring to a boil covered, then uncover and simmer until tender, 10 to 15 minutes.
+      - Warm the half-and-half and butter in the microwave, about 35 seconds. Drain the potatoes, return to the pan and mash, then add the half-and-half mixture, salt and pepper and mash until smooth. Stir in the yolk.
+      - Preheat the oven to 400 degrees F.
+      - For the filling, heat the oil in a 12-inch saute pan over medium-high heat and saute the onion and carrots until they take on color, 3 to 4 minutes. Stir in the garlic.
+      - Add the lamb, salt and pepper and cook until browned, about 3 minutes. Sprinkle with the flour and cook 1 minute.
+      - Add the tomato paste, broth, Worcestershire, rosemary and thyme. Bring to a boil, then cover and simmer on low 10 to 12 minutes, until slightly thickened.
+      - Stir in the corn and peas and spread in an 11 by 7-inch glass baking dish. Top with the potatoes, starting at the edges to seal, and smooth with a spatula.
+      - Bake on a parchment-lined half sheet pan on the middle rack 25 minutes, until the potatoes begin to brown. Cool at least 15 minutes before serving.
+
+  - name: Anne Burrell's Shepherd's Pie
+    categories: [Casseroles, Lamb]
+    servings: 8
+    description:
+      - Recipe courtesy Anne Burrell. Made with diced lamb shoulder rather than ground meat.
+    ingredients:
+      - { ingredient: Olive oil, note: "extra-virgin, as needed" }
+      - { qty: 2, measure: lb, ingredient: Lamb, note: "boneless shoulder or leg, 1/2-inch dice" }
+      - { ingredient: Kosher salt }
+      - { qty: "1/2", measure: cup, ingredient: Flour }
+      - { qty: 2, ingredient: Leek, note: "large, white part only, 1/2-inch dice" }
+      - { qty: 3, measure: rib, ingredient: Celery, note: 1/4-inch dice }
+      - { qty: 3, ingredient: Carrot, note: "peeled, 1/4-inch dice" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { qty: "1/4", measure: cup, ingredient: Tomato paste }
+      - { qty: 1, measure: cup, ingredient: Red wine }
+      - { qty: 4, measure: cup, ingredient: Chicken stock, note: 3 to 4 cups }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: "fresh, tied in a bundle" }
+      - { qty: 2, measure: lb, ingredient: Yukon gold potatoes, note: 1-inch dice }
+      - { qty: 1, measure: cup, ingredient: Heavy cream, note: 3/4 to 1 cup }
+      - { qty: 3, measure: tbsp, ingredient: Butter, note: "2 to 3, cold" }
+      - { qty: 1, measure: cup, ingredient: Pea, note: frozen }
+    directions:
+      - Coat a wide pan with olive oil over medium-high heat. Season the lamb with salt, toss with the flour and brown well on all sides. Remove and reserve, discard the oil and add a splash of fresh oil.
+      - Add the leeks, celery and carrots, season with salt and cook, stirring, until soft and aromatic, 8 to 10 minutes. Add the garlic and cook 2 to 3 minutes. Return the lamb.
+      - Add the tomato paste and cook until it starts to brown, 2 to 3 minutes. Add the wine and reduce by half.
+      - Add stock to just cover the lamb, season, and add the bay leaves and thyme. Bring to a boil, then partially cover and simmer 1 hour, until tender, adding stock to keep the meat submerged.
+      - Cover the potatoes with water by an inch, salt, and boil until fork tender, about 15 minutes. Drain and pass through a food mill while hot. Boil the cream and beat it and the cold butter into the potatoes. Season with salt.
+      - Uncover the lamb, add the peas and simmer 15 minutes to reduce; it should be thick and stew-like. Discard the bay leaves and thyme.
+      - Preheat the broiler. Spread the lamb in a wide flat baking dish, cover with the potatoes in an even layer and broil until golden and crispy.
+
+  - name: Minted Squash Orzo
+    categories: [Pasta, Vegetables]
+    servings: 4
+    description:
+      - Recipe courtesy Claire Robinson.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Orzo pasta, note: dried }
+      - { qty: "1/4", measure: cup, ingredient: Garlic oil, note: "garlic flavored olive oil, divided" }
+      - { qty: 1, ingredient: Yellow squash, note: "large, about 8 ounces, quartered lengthwise and sliced" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly cracked }
+      - { qty: 4, measure: oz, ingredient: Feta, note: crumbled }
+      - { qty: "1/2", measure: cup, ingredient: Mint, note: "fresh leaves, chopped, plus more for garnish" }
+    directions:
+      - Cook the orzo in a large pot of heavily salted boiling water for 8 minutes; it will be slightly undercooked. Reserve 1/2 cup of the water and drain.
+      - Heat 2 tablespoons oil in a large skillet over medium-high heat. Add the squash, season and cook until it begins to brown and soften, about 4 minutes.
+      - Lower to medium-low, add the orzo and cooking water, bring to a simmer and stir in 3/4 of the feta. Season and cook until the water is absorbed, about 2 minutes.
+      - Off the heat stir in the remaining oil and the mint. Serve sprinkled with the remaining feta and more mint.
+
+  - name: Bob's Squash Casserole
+    categories: [Casseroles, Vegetables]
+    description:
+      - "Bob's own recipe. Different from Bob's Squash: this one uses cream of celery soup, cream, mushrooms and mozzarella."
+    ingredients:
+      - { qty: 1, ingredient: Onion, note: "medium, thinly sliced" }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil, note: plus more for sprinkling }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 3, ingredient: Zucchini, note: "2 to 3 depending on size, sliced in coins" }
+      - { qty: 3, ingredient: Yellow squash, note: "2 to 3 depending on size, sliced in coins" }
+      - { ingredient: Adobo seasoning, note: "red cap, or garlic powder, salt, pepper and oregano or basil" }
+      - { qty: 1, measure: can, ingredient: Cream of celery soup }
+      - { qty: 1, measure: can, ingredient: Heavy cream, note: 1 soup can }
+      - { qty: 1, ingredient: Egg, note: beaten }
+      - { qty: "1/2", measure: tsp, ingredient: Thyme, note: leaves }
+      - { qty: "1/2", measure: tsp, ingredient: Basil }
+      - { qty: "3/4", measure: cup, ingredient: Parmesan, note: shredded }
+      - { qty: 8, measure: oz, ingredient: Mushroom, note: "sliced Baby Bella or button" }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Mozzarella, note: shredded }
+      - { ingredient: Panko, note: or crushed Ritz crackers }
+      - { ingredient: Butter, note: or Smart Balance }
+    directions:
+      - Sweat the onion in a tablespoon of olive oil, adding the garlic, until soft but not quite browned.
+      - Lightly dust the squash coins with Adobo and microwave 1 1/2 minutes to soften but not cook.
+      - In a bowl mix the soup, cream, egg, thyme, basil and Parmesan, then fold in the mushrooms, onions and squash.
+      - Pour into a buttered baking dish, pushing into the corners. Dust with black pepper, top with mozzarella and then panko or Ritz crumbs. Sprinkle lightly with olive oil and dot with butter.
+      - Bake in a 350 oven 45 minutes, then let rest.
+
+  - name: Squash Gratin
+    categories: [Casseroles, Vegetables]
+    ingredients:
+      - { qty: 5, measure: tbsp, ingredient: Olive oil, note: "extra-virgin, plus more for the dish" }
+      - { qty: 2, ingredient: Onion, note: "medium, thinly sliced" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: "medium, minced" }
+      - { qty: "2 1/2", measure: tsp, ingredient: Kosher salt, note: divided }
+      - { qty: "1/4", measure: cup, ingredient: Basil, note: "fresh leaves, torn" }
+      - { qty: 2, measure: tsp, ingredient: Thyme, note: "fresh leaves, chopped" }
+      - { qty: 6, ingredient: Plum tomatoes, note: "5 to 6 medium, 1/4-inch rounds" }
+      - { qty: 2, ingredient: Zucchini, note: "medium, 1/4-inch rounds" }
+      - { qty: 2, ingredient: Yellow squash, note: "medium, 1/4-inch rounds" }
+      - { ingredient: Black pepper }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: finely grated }
+    directions:
+      - Preheat the oven to 375 degrees F and oil a 7 by 11-inch baking dish.
+      - Heat 2 tablespoons oil in a large skillet over medium-low heat. Cook the onions, garlic and 1 teaspoon salt, stirring, 5 minutes, until soft but not browned. Stir in the basil and thyme and spread in the dish.
+      - Toss the sliced vegetables with the remaining oil, salt and pepper and stand them in alternating compact upright rows on the onions.
+      - Cover with foil and bake until soft, 30 to 35 minutes. Uncover, sprinkle with the Parmesan and bake until the cheese browns, about 20 minutes. Serve hot or at room temperature.
+
+  - name: Renaissance of Tuna Casserole
+    categories: [Pasta, Seafood]
+    servings: 4
+    description:
+      - Recipe courtesy Rachael Ray. A stovetop take on tuna casserole.
+    ingredients:
+      - { ingredient: Salt }
+      - { qty: 1, measure: lb, ingredient: Fettuccine }
+      - { qty: 3, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: finely chopped }
+      - { qty: 1, ingredient: Onion, note: "small, chopped" }
+      - { qty: 2, measure: can, ingredient: Tuna, note: "6-ounce Italian tuna in water or oil, drained" }
+      - { qty: "1/2", measure: cup, ingredient: Sun-dried tomato, note: "tender, thinly sliced" }
+      - { qty: "1/2", measure: cup, ingredient: White wine, note: dry }
+      - { qty: "1/2", measure: cup, ingredient: Heavy cream }
+      - { ingredient: Black pepper }
+      - { qty: "1/2", measure: cup, ingredient: Pea, note: frozen }
+      - { qty: 2, measure: handful, ingredient: Parmesan, note: "Parmigiano-Reggiano, grated" }
+      - { qty: 1, measure: cup, ingredient: Basil, note: "fresh, about 20 leaves, shredded" }
+    directions:
+      - Cook the pasta in salted boiling water to al dente.
+      - Meanwhile heat the oil in a deep skillet over medium heat and saute the garlic and onion until tender, 4 to 5 minutes. Add the tuna and sun-dried tomatoes and heat through, 1 to 2 minutes.
+      - Add the wine and cook down a minute, then add the cream and season with salt and pepper.
+      - Toss the hot pasta and peas with the sauce and cheese. Serve topped with the basil.
+
+  - name: Tuna Tetrazzini
+    categories: [Casseroles, Pasta, Seafood]
+    ingredients:
+      - { qty: "1 1/2", measure: cup, ingredient: Onion, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Red bell pepper, note: chopped }
+      - { qty: 7, measure: tbsp, ingredient: Butter, note: "unsalted, divided" }
+      - { qty: 1, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: lb, ingredient: Mushroom, note: "white button, trimmed and sliced" }
+      - { qty: "1 1/2", measure: tsp, ingredient: Creole seasoning, note: "Emeril's Essence" }
+      - { qty: "1/2", measure: tsp, ingredient: Thyme, note: "fresh leaves, chopped" }
+      - { qty: "1/4", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: "1/4", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 2, measure: cup, ingredient: Chicken stock }
+      - { qty: "1 3/4", measure: cup, ingredient: Heavy cream }
+      - { qty: 12, measure: oz, ingredient: Egg noodles, note: wide }
+      - { qty: 3, measure: can, ingredient: Tuna, note: "6-ounce solid white, drained and broken up" }
+      - { qty: 1, measure: tbsp, ingredient: Parsley, note: "fresh, chopped" }
+      - { qty: "1 1/2", measure: tsp, ingredient: Salt }
+      - { qty: "3/4", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/3", measure: cup, ingredient: Parmesan, note: freshly grated }
+      - { qty: 5.5, measure: oz, ingredient: Potato chips, note: "1 bag, crushed" }
+    directions:
+      - Saute the onions and peppers in 6 tablespoons butter in a large skillet or Dutch oven over high heat until soft, about 4 minutes. Add the garlic and cook 2 minutes.
+      - Add the mushrooms, Essence and thyme and cook until the mushrooms release their liquid, about 6 minutes. Sprinkle with the flour and cook 2 minutes.
+      - Add the wine and stock and cook until smooth and thick, about 2 minutes. Add the cream, bring to a boil, then simmer over medium until thick enough to coat a spoon, 15 to 20 minutes.
+      - Preheat the oven to 375 degrees F. Cook the noodles in salted boiling water until al dente, about 10 minutes, and drain. Butter a 9 by 13-inch dish with the remaining butter.
+      - Stir the noodles, tuna, parsley, salt, pepper and Parmesan into the sauce. Transfer to the dish and top with the chips.
+      - Bake uncovered until bubbly and golden, about 30 minutes.
+
+  - name: Quick Tomato Sauce with Sausage
+    categories: [Sauces, Sausage]
+    description:
+      - The sauce for Baked Ziti. Makes about 3 1/2 cups.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, measure: lb, ingredient: Italian sausage, note: "sweet and/or spicy, casing removed and crumbled" }
+      - { qty: "1/4", ingredient: Onion, note: "medium, diced (about 3 tablespoons)" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: "3 1/2", measure: cup, ingredient: Peeled tomatoes, note: "whole canned in puree (one 28-ounce can), roughly chopped" }
+      - { qty: 1, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 1, measure: sprig, ingredient: Basil, note: fresh }
+      - { qty: 2, measure: tsp, ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Heat the oil in a medium saucepan over medium-high heat and cook the sausage until beginning to brown, about 3 minutes.
+      - Add the onion and garlic and cook, stirring, until lightly browned, about 3 minutes more.
+      - Add the tomatoes and herb sprigs and bring to a boil. Lower the heat and simmer covered 10 minutes.
+
+  - name: Baked Ziti
+    categories: [Casseroles, Pasta]
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Ziti, note: dried }
+      - { ingredient: Kosher salt }
+      - { qty: "3 1/2", measure: cup, ingredient: Quick Tomato Sauce with Sausage }
+      - { qty: 1, measure: lb, ingredient: Mozzarella, note: "fresh, half in 1/2-inch cubes and half thinly sliced" }
+      - { qty: "3/4", measure: cup, ingredient: Parmesan, note: "freshly grated, divided" }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes }
+    directions:
+      - Preheat the oven to 400 degrees F.
+      - Boil the pasta in generously salted water until al dente and drain.
+      - Toss the pasta with the sauce, cubed mozzarella, half the Parmesan, the black pepper and pepper flakes. Transfer to an oiled 9 by 13-inch dish.
+      - Cover with the sliced mozzarella, sprinkle with the remaining Parmesan and bake until lightly browned and hot, about 30 minutes.

@@ -1,24 +1,28 @@
-<p id="notice"><%= notice %></p>
+<% content_for :title, "All Recipes" %>
+<% groups = @recipes.group_by { |r| index_letter(r.name) } %>
 
-<div class="container">
+<h1 class="mt-4">All Recipes</h1>
+<p class="text-muted"><%= pluralize(@recipes.size, "recipe") %></p>
 
-<h1>All Recipes</h1>
+<%= render "letter_bar", letters: groups.keys %>
 
-  <div class="row mt-4">
-  <% @recipes.each do |recipe| %>
-    <div class="col-4 card p-2" style="border: 0">
-    
+<% groups.each do |letter, recipes| %>
+  <h2 class="letter-heading" id="letter-<%= letter == "#" ? "num" : letter %>"><%= letter %></h2>
+  <div class="row mt-2">
+  <% recipes.each do |recipe| %>
+    <div class="col-12 col-sm-6 col-md-4 card p-2" style="border: 0">
       <div class="card-body p-0">
         <h4 class="card-title text-center p-2 mb-0">
           <%= link_to recipe.name, recipe, class: "stretched-link", style: "color: black" %>
         </h4>
         <p class="card-text">
-          <%= image_tag recipe.image.variant(resize_to_limit: [240, 240]), 
-                                          class: "card-img-bottom"
-                                          %>
+          <% if recipe.image.attached? %>
+            <%= image_tag recipe.image.variant(resize_to_limit: [240, 240]),
+                          class: "card-img-bottom", alt: "", loading: "lazy" %>
+          <% end %>
         </p>
       </div>
     </div>
-    <% end %>
+  <% end %>
   </div>
-</div>
+<% end %>

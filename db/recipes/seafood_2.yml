@@ -1,0 +1,451 @@
+# Recipes from "Seafood and Fish.txt", part 2. Emeril's Salmon Burgers with
+# Soy Mayo and Simple Sesame Slaw appears twice; it's in part 1.
+recipes:
+  - name: Crabmeat-Stuffed Lobster for Two
+    categories: [Seafood]
+    prep_time: 40
+    cooking_time: 20
+    servings: 2
+    description:
+      - Recipe courtesy Emeril Lagasse, 2005.
+    ingredients:
+      - { qty: 1, ingredient: Lobster, note: "large live lobster, 2 to 3 pounds" }
+      - { qty: 1, measure: cup, ingredient: Ritz crackers, note: "crushed round butter crackers, about 15" }
+      - { qty: "1/2", measure: lb, ingredient: Crab, note: "jumbo lump crabmeat, picked over" }
+      - { qty: 7, measure: tbsp, ingredient: Clarified butter, note: "1/3 cup plus 2 tablespoons, divided" }
+      - { qty: 1, measure: tbsp, ingredient: Parsley, note: "fresh leaves, chopped" }
+      - { qty: 1, measure: tsp, ingredient: Tarragon, note: "fresh leaves, chopped" }
+      - { qty: "1/2", measure: tsp, ingredient: Thyme, note: "fresh leaves, chopped" }
+      - { qty: "1/2", measure: tsp, ingredient: Lemon zest }
+      - { qty: 2, measure: tsp, ingredient: Lemon juice, note: fresh }
+      - { qty: "1/4", measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: White pepper, note: freshly ground }
+    directions:
+      - Preheat the oven to 425 degrees F.
+      - Bring a large stockpot of salted water (3/4 full) to a boil. Plunge the lobster in headfirst and cook, covered, until firm and almost cooked through, about 7 minutes. Drain, chill in ice water and drain well.
+      - Lay the lobster on its back and cut it in half lengthwise from head to tail. Remove the coral and tomalley (reserve or discard), the stomach sac, the vein and any spongy gray tissue. Set the halves on a baking sheet.
+      - Toss the crackers, crabmeat, 1/3 cup of the butter, the herbs and the lemon zest and juice. Season with the salt and white pepper.
+      - Fill the cavities with the stuffing and cover the tails with the rest. Drizzle with the remaining butter and bake until the filling is golden and the lobster meat reaches 145 degrees F, 10 to 12 minutes.
+
+  - name: Crab Quiche
+    categories: [Seafood, Eggs]
+    prep_time: 10
+    cooking_time: 40
+    servings: 6
+    description:
+      - Serves 6 to 8.
+      - "Inactive prep: 15 minutes."
+    ingredients:
+      - { qty: 4, measure: oz, ingredient: Gruyere cheese, note: shredded }
+      - { qty: 1, ingredient: Pie shell, note: "9-inch, par-baked and pricked with a fork" }
+      - { qty: 1, measure: lb, ingredient: Crab, note: "fresh white crabmeat, drained" }
+      - { qty: 2, ingredient: Green onion, note: minced }
+      - { qty: 1, measure: cup, ingredient: Heavy cream }
+      - { qty: "1/2", measure: tsp, ingredient: Lemon zest, note: grated }
+      - { qty: "1/2", measure: tsp, ingredient: Dry mustard }
+      - { qty: "1/2", measure: tsp, ingredient: Old Bay seasoning }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: pinch, ingredient: Mace, note: ground }
+      - { qty: 3, ingredient: Egg, note: beaten }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Sprinkle the cheese over the bottom of the crust, top with the crab and sprinkle with the scallions.
+      - Whisk the cream, lemon zest, mustard, seafood seasoning, salt, mace and eggs and pour into the crust.
+      - Bake until the custard sets, about 40 minutes. Let stand 15 minutes before slicing.
+
+  - name: Crawfish Etouffee
+    categories: [Seafood, Cajun]
+    ingredients:
+      - { qty: 8, measure: tbsp, ingredient: Butter, note: 1 stick }
+      - { qty: "3/4", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: "1/2", measure: cup, ingredient: Red bell pepper, note: diced }
+      - { qty: "1/2", measure: cup, ingredient: Green bell pepper, note: diced }
+      - { qty: 1, measure: cup, ingredient: Celery, note: diced }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: cup, ingredient: Yellow onion, note: diced }
+      - { qty: "1/2", measure: cup, ingredient: Bacon, note: chopped }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "leaves, chopped" }
+      - { qty: 1, measure: cup, ingredient: Beer }
+      - { qty: 4, measure: cup, ingredient: Clam juice }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: 1, measure: tbsp, ingredient: Cajun seasoning }
+      - { qty: "1/4", measure: tsp, ingredient: White pepper }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+      - { qty: 1, measure: cup, ingredient: Half-and-half }
+      - { qty: 1, measure: lb, ingredient: Crawfish tails, note: precooked }
+      - { ingredient: Cooked rice, note: for serving }
+    directions:
+      - Melt the butter in a heavy-bottomed pan and stir in the flour to make a roux. Stir constantly over low heat until beige and no longer floury tasting, about 30 minutes.
+      - Stir in the vegetables, bacon and parsley. Add the beer, clam juice, bay leaf, seasonings and half-and-half. Stir, cover and simmer 30 to 45 minutes.
+      - Near the end, add the crawfish and serve over rice.
+
+  - name: Emeril's Crawfish Etouffee
+    categories: [Seafood, Cajun]
+    description:
+      - Recipe courtesy Emeril Lagasse.
+    ingredients:
+      - { qty: 6, measure: tbsp, ingredient: Butter, note: divided }
+      - { qty: 4, measure: tbsp, ingredient: Flour }
+      - { qty: 2, measure: cup, ingredient: Onion, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Celery, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Bell pepper, note: chopped }
+      - { qty: 6, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 2, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: "2 1/2", measure: cup, ingredient: Fish stock, note: or shrimp stock }
+      - { qty: 1, measure: cup, ingredient: Tomato, note: "peeled, seeded and diced" }
+      - { qty: "1 1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Red pepper flakes, note: crushed }
+      - { ingredient: Hot sauce }
+      - { qty: 2, measure: tsp, ingredient: Worcestershire sauce }
+      - { qty: 2, measure: lb, ingredient: Crawfish tails, note: with the fat }
+      - { qty: "1/2", ingredient: Lemon, note: juiced }
+      - { qty: 1, measure: cup, ingredient: Green onion, note: chopped }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: chopped }
+      - { ingredient: Cooked rice, note: "white, for serving" }
+    directions:
+      - Melt 4 tablespoons of the butter in a large heavy saucepan and whisk in the flour. Cook, stirring constantly, until the roux is the color of peanut butter.
+      - Add the onions, celery, bell pepper, garlic, bay leaves and thyme and cook until soft, 6 to 8 minutes.
+      - Add the stock, tomatoes, salt, red pepper, hot sauce and Worcestershire and bring to a boil. Skim, reduce to a simmer and cook uncovered 30 minutes, stirring occasionally.
+      - Add the crawfish and fat, lemon juice, green onions and parsley and cook 15 to 20 minutes, stirring occasionally. Stir in the remaining butter, adjust the seasoning and serve over hot rice.
+
+  - name: Baked Stuffed Flounder
+    categories: [Seafood]
+    prep_time: 30
+    cooking_time: 35
+    servings: 4
+    description:
+      - Recipe courtesy Alton Brown, 2005. Serves 4 to 6.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: 1, ingredient: Onion, note: "medium, chopped" }
+      - { qty: "1/2", measure: tsp, ingredient: Kosher salt, note: plus extra for the sweat and the fillets }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 10, measure: oz, ingredient: Spinach, note: "frozen chopped, thawed and squeezed dry" }
+      - { qty: 1, ingredient: Lemon, note: zested }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: "freshly ground, plus extra for the fillets" }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh leaves, chopped" }
+      - { qty: 1, measure: cup, ingredient: Heavy cream }
+      - { qty: "1/4", measure: cup, ingredient: White wine }
+      - { qty: 10, measure: oz, ingredient: Cheddar, note: grated }
+      - { qty: 2, measure: lb, ingredient: Flounder, note: "1 1/2 to 2 pounds fillets" }
+      - { qty: 3, measure: cup, ingredient: Cooked rice, note: leftover }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Melt the butter in a medium saute pan over low heat and sweat the onion with a pinch of salt until translucent. Add the garlic for a minute, then the spinach and lemon zest until just heated through. Season with the salt and pepper, stir in the parsley and keep warm.
+      - Bring the cream and wine to a simmer in a saucepan over medium heat, gradually add the cheese and stir until melted. Keep warm.
+      - Cut large fillets in half. Season both sides with salt and pepper, divide the spinach among them and roll the fish around it.
+      - Spread the rice in a 2 1/2-quart casserole and set the rolls on top, seam side down. Pour the cheese sauce over and bake 25 minutes. Cool 5 minutes before serving.
+
+  - name: Spicy Red Pepper Aioli
+    categories: [Sauces]
+    description:
+      - For Steamed Mussels. It should be fairly thin. Uses raw egg yolks; use fresh, properly refrigerated grade A or AA eggs.
+    ingredients:
+      - { qty: 1, ingredient: Red bell pepper }
+      - { qty: 2, ingredient: Egg yolk }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: "1/4", measure: cup, ingredient: Red wine vinegar }
+      - { qty: 2, measure: tbsp, ingredient: Sambal oelek, note: "1 to 2 tablespoons, Vietnamese chili paste" }
+      - { ingredient: Salt }
+      - { qty: "1 1/2", measure: cup, ingredient: Canola oil }
+    directions:
+      - Blacken the pepper on all sides over an open flame or grill. Cover in a bowl with plastic wrap until cool enough to handle, then rub off the skin (a paper towel helps).
+      - Coarsely chop the pepper and puree in a food processor with the yolks, garlic, vinegar, chili paste and salt to taste until smooth.
+      - With the machine running, VERY slowly drizzle in the oil. Thin with a few drops of water if too thick, or add more oil if too thin. Adjust the salt and chili paste and refrigerate.
+
+  - name: Steamed Mussels with Spicy Red Pepper Aioli
+    categories: [Seafood]
+    description:
+      - Uses Spicy Red Pepper Aioli (its own recipe). Have extra toasted bread on hand to sop up the liquid.
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 2, ingredient: Onion, note: "small, finely diced" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 1, measure: tsp, ingredient: Thyme, note: fresh leaves }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: 3, measure: lb, ingredient: Mussel, note: debearded and rinsed }
+      - { qty: 1, measure: bottle, ingredient: White wine, note: dry }
+      - { qty: 4, measure: slice, ingredient: Baguette, note: cut on the bias }
+      - { ingredient: Spicy Red Pepper Aioli }
+    directions:
+      - Generously coat a pot big enough for all the mussels with olive oil. Cook the onions over medium-high heat, stirring often, until very soft and aromatic but not colored.
+      - Add the garlic, thyme and bay leaf and cook 2 to 3 minutes without burning the garlic.
+      - Add the mussels and stir to coat. Add the wine, cover and steam 5 to 6 minutes, until the shells open. Give stubborn ones a little longer and discard any that still don't open.
+      - Meanwhile, grill or toast the bread.
+      - Serve the mussels in bowls with plenty of the pot juices, drizzle generously with the aioli and garnish with the toast.
+
+  - name: Potato-Crusted Halibut
+    categories: [Seafood]
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell. The infused oil can be made ahead and used for lots of other things. Work quickly, slicing potatoes for one fillet at a time; they aren't soaked, so they keep their starch and stick together, but they can brown.
+    ingredients:
+      - { qty: "1 1/2", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 6, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: bundle }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 1, ingredient: Lemon, note: zest removed in wide strips with a peeler }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 1, measure: tbsp, ingredient: Fennel seed }
+      - { qty: 3, ingredient: Yukon gold potatoes, note: scrubbed }
+      - { qty: 4, ingredient: Halibut, note: "6-ounce Pacific halibut fillets" }
+      - { ingredient: Kosher salt }
+    directions:
+      - Bring the olive oil, garlic, thyme, bay leaves, lemon zest, red pepper and fennel seeds to a boil in a small saucepan, then turn off the heat and let sit at least 1 hour.
+      - On a mandoline, slice 1 potato paper-thin into elongated rounds. On parchment, overlap 3 slices in a vertical line, pressing them together, and repeat to make a 4 by 6-inch rectangle that looks like fish scales.
+      - Brush the potatoes with the infused oil and sprinkle with salt. Salt a fillet, lay it nearer one end and roll it up in the potatoes using the parchment, pressing so they adhere. Brush the outside with oil to seal. Refrigerate while you make the rest, and chill at least 1 hour.
+      - Generously cover the bottom of a large nonstick pan with the infused oil over medium-high heat. Season the fish with salt and cook 3 to 4 minutes per side, spooning the oil over to baste, until the potato "scales" are crisp and golden. Serve.
+
+  - name: Gulf Shrimp Jambalaya
+    categories: [Seafood, Cajun, Rice]
+    prep_time: 15
+    cooking_time: 70
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. Serves 6 to 8. The shrimp shells make the stock.
+      - "Inactive prep: 17 minutes."
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Shrimp, note: "medium Gulf shrimp, peeled and deveined, shells reserved" }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, measure: lb, ingredient: Andouille sausage, note: cut into rounds }
+      - { qty: 2, ingredient: Green bell pepper, note: "seeded, cut into 1/4-inch dice" }
+      - { qty: 3, measure: rib, ingredient: Celery, note: cut into 1/4-inch dice }
+      - { qty: 1, ingredient: Onion, note: "Spanish, cut into 1/4-inch dice" }
+      - { ingredient: Kosher salt }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: 28-ounce }
+      - { qty: 1, measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 2, measure: cup, ingredient: Long grain rice }
+      - { qty: 2, ingredient: Bay leaf, note: fresh }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: "fresh, bundle" }
+      - { qty: 5, ingredient: Green onion, note: "whites and greens thinly sliced, for garnish" }
+    directions:
+      - "For the shrimp stock: put the shells in a large pot and fill with water. Bring to a boil, turn off the heat and let sit at least 15 to 20 minutes (longer is fine). Strain."
+      - Coat a large wide pot with olive oil over medium-high heat. Cook the andouille 4 to 5 minutes, until it starts to brown.
+      - Add the peppers, celery and onion, season with salt and a pinch of red pepper and cook 7 to 8 minutes, until soft and aromatic. Add the garlic for 2 to 3 minutes, then the tomatoes and cayenne. Stir in the rice.
+      - Add 4 cups shrimp stock, the bay leaves and thyme. Season with salt and taste. Cover and cook over medium heat 25 minutes.
+      - Stir in the shrimp and cook 5 to 7 minutes, until pink. Serve garnished with scallions.
+
+  - name: Everything Salmon Burgers with Scallion Sour Cream-Cream Cheese Sauce
+    categories: [Seafood, Burgers]
+    servings: 4
+    ingredients:
+      - { qty: 4, ingredient: Salmon fillet, note: "6-ounce, skinless, cut into large chunks" }
+      - { qty: 1, measure: tbsp, ingredient: Steak seasoning, note: "grill seasoning (recommended: McCormick Montreal)" }
+      - { qty: 1, measure: tbsp, ingredient: Poppy seed }
+      - { qty: 1, measure: tbsp, ingredient: Sesame seeds }
+      - { qty: 3, measure: tbsp, ingredient: Dill, note: "fresh, chopped" }
+      - { ingredient: Olive oil, note: "extra-virgin, for drizzling" }
+      - { ingredient: Cooking spray }
+      - { qty: "1/2", measure: cup, ingredient: Cream cheese, note: softened }
+      - { qty: 3, ingredient: Green onion, note: "whites and greens, chopped" }
+      - { qty: "1/2", measure: cup, ingredient: Sour cream }
+      - { qty: 1, measure: tsp, ingredient: Lemon juice }
+      - { ingredient: Green leaf lettuce, note: for topping }
+      - { ingredient: Tomato, note: "beefsteak or vine-ripe, sliced, for topping" }
+      - { ingredient: Red onion, note: "sliced, for topping" }
+      - { ingredient: Hamburger bun, note: "crusty kaiser rolls, split and toasted" }
+    directions:
+      - Preheat an outdoor grill to medium-high and coat with cooking spray, or heat a large skillet (not a grill pan) indoors with a drizzle of olive oil over medium-high heat.
+      - Pulse the salmon in a food processor to a coarse grind. Season with the grill seasoning, poppy seeds, sesame seeds and dill, mix, and form 4 patties. Drizzle with olive oil.
+      - Cook 3 minutes per side for a pink center, or 4 to 5 minutes per side for fully cooked.
+      - Meanwhile, combine the cream cheese and scallions, then fold in the sour cream and lemon juice.
+      - Serve on the toasted rolls with lettuce, tomato, onion and sauce.
+
+  - name: Salmon in Herb Butter
+    categories: [Seafood]
+    description:
+      - Grilled in foil; it can also bake 35 to 40 minutes at 350 degrees F.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Butter }
+      - { qty: 2, ingredient: Lemon, note: "1 to 2, juiced" }
+      - { qty: 5, measure: clove, ingredient: Garlic, note: "4 to 5, crushed" }
+      - { qty: 1, measure: bunch, ingredient: Cilantro, note: "stems removed, chopped" }
+      - { qty: 3, ingredient: Green onion, note: thinly sliced }
+      - { qty: 1, ingredient: Salmon fillet, note: "4 to 5 pounds" }
+    directions:
+      - Melt the butter and mix in the lemon juice, garlic, cilantro and green onions.
+      - Set the salmon on a sheet of foil large enough to wrap it completely, brush or pour the butter over and seal.
+      - Grill 10 to 12 minutes per side; any longer will dry it out. Cut into portions and serve immediately.
+
+  - name: Salmon with Brown Sugar and Mustard Glaze
+    categories: [Seafood]
+    servings: 8
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Light brown sugar }
+      - { qty: 1, measure: tbsp, ingredient: Honey }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: "1/4", measure: cup, ingredient: Dijon mustard }
+      - { qty: 2, measure: tbsp, ingredient: Soy sauce }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, measure: tbsp, ingredient: Ginger, note: finely grated }
+      - { ingredient: Vegetable oil }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 8, ingredient: Salmon fillet, note: 6 ounces each }
+    directions:
+      - Melt the brown sugar, honey and butter in a small saute pan over medium-high heat (the grill's side burner works). Off the heat, whisk in the mustard, soy sauce, olive oil and ginger. Let cool.
+      - Preheat the grill to medium. Brush the salmon with vegetable oil and season with salt and pepper.
+      - Set the salmon skin side down on the grill and coat the flesh with the glaze. Grill 6 to 8 minutes to medium, turning once after 5 to 6 minutes.
+
+  - name: Allison Fishman's Salmon Burgers with Pickled Cucumbers
+    categories: [Seafood, Burgers, Asian]
+    servings: 4
+    description:
+      - The ingredient list calls for 2 teaspoons ginger; the steps use 1/2 teaspoon for the pickles and 1 1/2 teaspoons for the burgers.
+    ingredients:
+      - { qty: "1/3", measure: cup, ingredient: Water }
+      - { qty: "1/4", measure: cup, ingredient: Cider vinegar }
+      - { qty: 1, measure: tsp, ingredient: Sugar }
+      - { qty: "1/2", measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: tsp, ingredient: Ginger, note: "fresh, peeled and minced, divided" }
+      - { qty: "1/4", measure: tsp, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 24, measure: slice, ingredient: Cucumber, note: "thin, English cucumber" }
+      - { qty: "1/2", measure: cup, ingredient: Panko }
+      - { qty: "1/3", measure: cup, ingredient: Green onion, note: thinly sliced }
+      - { qty: 2, measure: tbsp, ingredient: Cilantro, note: "fresh, chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Soy sauce, note: low-sodium }
+      - { qty: 1, measure: tsp, ingredient: Lime zest, note: grated rind }
+      - { qty: 1, measure: lb, ingredient: Salmon fillet, note: "skinless wild Alaskan, fresh or frozen, finely chopped" }
+      - { qty: 1, ingredient: Egg white, note: large }
+      - { qty: "1 1/2", measure: tsp, ingredient: Sesame oil, note: dark }
+      - { qty: 1, measure: tbsp, ingredient: Hoisin sauce }
+      - { qty: 4, ingredient: Hamburger bun, note: "with sesame seeds, toasted" }
+    directions:
+      - Bring the water, vinegar, sugar, garlic, 1/2 teaspoon ginger and red pepper flakes to a boil in a small saucepan. Off the heat, add the cucumber slices and let stand 30 minutes. Drain.
+      - Combine the panko, green onions, cilantro, soy sauce, remaining ginger, lime rind, egg white and salmon. Shape into 4 patties 1/2 inch thick and press a nickel-size dent in the center of each.
+      - Heat a large cast-iron skillet over medium-high heat, swirl in the sesame oil and cook the patties 3 minutes per side, or to the desired doneness. Brush the tops with hoisin and cook 30 seconds more.
+      - Serve on the buns topped with 6 cucumber slices each.
+
+  - name: Michael Symon's Cedar Plank Salmon
+    categories: [Seafood]
+    description:
+      - Soak the cedar plank in water for at least 2 hours. The salmon bakes on the plank.
+    ingredients:
+      - { qty: 1, ingredient: Salmon fillet, note: "side of salmon, skin on" }
+      - { qty: 1, measure: cup, ingredient: Soy sauce }
+      - { qty: 2, measure: tbsp, ingredient: Honey }
+      - { qty: 1, measure: tbsp, ingredient: Dijon mustard }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, measure: bunch, ingredient: Green onion }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+    directions:
+      - Preheat the oven to 325 degrees F.
+      - Reduce the soy sauce and honey by half in a small saucepot over medium-high heat, about 3 minutes. Off the heat, stir in the mustard.
+      - Brush the salmon thoroughly with the glaze, set it on the soaked plank and bake 20 to 25 minutes.
+      - Heat a grill pan to medium-high. Toss the scallions with the olive oil, season and grill until bright green and charred in spots. Serve alongside the salmon.
+
+  - name: Salmon Cakes
+    categories: [Seafood]
+    prep_time: 20
+    cooking_time: 15
+    servings: 4
+    description:
+      - Recipe courtesy Melissa d'Arabian. Makes 12 small cakes.
+    ingredients:
+      - { qty: 2, measure: slice, ingredient: Bacon, note: "cooked crisp and crumbled, fat reserved" }
+      - { qty: "1/4", measure: cup, ingredient: Onion, note: chopped }
+      - { qty: 1, ingredient: Egg }
+      - { qty: "1/2", measure: cup, ingredient: Mayonnaise }
+      - { qty: 2, measure: tsp, ingredient: Dijon mustard }
+      - { qty: "1/2", measure: tsp, ingredient: Sugar }
+      - { qty: "1/2", ingredient: Lemon, note: zested }
+      - { qty: 1, measure: can, ingredient: Salmon, note: "14-ounce wild salmon, checked for large bones" }
+      - { qty: 1, ingredient: Russet potatoes, note: "baked or boiled, peeled and fluffed with a fork" }
+      - { qty: "1/4", measure: cup, ingredient: Bread crumbs }
+      - { qty: 2, measure: tbsp, ingredient: Parmesan, note: grated }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: cup, ingredient: Vegetable oil }
+    directions:
+      - Heat 1 tablespoon bacon fat in a small saute pan over low heat and cook the onions until translucent. Cool a bit.
+      - Mix the bacon, onion, egg, mayonnaise, mustard, sugar and lemon zest. Add the salmon and potato, mixing gently after each. Form into 12 small patties.
+      - Combine the bread crumbs, Parmesan and pepper in a shallow dish and coat the patties.
+      - Heat 1/4 cup oil in a large saute pan over medium heat and cook the cakes in batches until golden, 3 to 4 minutes per side, adding oil as needed.
+
+  - name: Teriyaki Salmon
+    categories: [Seafood, Asian]
+    servings: 4
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Soy sauce, note: thin }
+      - { qty: 2, ingredient: Orange, note: juice and zest }
+      - { qty: 3, measure: tbsp, ingredient: Brown sugar }
+      - { qty: 4, measure: clove, ingredient: Garlic }
+      - { qty: 1, measure: tbsp, ingredient: Ginger, note: minced }
+      - { qty: 1, measure: tbsp, ingredient: Sesame seeds, note: white }
+      - { qty: 4, ingredient: Salmon fillet, note: 6-ounce }
+    directions:
+      - Combine everything but the sesame seeds and salmon in a saucepan. Bring to a boil and simmer slowly until syrupy, reduced by about half. Cool completely.
+      - Add the sesame seeds and salmon and marinate 1 hour.
+      - Remove the salmon and bring the sauce to a boil. Grill the salmon on a hot grill 3 to 5 minutes per side, brushing occasionally with the sauce.
+
+  - name: Pistachio-Crusted Salmon Cakes
+    categories: [Seafood]
+    servings: 4
+    description:
+      - Makes 8 to 10 cakes. Bob's note - panko or pecans can stand in for the pistachios.
+    ingredients:
+      - { qty: "2 1/2", measure: cup, ingredient: Salmon, note: "cooked, shredded" }
+      - { qty: "1/2", measure: cup, ingredient: Bread crumbs, note: fresh }
+      - { qty: 1, measure: tbsp, ingredient: Dijon mustard }
+      - { qty: 1, measure: tsp, ingredient: Lime zest, note: freshly grated }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, ingredient: Egg, note: "large, beaten" }
+      - { qty: 1, measure: cup, ingredient: Pistachios, note: "coarse-ground (or panko or pecans)" }
+      - { qty: 3, measure: tbsp, ingredient: Vegetable oil }
+      - { ingredient: Lime, note: "wedges, for garnish" }
+    directions:
+      - Combine the salmon, bread crumbs, mustard and zest and season with salt and pepper. Stir in the egg until just combined.
+      - Form into 8 to 10 cakes. Press each side into the ground nuts and refrigerate at least 30 minutes and up to 12 hours.
+      - Heat the oil in a large nonstick skillet over medium heat and cook in batches, turning once, until well browned and cooked through, about 2 1/2 minutes per side. Drain on paper towels and serve with lime wedges.
+
+  - name: Lemony Hollandaise
+    categories: [Sauces]
+    description:
+      - For Salmon Potato Hash. Uses raw egg yolks. Thin with a little water if too thick.
+    ingredients:
+      - { qty: 3, ingredient: Egg yolk }
+      - { qty: "1/2", ingredient: Lemon, note: zested }
+      - { qty: 1, ingredient: Lemon, note: juiced }
+      - { qty: "1 1/2", measure: tsp, ingredient: Dry mustard }
+      - { qty: 3, measure: tbsp, ingredient: Water }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 12, measure: tbsp, ingredient: Unsalted butter, note: "1 1/2 sticks, melted" }
+    directions:
+      - Blend the yolks, lemon zest and juice, mustard, water, cayenne, salt and pepper in a blender.
+      - With the blender running, slowly pour in the melted butter. Stop when it's all incorporated, taste and adjust the seasoning.
+
+  - name: Salmon Potato Hash
+    categories: [Seafood, Eggs]
+    servings: 4
+    description:
+      - Topped with poached eggs and Lemony Hollandaise (its own recipe). Serves 4 to 6.
+    ingredients:
+      - { qty: 1, ingredient: Salmon fillet, note: "2-pound center-cut, skin on" }
+      - { ingredient: Olive oil, note: "extra-virgin, for the salmon" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Dill, note: "fresh, for garnish" }
+      - { qty: 1, measure: cup, ingredient: Olive oil, note: "extra-virgin, about, for the hash" }
+      - { qty: 4, ingredient: Russet potatoes, note: "rinsed, large dice" }
+      - { qty: 2, ingredient: Onion, note: thinly sliced }
+      - { qty: 1, ingredient: Red bell pepper, note: "seeds and ribs removed, thinly sliced" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 2, ingredient: Green onion, note: finely chopped }
+      - { qty: 3, measure: sprig, ingredient: Thyme, note: "fresh, leaves removed" }
+      - { qty: 1, measure: tsp, ingredient: Smoked paprika }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+      - { measure: splash, ingredient: White vinegar, note: for poaching }
+      - { qty: 6, ingredient: Egg, note: "4 to 6 large farm-fresh" }
+      - { ingredient: Lemony Hollandaise }
+    directions:
+      - Preheat the oven to 300 degrees F. Set the salmon skin side down on a large baking sheet, drizzle with olive oil, season and bake 30 minutes, until flaky.
+      - "For the hash: heat the olive oil in a large saute pan over medium-high heat and shallow-fry the potatoes until browned on all sides, about 8 minutes. Drain on paper towels, season and put in a large bowl. Flake the salmon off the skin in chunks with 2 forks and fold it into the potatoes."
+      - Pour off all but a couple tablespoons of oil. Caramelize the onions, peppers and garlic over medium heat. Add the green onions, thyme, paprika and cayenne, season, and stir the potatoes and salmon back in.
+      - "For the eggs: heat a few inches of water in a high-sided pan to just below a simmer, add a splash of vinegar and stir to make a small whirlpool. Add the eggs one at a time and poach to the desired doneness. Lift out with a slotted spoon."
+      - Plate the hash, top with the eggs, pour the hollandaise over and garnish with dill. Season to taste.

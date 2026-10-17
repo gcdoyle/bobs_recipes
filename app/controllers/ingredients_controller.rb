@@ -1,5 +1,5 @@
 class IngredientsController < ApplicationController
-  before_action :set_ingredient, only: %i[ show edit ]
+  before_action :set_ingredient, only: %i[ show ]
   include SetInstance
 
   # GET /ingredients or /ingredients.json
@@ -14,7 +14,7 @@ class IngredientsController < ApplicationController
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_ingredient
-      find_instance
+      @ingredient = find_instance
     end
 
 end

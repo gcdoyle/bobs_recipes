@@ -1,0 +1,14 @@
+// Public site stylesheet, compiled by dartsass-rails into
+// app/assets/builds/application.css (bin/dev watches and rebuilds it).
+// Bootstrap 5.3.8's Sass source lives in vendor/assets/stylesheets/bootstrap.
+
+@import "site_variables";
+
+// Bootstrap theme overrides - these must come before Bootstrap itself.
+$primary: $brand-navy;
+$link-color: $brand-navy;
+$enable-shadows: false;
+
+@import "bootstrap/bootstrap";
+
+@import "site";

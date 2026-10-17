@@ -1,0 +1,657 @@
+# Recipes from "Poultry & Game.txt", part 2. Buffalo Wings and Orange Glazed
+# Chicken Wings are repeated at the end of the file; they're in part 1.
+recipes:
+  - name: Chicken Parmigiana
+    categories: [Poultry, Pasta]
+    prep_time: 25
+    cooking_time: 40
+    servings: 4
+    description:
+      - Recipe courtesy Tyler Florence.
+    ingredients:
+      - { qty: 7, measure: tbsp, ingredient: Olive oil, note: "extra-virgin, 1/4 cup plus 3 tablespoons" }
+      - { qty: 1, ingredient: Onion, note: "medium, chopped" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: "1/2", measure: cup, ingredient: Kalamata olive, note: pitted }
+      - { qty: "1/2", measure: bunch, ingredient: Basil, note: fresh leaves }
+      - { qty: 2, measure: can, ingredient: Tomato, note: "28-ounce whole peeled, drained and hand-crushed" }
+      - { qty: 1, measure: pinch, ingredient: Sugar }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 4, ingredient: Chicken breast, note: "skinless, boneless (about 1 1/2 pounds)" }
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 2, ingredient: Egg, note: "large, lightly beaten" }
+      - { qty: 1, measure: tbsp, ingredient: Water }
+      - { qty: 1, measure: cup, ingredient: Bread crumbs, note: dried plain }
+      - { qty: 1, measure: cup, ingredient: Parmesan, note: "freshly grated, plus extra for sprinkling" }
+      - { qty: "1/2", measure: cup, ingredient: Parsley, note: "flat-leaf leaves, chopped" }
+      - { qty: 2, measure: tsp, ingredient: Garlic powder }
+      - { qty: 8, measure: oz, ingredient: Mozzarella, note: "fresh ball, thinly sliced" }
+      - { qty: 1, measure: lb, ingredient: Spaghetti, note: cooked al dente }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Coat a saute pan with olive oil over medium heat. When hazy, cook the onions, garlic and bay leaves 5 minutes, until soft and fragrant. Add the olives and some torn basil, saving the rest for finishing.
+      - Carefully add the tomatoes (nothing splashes like tomatoes) and cook until the liquid cooks down and the sauce is thick, about 15 minutes. Season with the sugar, pepper flakes, salt and pepper. Lower the heat, cover and keep warm.
+      - Set up an assembly line. Season the flour well with salt and pepper on a platter. Beat the eggs and water until frothy in a wide bowl. Mix the bread crumbs, 1 cup Parmesan, parsley and garlic powder on a plate and season with salt and pepper.
+      - Heat 3 tablespoons olive oil over medium-high heat in a large ovenproof skillet. Dredge the cutlets in the flour, dip in the egg, letting the excess drip off, then coat in the crumbs. Fry 4 minutes per side, until golden and crusty.
+      - Ladle the sauce over the chicken, arrange the mozzarella on top and sprinkle with Parmesan and the remaining basil. Bake 15 minutes, until the cheese is bubbly. Serve hot with spaghetti.
+
+  - name: Oven-Roasted Tomato Sauce
+    categories: [Sauces]
+    description:
+      - Recipe courtesy Emeril Lagasse. Makes about 4 cups. Great on pasta and pizza and as a dipping sauce. For a less rustic sauce, puree completely and strain. Keeps up to 4 days refrigerated in a nonreactive airtight container.
+    ingredients:
+      - { qty: 3, measure: lb, ingredient: Tomato, note: "Romanita, cored (or a mix of Roma and grape tomatoes, or another sweet tomato such as Amorosa)" }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 12, measure: clove, ingredient: Garlic, note: peeled }
+      - { qty: 2, measure: tbsp, ingredient: Oregano, note: fresh leaves }
+      - { qty: 2, measure: tsp, ingredient: Kosher salt }
+      - { qty: 1, measure: tsp, ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Preheat the oven to 400 degrees F.
+      - Combine everything in a large (14-inch) ovenproof frying pan and roast until the tomatoes begin to caramelize, about 30 minutes.
+      - Stir well and roast until further caramelized and much of the liquid has evaporated, about 30 minutes longer.
+      - Cool slightly and coarsely puree in a blender, in batches if necessary. Thin with a bit of water or chicken broth if too thick.
+
+  - name: Classic Chicken Parmesan with Oven-Roasted Tomato Sauce and Smoked Mozzarella
+    categories: [Poultry, Pasta]
+    servings: 4
+    description:
+      - Recipe courtesy Emeril Lagasse. Uses Emeril's Essence Creole Seasoning and Oven-Roasted Tomato Sauce (their own recipes). Regular smoked mozzarella works better here than fresh.
+    ingredients:
+      - { qty: 4, ingredient: Chicken breast, note: "boneless, skinless, 5 to 6 ounces each" }
+      - { qty: 2, measure: tsp, ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: "1/2", measure: tsp, ingredient: Salt, note: plus more for the pasta }
+      - { qty: "1/4", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 1, ingredient: Egg, note: lightly beaten }
+      - { qty: 2, measure: tbsp, ingredient: Milk }
+      - { qty: "3/4", measure: cup, ingredient: Bread crumbs, note: dried }
+      - { qty: 4, measure: tbsp, ingredient: Olive oil }
+      - { ingredient: Oven-Roasted Tomato Sauce, note: "1 recipe, or your favorite red pasta sauce" }
+      - { qty: "1/2", measure: lb, ingredient: Mozzarella, note: "smoked, sliced" }
+      - { qty: "1/4", measure: cup, ingredient: Parmesan, note: "Parmigiano-Reggiano, grated" }
+      - { qty: 4, measure: tbsp, ingredient: Olive oil, note: "extra-virgin, for the pasta" }
+      - { qty: 1, measure: lb, ingredient: Linguine, note: "cooked al dente, kept warm" }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: tbsp, ingredient: Basil, note: "fresh leaves, chiffonade" }
+    directions:
+      - Position a rack in the upper third of the oven and preheat to 400 degrees F.
+      - Season each breast with 1/2 teaspoon Essence and 1/8 teaspoon salt. Dip each in the flour, then the egg beaten with the milk, then the bread crumbs, shaking off the excess between steps.
+      - Heat half the olive oil in a large skillet over medium heat. Cook the chicken smooth side down 4 minutes. Turn, add the remaining 2 tablespoons oil and cook 2 minutes longer. Take off the heat.
+      - Spoon 1/4 cup sauce over each breast, top with the mozzarella and sprinkle with Parmigiano. Bake until just cooked through and the cheese melts, about 4 minutes, then broil until bubbly and lightly golden, 1 to 2 minutes.
+      - Meanwhile, reheat the sauce if needed. Toss the pasta in the extra-virgin olive oil in a large skillet until warm, season with salt and pepper and add enough sauce to coat. Divide among 4 plates.
+      - Top each plate with a little more sauce and a chicken breast, garnish with basil and serve immediately.
+
+  - name: Hurry Up Chicken Pot Pie
+    categories: [Poultry, Casseroles]
+    prep_time: 5
+    cooking_time: 35
+    servings: 4
+    description:
+      - Recipe courtesy Paula Deen. Serves 4 to 6.
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Chicken breast, note: "cooked, chopped" }
+      - { qty: 2, ingredient: Egg, note: "hard-boiled, sliced" }
+      - { qty: "1/2", measure: cup, ingredient: Carrot, note: thinly sliced }
+      - { qty: "1/2", measure: cup, ingredient: Pea, note: frozen green peas }
+      - { qty: 1, measure: can, ingredient: Cream of chicken soup, note: 10 3/4-ounce }
+      - { qty: 1, measure: cup, ingredient: Chicken broth }
+      - { ingredient: Salt, note: optional }
+      - { ingredient: Black pepper, note: optional }
+      - { qty: "1 1/2", measure: cup, ingredient: Biscuit mix, note: instant }
+      - { qty: 1, measure: cup, ingredient: Milk }
+      - { qty: 8, measure: tbsp, ingredient: Butter, note: "1 stick, melted" }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Layer the chicken, eggs, carrots, and peas in a greased 2-quart casserole. Mix the soup and broth, season if you like, and pour over the layers.
+      - Stir the biscuit mix and milk together and pour over the casserole. Drizzle with the butter.
+      - Bake until the topping is golden brown, 30 to 40 minutes.
+
+  - name: Biscuit Chicken Pot Pie
+    categories: [Poultry, Casseroles]
+    description:
+      - Recipe courtesy Rachael Ray. Poaching the chicken yields 2 1/2 to 3 pounds of picked meat and 2 quarts of concentrated stock. The filling can be refrigerated before baking for make-ahead dinners.
+    ingredients:
+      - { qty: 1, ingredient: Chicken, note: "large, 5 to 6 pounds, for poaching" }
+      - { ingredient: Kosher salt, note: or sea salt }
+      - { qty: 2, ingredient: Onion, note: "medium, peeled and halved, root end attached, for poaching" }
+      - { qty: 4, measure: rib, ingredient: Celery, note: "3 to 4, halved, for poaching" }
+      - { qty: 1, ingredient: Carrot, note: "peeled and halved, for poaching" }
+      - { qty: 1, measure: bunch, ingredient: Herbs, note: "large bundle of thyme, rosemary, parsley and fresh bay leaves, for poaching" }
+      - { qty: 1, ingredient: Lemon, note: "thickly sliced, for poaching" }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 16, ingredient: Mushroom, note: "button, sliced or quartered" }
+      - { qty: 2, ingredient: Carrot, note: "medium, peeled and diced" }
+      - { qty: 1, ingredient: Potato, note: peeled and chopped }
+      - { qty: 4, measure: rib, ingredient: Celery, note: "3 to 4 small, chopped" }
+      - { qty: 1, ingredient: Onion, note: "medium, chopped" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 4, measure: tbsp, ingredient: Butter }
+      - { qty: 3, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: qt, ingredient: Chicken stock, note: homemade (from poaching) or store-bought }
+      - { qty: 4, measure: sprig, ingredient: Tarragon, note: "3 to 4, leaves chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Dijon mustard, note: rounded }
+      - { qty: "1 1/2", measure: lb, ingredient: Chicken, note: "poached, diced or shredded" }
+      - { qty: 1, measure: cup, ingredient: Pea, note: frozen }
+      - { ingredient: Biscuit mix, note: "drop biscuit mix, prepared per package for 8 biscuits (recommended: Jiffy)" }
+      - { ingredient: Chives, note: "finely chopped, or parsley or dill, for the biscuits" }
+    directions:
+      - "Poached chicken: wash and dry the chicken and season inside and out with salt. Put the vegetables in the bottom of a large pot with the herbs and lemon on top. Set the chicken on top and cover with water."
+      - Bring to a boil over medium heat, then poach at a low simmer 1 hour, skimming any foam. Turn off the heat and let stand covered 1 hour more.
+      - Remove the chicken. Strain the liquid, return about 3 1/2 quarts to the pot and reduce over low heat about 1 hour, to about 2 quarts of strong stock. Skin the chicken, pull the meat from the bones and dice or shred it. Refrigerate the stock and chicken until needed.
+      - "Pot pie: heat the olive oil in a high-sided skillet over medium heat and cook the mushrooms until tender but not brown, about 8 minutes. Add the carrots, potato, celery, onion, salt and pepper, cover and cook 10 minutes more, stirring occasionally."
+      - Meanwhile, melt the butter in a pot over medium-high heat, whisk in the flour, then the stock. Season and cook 7 to 8 minutes, until it lightly coats a spoon. Stir in the tarragon and mustard.
+      - Stir the sauce into the vegetables, add the chicken and peas and transfer to a casserole or individual crocks.
+      - Preheat the oven to 375 degrees F. Mix the biscuit dough for 8 biscuits with a little chives, parsley or dill. Drop the biscuits over the filling and set on a baking sheet.
+      - Bake until heated through and the biscuits are golden and crisp at the edges, about 10 minutes if the filling is still warm. If it's cold, bake the filling 20 minutes, add the biscuits, and bake uncovered 10 minutes more.
+
+  - name: Chicken Piccata
+    categories: [Poultry]
+    servings: 4
+    ingredients:
+      - { qty: 4, ingredient: Chicken breast, note: "boneless, skinless halves, about 6 ounces each" }
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: "1 1/2", measure: tsp, ingredient: Kosher salt, note: plus more to taste }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: "freshly ground, plus more to taste" }
+      - { qty: 3, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1 1/2", measure: cup, ingredient: Chicken stock, note: preferably homemade }
+      - { qty: 2, measure: tbsp, ingredient: Lemon juice, note: fresh }
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter, note: cut into small pieces }
+      - { qty: 1, measure: tbsp, ingredient: Capers, note: "drained, rinsed and chopped" }
+      - { ingredient: Lemon, note: "thin slices, for garnish" }
+      - { ingredient: Parsley, note: "fresh leaves, chopped, for garnish" }
+    directions:
+      - Sprinkle a little water on a large sheet of plastic wrap, lay 2 breast halves on it and sprinkle again. Cover with more plastic and pound to about 1/4 inch thick. Repeat with the other 2.
+      - Mix the flour, salt and pepper in a pie plate. Heat half the oil in a large skillet over medium-high heat until almost smoking. In 2 batches, coat the chicken in the flour, shake off the excess and cook until lightly browned and cooked through, 3 to 4 minutes per side. Cover loosely with foil.
+      - Pour off the fat. Add the stock and lemon juice, bring to a boil over high heat, scraping up the browned bits, and simmer 3 minutes.
+      - Return the chicken and simmer, turning often, until warmed through and the sauce thickens, about 2 minutes. Add the butter and capers, season and heat just until the butter melts.
+      - Serve on warm plates with a spoonful of sauce, topped with lemon slices and parsley.
+
+  - name: Giada's Chicken Piccata
+    categories: [Poultry]
+    servings: 4
+    description:
+      - Recipe courtesy Giada De Laurentiis.
+    ingredients:
+      - { qty: 2, ingredient: Chicken breast, note: "skinless, boneless, butterflied and cut in half" }
+      - { ingredient: Sea salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Flour, note: "all-purpose, for dredging" }
+      - { qty: 6, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: 5, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1/3", measure: cup, ingredient: Lemon juice, note: fresh }
+      - { qty: "1/2", measure: cup, ingredient: Chicken stock }
+      - { qty: "1/4", measure: cup, ingredient: Capers, note: "brined, rinsed" }
+      - { qty: "1/3", measure: cup, ingredient: Parsley, note: "fresh, chopped" }
+    directions:
+      - Season the chicken with salt and pepper, dredge in flour and shake off the excess.
+      - In a large skillet over medium-high heat, melt 2 tablespoons butter with 3 tablespoons olive oil. When sizzling, cook 2 pieces of chicken 3 minutes per side, until browned. Transfer to a plate. Repeat with 2 more tablespoons butter, the remaining 2 tablespoons oil, and the other 2 pieces.
+      - Off the heat, add the lemon juice, stock and capers. Return to the stove, bring to a boil, scraping up the brown bits, and check the seasoning.
+      - Return all the chicken and simmer 5 minutes. Move the chicken to a platter, whisk the remaining 2 tablespoons butter vigorously into the sauce, pour over the chicken and garnish with parsley.
+
+  - name: Bearnaise Sauce
+    categories: [Sauces]
+    description:
+      - Recipe courtesy Emeril Lagasse. Makes about 1 1/2 cups. Serve immediately, or keep covered and warm up to 10 minutes, whisking occasionally so it doesn't separate.
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: White wine, note: dry }
+      - { qty: "1/4", measure: cup, ingredient: Vermouth, note: dry }
+      - { qty: 2, measure: tbsp, ingredient: Red wine vinegar }
+      - { qty: 2, measure: tbsp, ingredient: Shallot, note: chopped }
+      - { qty: 4, measure: sprig, ingredient: Tarragon, note: "fresh, plus 1 tablespoon chopped leaves" }
+      - { qty: 2, measure: tsp, ingredient: Black peppercorns }
+      - { qty: 2, ingredient: Egg yolk, note: large }
+      - { qty: "3/4", measure: cup, ingredient: Clarified butter, note: "melted, or 1 1/2 sticks unsalted butter, melted" }
+      - { qty: 1, measure: tbsp, ingredient: Water, note: "tepid, as needed" }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/8", measure: tsp, ingredient: Hot sauce, note: "or cayenne, to taste" }
+    directions:
+      - Boil the wine, vermouth, vinegar, shallots, tarragon sprigs and peppercorns in a small saucepan until reduced to 4 teaspoons. Strain and let cool.
+      - Whisk the egg yolks in the top of a double boiler (or a bowl over barely simmering water) until thick and pale yellow.
+      - Off the heat, gradually add the butter, whisking constantly to thicken. Add enough tepid water to thin to pouring consistency.
+      - Whisk in the 4 teaspoons reduction, chopped tarragon, salt and hot sauce. Adjust the seasoning.
+
+  - name: Chicken Pontalba
+    categories: [Poultry, Cajun]
+    servings: 4
+    description:
+      - Recipe courtesy Emeril Lagasse. A signature dish of old-line New Orleans Creole restaurants, created by Chef Paul Blange at Brennan's in the early 1950s and served when Emeril re-opened Delmonico. Like Chicken Clemenceau, but without green peas. Named for Baroness Micaela Almonester de Pontalba, who built the Pontalba buildings on Jackson Square in 1850.
+      - Uses Bearnaise Sauce (its own recipe). The file says "Brabant Potatoes, recipe follows" but doesn't include that recipe.
+    ingredients:
+      - { qty: 1, ingredient: Chicken, note: "2 3/4 to 3 pounds, rinsed and patted dry" }
+      - { qty: "3/4", measure: tsp, ingredient: Salt, note: divided }
+      - { qty: "3/8", measure: tsp, ingredient: White pepper, note: "ground, 1/4 plus 1/8 teaspoon, divided" }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: divided }
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: 1, measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: cup, ingredient: Ham, note: "boiled, small diced" }
+      - { qty: 8, measure: oz, ingredient: Mushroom, note: "white button, stems removed, thinly sliced" }
+      - { qty: "1/4", measure: cup, ingredient: Green onion, note: "green part only, chopped" }
+      - { qty: "1/4", measure: cup, ingredient: White wine, note: dry }
+      - { ingredient: Potato, note: "Brabant potatoes (diced, fried potatoes)" }
+      - { qty: 1, measure: tbsp, ingredient: Parsley, note: "fresh leaves, chopped" }
+      - { ingredient: Bearnaise Sauce }
+    directions:
+      - Preheat the oven to 400 degrees F.
+      - Cut the chicken into 2 breasts, 2 thighs and 2 legs and bone the breasts. Season with 1/2 teaspoon salt and 1/4 teaspoon pepper.
+      - Heat 1 tablespoon oil in a large ovenproof skillet over medium-high heat. Brown the chicken 4 minutes on the first side and 3 on the second. Put the butter on the chicken and roast in the oven until cooked through, 18 to 20 minutes.
+      - Meanwhile, heat the remaining tablespoon oil over medium-high heat and cook the garlic 30 seconds. Add the ham, mushrooms, green onions and the remaining salt and pepper and cook until the mushrooms release their liquid and start to brown, 3 to 4 minutes.
+      - Add the wine, bring to a boil, scraping the pan, then simmer over medium heat until thickened, 4 to 5 minutes. Gently toss in the potatoes and parsley and warm through, 1 to 2 minutes.
+      - Divide the vegetable mixture among 4 plates, top with the chicken, spoon the Bearnaise over and serve immediately.
+
+  - name: Chicken Scarpiello
+    categories: [Poultry, Sausage]
+    prep_time: 25
+    cooking_time: 50
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. The finished dish should be slightly soupy, spicy, and delicious.
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, measure: lb, ingredient: Italian sausage, note: "fennel sausage, cut into bite-size pieces" }
+      - { qty: 2, ingredient: Chicken, note: "3 pounds each, cut into 8 to 10 bone-in pieces" }
+      - { ingredient: Kosher salt }
+      - { qty: 1, ingredient: Onion, note: "Spanish, cut into 1/4-inch slices" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { qty: "3/4", measure: cup, ingredient: White wine }
+      - { qty: 1, measure: cup, ingredient: Hot cherry peppers, note: quartered }
+      - { qty: "1/2", measure: cup, ingredient: Hot cherry peppers, note: juice from the jar }
+      - { qty: 1, measure: cup, ingredient: Chicken stock, note: plus more if needed }
+      - { qty: 3, measure: sprig, ingredient: Oregano, note: "fresh, picked and chopped" }
+    directions:
+      - Coat a large wide pan with olive oil over medium-high heat. Brown the sausage well, remove with a slotted spoon and reserve.
+      - Season the chicken generously with salt and brown well on all sides in the same pan. Remove and reserve.
+      - Drain the oil, add a little fresh oil and the onions, season with salt and cook over medium heat until translucent and very aromatic, 6 to 7 minutes. Add the garlic and cook 2 to 3 minutes.
+      - Add the wine and reduce by half, scraping up the browned bits. Return the sausage and chicken and add the cherry peppers, pepper juice, stock and oregano.
+      - Bring to a boil, then simmer partially covered 15 minutes. Uncover and simmer 5 more minutes, adding stock if it has reduced too much. Taste and adjust the seasoning.
+
+  - name: Chicken Thighs and Legs with Tomato
+    categories: [Poultry]
+    prep_time: 10
+    cooking_time: 45
+    servings: 8
+    description:
+      - Recipe courtesy Alexandra Guarnaschelli. Serves 8 to 10.
+    ingredients:
+      - { qty: 4, measure: tbsp, ingredient: Canola oil }
+      - { qty: 6, ingredient: Chicken thigh }
+      - { qty: 6, ingredient: Chicken drumsticks, note: legs }
+      - { ingredient: Kosher salt }
+      - { qty: 1, measure: tsp, ingredient: Cumin seeds, note: whole }
+      - { qty: 2, measure: tsp, ingredient: Chili flakes }
+      - { qty: 1, ingredient: White onion, note: "large, peeled, halved and thinly sliced" }
+      - { qty: 1, ingredient: Ginger, note: "large knob, peeled and grated" }
+      - { qty: 6, measure: clove, ingredient: Garlic, note: peeled and halved lengthwise }
+      - { qty: 1, measure: can, ingredient: Tomato, note: "28-ounce whole peeled" }
+      - { qty: 2, ingredient: Cinnamon stick }
+      - { qty: 4, ingredient: Bay leaf, note: fresh or dried }
+      - { ingredient: Water, note: as needed }
+    directions:
+      - Heat the oil in a large skillet over high heat. Lay the chicken on a tray and salt both sides.
+      - When the oil smokes lightly, add the chicken without crowding and don't move it. Brown 3 to 5 minutes, turn with tongs and sear the second side 3 to 5 minutes. Set aside.
+      - Toast the cumin seeds and chili flakes in the same skillet 10 to 15 seconds, stirring rapidly. Add the onions, ginger and garlic, season with salt, then add the tomatoes, cinnamon and bay leaves. Cook about 10 minutes for the flavors to come together.
+      - Return the chicken, keep the heat low and cook until cooked through, 30 to 45 minutes. If the sauce gets too thick or sticks, add water 1/2 cup at a time.
+      - Discard the cinnamon sticks and bay leaves, taste for seasoning and serve.
+
+  - name: Bob's Chicken Thighs with Tomato and Olives
+    categories: [Poultry, Cajun]
+    description:
+      - Bob's version of Chicken Thighs and Legs with Tomato (untitled in the file), seasoned with Cajun seasoning and finished with olives and capers.
+    ingredients:
+      - { qty: 4, ingredient: Chicken thigh, note: 3 to 4 }
+      - { ingredient: Kosher salt }
+      - { ingredient: Cajun seasoning }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, measure: tsp, ingredient: Cumin seeds, note: whole }
+      - { qty: 1, measure: tsp, ingredient: Anise seed }
+      - { qty: "1/2", measure: tsp, ingredient: Chili flakes }
+      - { qty: 1, ingredient: White onion, note: "large, peeled, halved and thinly sliced" }
+      - { qty: 6, measure: clove, ingredient: Garlic, note: peeled and halved lengthwise }
+      - { qty: 1, measure: can, ingredient: Stewed tomatoes, note: 14-ounce }
+      - { qty: 1, measure: can, ingredient: Tomato sauce, note: 8-ounce }
+      - { qty: "1/2", ingredient: Cinnamon stick }
+      - { qty: 4, ingredient: Bay leaf, note: fresh or dried }
+      - { qty: "1/2", measure: cup, ingredient: White wine }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: 1, measure: tbsp, ingredient: Capers }
+      - { qty: "1/4", measure: cup, ingredient: Kalamata olive }
+      - { qty: "1/4", measure: cup, ingredient: Green olives }
+    directions:
+      - Heat the olive oil in a large skillet over high heat. Season both sides of the thighs with Cajun seasoning.
+      - When the oil smokes lightly, add the chicken without crowding and don't move it. Brown 3 to 5 minutes, turn and sear the second side 3 to 5 minutes. Set aside.
+      - Toast the cumin, anise and chili flakes in the same skillet 10 to 15 seconds, stirring rapidly. Add the onions and garlic and season with salt.
+      - Add the tomatoes, cinnamon, wine, capers, Worcestershire, tomato sauce, olives and bay leaves and cook about 10 minutes.
+      - Return the chicken, keep the heat low and cook until cooked through, 30 to 45 minutes, adding water 1/2 cup at a time if the sauce gets too thick.
+      - Discard the cinnamon and bay leaves, taste for seasoning and serve.
+
+  - name: Chicken Thighs in Sauce
+    categories: [Poultry]
+    description:
+      - Ingredient list only; there are no directions in the file.
+    ingredients:
+      - { qty: 6, ingredient: Chicken thigh, note: "small, skin on, boneless" }
+      - { qty: 1, measure: can, ingredient: Tomato, note: "whole peeled plum tomatoes" }
+      - { qty: 1, measure: head, ingredient: Garlic }
+      - { qty: 1, measure: bunch, ingredient: Basil, note: fresh }
+      - { qty: 1, ingredient: Kalamata olive, note: container }
+      - { measure: dash, ingredient: Salt }
+      - { measure: dash, ingredient: Black pepper }
+
+  - name: Braised Chicken Thighs with Mushrooms and Almonds
+    categories: [Poultry]
+    description:
+      - Recipe courtesy Anne Burrell, 2008. Serve over sauteed haricots verts or your favorite green vegetable.
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 8, ingredient: Chicken thigh }
+      - { ingredient: Kosher salt }
+      - { qty: "1/2", measure: lb, ingredient: Pancetta, note: cut into 1/2-inch dice }
+      - { qty: 2, ingredient: Onion, note: "large, julienned" }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 2, measure: lb, ingredient: Mushroom, note: "assorted (shiitake, oyster or cremini), cleaned and sliced" }
+      - { qty: 2, measure: cup, ingredient: White wine, note: dry }
+      - { qty: 6, measure: cup, ingredient: Chicken stock, note: 4 to 6 cups }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: bundle }
+      - { qty: 4, ingredient: Bay leaf }
+      - { qty: "1/2", measure: cup, ingredient: Almond, note: "whole blanched, toasted" }
+      - { ingredient: Chives, note: "chopped, for garnish" }
+    directions:
+      - Coat a large wide deep pan with olive oil over high heat. Pat the chicken skin dry and season generously with salt. Add skin side down (you should hear a big sizzle) and don't move it; the skin will release when it's ready. Brown the other side and reserve.
+      - Lower the heat and discard most of the fat. Brown the pancetta; when crispy, add the onions, season with salt and red pepper and sweat 7 to 8 minutes. Add the garlic for 1 to 2 minutes.
+      - Add the mushrooms, season with salt and saute 3 to 4 minutes, until they release their juices. Add the wine and reduce by half.
+      - Return the chicken, add stock to almost cover, and add the thyme and bay leaves. Bring to a boil, then simmer 30 to 35 minutes, adding stock if needed.
+      - Meanwhile, puree the almonds in a food processor, drizzling in a little olive oil to make a loose paste. Season with salt.
+      - Remove the chicken. Taste the sauce, stir in the almond puree (it thickens the sauce and makes it very rich) and simmer to thicken if needed. Spoon over the chicken and garnish with chives.
+
+  - name: Braised Chicken with Tomatillos and Jalapenos
+    categories: [Poultry, Mexican]
+    prep_time: 10
+    cooking_time: 50
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell. Serves 4 to 6. Seed the jalapenos to tone down the heat.
+    ingredients:
+      - { qty: 6, ingredient: Tomatillo, note: husked }
+      - { qty: 2, ingredient: Jalapeno }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 4, ingredient: Chicken thigh, note: trimmed of excess fat and skin }
+      - { qty: 4, ingredient: Chicken drumsticks, note: legs }
+      - { ingredient: Kosher salt }
+      - { qty: 1, ingredient: Onion, note: "large Spanish, cut into 1/4-inch dice" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { qty: 2, measure: cup, ingredient: Chicken stock }
+      - { qty: 2, ingredient: Lime, note: zested and juiced }
+      - { qty: "1/4", measure: cup, ingredient: Cilantro, note: "fresh, chopped, plus leaves for garnish" }
+      - { qty: "1/2", measure: cup, ingredient: Sour cream, note: for the lime sour cream }
+      - { qty: 2, ingredient: Lime, note: "zested and juiced, for the lime sour cream" }
+    directions:
+      - Preheat the grill. Grill the tomatillos and jalapenos until the skins char and blister, 10 to 12 minutes. Let cool.
+      - Coat a large straight-sided saute pan with olive oil over medium-high heat. Salt the chicken generously and brown well on all sides, starting skin side down. Reserve.
+      - Discard the excess fat, add a few drops of oil and cook the onions with salt until very soft, 7 to 8 minutes. Meanwhile, coarsely chop the tomatillos and cut the jalapenos into 1/4-inch dice.
+      - Add the garlic for 1 to 2 minutes, then the tomatillos and jalapenos. Add the stock and lime juice and zest, and season with salt (it probably will need it).
+      - Return the chicken, bring to a boil, then cover and simmer 15 minutes. Uncover and cook 15 more minutes to reduce. Adjust the seasoning.
+      - Mix the sour cream with the lime zest and juice.
+      - Remove the chicken, stir the cilantro into the sauce and spoon it over the chicken. Sprinkle with cilantro leaves and serve with the lime sour cream.
+
+  - name: Braised Chicken Thighs with Olives, Fingerlings and Chiles in Tomato Broth
+    categories: [Poultry]
+    description:
+      - Recipe courtesy Michael Symon. The file says "Chicken Stock, recipe follows" but doesn't include it.
+    ingredients:
+      - { qty: 6, ingredient: Chicken thigh, note: "bone-in, skin on" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 4, measure: tbsp, ingredient: Blended oil, note: 3 to 4 }
+      - { qty: 2, ingredient: Shallot, note: "halved, peeled and sliced" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: peeled and sliced }
+      - { qty: 3, ingredient: Fresno chile, note: sliced into rings }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 2, ingredient: Cinnamon stick }
+      - { qty: 1, measure: tbsp, ingredient: Coriander seeds }
+      - { qty: 1, measure: tsp, ingredient: Cumin seeds }
+      - { qty: 12, ingredient: Fingerling potatoes, note: halved }
+      - { qty: 3, measure: cup, ingredient: Chicken stock, note: 2 to 3 cups }
+      - { qty: 1, measure: can, ingredient: Tomato, note: "28-ounce whole peeled San Marzano, crushed by hand, with half the juice" }
+      - { qty: 2, measure: cup, ingredient: Green olives, note: "Cerignola, pitted" }
+      - { qty: 1, measure: cup, ingredient: Black olive, note: "oil-cured, pitted" }
+      - { qty: 1, measure: cup, ingredient: Kalamata olive, note: pitted }
+      - { qty: 1, ingredient: Orange, note: zested }
+    directions:
+      - Place a large Dutch oven over medium-high heat. Pat the chicken dry for extra-crispy skin and season both sides with salt and pepper.
+      - Add the oil and sear the thighs skin side down until golden, 3 to 5 minutes per side, then move them to the side of the pan.
+      - On the other side, add the shallots, garlic, chiles, salt, bay leaves, cinnamon, coriander and cumin and stir. Add the potatoes and season with salt.
+      - Add about 2 cups stock (2/3 of the way up the meat) and the tomatoes with half their juice. Stir in all the olives and season.
+      - Cover and cook over medium heat 20 to 30 minutes, stirring occasionally. Stir in the orange zest to serve.
+
+  - name: Braised Leeks
+    categories: [Vegetables]
+    ingredients:
+      - { qty: 4, ingredient: Leek, note: "large, outer leaves discarded, trimmed to about 7 inches" }
+      - { qty: 3, measure: tbsp, ingredient: Butter }
+      - { qty: "1/2", measure: cup, ingredient: Chicken stock }
+      - { qty: 2, measure: tsp, ingredient: Thyme, note: "leaves, chopped" }
+      - { qty: "1/4", measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: pinch, ingredient: Black pepper }
+    directions:
+      - Trim most of the roots, leaving enough to hold each leek together. Cut lengthwise into halves or quarters and rinse under cold water, loosening any dirt between the leaves.
+      - Melt the butter in a heavy lidded skillet over medium heat. Add the leeks with the water clinging to them and cook 5 minutes, stirring occasionally.
+      - Add the stock and thyme, lower to medium-low, cover and braise about 10 minutes, until very tender. Season with salt and pepper.
+
+  - name: Classic Coq au Vin
+    categories: [Poultry]
+    description:
+      - Serve with egg noodles and Braised Leeks (its own recipe).
+    ingredients:
+      - { qty: 10, measure: slice, ingredient: Bacon, note: cut into 1/2-inch pieces }
+      - { qty: 2, ingredient: Chicken, note: "3 1/2 to 4 pounds each, quartered, rinsed and patted dry" }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, ingredient: Onion, note: finely chopped }
+      - { qty: 20, ingredient: Pearl onion, note: "small, peeled" }
+      - { qty: "1/2", measure: cup, ingredient: Shallot, note: "minced (2 large)" }
+      - { qty: 1, measure: head, ingredient: Garlic, note: cloves separated and peeled }
+      - { qty: 1, measure: lb, ingredient: Mushroom, note: "button, halved or quartered to match the onions" }
+      - { qty: "1/4", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 2, measure: tsp, ingredient: Tomato paste }
+      - { qty: 3, measure: cup, ingredient: Red wine, note: "full-bodied dry, such as Pinot Noir or Cotes-du-Rhone" }
+      - { qty: "1 1/2", measure: cup, ingredient: Chicken stock, note: rich }
+      - { qty: 6, measure: sprig, ingredient: Thyme, note: "fresh, or 1 teaspoon dried" }
+      - { qty: 1, ingredient: Bay leaf }
+      - { ingredient: Braised Leeks }
+      - { ingredient: Egg noodles, note: for serving }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "fresh leaves, chopped" }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Fry the bacon in a large heavy Dutch oven over high heat until crisp and the fat is rendered. Drain the bacon on paper towels.
+      - Season the chicken with the salt and pepper and brown in the bacon fat, in batches if needed. Set aside. Leave about 4 tablespoons of fat in the pot.
+      - Over medium-high heat, cook the chopped onion, pearl onions, shallots and garlic until soft, about 4 minutes. Add the mushrooms and cook 5 minutes, until they release their liquid and begin to brown.
+      - Add the flour and tomato paste and cook, stirring, 1 minute. Slowly stir in the wine and stock. Add the thyme, bay leaf, bacon and chicken and bring to a boil.
+      - Cover and bake about 1 1/2 hours, until the chicken is very tender. Move the chicken to a serving dish and keep warm.
+      - Skim the fat and cook the sauce over medium-high heat until it coats a spoon, 15 to 20 minutes. Adjust the seasoning, return the chicken to heat through and serve with noodles and braised leeks, garnished with parsley.
+
+  - name: Coq au Vin with Potatoes and Carrots
+    categories: [Poultry, Stews]
+    description:
+      - Classic chicken in red wine, made as a one-pot stew.
+    ingredients:
+      - { qty: 8, measure: slice, ingredient: Bacon, note: cut crosswise into thin strips }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 6, ingredient: Chicken thigh, note: "leg quarters (legs and thighs)" }
+      - { qty: "1 1/2", measure: tsp, ingredient: Kosher salt, note: plus more for the chicken }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: lb, ingredient: Pearl onion, note: "frozen bag, thawed" }
+      - { qty: 8, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 1, measure: lb, ingredient: Cremini mushroom, note: halved }
+      - { qty: 3, ingredient: Russet potatoes, note: "peeled, cut into large rounds (thirds)" }
+      - { qty: 3, ingredient: Carrot, note: "peeled, cut into 2-inch pieces" }
+      - { qty: "1/3", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 4, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: "2 1/2", measure: cup, ingredient: Red wine, note: full-bodied }
+      - { qty: 2, measure: cup, ingredient: Chicken broth, note: low-sodium }
+      - { qty: "1/2", measure: cup, ingredient: Parsley, note: "fresh leaves, roughly chopped" }
+      - { qty: 3, measure: tbsp, ingredient: Red wine vinegar }
+    directions:
+      - Cook the bacon in the olive oil in a large Dutch oven over medium heat until crisp, about 8 minutes. Remove with a slotted spoon.
+      - Season the chicken generously with salt and pepper and brown in 2 batches in the drippings. Set aside.
+      - Pour off about half the drippings. Cook the onions, garlic and mushrooms over medium-high heat until browned, about 8 minutes. Stir in the potatoes and carrots, then the 1 1/2 teaspoons salt and the flour to coat.
+      - Stir in the wine and broth until there are no lumps of flour. Add the chicken, thyme, bay leaves and half the bacon. Bring to a boil, then cover and simmer until almost tender, about 40 minutes.
+      - Uncover and cook until the sauce thickens, about 10 minutes. Stir in the parsley and vinegar, season and serve with the remaining bacon.
+
+  - name: Brown-Braised Onions
+    categories: [Vegetables]
+    description:
+      - Julia Child's onions for Coq au Vin; braise them on the stove or bake them.
+    ingredients:
+      - { qty: "1 1/2", measure: tbsp, ingredient: Butter }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Vegetable oil }
+      - { qty: 24, ingredient: Pearl onion, note: "18 to 24 white onions about 1 inch across, peeled" }
+      - { qty: "1/2", measure: cup, ingredient: Beef broth, note: "brown stock or canned bouillon, or dry white wine, red wine or water" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 4, measure: sprig, ingredient: Parsley, note: for the herb bouquet }
+      - { qty: "1/2", ingredient: Bay leaf, note: for the herb bouquet }
+      - { qty: "1/4", measure: tsp, ingredient: Dried thyme, note: for the herb bouquet }
+    directions:
+      - Tie the parsley, bay leaf and thyme in cheesecloth.
+      - When the butter and oil are bubbling in a skillet, saute the onions over moderate heat 10 minutes, rolling them so they brown as evenly as possible without breaking the skins. They won't brown uniformly.
+      - "To braise: add the stock, season, and add the herb bouquet. Cover and simmer slowly 15 to 20 minutes, until perfectly tender but holding their shape and the liquid has evaporated. Remove the bouquet."
+      - "To bake: put the onions and their fat in a shallow baking dish just big enough for one layer with the herb bouquet. Bake uncovered in the upper third of a 350 degree F oven 40 to 50 minutes, turning once or twice, until very tender, golden and holding their shape. Remove the bouquet."
+
+  - name: Sauteed Mushrooms
+    categories: [Vegetables]
+    description:
+      - Julia Child's mushrooms for Coq au Vin. They can be cooked ahead and reheated; season just before serving.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 1, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: "1/2", measure: lb, ingredient: Mushroom, note: "fresh, washed and well dried, whole if small, sliced or quartered if large" }
+      - { qty: 2, measure: tbsp, ingredient: Shallot, note: "1 to 2 tablespoons minced, or green onions, optional" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+    directions:
+      - Heat the butter and oil in a skillet over high heat. As soon as the foam begins to subside, add the mushrooms and toss and shake the pan 4 to 5 minutes. They'll absorb the fat at first; in 2 to 3 minutes it reappears and they begin to brown. When lightly browned, remove from the heat.
+      - Toss in the shallots or green onions, if using, and saute over moderate heat 2 minutes. Season just before serving.
+
+  - name: Julia Child's Coq au Vin
+    categories: [Poultry]
+    description:
+      - Chicken in red wine with onions, mushrooms and bacon. Recipe courtesy Julia Child. Uses Brown-Braised Onions and Sauteed Mushrooms (their own recipes). Electric skillet temperatures are given for each step.
+    ingredients:
+      - { qty: 3, measure: oz, ingredient: Bacon, note: "3 to 4-ounce chunk, lean" }
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: 3, measure: lb, ingredient: Chicken, note: "2 1/2 to 3 pounds frying chicken, cut into pieces" }
+      - { qty: "1/2", measure: tsp, ingredient: Salt, note: plus more for seasoning }
+      - { qty: "1/8", measure: tsp, ingredient: Black pepper, note: plus more for seasoning }
+      - { qty: "1/4", measure: cup, ingredient: Cognac }
+      - { qty: 3, measure: cup, ingredient: Red wine, note: "young, full-bodied (Burgundy, Beaujolais, Cotes du Rhone or Chianti)" }
+      - { qty: 2, measure: cup, ingredient: Chicken stock, note: "1 to 2 cups brown chicken stock, brown stock or canned beef bouillon" }
+      - { qty: "1/2", measure: tbsp, ingredient: Tomato paste }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: mashed }
+      - { qty: "1/4", measure: tsp, ingredient: Thyme, note: leaves }
+      - { qty: 1, ingredient: Bay leaf }
+      - { ingredient: Brown-Braised Onions, note: 12 to 24 }
+      - { qty: "1/2", measure: lb, ingredient: Sauteed Mushrooms }
+      - { qty: 3, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: 2, measure: tbsp, ingredient: Butter, note: softened }
+      - { ingredient: Parsley, note: fresh sprigs }
+    directions:
+      - Remove the rind and cut the bacon into lardons (1/4 inch across and 1 inch long). Simmer 10 minutes in 2 quarts of water, rinse in cold water and dry.
+      - In a large heavy casserole, saute the bacon slowly in the hot butter until very lightly browned (260 degrees F in an electric skillet). Remove to a side dish.
+      - Dry the chicken thoroughly and brown it in the hot fat (360 degrees F). Season with salt and pepper, return the bacon, cover and cook slowly (300 degrees F) 10 minutes, turning once.
+      - Uncover and pour in the cognac. Averting your face, ignite it with a match and shake the casserole until the flames subside.
+      - Pour in the wine and just enough stock to cover the chicken. Stir in the tomato paste, garlic and herbs and simmer, covered, 20 to 25 minutes, until the juices run clear yellow when pricked. Remove the chicken. Prepare the onions and mushrooms meanwhile.
+      - Simmer the liquid 1 to 2 minutes, skimming the fat, then boil rapidly to reduce to about 2 1/4 cups. Correct the seasoning and discard the bay leaf.
+      - Blend the softened butter and flour into a smooth paste (beurre manie) and beat it into the hot liquid with a whisk. Simmer 1 to 2 minutes, stirring; it should lightly coat a spoon.
+      - Arrange the chicken in a casserole with the mushrooms and onions around it and baste with the sauce. If not serving right away, film the top with stock or dot with butter; set aside uncovered no longer than 1 hour, or cool, cover and refrigerate.
+      - Shortly before serving, bring to a simmer, basting the chicken, then cover and simmer 4 to 5 minutes until heated through. Serve from the casserole or on a hot platter, decorated with parsley.
+
+  - name: Poached Chicken
+    categories: [Poultry]
+    description:
+      - For Chicken a la King; serves 4 to 6. The strained broth keeps 3 days refrigerated or can be frozen; skim the fat before using.
+    ingredients:
+      - { qty: 10, measure: sprig, ingredient: Parsley }
+      - { qty: 2, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 1, ingredient: Onion, note: "small, halved" }
+      - { qty: 1, ingredient: Carrot, note: "small, halved" }
+      - { qty: 1, measure: stalk, ingredient: Celery, note: halved }
+      - { qty: 3, measure: lb, ingredient: Chicken breast, note: "halves, on the bone, fat trimmed" }
+      - { qty: 6, measure: cup, ingredient: Chicken broth, note: "5 to 6 cups, homemade or low-sodium canned" }
+    directions:
+      - Put the parsley, thyme, onion, carrot, celery and chicken in a medium saucepan, cover with the broth and bring just to a boil.
+      - Lower the heat to very low, cover and poach 20 minutes, until firm to the touch. Uncover off the heat and cool the chicken in the liquid 30 minutes.
+      - Bone and skin the chicken and cut the meat into cubes. Strain and save the broth.
+
+  - name: Chicken a la King
+    categories: [Poultry]
+    description:
+      - Uses Poached Chicken (its own recipe). Serve over buttered noodles, toast points or split baking powder biscuits, or wrapped in crepes.
+    ingredients:
+      - { qty: 5, measure: tbsp, ingredient: Unsalted butter, note: "1/4 cup plus 1 tablespoon, divided" }
+      - { qty: 2, ingredient: Shallot, note: "large, minced" }
+      - { qty: 6, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: "1/4", measure: cup, ingredient: Sherry, note: dry }
+      - { qty: "3 3/4", measure: cup, ingredient: Chicken broth, note: homemade or low-sodium canned }
+      - { qty: 6, measure: sprig, ingredient: Parsley, note: "flat-leaf, plus 1 tablespoon minced" }
+      - { qty: 1, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt, note: plus more to taste }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: "freshly ground, plus more to taste" }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+      - { qty: 1, measure: pinch, ingredient: Nutmeg, note: freshly grated }
+      - { qty: "1/2", measure: lb, ingredient: Shiitake, note: "trimmed, cut into 1/2-inch slices" }
+      - { qty: "1/2", measure: cup, ingredient: Creme fraiche, note: or heavy cream }
+      - { qty: 4, measure: cup, ingredient: Poached Chicken, note: 1-inch cubes }
+      - { qty: 1, measure: tbsp, ingredient: Chives, note: "fresh, snipped" }
+    directions:
+      - Melt 1/4 cup butter in a large saucepan over medium heat and saute the shallots until soft, 4 to 5 minutes. Sprinkle in the flour and cook, stirring, 2 minutes.
+      - Whisk in the sherry and broth and bring to a boil, stirring. Add the parsley and thyme sprigs and simmer gently 30 minutes, stirring frequently.
+      - Meanwhile, heat the remaining butter in a large skillet over medium-high heat and saute the mushrooms until golden brown, about 5 minutes. Season with salt and pepper.
+      - Strain the sauce into the mushrooms and season with salt, pepper, cayenne and nutmeg. Whisk in the creme fraiche.
+      - Add the minced parsley, chicken and chives and bring to a simmer. Adjust the seasoning and serve immediately.
+
+  - name: Chicken Fricassee
+    categories: [Poultry]
+    ingredients:
+      - { qty: 1, ingredient: Chicken, note: "4-pound frying chicken, cut into 8 pieces" }
+      - { qty: 6, measure: tbsp, ingredient: Olive oil, note: divided }
+      - { qty: 6, ingredient: Onion, note: "medium, sliced in rings" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 2, ingredient: Tomato, note: "peeled, or a 16-ounce can of stewed tomatoes with liquid" }
+      - { qty: 1, measure: sprig, ingredient: Thyme, note: fresh }
+      - { ingredient: Salt, note: to taste }
+      - { ingredient: Black pepper, note: "freshly ground, to taste" }
+      - { qty: "1/2", measure: tsp, ingredient: Allspice }
+      - { measure: dash, ingredient: Mace }
+      - { qty: "1/2", measure: cup, ingredient: Water }
+    directions:
+      - Brown the chicken in 2 tablespoons of the oil in a heavy saute pan and set aside.
+      - Drain the pan, add the remaining oil and cook the onions very slowly, covered, about 15 minutes, until soft. Uncover, add the garlic and saute until the onions are golden.
+      - Add the tomatoes and simmer a few minutes. Add the chicken, thyme, salt, pepper, allspice, mace and water. Cover and cook about 30 minutes, until the chicken is tender, adding water if the sauce gets too thick.
+
+  - name: Shoyu Chicken
+    categories: [Poultry, Asian]
+    prep_time: 10
+    cooking_time: 50
+    servings: 6
+    description:
+      - Recipe courtesy Aida Mollenkamp. Serves 6 to 8.
+    ingredients:
+      - { qty: 6, measure: lb, ingredient: Chicken thigh, note: 5 1/2 to 6 pounds }
+      - { qty: 5, measure: cup, ingredient: Chicken broth, note: low-sodium }
+      - { qty: 2, measure: cup, ingredient: Soy sauce, note: low-sodium }
+      - { qty: 1, measure: cup, ingredient: Light brown sugar, note: packed }
+      - { qty: "3/4", measure: cup, ingredient: Mirin }
+      - { qty: 8, measure: clove, ingredient: Garlic, note: "medium, smashed and peeled" }
+      - { qty: 4, measure: piece, ingredient: Ginger, note: "4-inch piece, sliced 1/2 inch thick and smashed" }
+      - { qty: 1, measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 5, measure: tbsp, ingredient: Corn starch, note: dissolved in 5 tablespoons water }
+      - { ingredient: Green onion, note: "thinly sliced, for garnish" }
+    directions:
+      - Combine everything except the cornstarch and green onions in a large pot and bring to a boil over high heat. Reduce to low and simmer, covered, turning occasionally, until the chicken is tender, about 30 to 35 minutes.
+      - Move the chicken to a platter and discard the garlic and ginger. Boil the sauce, skim the fat and reduce slightly, about 10 minutes.
+      - Whisk in the cornstarch mixture and bring to a boil. Off the heat, return the chicken, turn to coat, and serve with the sauce and green onions.

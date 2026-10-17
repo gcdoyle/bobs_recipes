@@ -1,0 +1,98 @@
+# Recipes from "Salads, Slaw.txt" (Baechu Kimchi already imported from the Asian file).
+recipes:
+  - name: Cole Slaw
+    categories: [Slaw, Salads]
+    ingredients:
+      - { qty: "3/4", measure: cup, ingredient: Mayonnaise }
+      - { qty: "1/4", measure: cup, ingredient: Dijon mustard }
+      - { qty: "1/4", measure: cup, ingredient: Light brown sugar, note: packed }
+      - { qty: 3, measure: tbsp, ingredient: Cider vinegar, note: apple cider vinegar }
+      - { qty: 2, measure: tbsp, ingredient: Buttermilk }
+      - { qty: 4, measure: tsp, ingredient: Celery seed }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/8", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 3, measure: cup, ingredient: Green cabbage, note: "shredded (about 1/2 head)" }
+      - { qty: 3, measure: cup, ingredient: Red cabbage, note: "shredded (about 1/2 head)" }
+      - { qty: 1, ingredient: Green bell pepper, note: finely diced }
+      - { qty: 1, ingredient: Carrot, note: "large, peeled and shredded" }
+      - { qty: "1/2", measure: cup, ingredient: Yellow onion, note: grated }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "fresh, minced" }
+    directions:
+      - In a bowl, combine the mayonnaise, mustard, sugar, vinegar, buttermilk, celery seeds, salt, pepper, and cayenne, and whisk well to dissolve the sugar.
+      - In a large bowl, combine the remaining ingredients. Toss with the dressing until evenly coated. Adjust seasoning, to taste. Place in the refrigerator, covered, to chill slightly before serving.
+
+  - name: Pickled Cucumber and Daikon Salad
+    categories: [Salads, Asian]
+    prep_time: 15
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell.
+      - "Inactive prep: 1 hour 15 minutes."
+    ingredients:
+      - { qty: 2, ingredient: Carrot, note: julienned }
+      - { qty: 1, ingredient: Cucumber, note: "hothouse, sliced thinly, preferably on a mandoline" }
+      - { qty: 1, ingredient: Daikon, note: "medium, peeled, halved lengthwise and sliced into thin half-moons" }
+      - { qty: "3/4", measure: cup, ingredient: Rice vinegar, note: rice wine vinegar }
+      - { qty: "1/4", measure: cup, ingredient: Fish sauce }
+      - { qty: 2, measure: tbsp, ingredient: Brown sugar }
+      - { qty: 1, measure: tbsp, ingredient: Sambal oelek }
+      - { qty: 1, measure: tsp, ingredient: Ginger, note: grated }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { qty: 2, ingredient: Green onion, note: thinly sliced on the bias }
+    directions:
+      - In a large bowl combine the carrots, cucumbers and daikon.
+      - In a small jar or container with a lid, combine the rice wine vinegar, fish sauce, sugar, sambal, ginger and garlic. Shake well and let sit for at least 15 minutes to allow the sugar to dissolve and the flavors to marry.
+      - Toss the cucumber-daikon mixture with the vinaigrette and let sit outside the fridge for an hour before serving. Sprinkle with the scallions.
+
+  - name: American Macaroni Salad
+    categories: [Salads]
+    prep_time: 20
+    cooking_time: 10
+    servings: 6
+    description:
+      - From Food Network Kitchens.
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Elbow macaroni, note: "dry; cooked, rinsed, and drained" }
+      - { qty: "1/3", measure: cup, ingredient: Celery, note: diced }
+      - { qty: "1/4", measure: cup, ingredient: Red onion, note: "minced, soaked in cold water for 5 minutes, drained" }
+      - { qty: 1, measure: tbsp, ingredient: Parsley, note: "flat-leaf, minced" }
+      - { qty: "1/2", measure: cup, ingredient: Tomato, note: "vine-ripened, diced (optional)" }
+      - { qty: "1/2", measure: cup, ingredient: Mayonnaise }
+      - { qty: "3/4", measure: tsp, ingredient: Dry mustard }
+      - { qty: "1 1/2", measure: tsp, ingredient: Sugar }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Cider vinegar }
+      - { qty: 3, measure: tbsp, ingredient: Sour cream }
+      - { qty: "1/2", measure: tsp, ingredient: Kosher salt, note: plus more to taste }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - In a large bowl combine the macaroni, celery, onion, parsley and tomato, if using.
+      - In a small bowl, whisk together the mayonnaise, mustard, sugar, vinegar, sour cream and salt. Pour the dressing over the salad and stir to combine. Season with salt and pepper to taste.
+      - Serve. Store covered in the refrigerator for up to 3 days.
+
+  - name: Old-Fashioned Macaroni Salad
+    categories: [Salads]
+    prep_time: 15
+    cooking_time: 20
+    servings: 4
+    description:
+      - Serves 4 to 6.
+      - "Inactive prep: 2 hours."
+    ingredients:
+      - { qty: 4, ingredient: Egg }
+      - { qty: 1, measure: lb, ingredient: Elbow macaroni, note: large }
+      - { qty: 4, measure: oz, ingredient: Ham steak, note: finely chopped }
+      - { qty: 2, measure: stalk, ingredient: Celery, note: "chopped, including leaves" }
+      - { qty: 1, ingredient: Shallot, note: "large, chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Lemon juice, note: fresh }
+      - { qty: "2/3", measure: cup, ingredient: Mayonnaise, note: for the dressing }
+      - { qty: 2, measure: tbsp, ingredient: Dijon mustard, note: for the dressing }
+      - { qty: 1, ingredient: Pimentos, note: "4-ounce jar, chopped, drained" }
+      - { qty: 3, measure: tbsp, ingredient: Sweet relish, note: for the dressing }
+      - { ingredient: Kosher salt, note: to taste }
+      - { ingredient: Black pepper, note: to taste }
+    directions:
+      - "To make the hard-boiled eggs: add the eggs to a medium saucepan. Cover with cold water and bring up to a boil over medium heat. Cover with a lid and turn off the heat. Let the eggs sit in the hot water for 14 minutes. Drain and cool under cold running water. Peel the eggs and chop. Reserve."
+      - While the eggs are cooking, bring a large pot of salted water to a boil over high heat and add the macaroni. Cook until al dente. Drain and rinse with cold water.
+      - In a large serving bowl, combine the eggs, ham steak, celery, shallots, pimentos and lemon juice. Add the macaroni and stir to combine.
+      - In a separate bowl, whisk together the mayonnaise, mustard, relish, and salt and pepper to taste. Add the dressing to the macaroni and toss to coat. Season with more salt and pepper, if needed. Cover and chill for 2 hours for the flavors to meld.
