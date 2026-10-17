@@ -200,9 +200,6 @@ GEM
     nokogiri (1.19.4-x86_64-linux-gnu)
       racc (~> 1.4)
     orm_adapter (0.5.0)
-    pg (1.7.0-arm64-darwin)
-    pg (1.7.0-x86_64-darwin)
-    pg (1.7.0-x86_64-linux)
     pp (0.6.4)
       prettyprint
     prettyprint (0.2.1)
@@ -289,6 +286,9 @@ GEM
       logger (~> 1.4)
       rubyzip (>= 1.2.2, < 4.0)
       websocket (~> 1.0)
+    sqlite3 (2.10.0-arm64-darwin)
+    sqlite3 (2.10.0-x86_64-darwin)
+    sqlite3 (2.10.0-x86_64-linux-gnu)
     thor (1.5.0)
     timeout (0.6.1)
     tsort (0.2.0)
@@ -331,12 +331,12 @@ DEPENDENCIES
   json (~> 2.10)
   mini_magick
   minitest (~> 5.25)
-  pg (~> 1.5)
   propshaft
   pry
   puma (>= 6.0)
   rails (~> 8.1.0)
   selenium-webdriver
+  sqlite3 (>= 2.1)
   tzinfo-data
   web-console
 
