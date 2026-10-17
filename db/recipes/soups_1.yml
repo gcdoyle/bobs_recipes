@@ -1,0 +1,393 @@
+# Recipes from "soups, chowder, gumbo, stews stocks.txt", part 1. Alton
+# Brown's "Positively, Absolutely, Not Real Bouillabaisse" is the Bouillabaisse
+# already in from the seafood file.
+recipes:
+  - name: Cream of Asparagus Soup (Creme d'Asperges)
+    categories: [Soups]
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Asparagus, note: green }
+      - { qty: 1, ingredient: Onion, note: "large, chopped" }
+      - { qty: 3, measure: tbsp, ingredient: Unsalted butter, note: divided }
+      - { qty: 6, measure: cup, ingredient: Chicken broth, note: 5 to 6 cups }
+      - { qty: "1/2", measure: cup, ingredient: Creme fraiche, note: or heavy cream }
+      - { qty: "1/4", measure: tsp, ingredient: Lemon juice, note: "fresh, or to taste" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+    directions:
+      - Cut the tips from 12 asparagus, 1 1/2 inches from the top, and halve them lengthwise if thick; reserve for garnish. Cut the rest into 1/2-inch pieces.
+      - Cook the onion in 2 tablespoons butter in a 4-quart heavy pot over moderately low heat until softened. Add the asparagus pieces, season and cook 5 minutes, stirring. Add 5 cups broth and simmer, covered, until very tender, 15 to 20 minutes.
+      - Meanwhile, cook the reserved tips in boiling salted water until just tender, 3 to 4 minutes, and drain.
+      - Puree the soup in batches in a blender (careful with hot liquids) and return to the pan. Stir in the creme fraiche and thin with more broth as you like. Season, bring to a boil and whisk in the remaining tablespoon butter.
+      - Add the lemon juice and garnish with the asparagus tips.
+
+  - name: Chilled Asparagus Soup with Goat Cheese
+    categories: [Soups]
+    prep_time: 20
+    cooking_time: 40
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. "Springtime delicious!"
+      - "Inactive prep: 2 hours."
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Onion, note: diced }
+      - { qty: 2, measure: rib, ingredient: Celery, note: diced }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { ingredient: Kosher salt }
+      - { qty: 2, measure: bunch, ingredient: Asparagus, note: stems trimmed }
+      - { qty: 2, ingredient: Idaho potatoes, note: peeled and diced }
+      - { qty: 2, measure: qt, ingredient: Chicken stock, note: or vegetable stock }
+      - { qty: 4, measure: oz, ingredient: Goat cheese, note: "log, crumbled" }
+    directions:
+      - Coat a large saucepan with olive oil, add the onion, celery and garlic and bring to medium heat. Season with salt and sweat until very soft and aromatic, 8 to 10 minutes.
+      - Reserve the asparagus tips. Cut the stalks into 1-inch lengths and sweat 2 to 3 minutes. Add the potatoes and stock and season (it will need salt). Bring to a boil and simmer 20 minutes.
+      - Boil the tips in well-salted water 2 to 3 minutes, plunge into salted ice water, drain and pat dry.
+      - Puree the soup, strain if you like, adjust the seasoning and chill. Garnish with the tips and goat cheese.
+
+  - name: Beef Mushroom Barley Soup
+    categories: [Soups, Beef]
+    servings: 6
+    description:
+      - From Food Network Kitchens. Serves 6 to 8. The barley keeps absorbing broth, so thin with water when reheating.
+    ingredients:
+      - { qty: 7, measure: tsp, ingredient: Canola oil, note: "2 tablespoons plus 1 teaspoon, divided" }
+      - { qty: "1 1/2", measure: lb, ingredient: Beef, note: "shin on the bone, 1 1/4 to 1 1/2 pounds, trimmed" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, ingredient: Carrot, note: diced }
+      - { qty: "1/2", ingredient: Onion, note: diced }
+      - { qty: 1, measure: stalk, ingredient: Celery, note: diced }
+      - { qty: 6, measure: cup, ingredient: Water }
+      - { qty: "1/2", measure: tsp, ingredient: Dried thyme }
+      - { qty: "1/3", measure: cup, ingredient: Pearl barley, note: rinsed }
+      - { qty: 1, measure: cup, ingredient: Tomato, note: "canned, chopped" }
+      - { qty: 1, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: "3/4", measure: lb, ingredient: Mushroom, note: "medium button, brushed, trimmed and quartered" }
+      - { qty: 3, measure: tbsp, ingredient: Parsley, note: "flat-leaf, minced" }
+    directions:
+      - Heat a large soup pot over medium-high heat with 2 tablespoons oil. Season the meat generously and sear well on all sides, about 15 minutes. Set aside and wipe out the pot.
+      - Lower to medium, add the remaining oil and saute the carrot, onion and celery until tender, about 10 minutes. Return the meat with the water, bring to a boil, then simmer gently, covered, 1 1/2 hours, until just tender.
+      - Add the thyme, barley and tomato and simmer, covered, 45 minutes.
+      - Meanwhile, saute the mushrooms in the butter over medium-high heat until golden, about 10 minutes. Season and add to the soup; simmer 15 minutes more.
+      - Remove the meat, cut it off the bone and dice. Skim the fat, return the meat with the parsley and season.
+
+  - name: Rich Beef Barley Soup
+    categories: [Soups, Beef]
+    description:
+      - Recipe from Barefoot Contessa, 2010. Serve with or without the oxtails.
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Olive oil, note: good }
+      - { qty: 2, measure: lb, ingredient: Oxtail, note: beef }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: cup, ingredient: Leek, note: "chopped, white and light green parts (2 leeks)" }
+      - { qty: 2, measure: cup, ingredient: Carrot, note: "1/2-inch diced (4 carrots)" }
+      - { qty: 1, measure: cup, ingredient: Yellow onion, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Celery, note: "1/2-inch diced (2 stalks)" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: 10, measure: cup, ingredient: Beef broth, note: canned }
+      - { qty: 1, measure: cup, ingredient: Pearl barley }
+    directions:
+      - Heat the olive oil in a large pot or Dutch oven. Cook the oxtails with 1 teaspoon salt and 1/2 teaspoon pepper over medium-high heat, stirring occasionally, 10 minutes, until browned. Remove and reserve.
+      - Cook the leeks, carrots, onion, celery and garlic in the fat over medium heat 10 minutes, until they start to brown.
+      - Tie the thyme with string and add with the bay leaves, the oxtails, broth, 1 teaspoon salt and 1 teaspoon pepper. Bring to a boil, then cover and simmer 1 hour. Discard the herbs and skim the fat.
+      - Meanwhile, simmer the barley uncovered in 4 cups boiling water 30 minutes and drain.
+      - Add the barley and cook 15 to 20 minutes more, until tender. Season with more salt and pepper if needed and serve hot.
+
+  - name: Cuban Garlic Bread
+    categories: [Breads, Cuban]
+    description:
+      - Bob's garlic bread for soup. Watch it carefully under the broiler - it burns very easily.
+    ingredients:
+      - { ingredient: Bread, note: "Cuban bread, sliced lengthwise" }
+      - { ingredient: Butter, note: or Smart Balance }
+      - { ingredient: Garlic powder }
+      - { ingredient: Parsley }
+      - { ingredient: Black pepper }
+      - { ingredient: Parmesan }
+    directions:
+      - Slather the bread liberally with butter and sprinkle with garlic powder, parsley, black pepper and Parmesan.
+      - Broil until brown and the cheese bubbles.
+
+  - name: Bob's Beef Barley Mushroom Vegetable Soup
+    categories: [Soups, Beef]
+    description:
+      - '"Started making beef veg soup the other day and for once wrote down stuff as I went along." The dried mushrooms make a big difference over boxed button or portobello. Dried shiitake can be chewy - discard the stems and slice the caps thinly. Better the next day, but the barley keeps absorbing liquid, so add water or beef broth when reheating.'
+      - The directions also use flour, Worcestershire and thyme, which aren't in the ingredient list.
+      - Serve with grilled ham and cheese with a pickle, or Cuban Garlic Bread (its own recipe).
+    ingredients:
+      - { qty: "1 1/2", measure: lb, ingredient: Beef short ribs, note: or meaty soup bones }
+      - { qty: 1, measure: lb, ingredient: Beef stew meat }
+      - { qty: 3, measure: tbsp, ingredient: Olive oil, note: about }
+      - { qty: 2, measure: can, ingredient: Beef broth, note: 14-ounce }
+      - { qty: 1, measure: can, ingredient: Stewed tomatoes, note: 14-ounce }
+      - { qty: 28, measure: oz, ingredient: Water, note: 2 broth cans }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, ingredient: Onion, note: "large, chopped" }
+      - { qty: 3, measure: rib, ingredient: Celery, note: "2 to 3, chopped" }
+      - { qty: "1 1/2", measure: cup, ingredient: Dried porcini, note: "as much as you like, soaked in 1 1/2 cups warm water, chopped, liquid reserved (or a box of sliced portobellos)" }
+      - { ingredient: Flour, note: for the roux }
+      - { qty: "2/3", measure: cup, ingredient: Red wine }
+      - { qty: 2, measure: tbsp, ingredient: Beef base, note: or bouillon cubes }
+      - { qty: 2, ingredient: Bay leaf }
+      - { ingredient: Worcestershire sauce }
+      - { ingredient: Dried thyme }
+      - { qty: "3/4", measure: tsp, ingredient: Dried basil }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1/2", measure: cup, ingredient: Pearl barley }
+      - { qty: "1/2", measure: can, ingredient: Black-eyed pea, note: 14-ounce can }
+      - { qty: "1/2", measure: can, ingredient: Baby lima beans, note: 14-ounce can }
+      - { qty: "1/2", measure: cup, ingredient: Ketchup }
+      - { qty: 1, measure: tbsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1 1/2", measure: cup, ingredient: Mixed vegetables, note: frozen }
+      - { qty: "3/4", measure: cup, ingredient: Okra, note: "frozen, cut" }
+      - { qty: 1, ingredient: Russet potatoes, note: "large, small dice" }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: chopped }
+    directions:
+      - Heat the olive oil in a stockpot and brown the ribs; remove. Dice the stew meat into small bite-size pieces, brown and remove.
+      - Sweat the onion, then add the celery and garlic to soften without browning. Stir in flour to make a roux and cook a minute or so.
+      - Add the wine, broth, tomatoes, water, bay leaves, Worcestershire, thyme and beef base and simmer over medium-low about 30 minutes.
+      - Add the mushrooms and their soaking liquid, basil, cayenne, black-eyed peas, lima beans, ketchup, pepper and barley. Simmer about 1 hour.
+      - Add the mixed vegetables, okra, parsley and potato and simmer until done. Adjust the seasoning.
+
+  - name: Navy Bean Soup
+    categories: [Soups, Beans]
+    servings: 8
+    description:
+      - From Food Network Kitchens. For a smoother soup, puree all the beans.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Navy beans, note: "picked over, rinsed and drained" }
+      - { qty: 10, measure: sprig, ingredient: Parsley }
+      - { qty: 2, measure: sprig, ingredient: Thyme, note: "fresh, or rosemary" }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: 2, ingredient: Ham hock, note: "large smoked, about 1 1/2 pounds" }
+      - { qty: 1, ingredient: Onion, note: "medium, coarsely chopped" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: coarsely chopped }
+      - { qty: 8, measure: cup, ingredient: Water, note: cold }
+      - { qty: 1, ingredient: Carrot, note: "medium, coarsely chopped" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Butter, note: for garnish }
+    directions:
+      - Cover the beans with cold water by about 2 inches in a large saucepan, bring to a boil and simmer 5 minutes. Cover off the heat and let sit 1 hour. Drain. Tie the parsley, thyme and bay leaf with twine.
+      - Combine the beans, herb bundle, hocks, onion, garlic and water (the carrot goes in here too) in a large soup pot. Bring to a boil, cover and simmer gently until the beans and hocks are completely tender, about 1 1/2 hours.
+      - Remove the hocks and cool slightly. Cube the meat, discarding bones, fat and skin. Discard the herb bundle.
+      - Puree about 3 cups of the beans with some liquid and stir back in with the meat. Heat through and season.
+      - Serve in heated bowls with a small pat of butter on top.
+
+  - name: Red Bean Soup
+    categories: [Soups, Beans, Cajun]
+    servings: 8
+    description:
+      - Recipe courtesy Emeril Lagasse.
+    ingredients:
+      - { qty: 6, measure: oz, ingredient: Andouille sausage, note: "or smoked sausage or smoked ham, small dice" }
+      - { qty: 2, measure: tsp, ingredient: Vegetable oil }
+      - { qty: "3/4", measure: cup, ingredient: Yellow onion, note: chopped }
+      - { qty: 6, measure: tbsp, ingredient: Celery, note: chopped }
+      - { qty: 6, measure: tbsp, ingredient: Green bell pepper, note: chopped }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: "1/4", measure: tsp, ingredient: Salt }
+      - { qty: "1/8", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 1, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 3, measure: can, ingredient: Red beans, note: "16-ounce, cooked, with juices" }
+      - { qty: 3, measure: cup, ingredient: Chicken stock, note: "or low-sodium broth, plus more as needed" }
+      - { qty: 1, measure: cup, ingredient: Cooked rice, note: "long-grain white, for garnish" }
+      - { qty: 2, measure: tbsp, ingredient: Green onion, note: "chopped, for garnish" }
+    directions:
+      - Brown the sausage in a Dutch oven over medium heat until the fat renders, about 5 minutes. Drain on paper towels.
+      - Add the oil to the fat over medium-high heat and cook the onions, celery, peppers, bay leaf, salt and cayenne until soft, about 4 minutes. Add the garlic for 30 seconds.
+      - Add the beans and juices, sausage and stock, bring to a boil and simmer uncovered, stirring occasionally, until thick and slightly reduced, about 30 minutes, adding stock if it gets too thick.
+      - Discard the bay leaf; puree with an immersion blender if you like. Serve topped with 1 to 2 tablespoons rice and the scallions.
+
+  - name: Borscht
+    categories: [Soups]
+    prep_time: 30
+    cooking_time: 70
+    servings: 4
+    description:
+      - From Food Network Kitchens. About 1 1/4 cups per serving. Also delicious chilled.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Beet root, note: "1 bunch red beets, tops trimmed, scrubbed" }
+      - { qty: 1, ingredient: Red onion, note: "small, peeled, cut into eighths (about 4 ounces)" }
+      - { qty: 2, ingredient: Carrot, note: "medium, halved crosswise (about 5 ounces)" }
+      - { qty: 1, measure: rib, ingredient: Celery, note: halved crosswise }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: smashed and peeled }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: 2, measure: tsp, ingredient: Kosher salt, note: divided }
+      - { qty: 1, measure: sprig, ingredient: Rosemary }
+      - { qty: 3, measure: cup, ingredient: Chicken broth, note: homemade or low-sodium canned }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: cup, ingredient: Buttermilk, note: light }
+      - { qty: 2, measure: dash, ingredient: Worcestershire sauce, note: less than 1/4 teaspoon }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Dill, note: "fresh, chopped" }
+    directions:
+      - Preheat the oven to 450 degrees F. Put the vegetables and garlic on heavy-duty foil, drizzle with oil, season with 1/2 teaspoon salt and add the rosemary. Seal tightly and roast in a roasting pan until the beets are easily pierced, 1 to 1 1/2 hours.
+      - When cool enough to handle, slip the skins off the beets, scraping any stubborn bits with a paring knife.
+      - Puree half the vegetables with half the broth, transfer to a saucepan and repeat. Stir in the remaining salt and pepper and simmer over medium heat about 10 minutes.
+      - Off the heat, stir in the buttermilk and Worcestershire. Garnish with dill.
+
+  - name: Broccoli and Cheese Soup with Croutons
+    categories: [Soups]
+    description:
+      - Recipe courtesy Emeril Lagasse. The croutons use Emeril's Essence Creole Seasoning (its own recipe).
+    ingredients:
+      - { qty: 5, measure: tbsp, ingredient: Unsalted butter, note: "3 tablespoons, plus 2 tablespoons cold, cut into pieces" }
+      - { qty: 1, measure: cup, ingredient: Yellow onion, note: "or sliced leeks (white parts only, well rinsed)" }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: White pepper, note: freshly ground }
+      - { qty: 1, measure: pinch, ingredient: Nutmeg }
+      - { qty: "1/2", measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: "1/2", measure: tsp, ingredient: Thyme, note: "fresh leaves, chopped" }
+      - { qty: 3, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: 3, measure: cup, ingredient: Chicken stock, note: or low-sodium broth }
+      - { qty: 16, measure: oz, ingredient: Broccoli, note: "frozen, thawed and separated" }
+      - { qty: "1/2", measure: cup, ingredient: Heavy cream }
+      - { qty: "1 1/4", measure: cup, ingredient: Cheddar, note: "medium, shredded" }
+      - { qty: 1, measure: cup, ingredient: Bread, note: "French, 1/2- to 3/4-inch cubes, for the croutons" }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: "extra-virgin, for the croutons" }
+      - { qty: "1/4", measure: tsp, ingredient: Creole seasoning, note: "Emeril's Essence, for the croutons" }
+    directions:
+      - "Croutons: preheat the oven to 400 degrees F. Toss the bread with the oil and Essence, spread on a small baking sheet and bake, stirring twice, until light golden, about 6 minutes. Cool slightly."
+      - Melt the 3 tablespoons butter in a medium pot over medium-high heat. Cook the onions with the salt, pepper and nutmeg until soft, 3 minutes. Add the garlic and thyme for 20 seconds.
+      - Add the flour and cook, stirring, 2 minutes. Slowly whisk in the stock and bring to a boil, then simmer until thickened, about 5 minutes. Add the broccoli and cook until tender, 10 minutes.
+      - Puree with an immersion blender (or in batches in a blender).
+      - Add the cream and bring to a bare simmer. Stir in the cheese over low heat until melted, then the cold butter. Serve sprinkled with croutons.
+
+  - name: Calamari Stew with Garlic Toast
+    categories: [Soups, Stews, Seafood]
+    prep_time: 5
+    cooking_time: 15
+    servings: 6
+    description:
+      - Recipe courtesy Giada De Laurentiis. The garlic toast directions aren't in the file.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: cut in half }
+      - { qty: "1 3/4", measure: cup, ingredient: Tomato sauce }
+      - { qty: 1, measure: cup, ingredient: White wine }
+      - { qty: 1, measure: tsp, ingredient: Thyme, note: "fresh leaves, chopped" }
+      - { qty: 1, measure: tsp, ingredient: Red pepper flakes }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: lb, ingredient: Squid, note: "calamari, bodies thinly sliced, tentacles whole" }
+      - { qty: 6, measure: slice, ingredient: Bread, note: "4 to 6, for the garlic toast" }
+      - { ingredient: Olive oil, note: "for drizzling the toast" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: "2 to 3 whole, for the toast" }
+    directions:
+      - Warm the olive oil in a medium pot over medium heat and cook the halved garlic until fragrant, about 2 minutes. Remove the garlic.
+      - Add the tomato sauce, wine, thyme, red pepper flakes, salt and pepper and bring to a simmer.
+      - Stir in the calamari and cook until it returns to a simmer, about 2 minutes. Serve immediately with garlic toast.
+
+  - name: Court Bouillon
+    categories: [Stocks, Seafood]
+    description:
+      - Poaching liquid for seafood. Use right away, refrigerate, or freeze for several months.
+    ingredients:
+      - { qty: 2, measure: qt, ingredient: Water }
+      - { qty: 2, measure: cup, ingredient: White wine, note: dry }
+      - { qty: "1/4", measure: cup, ingredient: Lemon juice }
+      - { qty: "1 1/2", measure: cup, ingredient: Onion, note: small dice }
+      - { qty: "3/4", measure: cup, ingredient: Carrot, note: small dice }
+      - { qty: "3/4", measure: cup, ingredient: Celery, note: small dice }
+      - { qty: "1/2", measure: cup, ingredient: Leek, note: small dice }
+      - { qty: 1, measure: tbsp, ingredient: Black peppercorns, note: whole }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 3, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: "1/2", measure: bunch, ingredient: Parsley, note: stems }
+    directions:
+      - Bring everything to a boil in a 4-quart saucepan, then simmer 45 minutes. Strain.
+
+  - name: Poblano Chicken Chowder
+    categories: [Soups, Chowder, Poultry]
+    description:
+      - Recipe courtesy Paula Deen.
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Olive oil }
+      - { qty: 3, ingredient: Carrot, note: "large, 1/2-inch dice" }
+      - { qty: 2, ingredient: Onion, note: "large, 1/2-inch dice" }
+      - { qty: 5, measure: stalk, ingredient: Celery, note: 1/2-inch pieces }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: "minced (1/8 cup)" }
+      - { qty: 3, ingredient: Poblano pepper, note: "2 to 3 small, seeded, 1/2-inch dice" }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: White pepper }
+      - { qty: "1/4", measure: tsp, ingredient: Ground cumin, note: or more to taste }
+      - { qty: "1/4", measure: tsp, ingredient: Dried thyme, note: or more to taste }
+      - { qty: 1, measure: tbsp, ingredient: Chicken bouillon, note: granules }
+      - { qty: 3, measure: qt, ingredient: Chicken broth }
+      - { qty: "1/2", measure: bunch, ingredient: Cilantro, note: "fresh leaves, minced" }
+      - { qty: 3, measure: cup, ingredient: Chicken, note: "grilled, diced in large pieces" }
+      - { qty: 8, measure: tbsp, ingredient: Unsalted butter, note: 1 stick }
+      - { qty: 1, measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: "1/2", measure: tsp, ingredient: Hot sauce, note: or more to taste }
+      - { qty: 1, measure: cup, ingredient: Heavy cream }
+    directions:
+      - Heat the oil in a large stockpot over medium heat and saute the carrots, onions, celery, garlic, poblanos, salt, white pepper, cumin and thyme 7 to 8 minutes, until they begin to soften.
+      - Stir in the bouillon, add the broth and cilantro and cook 10 to 12 minutes, until the carrots are tender. Stir in the chicken and heat through.
+      - Shortly before it's done, melt the butter in a large skillet over medium heat, stir in the flour and cook 3 to 4 minutes without browning.
+      - Whisk in 1 cup of the hot liquid from the pot, then 2 more cups one at a time. Whisk the mixture into the pot and cook, stirring, 3 to 5 minutes, until it begins to thicken.
+      - Off the heat, stir in the hot sauce, then the cream, and serve.
+
+  - name: Basic Chicken Stock
+    categories: [Stocks]
+    description:
+      - Recipe courtesy Anne Burrell. Makes 6 quarts. Store in small containers (Chinese takeout pints and quarts are perfect) and freeze what you won't use soon.
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Chicken thigh, note: "thighs and legs, skins removed" }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Onion, note: "large, 1-inch dice" }
+      - { qty: 2, measure: rib, ingredient: Celery, note: 1-inch dice }
+      - { qty: 2, ingredient: Carrot, note: "peeled, 1-inch dice" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 10, measure: sprig, ingredient: Thyme }
+    directions:
+      - Preheat the oven to 425 degrees F. Lightly oil the chicken on a sheet pan and roast until golden, 35 to 45 minutes.
+      - Lightly coat a large deep stockpot with olive oil and cook the onions, celery, carrots and garlic over medium-high heat, stirring often, until soft and very aromatic, 8 to 10 minutes.
+      - Add the chicken, bay leaves and thyme and fill the pot with water. Bring to a boil over high heat, then simmer 2 1/2 to 3 hours, skimming the gray scum and fat and topping up the water as it evaporates.
+      - Strain, discarding the chicken and vegetables.
+
+  - name: Rich Chicken Stock
+    categories: [Stocks]
+    description:
+      - Recipe courtesy Bobby Flay. Makes about 6 cups.
+    ingredients:
+      - { qty: 4, measure: lb, ingredient: Chicken bone, note: chopped }
+      - { qty: 3, ingredient: Onion, note: "large Spanish, quartered, skin on" }
+      - { qty: "1/2", measure: head, ingredient: Celery, note: coarsely chopped }
+      - { qty: 2, ingredient: Carrot, note: "large, coarsely chopped" }
+      - { qty: 3, measure: tbsp, ingredient: Olive oil }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: "1/4", measure: cup, ingredient: Black peppercorns, note: whole }
+      - { qty: 1, measure: bunch, ingredient: Parsley, note: "small, flat-leaf, stems only" }
+      - { qty: 6, measure: sprig, ingredient: Thyme, note: fresh }
+    directions:
+      - Preheat the oven to 450 degrees F. Toss the bones, onions, celery and carrots with the oil in a large roasting pan, season lightly and roast until rich golden brown, 30 to 40 minutes.
+      - Transfer to a large stockpot with 12 cups cold water and the remaining ingredients. Bring to a boil over high heat, then simmer over medium 4 hours, skimming every 20 minutes.
+      - Strain into a clean pot and boil over high heat until reduced by half.
+
+  - name: Bob's Catfish and Kale Soup
+    categories: [Soups, Seafood]
+    description:
+      - Bob's idea, no amounts - "basically make a version of Kale Soup, then poach seasoned fillets on top at the end."
+    ingredients:
+      - { ingredient: Kale, note: chopped }
+      - { ingredient: Catfish, note: fillets }
+      - { ingredient: Garlic }
+      - { ingredient: Beans }
+      - { ingredient: Chicken broth }
+      - { ingredient: Diced tomatoes, note: or stewed }
+      - { ingredient: Old Bay seasoning, note: or Cajun seasoning }
+      - { ingredient: Andouille sausage, note: "or chorizo, optional" }
+      - { ingredient: Red pepper flakes }
+      - { ingredient: Potato, note: diced }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { ingredient: Bay leaf }
+    directions:
+      - Make a version of Kale Soup with the kale, garlic, beans, broth, tomatoes, sausage if using, red pepper, potato, bay leaf and seasoning.
+      - Season the catfish fillets and poach them on top of the soup at the end.
