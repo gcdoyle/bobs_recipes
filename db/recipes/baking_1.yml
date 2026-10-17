@@ -1,0 +1,310 @@
+# Recipes from "Baking,Breads,Doughs.txt", part 1.
+recipes:
+  - name: Applesauce Bread
+    categories: [Breads, Desserts]
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Butter, note: "1 stick, unsalted, softened" }
+      - { qty: "1/4", measure: cup, ingredient: Dark brown sugar }
+      - { qty: 2, measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: tsp, ingredient: Baking powder }
+      - { qty: 1, measure: tsp, ingredient: Baking soda }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: 1, measure: tsp, ingredient: Allspice }
+      - { qty: 1, measure: tsp, ingredient: Vanilla extract }
+      - { qty: 1, measure: cup, ingredient: Applesauce }
+      - { qty: 2, ingredient: Egg, note: large }
+      - { qty: 1, measure: cup, ingredient: Raisin }
+      - { qty: "1/2", measure: cup, ingredient: Walnut, note: chopped }
+    directions:
+      - Preheat the oven to 350 degrees F. Grease and flour an 8 by 4 by 3-inch loaf pan.
+      - Cream the butter and brown sugar. Add the remaining ingredients except the raisins and nuts and mix until blended, then stir in the raisins and nuts.
+      - Pour into the pan and bake 60 to 65 minutes.
+
+  - name: Apple Cake
+    categories: [Desserts]
+    ingredients:
+      - { ingredient: Butter, note: for greasing the pan }
+      - { qty: 2, measure: cup, ingredient: Sugar }
+      - { qty: 3, ingredient: Egg }
+      - { qty: "1 1/2", measure: cup, ingredient: Vegetable oil }
+      - { qty: "1/4", measure: cup, ingredient: Orange juice }
+      - { qty: 3, measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: tsp, ingredient: Baking soda }
+      - { qty: "1/4", measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: tbsp, ingredient: Cinnamon, note: ground }
+      - { qty: 1, measure: tbsp, ingredient: Vanilla extract }
+      - { qty: 3, measure: cup, ingredient: Apple, note: peeled and finely chopped }
+      - { qty: 1, measure: cup, ingredient: Coconut, note: shredded }
+      - { qty: 1, measure: cup, ingredient: Pecans, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Butter, note: "1 stick, for the sauce" }
+      - { qty: 1, measure: cup, ingredient: Sugar, note: for the sauce }
+      - { qty: "1/2", measure: cup, ingredient: Buttermilk, note: for the sauce }
+      - { qty: "1/2", measure: tsp, ingredient: Baking soda, note: for the sauce }
+    directions:
+      - Preheat the oven to 325 degrees F and generously grease a tube pan.
+      - In a large bowl mix the sugar, eggs, oil, orange juice, flour, baking soda, salt, cinnamon and vanilla well. Fold in the apples, coconut and pecans.
+      - Pour into the pan and bake until a tester comes out clean, about 1 1/2 hours.
+      - Shortly before the cake is done, melt the butter in a large saucepan, stir in the sugar, buttermilk and baking soda and bring to a good rolling boil, stirring constantly. Boil 1 minute.
+      - Pour the sauce over the hot cake in the pan as soon as it comes out of the oven. Let stand 1 hour, then turn out onto a rack to cool completely.
+
+  - name: Barley Bread
+    categories: [Breads]
+    description:
+      - Recipe courtesy Alton Brown, 2006. Makes 8 to 10 slices. Baked in a Dutch oven on a gas grill.
+    ingredients:
+      - { qty: 10, measure: oz, ingredient: Barley flour, note: about 3 cups }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt }
+      - { qty: 1, measure: oz, ingredient: Baking powder, note: about 2 1/2 tablespoons }
+      - { qty: 2, measure: tbsp, ingredient: Honey }
+      - { qty: "1/4", measure: cup, ingredient: Canola oil, note: plus extra for the pan }
+      - { qty: 2, ingredient: Egg }
+      - { qty: 1, measure: cup, ingredient: Milk, note: whole }
+    directions:
+      - Preheat a gas grill on low for at least 10 minutes. Lightly oil the sides and bottom of a 4 to 5-quart Dutch oven.
+      - Whisk together the flour, salt and baking powder. In another bowl whisk the honey, oil, eggs and milk, then stir into the dry ingredients until combined.
+      - Pour into the Dutch oven and set it, uncovered, on the grill. Close the grill lid and cook 35 to 40 minutes, until the bread reaches 190 degrees F inside.
+      - Cool in the pot at least 5 minutes, then turn out onto a rack.
+    notes:
+      - To bake in a regular oven, bake at 350 degrees F for 25 to 30 minutes, to an internal temperature of 190 degrees F.
+
+  - name: Beignets
+    categories: [Breads, Desserts]
+    description:
+      - Recipe courtesy Anne Burrell. Makes about 2 dozen. Serve hot!
+    ingredients:
+      - { qty: "3/4", measure: cup, ingredient: Water, note: lukewarm }
+      - { qty: 1, ingredient: Active dry yeast, note: .25-ounce packet }
+      - { qty: "1/2", measure: cup, ingredient: Sugar, note: plus 1 teaspoon }
+      - { qty: 4, measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: pinch, ingredient: Salt }
+      - { qty: 2, ingredient: Egg yolk }
+      - { qty: "1/2", measure: cup, ingredient: Evaporated milk }
+      - { qty: 3, measure: tbsp, ingredient: Butter, note: melted }
+      - { qty: 1, measure: tsp, ingredient: Vanilla extract }
+      - { qty: 6, measure: cup, ingredient: Peanut oil, note: "4 to 6 cups, or other neutral oil, for frying" }
+      - { ingredient: Powdered sugar, note: for dusting }
+    directions:
+      - Combine the water, yeast and 1 teaspoon sugar in a measuring cup and let sit until frothy.
+      - In a stand mixer bowl combine the flour, remaining sugar and salt. In another bowl whisk the yolks, evaporated milk, butter and vanilla, then whisk in the yeast mixture.
+      - Add the wet mixture to the dry and knead with the dough hook 5 minutes once combined. Cover and set in a warm place 2 hours, until doubled.
+      - Heat the oil to 350 degrees F in a wide, deep pot. Lightly knead the dough on a floured surface and cut into 2-inch squares.
+      - Fry in batches until puffy and golden, drain briefly on paper towels and immediately dust with powdered sugar.
+
+  - name: Alton Brown's Biscuits
+    categories: [Breads]
+    description:
+      - "Recipe courtesy Alton Brown. His grandmother Mae Skelton's advice: the recipe on a bag of White Lily self-rising flour is hard to beat, and a lot easier than the one her grandson dreamed up."
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Flour }
+      - { qty: 4, measure: tsp, ingredient: Baking powder }
+      - { qty: "1/4", measure: tsp, ingredient: Baking soda }
+      - { qty: "3/4", measure: tsp, ingredient: Salt }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 2, measure: tbsp, ingredient: Shortening }
+      - { qty: 1, measure: cup, ingredient: Buttermilk, note: chilled }
+    directions:
+      - Preheat the oven to 450 degrees.
+      - Combine the flour, baking powder, baking soda and salt. Rub in the butter and shortening with your fingertips until it looks like crumbs - the faster the better, so the fats don't melt.
+      - Make a well, pour in the buttermilk and stir just until the dough comes together. It will be very sticky.
+      - Turn onto a floured surface, dust with flour and gently fold over on itself 5 or 6 times. Press into a 1-inch thick round and cut with a 2-inch cutter, pushing straight down.
+      - Place on a baking sheet just touching. Reform the scraps, working them as little as possible, and cut more (second-pass biscuits won't be quite as light).
+      - Bake until tall and light gold on top, 15 to 20 minutes.
+
+  - name: Mario Batali's Basic Bread Dough
+    categories: [Breads]
+    description:
+      - Recipe courtesy Mario Batali. Makes 2 pieces of dough, ready for use.
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Water, note: warm }
+      - { qty: 3, measure: tsp, ingredient: Active dry yeast }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: tsp, ingredient: Sugar }
+      - { qty: 4, measure: cup, ingredient: High gluten flour }
+      - { qty: 4, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+    directions:
+      - Put the warm water in a warm mixing bowl, stir in the yeast to dissolve and let stand 3 minutes. Stir in the salt and sugar.
+      - Add the flour and oil and mix by hand until you can knead it without it sticking to your fingers, adding water if needed.
+      - Knead on a board, dusting occasionally with a teaspoon of flour, until firm and smooth, about 15 minutes.
+      - Put in a lightly oiled bowl, cover with a towel and let rise in a warm place until doubled, about 2 hours. Punch down and divide in 2.
+
+  - name: Very Basic Bread
+    categories: [Breads]
+    description:
+      - Starts with a pre-ferment made 8 to 12 hours ahead. Baked on an upside-down unglazed terra cotta dish.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Bread flour, note: "plus extra for shaping, divided" }
+      - { qty: 1, measure: tsp, ingredient: Instant yeast, note: "rapid rise, divided" }
+      - { qty: 2, measure: tsp, ingredient: Honey }
+      - { qty: 10, measure: oz, ingredient: Water, note: bottled or filtered }
+      - { qty: 2, measure: tsp, ingredient: Kosher salt }
+      - { qty: 2, measure: qt, ingredient: Water, note: hot }
+      - { ingredient: Vegetable oil, note: for greasing the rising container }
+      - { qty: 2, measure: tbsp, ingredient: Cornmeal }
+      - { qty: "1/3", measure: cup, ingredient: Water, note: for brushing }
+      - { qty: 1, measure: tbsp, ingredient: Cornstarch }
+    directions:
+      - Combine 5 ounces of the flour, 1/4 teaspoon of the yeast, the honey and the bottled water in a straight-sided container. Cover loosely and refrigerate 8 to 12 hours.
+      - Put the remaining 11 ounces flour, remaining yeast and the salt in a stand mixer bowl and add the pre-ferment. Knead with the dough hook on low 2 to 3 minutes, just until it comes together. Cover and rest 20 minutes.
+      - Knead on medium 5 to 10 minutes, until you can stretch a thin sheet that light passes through. It will be sticky but handleable.
+      - Pour half the hot water into a shallow pan on the bottom oven rack. Put the dough in an oiled straight-sided container on the rack above and let rise until doubled, 1 to 2 hours.
+      - Press the dough out with your knuckles and fold it in thirds like a wallet, twice. Cover and rest 10 minutes.
+      - Flatten again, fold in on itself, turn over and pinch the bottom so the top is smooth. Roll gently between your hands in a circular motion to shape a ball.
+      - Set on a peel or sheet pan sprinkled with cornmeal, cover and proof 1 hour, until a poke fills back in quickly.
+      - Put an unglazed terra cotta dish upside down in the oven and heat to 400 degrees F.
+      - Mix the 1/3 cup water and cornstarch and brush over the dough. Slash the top 1/3 to 1/2 inch deep in several places. Top up the hot water pan.
+      - Slide the bread onto the terra cotta and bake 50 to 60 minutes, to an internal temperature of 205 to 210 degrees F. Cool 30 minutes before slicing.
+
+  - name: Butter Flake Rolls
+    categories: [Breads]
+    servings: 12
+    description:
+      - Recipe courtesy Alton Brown, 2011. Makes 12, baked in a muffin tin.
+    ingredients:
+      - { ingredient: Cooking spray }
+      - { qty: 8, measure: oz, ingredient: Milk, note: "whole, warm (100 degrees F)" }
+      - { qty: "2 1/4", measure: oz, ingredient: Sugar, note: about 1/3 cup }
+      - { qty: 1, measure: tbsp, ingredient: Active dry yeast, note: plus 1 teaspoon }
+      - { qty: 15, measure: oz, ingredient: Flour, note: "all-purpose, plus extra for kneading" }
+      - { qty: 2, ingredient: Egg yolk }
+      - { qty: "2 1/2", measure: tsp, ingredient: Kosher salt }
+      - { qty: "2 1/2", measure: oz, ingredient: Butter, note: "unsalted, room temperature, divided" }
+    directions:
+      - Spray a 12-cup muffin tin.
+      - Combine the milk, sugar, yeast, flour, yolks and salt in a stand mixer with the paddle on low for 1 minute. Switch to the dough hook and rest the dough 10 to 15 minutes.
+      - Add 2 ounces of the butter and mix on low, then medium, until the dough pulls from the sides and passes the windowpane test, about 8 minutes.
+      - Shape into a large ball, return to the bowl, cover and let rise in a warm place until doubled, about 1 hour.
+      - Roll into a 12-inch square about 1/2 inch thick and brush with the remaining 1/2 ounce butter, melted.
+      - Cut into 12 (1-inch) strips, stack into 2 stacks of 6, lay the stacks on their sides and cut each into 6 (2-inch) pieces. Set each piece on its side in a muffin cup. Cover and let rise until doubled, 30 to 40 minutes.
+      - Preheat the oven to 400 degrees F. Bake until the rolls reach 200 degrees F inside, 8 to 10 minutes, rotating halfway. Cool 2 to 3 minutes in the tin before serving.
+
+  - name: Cuban-Style Bread
+    categories: [Breads, Cuban]
+    description:
+      - A professional chef's recipe that may be hard to reproduce at home. Palmetto leaves (or unbleached or colored shoe strings) make the seam on top.
+    ingredients:
+      - { qty: 1, measure: pt, ingredient: Water, note: ice }
+      - { qty: 1, measure: tbsp, ingredient: Salt }
+      - { qty: 1, measure: tbsp, ingredient: Sugar }
+      - { qty: 1, measure: oz, ingredient: Lard, note: or vegetable shortening }
+      - { qty: 1, measure: oz, ingredient: Active dry yeast, note: 4 packets }
+      - { qty: "1 1/2", measure: lb, ingredient: Flour, note: plus more if necessary }
+      - { ingredient: Vegetable oil, note: for coating }
+    directions:
+      - In a mixer with the dough hook combine the water, salt, sugar, shortening and yeast. Slowly add the flour to make a stiff, silky smooth dough.
+      - Put in a large oiled bowl, cover with a cloth and let double in a warm place.
+      - Pound and knead on a lightly floured surface until silky smooth, then return to the bowl and let double again.
+      - Sterilize the palmetto leaves or strings in boiling water.
+      - Portion into 10-ounce loaves. As each is formed, lay a leaf or string down its length and turn it over onto a baking sheet, leaf side down. Let rise 30 minutes.
+      - Preheat the oven to 400 degrees F and bake until golden brown, about 30 minutes.
+
+  - name: Pan Cubano (Cuban Bread)
+    categories: [Breads, Cuban]
+    description:
+      - From "Three Guys From Miami Cook Cuban." Makes 1 large wide loaf. Their rule is that Cuban bread has to have lard - don't substitute. In Tampa the seam is made with palmetto leaves; a knife cut works too.
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Active dry yeast }
+      - { qty: 2, measure: tsp, ingredient: Sugar }
+      - { qty: "1 1/4", measure: cup, ingredient: Water, note: "warm (110 degrees F), divided" }
+      - { qty: 2, measure: cup, ingredient: Bread flour }
+      - { qty: 2, measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 2, measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: cup, ingredient: Lard, note: melted }
+      - { qty: 2, measure: tbsp, ingredient: Water, note: "warm, for brushing" }
+      - { ingredient: Cornmeal, note: for the baking sheet }
+    directions:
+      - Dissolve the yeast and sugar in 1/4 cup of the warm water and let stand in a warm place until foamy and doubled, about 10 minutes. If it doesn't foam, the yeast is bad.
+      - Put the yeast mixture, the rest of the water and the salt in a stand mixer and blend on low with the dough hook.
+      - Sift the two flours together. Gradually add the flour and the melted lard a little at a time with the mixer running, until the dough is smooth and elastic and the hook barely cleans the bowl - about 3 1/4 cups of sifted flour. Too much flour makes dense bread. Save the rest for rolling.
+      - Knead on low 3 to 4 minutes, no more (or about 10 minutes by hand). The dough will be fairly sticky.
+      - Shape into a ball in a greased bowl, turn to coat, cover with a damp cloth and let rise in a warm place until doubled, 45 minutes to 1 hour.
+      - Roll out on a floured board to about 12 by 20 inches, flouring as needed. Roll up into a tight cylinder with slightly tapered ends and pinch the seam closed.
+      - Set diagonally, seam down, on a greased baking sheet sprinkled with cornmeal. Dust with flour, cover loosely with plastic and let rise to about 2 1/2 times its size, 45 minutes to 1 hour.
+      - Preheat the oven to 450 degrees F with a pan of water on the lowest rack. Cut a shallow seam down the top, leaving 2 inches uncut at each end.
+      - Brush with water and bake on the middle shelf, brushing again after 5 minutes, until light brown and crusty, 12 to 18 minutes total.
+
+  - name: Emeril's Basic Italian Bread
+    categories: [Breads]
+    description:
+      - Recipe courtesy Emeril Lagasse, 2003. Baked on a pizza stone, sprayed with water for a crisp crust.
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Water, note: lukewarm }
+      - { qty: "1 3/4", measure: oz, ingredient: Yeast, note: "cake yeast, about 1/3 cup" }
+      - { qty: "5 3/4", measure: cup, ingredient: Bread flour }
+      - { qty: 1, measure: tbsp, ingredient: Dark brown sugar }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, measure: tbsp, ingredient: Salt }
+      - { qty: 1, ingredient: Egg white, note: lightly beaten }
+      - { qty: 2, measure: tbsp, ingredient: Sesame seeds }
+      - { ingredient: Semolina, note: "flour, or cornmeal, for the peel" }
+      - { ingredient: Cooking spray }
+    directions:
+      - Put the water and yeast in an electric mixer bowl and let the yeast bloom about 5 minutes. With the dough hook, add the flour and sugar and mix on low until a dough starts to form.
+      - Drizzle in the oil and salt and beat on medium 8 to 10 minutes, until smooth, firm and elastic.
+      - Transfer to a lightly oiled bowl, spray the dough with cooking spray, wrap with plastic and proof in a warm place 1 1/2 hours, until doubled.
+      - Punch down, flatten with the heel of your hand and roll up tightly, sealing the seam after each roll, into an oval with tapered, rounded ends.
+      - Preheat the oven with a pizza stone (or inverted baking sheet) to 425 degrees F.
+      - Set the loaf on a peel dusted with semolina or cornmeal, cover loosely with a damp towel and proof 30 minutes, until doubled. Brush with egg white, sprinkle with sesame seeds and score 3 slashes 1/4 inch deep at a 45 degree angle.
+      - Spray generously with water and slide onto the stone. Bake 3 minutes, spray again, bake 3 minutes and spray a third time.
+      - Bake 45 minutes total, until it sounds hollow when whacked with a wooden spoon. Cool slightly before serving.
+
+  - name: Blueberry Cobbler
+    categories: [Desserts]
+    ingredients:
+      - { qty: "1 1/2", measure: cup, ingredient: Flour }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: 5, measure: tbsp, ingredient: Butter, note: "frozen, cubed" }
+      - { qty: "1/4", measure: cup, ingredient: Shortening, note: "frozen, cut into large chunks" }
+      - { qty: 5, measure: tbsp, ingredient: Water, note: ice }
+      - { qty: 4, measure: cup, ingredient: Blueberry }
+      - { qty: 4, measure: tbsp, ingredient: Butter, note: diced }
+      - { qty: 2, measure: cup, ingredient: Sugar, note: divided }
+    directions:
+      - Preheat the oven to 450 degrees and lightly grease an 8 by 8-inch pan.
+      - In a food processor quickly cut the butter and shortening into the flour and salt until the size of small peas. Dribble in the ice water, processing until it starts to come together. The pastry can be made ahead and refrigerated between sheets of waxed paper.
+      - Roll into a sheet about 20 by 12 and lay it in the pan, tucking into the corners and letting the extra hang over the sides.
+      - Spread the blueberries in the pan, dot with the diced butter and sprinkle with 1 1/2 cups sugar. Flip the overhang over the top; broken pieces can just go on top - it should look rustic. Sprinkle with the remaining sugar.
+      - Put in the oven, immediately reduce to 425 degrees and bake 45 minutes, until golden and the juices bubble up.
+
+  - name: Anita's Blueberry Cobbler
+    categories: [Desserts]
+    description:
+      - Recipe courtesy Robin Miller, 2007.
+    ingredients:
+      - { ingredient: Cooking spray }
+      - { qty: 16, measure: oz, ingredient: Blueberry, note: "1 bag (2 cups) frozen, kept frozen until used, plus more for garnish" }
+      - { qty: "1 1/2", measure: cup, ingredient: Sugar, note: divided }
+      - { qty: 1, measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: tsp, ingredient: Baking powder }
+      - { qty: "1/2", measure: cup, ingredient: Butter, note: "1 stick, unsalted, melted" }
+      - { qty: "3/4", measure: cup, ingredient: Milk, note: "regular, lowfat or skim" }
+      - { ingredient: Ice cream, note: optional }
+    directions:
+      - Preheat the oven to 350 degrees F and spray a 9 by 12-inch pan.
+      - Toss the blueberries with 1/2 cup of the sugar. Combine the remaining sugar, flour and baking powder.
+      - Beat the butter and milk until smooth, then gradually beat in the flour mixture.
+      - Pour the batter into the pan and scatter the blueberries over it, letting them sink in without mixing.
+      - Bake until golden, 35 to 45 minutes. Cool slightly and serve with ice cream and/or blueberries.
+
+  - name: Cherry Clafoutis
+    categories: [Desserts]
+    description:
+      - Recipe courtesy Anne Burrell. A cherry cobbler, baked in a 7 by 5-inch dish or 6 wide individual gratin dishes.
+    ingredients:
+      - { qty: "1/2", ingredient: Butter, note: "stick, melted, plus more for the dish" }
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: "all-purpose, plus more for the dish" }
+      - { qty: 1, measure: lb, ingredient: Cherry, note: "fresh, pitted and halved, or 1 box frozen" }
+      - { qty: "1/2", measure: cup, ingredient: Almond, note: "sliced, toasted" }
+      - { qty: "1/2", measure: cup, ingredient: Sugar }
+      - { qty: 1, measure: pinch, ingredient: Salt }
+      - { qty: 4, ingredient: Egg }
+      - { qty: 1, measure: cup, ingredient: Milk }
+      - { qty: 1, measure: tsp, ingredient: Vanilla extract }
+      - { qty: 1, ingredient: Lemon, note: zested }
+      - { ingredient: Powdered sugar }
+      - { ingredient: Ice cream, note: "or whipped cream, for garnish" }
+    directions:
+      - Preheat the oven to 325 degrees F and generously butter and flour the baking dish. Spread the cherries in an even layer.
+      - Pulse the almonds, sugar, flour and salt in a food processor until coarsely chopped.
+      - Whisk the eggs, milk, vanilla and lemon zest until smooth, then whisk in the melted butter and the flour mixture. Pour over the cherries.
+      - Bake 35 to 40 minutes, until set in the center and golden. Dust with powdered sugar and serve with ice cream, whipped cream or both.
