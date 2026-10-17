@@ -1,0 +1,559 @@
+# Recipes from "soups, chowder, gumbo, stews stocks.txt", part 2 (chowders,
+# crab soups, chili, fish soups). The cornmeal dumplings appear twice; once here.
+recipes:
+  - name: Easy Clam Chowder
+    categories: [Soups, Chowder, Seafood]
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 2, measure: slice, ingredient: Bacon, note: "thick-cut, chopped" }
+      - { qty: 1, ingredient: Onion, note: "medium, chopped" }
+      - { qty: 2, measure: rib, ingredient: Celery, note: "with greens, chopped" }
+      - { qty: 4, measure: sprig, ingredient: Thyme, note: fresh }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 2, measure: tsp, ingredient: Hot sauce }
+      - { qty: 2, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: pt, ingredient: Half-and-half }
+      - { qty: 2, measure: cup, ingredient: Chicken stock }
+      - { qty: 1, measure: cup, ingredient: Potato, note: "hash-brown-style raw shredded potatoes, from the dairy aisle" }
+      - { qty: 2, measure: can, ingredient: Clam, note: "whole baby clams with their juice" }
+    directions:
+      - Melt the butter in a medium pot over medium-high heat. Add the bacon, onion, celery and thyme, season with salt, pepper and hot sauce and cook 5 minutes. Add the flour and cook a minute more.
+      - Add the half-and-half and stock, bring to a bubble and stir in the potatoes. Return to a boil, then simmer 15 minutes, until the potatoes are cooked and the soup coats a spoon.
+      - Add the clams. Remove the thyme stems (the leaves will have fallen off), stir and adjust the seasoning.
+
+  - name: Emeril's New England Clam Chowder
+    categories: [Soups, Chowder, Seafood]
+    description:
+      - Recipe courtesy Emeril Lagasse. Mash some potatoes against the pot for a thicker broth.
+    ingredients:
+      - { qty: 8, measure: lb, ingredient: Clam, note: "small quahogs or large cherrystones, scrubbed and rinsed, open ones discarded" }
+      - { qty: 4, measure: slice, ingredient: Bacon, note: 1/2-inch pieces }
+      - { qty: 3, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: 2, measure: cup, ingredient: Yellow onion, note: finely chopped }
+      - { qty: 1, measure: cup, ingredient: Celery, note: finely chopped }
+      - { qty: "1 1/2", measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 6, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 3, measure: cup, ingredient: Potato, note: "peeled, 1/2-inch cubes (about 1 1/4 pounds)" }
+      - { qty: 2, measure: cup, ingredient: Heavy cream }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Salt }
+      - { qty: 6, measure: tbsp, ingredient: Unsalted butter, note: "cold, in 1 1/2-teaspoon pieces, for garnish" }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "leaves, minced" }
+      - { qty: "1/4", measure: cup, ingredient: Chives, note: "or green onions, finely chopped" }
+    directions:
+      - Bring 2 cups water to a boil in a large stockpot. Add the clams, cover and cook 5 minutes. Stir, cover and cook 5 to 10 minutes more, until most are open.
+      - Move the clams to a bowl and strain the broth twice through a fine sieve to remove the sand. You want about 6 cups; add water if needed. Shuck the clams and chop into 1/2-inch pieces.
+      - Cook the bacon in a large heavy pot until crisp; pour off all but 2 tablespoons fat. Add the butter, onions and celery and cook until soft, about 5 minutes. Add the garlic, thyme and bay leaves and cook until thoroughly wilted, about 3 minutes, without browning.
+      - Add the potatoes and clam broth, bring to a boil, then cover and simmer 20 to 30 minutes, until the potatoes are very tender and the broth thickens slightly.
+      - Off the heat, stir in the clams and cream and season. Let stand, covered, 1 hour.
+      - Reheat slowly over low heat without boiling. Serve garnished with a pat or two of butter, parsley and chives.
+
+  - name: Fall River Clam Chowder
+    categories: [Soups, Chowder, Seafood]
+    description:
+      - Recipe courtesy Emeril Lagasse.
+    ingredients:
+      - { qty: "1/2", measure: lb, ingredient: Bacon, note: medium dice }
+      - { qty: 1, measure: cup, ingredient: Leek, note: "chopped (about 1 pound)" }
+      - { qty: 1, measure: cup, ingredient: Yellow onion, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Celery, note: chopped }
+      - { qty: 1, ingredient: Carrot, note: "peeled and diced" }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: 1, measure: tbsp, ingredient: Thyme, note: "fresh, chopped" }
+      - { qty: "1/2", measure: cup, ingredient: Flour }
+      - { qty: 1, measure: lb, ingredient: Potato, note: "white, peeled and medium diced" }
+      - { qty: 4, measure: cup, ingredient: Clam juice }
+      - { qty: 2, measure: cup, ingredient: Heavy cream }
+      - { qty: 2, measure: lb, ingredient: Clam, note: "littleneck, shucked and chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: finely chopped }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+    directions:
+      - Render the bacon in a heavy stockpot over medium-high heat until crispy, about 8 minutes.
+      - Saute the leeks, onions, celery and carrots about 2 minutes, until they start to wilt. Season and add the bay leaves and thyme.
+      - Stir in the flour and cook 2 minutes. Add the potatoes and clam juice, bring to a boil, then simmer until the potatoes are fork-tender, about 12 minutes.
+      - Add the cream and bring to a simmer. Add the clams and simmer 2 minutes. Stir in the parsley, season and serve in shallow bowls.
+
+  - name: Anne Burrell's New England Clam Chowder
+    categories: [Soups, Chowder, Seafood]
+    servings: 4
+    ingredients:
+      - { qty: 48, ingredient: Clam, note: "4 dozen littleneck or cherrystone, scrubbed" }
+      - { qty: 4, measure: slice, ingredient: Bacon, note: "thick, cut into lardons" }
+      - { qty: 1, ingredient: Onion, note: "large, 1/4-inch dice" }
+      - { ingredient: Kosher salt }
+      - { qty: "1 1/2", measure: lb, ingredient: Yukon gold potatoes, note: 1/2-inch dice }
+      - { qty: 3, measure: tbsp, ingredient: Flour }
+      - { qty: "1 1/2", measure: cup, ingredient: Heavy cream }
+      - { qty: "1 1/2", measure: cup, ingredient: Milk, note: whole }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: bundle }
+      - { qty: 2, ingredient: Bay leaf }
+      - { measure: dash, ingredient: Hot sauce, note: "1 to 2 shakes, optional (recommended: Tabasco)" }
+      - { ingredient: Olive oil, note: extra-virgin }
+    directions:
+      - Cook the clams with 1 cup water in a large covered pot over high heat 6 to 7 minutes. Remove the open clams, cover and cook the rest 2 to 3 minutes more; discard any that don't open. Strain the liquid through a coffee-filter-lined strainer and reserve. Coarsely chop the clams.
+      - Drizzle a little olive oil into the pot, add the bacon and bring to medium heat. When it's brown and crispy, add the onions, season lightly and cook until very soft but uncolored, 7 to 8 minutes. Add the potatoes for 5 minutes.
+      - Stir in the flour, then gradually whisk in the clam juice until smooth. Whisk in the milk and cream and add the bay leaves and thyme. Season.
+      - Bring to a boil, then simmer until the potatoes are cooked through, 10 to 15 minutes. Stir in the clams, reseason and add hot sauce if you like.
+
+  - name: Quick Crab Stew
+    categories: [Soups, Stews, Seafood]
+    description:
+      - Serve right away, or cool and freeze in microwavable containers.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 1, ingredient: Onion, note: "small, chopped" }
+      - { qty: 1, measure: can, ingredient: Cream of potato soup, note: "10 3/4-ounce, condensed" }
+      - { qty: 1, measure: can, ingredient: Cream of celery soup, note: "10 3/4-ounce, condensed" }
+      - { qty: 1, measure: can, ingredient: Milk, note: 1 soup can }
+      - { qty: 1, measure: can, ingredient: Half-and-half, note: 1 soup can }
+      - { qty: 1, measure: lb, ingredient: Crab, note: "claw crabmeat, picked free of shell" }
+      - { qty: "1/4", measure: cup, ingredient: Sherry, note: dry }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Melt the butter in a large saucepan and saute the onion until translucent, 3 to 4 minutes.
+      - Add the soups, milk and half-and-half, then the crabmeat, and bring just to a boil. Add the sherry, season and serve.
+
+  - name: Wayne's Award Winning Maryland Crab Soup
+    categories: [Soups, Seafood]
+    description:
+      - Recipe courtesy Paula Deen.
+    ingredients:
+      - { qty: 4, measure: qt, ingredient: Water }
+      - { qty: 2, measure: tbsp, ingredient: Chicken bouillon, note: granules }
+      - { qty: 2, measure: tbsp, ingredient: Beef bouillon, note: granules }
+      - { qty: 2, measure: tbsp, ingredient: Old Bay seasoning, note: or more to taste }
+      - { qty: "1/4", measure: cup, ingredient: Worcestershire sauce }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 2, measure: tbsp, ingredient: Sugar }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 6, ingredient: Crab, note: "soup crabs (or 3 small live crabs), cleaned and rinsed" }
+      - { qty: 3, measure: cup, ingredient: Diced tomatoes, note: canned }
+      - { qty: 1, measure: tsp, ingredient: Hot sauce }
+      - { qty: "1 1/2", measure: cup, ingredient: Carrot, note: sliced }
+      - { qty: "1 1/2", measure: cup, ingredient: Celery, note: diced }
+      - { qty: "1 1/2", measure: cup, ingredient: Corn, note: "kernels, fresh or frozen" }
+      - { qty: "1 1/2", measure: cup, ingredient: Green bean, note: fresh or frozen }
+      - { qty: "1 1/2", measure: cup, ingredient: Lima beans, note: fresh or frozen }
+      - { qty: 1, measure: cup, ingredient: Cabbage, note: diced }
+      - { qty: 1, ingredient: Yellow onion, note: "medium, chopped" }
+      - { qty: 2, measure: cup, ingredient: Red potatoes, note: cubed }
+      - { qty: 1, measure: lb, ingredient: Crab, note: "lump crabmeat, picked free of shell" }
+      - { qty: 1, measure: lb, ingredient: Crab, note: "claw crabmeat, picked free of shell" }
+      - { ingredient: Parsley, note: "fresh, chopped, for garnish" }
+    directions:
+      - Bring the water to a boil in a stockpot. Stir in both bouillons, the seafood seasoning, Worcestershire, bay leaves and sugar until dissolved. Season with salt and pepper.
+      - Halve the whole crabs, add them and bring back to a boil. Remove them after 5 to 10 minutes and skim the froth.
+      - Stir in the tomatoes and hot sauce. Add the carrots, celery, corn, green beans, lima beans, cabbage and onion, bring to a low boil and cook 10 minutes.
+      - Add the potatoes and cook until tender. Add the crabmeat and cook 10 minutes. Season and garnish with parsley.
+
+  - name: Chili con Carne
+    categories: [Soups, Stews, Beef, Mexican]
+    servings: 8
+    description:
+      - From Food Network Kitchens. Avoid canned beef broth, which can taste tinny. Best made a day ahead and reheated.
+    ingredients:
+      - { qty: "2 1/2", measure: lb, ingredient: Beef chuck, note: 1-inch cubes }
+      - { qty: "2 1/2", measure: lb, ingredient: Pork shoulder, note: 1-inch cubes }
+      - { qty: 1, measure: tbsp, ingredient: Kosher salt, note: plus more to taste }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: 1/3 to 1/2 cup }
+      - { qty: 2, ingredient: Onion, note: "large Spanish, chopped" }
+      - { qty: 10, measure: clove, ingredient: Garlic, note: "large, minced" }
+      - { qty: "1/4", measure: cup, ingredient: Chili powder, note: New Mexico red chile powder }
+      - { qty: 2, measure: tbsp, ingredient: Ancho chili powder }
+      - { qty: 1, measure: tbsp, ingredient: Ground cumin }
+      - { qty: 2, measure: tsp, ingredient: Oregano, note: "crushed, preferably Mexican" }
+      - { qty: 6, measure: cup, ingredient: Beef broth, note: "or chicken broth, homemade or low-sodium canned" }
+      - { qty: 2, measure: can, ingredient: Pinto beans, note: "15 1/2-ounce, drained and rinsed" }
+      - { ingredient: Long grain rice, note: "white, for serving" }
+      - { ingredient: Sour cream, note: for serving }
+      - { ingredient: Cilantro, note: "chopped, for serving" }
+      - { ingredient: Cheddar, note: "shredded, for serving" }
+      - { ingredient: Jalapeno, note: "minced fresh or sliced pickled, for serving" }
+    directions:
+      - Pat the meat dry and season with the salt and pepper. Heat 2 tablespoons oil in a large stew pot over medium-high heat and sear the meat in small batches until well browned, adding oil as needed. Set aside.
+      - Discard all but 2 tablespoons oil. Saute the onions over medium heat 10 minutes, scraping up the browned bits. Add the garlic for 2 minutes, then the chili powders, cumin and oregano for 2 minutes.
+      - Whisk in 5 cups of the broth, add the meat and juices and bring to a gentle simmer. Season, and stew with the lid ajar until almost tender, about 3 hours.
+      - Puree half the beans with the remaining broth and add with the whole beans. Simmer 1 hour more, until the meat is tender. Season and serve with rice and the condiments.
+
+  - name: Chili con Queso
+    categories: [Sauces, Mexican, Hors d'Oeuvres]
+    description:
+      - Recipe courtesy Emeril Lagasse, 2002. Serve with chips, or swirled into his Chili con Carne.
+    ingredients:
+      - { qty: "1/2", measure: lb, ingredient: Poblano pepper, note: "fresh, or Anaheim chiles" }
+      - { qty: 2, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: 1, measure: cup, ingredient: White onion, note: chopped }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 2, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: 1, ingredient: Tomato, note: "large, peeled, seeded and diced" }
+      - { qty: 1, measure: cup, ingredient: Milk, note: or cream }
+      - { qty: "1 1/2", measure: cup, ingredient: Cheddar, note: grated }
+      - { qty: 1, measure: cup, ingredient: Pepper Jack, note: grated }
+    directions:
+      - Char the peppers over a gas flame (or under the broiler or on a grill), turning often, 7 to 10 minutes. Let rest in a bag about 15 minutes, then peel, seed and roughly chop.
+      - Heat the oil in a large pot over medium heat and cook the onions and cayenne until very soft, about 6 minutes. Stir in the flour 1 to 2 minutes.
+      - Add the tomatoes and chiles for 1 minute, then slowly stir in the milk until thick, 3 to 4 minutes. Stir in the cheeses until melted and adjust the seasoning.
+
+  - name: Emeril's Chili con Carne with Chili con Queso
+    categories: [Soups, Beef, Mexican]
+    servings: 6
+    description:
+      - Recipe courtesy Emeril Lagasse, 2002. Serves 6 to 8. Uses Emeril's Essence Creole Seasoning and Chili con Queso (their own recipes). Serve with multi-colored tortilla chips for dipping.
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Bacon fat, note: or vegetable oil }
+      - { qty: "1 1/2", measure: lb, ingredient: Ground beef }
+      - { qty: 2, measure: cup, ingredient: Yellow onion, note: chopped }
+      - { qty: 1, measure: cup, ingredient: Green bell pepper, note: chopped }
+      - { qty: 4, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: tbsp, ingredient: Chili powder }
+      - { qty: 1, measure: tbsp, ingredient: Creole seasoning, note: Emeril's Essence }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: 2, measure: tsp, ingredient: Ground cumin }
+      - { qty: 1, measure: tsp, ingredient: Oregano, note: dried Mexican }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 1, measure: can, ingredient: Tomato, note: "15-ounce whole peeled" }
+      - { qty: 3, measure: tbsp, ingredient: Tomato paste }
+      - { qty: 1, measure: tsp, ingredient: Sugar }
+      - { qty: 2, measure: cup, ingredient: Water }
+      - { ingredient: Chili con Queso }
+      - { ingredient: Tortilla chips, note: for serving }
+    directions:
+      - Heat the fat in a large heavy pot over medium-high heat. Brown the beef, breaking it up, about 5 minutes.
+      - Add the onion, bell pepper, garlic, chili powder, Essence, salt, cumin, oregano and cayenne and cook until soft, about 4 minutes.
+      - Squeeze the tomatoes into pieces by hand and add with their juices, the tomato paste, sugar and water. Bring to a boil, then simmer uncovered over medium-low 30 minutes, stirring so it doesn't stick.
+      - Ladle into a large bowl, swirl the Chili con Queso into the middle and serve immediately with chips.
+
+  - name: Chile con Carne (Diana Barrios)
+    categories: [Mexican, Beef]
+    description:
+      - Recipe courtesy Diana Barrios. Enough for 12 enchiladas. Serve in bowls with cheese, onions and hot flour tortillas or crackers, or over enchiladas or tamales, or stir into chile con queso.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Ground beef }
+      - { ingredient: Salt, note: to taste }
+      - { ingredient: Black pepper, note: to taste }
+      - { qty: 1, measure: tsp, ingredient: Garlic powder }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: 1, measure: cup, ingredient: Water }
+      - { qty: 2, measure: tbsp, ingredient: Chili powder, note: 1/8 cup }
+      - { ingredient: Pinto beans, note: "cooked, optional" }
+    directions:
+      - Brown the beef with the salt, pepper, garlic powder, cumin and bay leaf, cooking it in its own juices and adding a little water if it dries out.
+      - Add the chile powder, then the water, and simmer a short while. Add cooked pinto beans now if you like.
+
+  - name: Bob's Chili
+    categories: [Soups, Beef]
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Ground beef }
+      - { qty: 3, ingredient: Onion, note: medium }
+      - { qty: 3, measure: clove, ingredient: Garlic }
+      - { qty: 1, ingredient: Green bell pepper, note: chopped }
+      - { qty: 4, measure: cup, ingredient: Tomato, note: "whole, canned (1 large plus 1 small can)" }
+      - { qty: 6, measure: tbsp, ingredient: Chili powder, note: "4 to 6, to taste" }
+      - { qty: "1/2", measure: cup, ingredient: Water }
+      - { qty: 1, measure: tbsp, ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { ingredient: Sugar }
+      - { qty: 2, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: "1/2", measure: cup, ingredient: White wine }
+      - { qty: 1, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 4, measure: cup, ingredient: Kidney beans, note: red }
+    directions:
+      - Brown the beef with the onions, garlic and green pepper until the onions are transparent.
+      - Add the tomatoes, chili powder, water, salt, pepper, sugar, Worcestershire, wine, thyme and bay leaves and simmer 1 hour.
+      - Add the beans and cook uncovered 1 hour.
+
+  - name: Bob's Seafood Chowder
+    categories: [Soups, Chowder, Seafood]
+    description:
+      - Seafood to taste - Bob usually adds about 1 cup canned chopped clams and raw shrimp in bite-size pieces; lobster tail or crab would work too.
+    ingredients:
+      - { qty: 4, ingredient: Leek, note: "3 or 4, white part only, thinly sliced" }
+      - { qty: 1, measure: cup, ingredient: Onion, note: "Spanish, thinly sliced" }
+      - { qty: 2, ingredient: Carrot, note: roughly grated }
+      - { qty: "1 1/2", measure: cup, ingredient: Celery, note: thinly sliced }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: finely diced }
+      - { qty: 8, measure: sprig, ingredient: Thyme, note: "6 to 8, fresh, tied with string" }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: "1/3", measure: cup, ingredient: Parsley, note: "fresh, chopped" }
+      - { qty: 1, measure: bunch, ingredient: Green onion, note: chopped }
+      - { qty: "1/3", measure: cup, ingredient: Salt pork, note: "about, small dice" }
+      - { qty: 2, measure: slice, ingredient: Bacon, note: cut in small squares }
+      - { qty: 5, ingredient: Russet potatoes, note: "4 or 5 Idaho, 3/4-inch dice" }
+      - { qty: 2, measure: tbsp, ingredient: Black pepper, note: "freshly ground, or to taste" }
+      - { qty: 3, measure: tbsp, ingredient: Butter }
+      - { qty: 49, measure: oz, ingredient: Chicken broth, note: 1 can Swanson }
+      - { qty: 2, measure: cup, ingredient: Heavy cream }
+      - { qty: 2, measure: tbsp, ingredient: Flour, note: Wondra works well }
+      - { qty: 1, measure: cup, ingredient: Clam, note: "canned chopped clams (seafood to taste)" }
+      - { ingredient: Shrimp, note: "raw, bite-size pieces" }
+      - { ingredient: Potato flakes, note: "instant mashed, to thicken if needed" }
+    directions:
+      - Brown the bacon in a stockpot until crisp and set aside. Brown the salt pork until it starts to color and set aside with the bacon.
+      - Add the butter, leeks, onions, celery, carrots and flour and cook until they start to soften. Add the garlic, thyme and bay leaves and cook until wilted, not browned.
+      - Add the broth, pepper, the bacon and salt pork, and the potatoes. Bring to a soft boil, then simmer until the potatoes are soft.
+      - Add the cream, parsley, green onions and seafood and simmer 2 to 3 minutes, until the seafood is just cooked - do NOT overcook.
+      - To thicken, stir in instant mashed potato flakes a few tablespoons at a time. CAREFUL - they take a minute to absorb, and too much turns it to glue.
+
+  - name: Mediterranean Fish Soup
+    categories: [Soups, Seafood]
+    prep_time: 25
+    cooking_time: 70
+    servings: 6
+    description:
+      - Recipe courtesy Emeril Lagasse, 2005. 6 main-course servings, with 12 garlic-rubbed croutons.
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Olive oil }
+      - { qty: 1, ingredient: Onion, note: "large, thinly sliced" }
+      - { qty: 2, measure: rib, ingredient: Celery, note: "medium, cut thinly on the diagonal" }
+      - { qty: 8, measure: clove, ingredient: Garlic, note: peeled and smashed }
+      - { qty: "1/3", measure: cup, ingredient: White wine }
+      - { qty: 2, measure: tbsp, ingredient: Tomato paste }
+      - { qty: 3, measure: pinch, ingredient: Saffron, note: threads }
+      - { qty: 8, measure: cup, ingredient: Fish stock, note: "or shrimp stock, or a combination" }
+      - { qty: "1/4", measure: tsp, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 1, ingredient: Orange, note: "juiced, plus 2 (3-inch) strips of zest" }
+      - { qty: 2, ingredient: Fennel, note: "bulbs, 1/3-inch crosswise slices (about 3 cups)" }
+      - { qty: "3/4", measure: cup, ingredient: Tomato, note: "fresh, peeled, seeded and chopped" }
+      - { qty: "1 1/2", measure: tsp, ingredient: Kosher salt, note: plus more for the fish }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1 1/2", measure: lb, ingredient: White fish, note: "firm fillets such as halibut, snapper, grouper or cod" }
+      - { qty: 1, measure: lb, ingredient: Shrimp, note: peeled and deveined }
+      - { qty: 1, measure: tbsp, ingredient: Parsley, note: "fresh leaves, chopped" }
+      - { qty: 12, measure: slice, ingredient: Bread, note: "crusty French, 1/2 inch thick, for the croutons" }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: "extra-virgin, for the croutons" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: "large, halved, for the croutons" }
+    directions:
+      - Heat the oil in a 6-quart pot over low heat and cook the onion, celery and garlic until tender, 6 to 8 minutes.
+      - Add the wine, tomato paste, saffron, stock, red pepper, orange juice and zest. Simmer uncovered about 45 minutes, until reduced by about a third.
+      - Add the fennel and tomatoes and cook until the fennel is tender, about 20 minutes. Season.
+      - Season the fish and cut into 1 1/2-inch chunks. Add with the shrimp and parsley and cook, stirring only once or twice, until the fish is cooked through, about 5 minutes.
+      - "Croutons: preheat the oven to 350 degrees F. Brush the bread with the olive oil, season and bake until golden and crisp, about 10 minutes. Rub each with the cut garlic while warm. Serve the soup in shallow bowls with the croutons."
+
+  - name: Lure's Fish Soup
+    categories: [Soups, Seafood]
+    prep_time: 60
+    cooking_time: 40
+    servings: 6
+    description:
+      - Recipe courtesy Lure. A starter for 6, or scale up for an entree with warm crusty bread. Balance sweet, salty and heat, remembering the shellfish add salt at the end.
+    ingredients:
+      - { qty: 4, ingredient: Lobster, note: "fresh whole, meat saved for garnish" }
+      - { qty: 2, ingredient: Carrot, note: "1 for the stock, 1 for the soup" }
+      - { qty: 2, measure: rib, ingredient: Celery, note: "1 for the stock, 1 for the soup" }
+      - { qty: "1 1/2", ingredient: Fennel, note: "1/2 bulb for the stock, 1 head for the soup" }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: plus a little more for the soup }
+      - { qty: 2, measure: tbsp, ingredient: Tomato paste }
+      - { qty: 1, measure: cup, ingredient: Vermouth }
+      - { qty: 2, measure: qt, ingredient: Water }
+      - { qty: 2, ingredient: Parsnip }
+      - { qty: 4, measure: clove, ingredient: Garlic }
+      - { qty: 1, ingredient: White onion }
+      - { qty: 1, ingredient: Orange, note: zested and juiced }
+      - { qty: 1, measure: pinch, ingredient: Saffron, note: small }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 1, measure: cup, ingredient: Tomato, note: "fresh, chopped" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 18, ingredient: Clam, note: littleneck }
+      - { qty: 4, measure: oz, ingredient: White fish, note: "cod, halibut, monkfish or swordfish, or a mix" }
+      - { qty: 18, ingredient: Mussel }
+      - { qty: 6, ingredient: Shrimp, note: cut into 4 }
+      - { ingredient: Olive oil, note: "extra-virgin, for serving" }
+      - { ingredient: Sea salt, note: for serving }
+      - { ingredient: Bread, note: "crusty, for serving" }
+    directions:
+      - "Lobster stock: steam the lobsters in a few inches of boiling water 5 to 6 minutes, until bright pink and just cooked. Split the bodies. Chop the stock vegetables into 1- to 2-inch pieces."
+      - Heat the oil until very hot in a deep pot and saute the lobster bodies until caramelized golden brown. Add the vegetables and cook, stirring, 5 to 6 minutes, until soft. Remove the meat and set aside; return the shells.
+      - Stir in the tomato paste, carefully add the vermouth and cook until almost gone. Add the water and simmer about 45 minutes. Strain, keeping 6 cups of stock.
+      - "Fish soup: dice the soup vegetables small and chop the garlic. Cook slowly in a little olive oil over low heat 10 to 15 minutes, until soft but uncolored."
+      - Add the orange juice and zest, saffron and red pepper and cook until the juice is almost gone. Add the tomatoes and cook until half their liquid is gone. Add the stock and simmer 20 to 30 minutes. Season.
+      - About 7 minutes before serving, add the clams and simmer 2 minutes. Add the fish for 2 minutes, then the shrimp and mussels until all the shellfish open, about 3 minutes. Add the lobster meat at the last moment to warm.
+      - Serve drizzled with extra-virgin olive oil and sprinkled with sea salt, with crusty bread.
+
+  - name: The Ultimate Seafood Soup
+    categories: [Soups, Seafood]
+    servings: 6
+    description:
+      - Recipe courtesy Tyler Florence. Non-oily fish such as snapper, halibut, grouper or monkfish can replace the sea bass. His rouille is mayonnaise-based, unlike Alton Brown's Rouille.
+    ingredients:
+      - { qty: 2, ingredient: Crab, note: blue crabs }
+      - { qty: "1 1/2", measure: lb, ingredient: Shrimp, note: "jumbo, peeled and deveined, shells reserved" }
+      - { qty: 1, ingredient: Lemon, note: halved and juiced }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 1, ingredient: Fennel, note: "small bulb, halved" }
+      - { qty: 1, ingredient: Orange, note: zest peeled in big strips }
+      - { qty: 1, measure: cup, ingredient: Parsley, note: "fresh flat-leaf, chopped, plus more for garnish" }
+      - { qty: 6, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 2, ingredient: Tomato, note: "medium, coarsely chopped" }
+      - { qty: "1/2", measure: head, ingredient: Garlic }
+      - { qty: 1, ingredient: Leek, note: halved }
+      - { qty: "1/2", ingredient: Onion }
+      - { qty: 5, measure: cup, ingredient: Water, note: cold }
+      - { qty: 2, measure: cup, ingredient: White wine, note: dry }
+      - { ingredient: Sea salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper, note: "a pinch for the stock" }
+      - { qty: 4, ingredient: Lobster, note: claws }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, measure: pinch, ingredient: Saffron, note: threads }
+      - { qty: 2, ingredient: Lobster, note: tails }
+      - { qty: 4, measure: lb, ingredient: White fish, note: "black sea bass, bones reserved" }
+      - { qty: 1, ingredient: Red bell pepper, note: "roasted, peeled, seeded and coarsely chopped, for the rouille" }
+      - { qty: 5, measure: clove, ingredient: Garlic, note: for the rouille }
+      - { qty: 1, measure: cup, ingredient: Mayonnaise, note: for the rouille }
+      - { qty: 1, measure: pinch, ingredient: Saffron, note: "threads, for the rouille" }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper, note: for the rouille }
+      - { qty: "1/2", ingredient: Lemon, note: "juiced, for the rouille" }
+      - { qty: 18, measure: slice, ingredient: Baguette, note: "1/2 inch thick, for the croutons" }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: "extra-virgin, for the croutons" }
+    directions:
+      - "Fish stock: hack up the crabs and put them in a big stockpot with the shrimp shells and fish bones. Add the lemon and juice, bay leaves, fennel, orange zest, parsley and thyme. Squeeze in the tomatoes and add the garlic, leek, onion, water and wine. Season with salt, pepper and a pinch of cayenne."
+      - Simmer gently over medium heat 30 minutes, stirring occasionally; don't let it boil. Skim the foam.
+      - Put the lobster claws in a large cast-iron serving pot and strain the stock over them. Turn up the heat and simmer 5 minutes. Add a splash of olive oil and the saffron, then the shrimp and lobster tails for 3 minutes, then large bite-size pieces of sea bass for 3 minutes.
+      - "Rouille: pulse the red pepper, garlic, mayonnaise, saffron, cayenne and lemon juice in a food processor until smooth and season."
+      - "Croutons: preheat the oven to 400 degrees F. Brush the baguette slices lightly with olive oil and bake until crisp, about 10 minutes."
+      - Put pieces of seafood in each bowl, spoon rouille onto croutons and ladle the soup over.
+
+  - name: Caribbean Conch Chowder
+    categories: [Soups, Chowder, Seafood, Caribbean]
+    description:
+      - Recipe courtesy Emeril Lagasse, 2004. The file says to serve it with Caribbean Conch Fritters ("recipe follows"), which aren't included.
+    ingredients:
+      - { qty: 3, measure: slice, ingredient: Bacon, note: diced }
+      - { qty: 4, ingredient: Allspice, note: whole berries }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 1, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: "1 1/2", measure: cup, ingredient: Yellow onion, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Celery, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Carrot, note: chopped }
+      - { qty: "1/2", measure: cup, ingredient: Green bell pepper, note: chopped }
+      - { qty: 1, ingredient: Scotch bonnet, note: "or habanero, stemmed, seeded and minced, or to taste" }
+      - { qty: 2, measure: tsp, ingredient: Garlic, note: "fresh, chopped" }
+      - { qty: 4, measure: cup, ingredient: Tomato, note: "fresh, seeded and chopped, with juices" }
+      - { qty: 6, measure: cup, ingredient: Clam juice, note: or shellfish stock }
+      - { qty: "1 1/2", measure: lb, ingredient: Red potatoes, note: "new potatoes, quartered" }
+      - { qty: 2, measure: lb, ingredient: Conch, note: "cleaned, diced" }
+      - { qty: 2, measure: tbsp, ingredient: Lime juice, note: fresh }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "leaves, chopped" }
+    directions:
+      - Cook the bacon in a large pot over medium heat until browned and rendered, about 5 minutes. Remove with a slotted spoon.
+      - Tie the allspice, bay leaves and thyme in a 6-inch square of cheesecloth to make a bouquet garni.
+      - Cook the onions, celery, carrots and bell peppers in the fat over medium-high heat until soft, about 4 minutes. Add the hot pepper and garlic for 30 seconds, then the tomatoes for 2 minutes.
+      - Add the stock and potatoes and bring to a boil. Add the bouquet garni and simmer, stirring occasionally, 25 minutes.
+      - Add the conch and cook until tender, about 20 minutes. Off the heat, discard the bouquet garni, stir in the lime juice and parsley and adjust the seasoning.
+
+  - name: Bob's Conch Chowder
+    categories: [Soups, Chowder, Seafood, Caribbean]
+    description:
+      - "Pick your amounts and your heat - cayenne, Pickapeppa red hot sauce, Cajun seasoning, or (good) medium or hot picante sauce. Variations: add corn, or boil some tripe, discard the water, boil again, dice small and add with the conch."
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Shrimp, note: "shelled and cut bite-size, shells reserved for stock" }
+      - { ingredient: Carrot, note: "1 broken up for the stock, plus 3 shredded" }
+      - { ingredient: Celery, note: "1 rib for the stock, plus 3 or 4 thinly sliced" }
+      - { ingredient: Onion, note: "1/2 for the stock (with the brown peels from the others), plus 2 diced" }
+      - { qty: 2, measure: tbsp, ingredient: Old Bay seasoning, note: "1 for the stock, 1 for the chowder" }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: about }
+      - { qty: 1, measure: tsp, ingredient: Bacon fat }
+      - { qty: 3, measure: oz, ingredient: Salt pork, note: "about, diced" }
+      - { qty: "2/3", measure: cup, ingredient: Green bell pepper, note: "1/2 to 2/3 cup, diced" }
+      - { qty: 6, measure: clove, ingredient: Garlic, note: "about, minced" }
+      - { qty: 1, measure: tbsp, ingredient: Flour, note: or so }
+      - { qty: 1, measure: can, ingredient: Stewed tomatoes, note: 14-ounce }
+      - { ingredient: Tomato sauce, note: 1/2 to 2/3 can }
+      - { qty: "2/3", measure: cup, ingredient: White wine, note: 1/2 to 2/3 cup }
+      - { qty: 4, ingredient: Bay leaf }
+      - { qty: 1, measure: tbsp, ingredient: Dried thyme, note: "or preferably fresh sprigs" }
+      - { qty: 1, measure: tsp, ingredient: Dried basil }
+      - { qty: 2, measure: tsp, ingredient: Poultry seasoning }
+      - { qty: 1, measure: tbsp, ingredient: Paprika }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: 3, measure: can, ingredient: Chicken broth }
+      - { qty: 1, measure: cup, ingredient: Conch, note: "ground, or more" }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Kosher salt }
+      - { ingredient: Cayenne pepper, note: "or other heat, to taste" }
+      - { ingredient: Potato, note: "diced, your amount" }
+      - { ingredient: Butter, note: a pat }
+      - { ingredient: Potato flakes, note: "instant mashed, to thicken if needed" }
+      - { ingredient: Clam, note: "minced, with or without the juice" }
+      - { ingredient: Scallop, note: "bay scallops or crawfish meat, optional" }
+    directions:
+      - Simmer the shrimp shells in a saucepot of water with a broken-up carrot and celery rib, about 1/2 onion (and the onion peels) and 1 tablespoon Old Bay to make shrimp stock.
+      - Heat the olive oil and bacon fat in a stockpot and brown the salt pork. Add the diced onions, shredded carrots, celery and green pepper and sweat until the onions are translucent. Add the garlic with the flour and sweat a little longer.
+      - Add the stewed tomatoes, tomato sauce, wine, bay leaves, thyme, basil, Old Bay, poultry seasoning, paprika, Worcestershire, broth, conch, shrimp stock to taste, pepper, salt and your choice of heat. Simmer.
+      - Add the potatoes with a pat of butter and cook down as you like, thickening with instant potato flakes if needed.
+      - At the end, add the shrimp and minced clams (clam juice can stand in for the shrimp stock), plus bay scallops or crawfish if you like. Don't overcook the seafood.
+
+  - name: Bob's Fennel Seafood Chowder
+    categories: [Soups, Chowder, Seafood]
+    description:
+      - An untitled ingredient list in the file, near Bob's Conch Chowder; no directions.
+    ingredients:
+      - { qty: 1, ingredient: Fennel, note: bulb }
+      - { qty: 1, ingredient: Onion }
+      - { qty: "2/3", ingredient: Green bell pepper }
+      - { qty: 3, ingredient: Potato }
+      - { qty: 1, ingredient: Jalapeno }
+      - { qty: 1, ingredient: Chipotle in adobo }
+      - { qty: 2, ingredient: Carrot }
+      - { qty: 3, measure: rib, ingredient: Celery }
+      - { qty: 1, measure: cup, ingredient: Fish stock, note: shrimp stock }
+      - { qty: "1/2", measure: can, ingredient: Clam, note: "large can minced clams, with juice" }
+      - { qty: 4, measure: sprig, ingredient: Thyme }
+      - { qty: 6, measure: clove, ingredient: Garlic }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Old Bay seasoning }
+      - { qty: 1, measure: tbsp, ingredient: Poultry seasoning }
+      - { ingredient: Shrimp, note: cut bite-size }
+      - { ingredient: Squid, note: rings }
+      - { ingredient: Shrimp, note: rock shrimp }
+      - { qty: 2, measure: can, ingredient: Chicken stock }
+      - { qty: 1, measure: can, ingredient: Stewed tomatoes }
+      - { qty: 1, measure: can, ingredient: Tomato sauce, note: 8-ounce }
+      - { qty: "3/4", measure: cup, ingredient: White wine }
+      - { qty: "1/3", measure: cup, ingredient: Salt pork, note: diced }
+      - { qty: 2, measure: tbsp, ingredient: Bacon fat }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 2, measure: tbsp, ingredient: Flour }
+
+  - name: Cornmeal Dumplings for Soup
+    categories: [Soups]
+    description:
+      - For vegetable or chicken soup. Makes 8.
+    ingredients:
+      - { qty: "2/3", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: "1/3", measure: cup, ingredient: Cornmeal }
+      - { qty: "1 1/2", measure: tsp, ingredient: Sage, note: dried }
+      - { qty: "1 1/4", measure: tsp, ingredient: Baking powder }
+      - { qty: "1/2", measure: tsp, ingredient: Baking soda }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: cup, ingredient: Buttermilk }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+    directions:
+      - Combine the flour, cornmeal, sage, baking powder, baking soda, salt and pepper. Add the buttermilk and oil and stir with a fork until it comes together.
+      - Drop 8 golf-ball-size dumplings into the simmering soup with a spoon or small scoop. Cover and cook 5 minutes without lifting the lid, until puffed and cooked through.
+
+  - name: Key's Seafood Enchilada
+    categories: [Seafood, Cuban, Rice]
+    description:
+      - Bob's idea, no amounts - Daisy Martinez's Arroz con Pollo made with Cajun sausage, lobster and shrimp.
+    ingredients:
+      - { ingredient: Andouille sausage, note: Cajun sausage }
+      - { ingredient: Lobster }
+      - { ingredient: Shrimp }
+      - { ingredient: Diced tomatoes, note: or tomato sauce }
+      - { ingredient: Cayenne pepper, note: or peppers }
+      - { ingredient: Green onion }
+      - { ingredient: Parsley }
+      - { ingredient: Scallop, note: "bay scallops, maybe" }
+    directions:
+      - Make Daisy's Arroz con Pollo with Cajun sausage, lobster, shrimp, diced tomatoes or sauce, cayenne or peppers, green onion and parsley - maybe some bay scallops.
