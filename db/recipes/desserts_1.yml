@@ -70,7 +70,7 @@ recipes:
     categories: [Hors d'Oeuvres, Seafood, Cajun]
     servings: 40
     description:
-      - Recipe courtesy Emeril Lagasse, 2005. Makes 40 boulettes. The file calls for Emeril's Bayou Blast and Creole Tartar Sauce ("recipe follows"), but neither recipe is included.
+      - Recipe courtesy Emeril Lagasse, 2005. Makes 40 boulettes. Bayou Blast is another name for Emeril's Essence.
     ingredients:
       - { qty: "1/2", measure: cup, ingredient: Onion, note: chopped }
       - { qty: "1/4", measure: cup, ingredient: Bell pepper, note: chopped }
@@ -85,9 +85,9 @@ recipes:
       - { qty: "1/8", measure: tsp, ingredient: Black pepper, note: freshly ground }
       - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
       - { qty: "1 1/2", measure: cup, ingredient: Bread crumbs, note: fine dried }
-      - { qty: 1, measure: tbsp, ingredient: Creole seasoning, note: "Emeril's Bayou Blast, plus more for seasoning" }
+      - { qty: 1, measure: tbsp, ingredient: Emeril's Essence Creole Seasoning, note: "Bayou Blast, plus more for seasoning" }
       - { ingredient: Shortening, note: "solid vegetable, or vegetable oil, for deep-frying" }
-      - { ingredient: Tartar sauce, note: "Creole, for serving" }
+      - { ingredient: Creole Tartar Sauce, note: for serving }
     directions:
       - In a food processor pulse the onions, peppers, celery, garlic, crawfish, bread and egg a few times to chop finely. Do not puree.
       - Transfer to a bowl, stir in the green onions and parsley and season with the salt, pepper and cayenne.
