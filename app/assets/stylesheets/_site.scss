@@ -1,0 +1,190 @@
+// Public site styles, layered on top of Bootstrap.
+
+.card-title {
+  background-color: $brand-lavender;
+}
+
+.card-body {
+  border: solid #ccc 1px;
+  border-radius: 7px;
+  overflow: hidden;
+}
+
+.card-img-bottom {
+  height: 240px;
+  max-height: 240px;
+  max-width: 100%;
+  min-width: 100%;
+  width: 100%;
+}
+
+#search-results img {
+  border: solid #ccc 1px;
+}
+
+// Site header: a Bootstrap navbar that folds into a menu button below md.
+.site-header {
+  background-color: $brand-navy;
+  border-bottom: 14px solid $brand-periwinkle;
+}
+
+.site-nav {
+  padding-top: 0.6rem;
+  padding-bottom: 0.6rem;
+
+  .navbar-collapse {
+    gap: 0.5rem 1.25rem;
+  }
+}
+
+.site-nav__brand {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 600;
+
+  &:hover,
+  &:focus { color: white; }
+}
+
+.site-nav__links,
+.site-nav__account {
+  gap: 0.25rem;
+}
+
+.site-nav__link {
+  color: $brand-mist;
+  text-decoration: none;
+  padding: 0.3rem 0.65rem;
+  border-radius: 6px;
+  font-size: 1.05rem;
+
+  &:hover,
+  &:focus-visible {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.12);
+  }
+
+  &.is-active {
+    color: $brand-navy;
+    background-color: white;
+  }
+}
+
+.site-nav__button {
+  background: none;
+  border: 0;
+}
+
+.site-nav__search {
+  flex: 1 1 14rem;
+  max-width: 22rem;
+}
+
+@include media-breakpoint-down(md) {
+  .site-nav .navbar-collapse { padding-top: 0.75rem; }
+  .site-nav__search { max-width: none; margin: 0.5rem 0; }
+}
+
+@include media-breakpoint-up(md) {
+  .site-nav__account { margin-left: auto; }
+}
+
+.site-main { margin-bottom: 84px; }
+
+// Breadcrumbs
+.breadcrumbs ol {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 1rem 0 0.25rem;
+  font-size: 0.95rem;
+  color: $muted;
+}
+
+.breadcrumbs li + li::before {
+  content: "\203A";
+  padding: 0 0.5rem;
+  color: #999;
+}
+
+.breadcrumbs a { color: $brand-navy; }
+
+// "Filed under" category chips on a recipe
+.filed-under {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+  margin-bottom: 1rem;
+  color: $muted;
+
+  a {
+    background-color: $brand-mist;
+    color: $brand-navy;
+    border-radius: 999px;
+    padding: 0.1rem 0.7rem;
+    text-decoration: none;
+    font-size: 0.9rem;
+
+    &:hover { background-color: $brand-mist-dark; }
+  }
+}
+
+// A-Z jump bar for long lists
+.letter-bar {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15rem;
+  padding: 0.5rem 0;
+  background-color: white;
+  border-bottom: 1px solid $hairline;
+
+  a,
+  span {
+    min-width: 1.8rem;
+    text-align: center;
+    padding: 0.15rem 0.3rem;
+    border-radius: 4px;
+  }
+
+  a {
+    color: $brand-navy;
+    font-weight: 600;
+    text-decoration: none;
+
+    &:hover { background-color: $brand-mist; }
+  }
+
+  span { color: #ccc; }
+}
+
+.letter-heading {
+  scroll-margin-top: 3.5rem;
+  border-bottom: 2px solid $brand-lavender;
+  margin-top: 1.5rem;
+  padding-bottom: 0.25rem;
+}
+
+.ingredient-columns {
+  columns: 16rem;
+  column-gap: 2rem;
+}
+
+// An ingredient that is its own recipe (a sauce, dough, seasoning...)
+.sub-recipe-link {
+  color: $brand-navy;
+  font-weight: 600;
+  text-decoration: underline dotted;
+  text-underline-offset: 3px;
+
+  &::after {
+    content: " \2192"; // arrow: opens another recipe
+    font-weight: normal;
+  }
+
+  &:hover { text-decoration-style: solid; }
+}

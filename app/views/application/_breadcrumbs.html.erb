@@ -1,0 +1,12 @@
+<%# crumbs: [[label, path], ...]; the last one is the current page and isn't linked. %>
+<nav aria-label="Breadcrumb" class="breadcrumbs">
+  <ol>
+    <% crumbs.each_with_index do |(label, path), i| %>
+      <% if i == crumbs.size - 1 %>
+        <li aria-current="page"><%= label %></li>
+      <% else %>
+        <li><%= link_to label, path %></li>
+      <% end %>
+    <% end %>
+  </ol>
+</nav>

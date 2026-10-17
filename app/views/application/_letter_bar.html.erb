@@ -1,0 +1,10 @@
+<%# letters: the letters that have entries; the rest are shown greyed out. %>
+<nav aria-label="Jump to letter" class="letter-bar">
+  <% (["#"] + ("A".."Z").to_a).each do |letter| %>
+    <% if letters.include?(letter) %>
+      <a href="#letter-<%= letter == "#" ? "num" : letter %>"><%= letter %></a>
+    <% elsif letter != "#" %>
+      <span aria-hidden="true"><%= letter %></span>
+    <% end %>
+  <% end %>
+</nav>

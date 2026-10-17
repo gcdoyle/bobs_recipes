@@ -1,0 +1,10 @@
+#!/usr/bin/env sh
+
+# Check for foreman with `command -v` rather than `gem list`, which loads every
+# installed RDoc's RubyGems plugin and prints "already initialized constant" warnings.
+if ! command -v foreman >/dev/null 2>&1; then
+  echo "Installing foreman..."
+  gem install foreman
+fi
+
+exec foreman start -f Procfile.dev "$@"
