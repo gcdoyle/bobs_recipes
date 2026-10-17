@@ -1,18 +1,25 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Recipes</title>
+    <title><%= content_for?(:title) ? "#{yield(:title)} - CookBook 2.0" : "CookBook 2.0" %></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
 
-    <%= stylesheet_link_tag "bootstrap.min", "recipes" %>
+    <%= stylesheet_link_tag "application" %>
+    <%= javascript_importmap_tags %>
   </head>
 
   <body>
     <%= render "navigation" %>
-    <%= render "search" %>
-    <div class="container" style="margin-bottom:84px;">
+    <main class="container site-main">
+      <% if notice.present? %>
+        <p class="alert alert-info mt-3" id="notice"><%= notice %></p>
+      <% end %>
+      <% if alert.present? %>
+        <p class="alert alert-warning mt-3"><%= alert %></p>
+      <% end %>
       <%= yield %>
-    </div>
+    </main>
   </body>
 </html>

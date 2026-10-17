@@ -14,6 +14,19 @@ class AdminTest < ActionDispatch::IntegrationTest
     assert_redirected_to root_url
   end
 
+  test "signed-in users get account links in the public header" do
+    sign_in users(:cook)
+    get root_path
+    assert_select "nav.site-nav button", text: "Sign out"
+    assert_select "nav.site-nav a", text: "Admin", count: 0
+
+    sign_in users(:admin)
+    get root_path
+    assert_select "nav.site-nav a", text: "Admin"
+    assert_select "nav.site-nav a", text: "Import"
+    assert_select "nav.site-nav button", text: "Sign out"
+  end
+
   test "admin pages load" do
     sign_in users(:admin)
     get admin_recipes_path

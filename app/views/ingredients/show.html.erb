@@ -1,4 +1,6 @@
-<p id="notice"><%= notice %></p>
+<% content_for :title, @ingredient.name %>
+
+<%= render "breadcrumbs", crumbs: [["Ingredients", ingredients_path], [@ingredient.name, nil]] %>
 
 <h1><%= @ingredient.name %></h1>
 
@@ -13,6 +15,6 @@
       <li><%= link_to recipe.name, recipe %></li>
     <% end %>
   </ul>
+<% else %>
+  <p class="text-muted">Not used in any recipe yet.</p>
 <% end %>
-
-<%= link_to 'Back', ingredients_path %>

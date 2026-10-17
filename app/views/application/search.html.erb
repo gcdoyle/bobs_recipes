@@ -1,7 +1,9 @@
+<% content_for :title, "Search" %>
 <div class="container" id="search-results">
 	<div class="row">
 		<div class="col">
-			<p class="mt-4">Searching for: <small><%= params[:q] %></small></p>
+			<h1 class="mt-4">Search</h1>
+			<p><%= pluralize(@recipes.load.size, "recipe") %> matching <strong><%= params[:q] %></strong></p>
 		</div>
 	</div>
 	<div class="row">

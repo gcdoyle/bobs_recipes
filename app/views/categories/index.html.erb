@@ -1,26 +1,21 @@
-  
-<p id="notice"><%= notice %></p>
+<% content_for :title, "Categories" %>
 
-<div class="container">
+<h1 class="mt-4">Categories</h1>
 
-  <div class="row mt-4">
-    <% @cards.each do |card| %>
-    <div class="col-4 card p-2" style="border: 0">
-    
-      <div class="card-body p-0">
-        <h4 class="card-title text-center p-2 mb-0">
-          <%= link_to card.keys.first.to_s, category_path(card.keys.first.to_s.parameterize), class: "stretched-link", style: "color: black" %>
-        </h4>
-        <p class="card-text">
-        <%# binding.pry %>
-        <% if card.values.first.image.attached? %>
-          <%= image_tag card.values.first.image.variant(resize_to_limit: [240, 240]), 
-                                          class: "card-img-bottom"
-                                          %>
-        <% end %>
-        </p>
-      </div>
+<div class="row mt-2">
+  <% @cards.each do |card| %>
+  <div class="col-12 col-sm-6 col-md-4 card p-2" style="border: 0">
+    <div class="card-body p-0">
+      <h4 class="card-title text-center p-2 mb-0">
+        <%= link_to card.keys.first.to_s, category_path(card.keys.first.to_s.parameterize), class: "stretched-link", style: "color: black" %>
+      </h4>
+      <p class="card-text">
+      <% if card.values.first.image.attached? %>
+        <%= image_tag card.values.first.image.variant(resize_to_limit: [240, 240]),
+                      class: "card-img-bottom", alt: "" %>
+      <% end %>
+      </p>
     </div>
-    <% end %>
   </div>
+  <% end %>
 </div>

@@ -1,22 +1,47 @@
-<div class="nav navbar nav-fill" style="background-color: #32396C">
-  <div class="container">
-  <!-- 
-    <div class="btn-group ms-2 dropdown nav-item">
-      <%# link_to "Recipes", recipes_path, style: "color:white;font-size:150%" %>
-    </div>
-  -->
-    <div class="btn-group ms-2 dropdown nav-item">
-      <%= link_to "CookBook 2.0", categories_path, style: "color:white;font-size:150%" %>
-    </div>
-    <div class="btn-group ms-2 dropdown nav-item">
-      <%= link_to "Admin", admin_recipes_url, style: "color:white;font-size:150%" %>
-    </div>
-    <% if current_user %>
-    <div class="btn-group ms-2 dropdown nav-item">
-    <%= button_to "Sign out", destroy_user_session_path, method: :delete %>
-    </div>
-    <% end %>
+<header class="site-header">
+  <nav class="navbar navbar-expand-md navbar-dark site-nav" aria-label="Main">
+    <div class="container">
+      <%= link_to "CookBook 2.0", root_path, class: "navbar-brand site-nav__brand" %>
 
-  </div>
-</div>
-<div style="background-color: #7E88C4; height:14px; width:100%;border-bottom: solid black 0px;"></div>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+              data-bs-target="#site-nav-menu" aria-controls="site-nav-menu"
+              aria-expanded="false" aria-label="Show menu">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="site-nav-menu">
+        <div class="navbar-nav site-nav__links">
+          <%= nav_link "Categories", root_path,
+                       active: controller_name == "categories" %>
+          <%= nav_link "All Recipes", recipes_path,
+                       active: controller_name == "recipes" %>
+          <%= nav_link "Ingredients", ingredients_path,
+                       active: controller_name == "ingredients" %>
+        </div>
+
+        <%# Signed out, the search box sits at the right edge; signed in, the
+            account links take that spot and search stays beside the main links. %>
+        <%= form_tag(search_path, method: :get, id: "search-block", role: "search",
+                     class: ["site-nav__search", ("ms-md-auto" unless current_user)].compact) do %>
+          <%= label_tag :q, "Search recipes", class: "visually-hidden" %>
+          <%= search_field_tag :q, params[:q], class: "form-control form-control-sm",
+                               placeholder: "Search recipes or ingredients" %>
+        <% end %>
+
+        <%# Account links only appear once signed in. To sign in, go to /admin,
+            which redirects to the sign-in page. %>
+        <% if current_user %>
+          <div class="navbar-nav site-nav__account">
+            <% if current_user.admin %>
+              <%= nav_link "Admin", admin_root_path, active: false %>
+              <%= nav_link "Import", recipe_imports_path,
+                           active: controller_name == "recipe_imports" %>
+            <% end %>
+            <%= button_to "Sign out", destroy_user_session_path, method: :delete,
+                          class: "site-nav__link site-nav__button", form: { class: "d-inline" } %>
+          </div>
+        <% end %>
+      </div>
+    </div>
+  </nav>
+</header>

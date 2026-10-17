@@ -4,6 +4,8 @@ ruby "~> 3.4.0"
 
 gem "rails", "~> 8.1.0"
 gem "propshaft"
+gem "dartsass-rails", "~> 0.5"   # compiles app/assets/stylesheets/application.scss
+gem "importmap-rails", "~> 2.2"  # public-site JavaScript (Bootstrap) without a bundler
 gem "pg", "~> 1.5"
 gem "puma", ">= 6.0"
 gem "jbuilder"

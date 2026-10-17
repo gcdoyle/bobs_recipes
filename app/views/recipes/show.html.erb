@@ -1,9 +1,25 @@
-<p id="notice"><%= notice %></p>
+<% content_for :title, @recipe.name %>
+<% categories = public_categories(@recipe.categories) %>
+<% from = categories.find { |c| c.slug == params[:from] } || categories.first %>
 
-<div class="container recipe">
+<%= render "breadcrumbs", crumbs: [
+      ["Categories", root_path],
+      (from ? [from.name, category_path(from)] : ["All Recipes", recipes_path]),
+      [@recipe.name, nil]
+    ] %>
+
+<div class="recipe">
   <h1><%= @recipe.name %></h1>
+  <% if categories.any? %>
+    <div class="filed-under">
+      <span>Filed under</span>
+      <% categories.each do |category| %>
+        <%= link_to category.name, category_path(category) %>
+      <% end %>
+    </div>
+  <% end %>
   <div class="row">
-    <div class="col col-4 text-center">
+    <div class="col-12 col-md-4 text-center">
       <%= image_tag @recipe.image.variant(resize_to_limit: [320, 320]) if @recipe.image.attached? %>
       <p>
         <%= [
@@ -13,25 +29,25 @@
         ].compact.join(" | ") %>
       </p>
     </div>
-    <div class="col-7">
+    <div class="col-12 col-md-8">
       <%= @recipe.description %>
     </div>
   </div>
 
   <div class="row mt-4">
-    <div class="col col-4">
+    <div class="col-12 col-md-4">
       <h2>Ingredients</h2>
       <ul class="list-unstyled">
-      <% @recipe.recipe_ingredients.includes(:ingredient).each do |ingredient| %>
+      <% @lines.each do |ingredient| %>
         <li>
           <%= "#{format_qty(ingredient.qty)} #{ingredient.measure}".strip %>
-          <%= ingredient.ingredient.url.present? ? link_to(ingredient.ingredient.name, ingredient.ingredient.url) : ingredient.ingredient.name %><%= ", #{ingredient.note}" if ingredient.note.present? %>
+          <%= ingredient_name_link(ingredient.ingredient, @sub_recipes) %><%= ", #{ingredient.note}" if ingredient.note.present? %>
         </li>
       <% end %>
       </ul>
     </div>
 
-    <div class="col col-8">
+    <div class="col-12 col-md-8">
       <h2>Directions</h2>
       <%= @recipe.directions %>
     </div>

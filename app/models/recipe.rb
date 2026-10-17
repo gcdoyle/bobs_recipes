@@ -45,6 +45,18 @@ class Recipe < ApplicationRecord
     name_changed? || slug.blank?
   end
     
+  # Recipes whose names match these ingredients (ignoring case), keyed by the
+  # lowercased name. A sub-recipe such as "Anne Burrell's Marinara Sauce" is
+  # also stored as an ingredient of the recipes that use it; this links the two.
+  def self.matching_ingredients(ingredients, except: nil)
+    names = ingredients.map { |i| i.name.downcase }.uniq
+    return {} if names.empty?
+
+    scope = where("lower(recipes.name) IN (?)", names)
+    scope = scope.where.not(id: except.id) if except
+    scope.index_by { |r| r.name.downcase }
+  end
+
   def self.search(q)
     return none if q.blank?
 

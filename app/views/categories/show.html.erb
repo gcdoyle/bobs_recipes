@@ -1,24 +1,24 @@
-<p id="notice"><%= notice %></p>
+<% content_for :title, @category.name %>
 
-<div class="container">
+<%= render "breadcrumbs", crumbs: [["Categories", root_path], [@category.name, nil]] %>
+
 <h1><%= @category.name %></h1>
-  <div class="row mt-4">
-    <% @recipes.each do |recipe| %>
-    <div class="col-4 card p-2" style="border: 0">
-    
-      <div class="card-body p-0">
-        <h4 class="card-title text-center p-2 mb-0">
-          <%= link_to recipe.name, recipe, class: "stretched-link", style: "color: black" %>
-        </h4>
-        <p class="card-text">
-         <% if recipe.image.attached? %>
-          <%= image_tag recipe.image.variant(resize_to_limit: [240, 240]), 
-                                          class: "card-img-bottom"
-                                          %>
-          <% end %>
-        </p>
-      </div>
+<p class="text-muted"><%= pluralize(@recipes.size, "recipe") %></p>
+
+<div class="row mt-2">
+  <% @recipes.each do |recipe| %>
+  <div class="col-12 col-sm-6 col-md-4 card p-2" style="border: 0">
+    <div class="card-body p-0">
+      <h4 class="card-title text-center p-2 mb-0">
+        <%= link_to recipe.name, recipe_path(recipe, from: @category.slug), class: "stretched-link", style: "color: black" %>
+      </h4>
+      <p class="card-text">
+       <% if recipe.image.attached? %>
+        <%= image_tag recipe.image.variant(resize_to_limit: [240, 240]),
+                      class: "card-img-bottom", alt: "" %>
+        <% end %>
+      </p>
     </div>
-    <% end %>
   </div>
+  <% end %>
 </div>

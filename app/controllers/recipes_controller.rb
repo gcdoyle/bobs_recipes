@@ -10,6 +10,8 @@ class RecipesController < ApplicationController
 
   # GET /recipes/1 or /recipes/1.json
   def show
+    @lines = @recipe.recipe_ingredients.includes(:ingredient).to_a
+    @sub_recipes = Recipe.matching_ingredients(@lines.map(&:ingredient), except: @recipe)
   end
 
   private

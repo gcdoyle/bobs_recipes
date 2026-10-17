@@ -19,6 +19,19 @@ module RecipesHelper
     whole.zero? ? label : "#{whole} #{label}"
   end
 
+  # An ingredient that is itself a recipe links to that recipe; otherwise it
+  # links to its "more about" url if it has one, or is plain text.
+  def ingredient_name_link(ingredient, sub_recipes)
+    if (recipe = sub_recipes[ingredient.name.downcase])
+      link_to ingredient.name, recipe_path(recipe), class: "sub-recipe-link",
+              title: "See the #{recipe.name} recipe"
+    elsif ingredient.url.present?
+      link_to ingredient.name, ingredient.url
+    else
+      ingredient.name
+    end
+  end
+
   def strip_trailing_zero(n)
     n.to_s.sub(/\.?0+$/, '')
   end
