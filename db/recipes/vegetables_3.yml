@@ -1,0 +1,406 @@
+# Recipes from "Vegetables.txt", part 3 (greens through potato pancakes).
+# Green Beans and Portobello Mushroom Saute is already in; Paula Deen's House
+# Seasoning appears again here and is already in too.
+recipes:
+  - name: Southern Cooked Greens
+    categories: [Vegetables, Cajun]
+    servings: 8
+    description:
+      - Adapted from Emeril's TV Dinners, by Emeril Lagasse with Marcelle Bienvenu and Felicia Willett, 1998.
+    ingredients:
+      - { qty: "1/2", measure: lb, ingredient: Bacon, note: "raw, chopped" }
+      - { qty: 3, measure: cup, ingredient: Onion, note: julienned }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+      - { qty: 2, measure: tbsp, ingredient: Shallot, note: minced }
+      - { qty: 1, measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: 12, measure: oz, ingredient: Beer, note: Dixie Beer }
+      - { qty: "1/4", measure: cup, ingredient: Rice vinegar }
+      - { qty: 1, measure: tbsp, ingredient: Molasses }
+      - { qty: 6, measure: lb, ingredient: Collard greens, note: "or a mix of mustard, collard and turnip greens, kale and spinach, cleaned and stemmed" }
+    directions:
+      - Render the bacon in a large pot until crispy, about 5 minutes. Cook the onions until wilted, 6 to 7 minutes, and season with salt, pepper and cayenne.
+      - Add the shallots and garlic for 2 minutes, then stir in the beer, vinegar and molasses.
+      - Stir in the greens a third at a time, pressing them down as they wilt. Cook uncovered about 1 hour 15 minutes.
+
+  - name: Bacon Braised Green Beans
+    categories: [Vegetables]
+    servings: 6
+    description:
+      - Recipe courtesy Emeril Lagasse for Food Network Magazine, from his book Emeril 20-40-60.
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: 6, measure: slice, ingredient: Bacon, note: diced }
+      - { qty: 1, measure: cup, ingredient: Onion, note: thinly sliced }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: sliced }
+      - { qty: 2, measure: lb, ingredient: Green bean, note: "rinsed, ends trimmed" }
+      - { qty: 1, measure: cup, ingredient: Chicken stock, note: "or low-sodium broth or water" }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Heat the oil in a Dutch oven over medium heat and cook the bacon until well browned, about 5 minutes. Add the onion and garlic and cook until translucent, 3 to 4 minutes. Toss in the beans.
+      - Raise to medium-high and add the stock. When it boils, cover and cook about 6 minutes.
+      - Uncover, season with the salt and pepper and toss. Cover and cook until tender, 1 or 2 minutes longer.
+
+  - name: Bacon Braised String Beans
+    categories: [Vegetables]
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell. The beans should be very tender, almost falling apart, and VERY flavorful.
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1/2", measure: lb, ingredient: Bacon, note: "slab, skin removed, cut into lardons" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { qty: "1/2", measure: lb, ingredient: Mushroom, note: "button, stemmed and sliced" }
+      - { ingredient: Kosher salt }
+      - { qty: 1, measure: lb, ingredient: Green bean, note: "string beans, stems removed" }
+      - { qty: 1, measure: cup, ingredient: Chicken stock }
+    directions:
+      - Lightly coat a large straight-sided skillet with olive oil, add the bacon, garlic and red pepper and bring to medium heat. Cook until the bacon is brown and crispy and has given off most of its fat. When the garlic is golden and very aromatic, discard it.
+      - Add the mushrooms, season with salt and cook until soft, 2 to 3 minutes.
+      - Add the beans and stock, season, cover and cook over medium-low 40 to 45 minutes, adding water if the liquid reduces too much.
+      - Uncover and cook until almost all the liquid has reduced.
+
+  - name: Mediterranean Green Beans
+    categories: [Vegetables]
+    description:
+      - Recipe courtesy Emeril Lagasse, 2001.
+    ingredients:
+      - { qty: 2, measure: lb, ingredient: Green bean, note: "1 1/2 to 2 pounds, ends trimmed" }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "3 to 4, whole" }
+      - { qty: 4, ingredient: Anchovy, note: "3 to 4 fillets, chopped" }
+      - { qty: "1/2", measure: cup, ingredient: Green olives, note: pitted and halved }
+      - { qty: "1/2", measure: cup, ingredient: Pimentos, note: "1/3 to 1/2 cup, or roasted red pepper strips" }
+      - { qty: "1/2", measure: tsp, ingredient: Red pepper flakes, note: crushed }
+      - { ingredient: Salt }
+    directions:
+      - Blanch the beans in very salty water until crisp-tender. Drain and cool briefly in an ice bath.
+      - Heat the olive oil in a large skillet until hot and saute the garlic and anchovies briefly. Add the olives and pimientos for 2 to 3 minutes.
+      - Add the beans, red pepper and salt to taste and saute until hot and the flavors come together, 4 to 6 minutes. Serve hot.
+
+  - name: Sauteed Green Beans with Tomatoes and Basil
+    categories: [Vegetables]
+    description:
+      - The file mentions "Parmesan Crisps, recipe follows" but doesn't include them.
+    ingredients:
+      - { qty: "1 1/2", measure: lb, ingredient: Green bean, note: "fresh, trimmed" }
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: 3, ingredient: Shallot, note: "large, thinly sliced" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: 14 1/2-ounce }
+      - { qty: "1/4", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 2, measure: tbsp, ingredient: Basil, note: "fresh, thinly sliced" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Boil the beans until just crisp-tender, about 3 minutes. Drain, rinse in cold water and drain well.
+      - Melt the butter with the oil in a heavy large skillet over medium heat and saute the shallots and garlic until tender, about 2 minutes. Add the tomatoes and heat through, about 3 minutes.
+      - Add the beans and cook, stirring often, until the juices evaporate and the beans are almost tender, about 10 minutes. Stir in the wine and basil, simmer 2 minutes and season.
+
+  - name: Green Beans with New Potatoes
+    categories: [Vegetables]
+    description:
+      - Recipe courtesy Paula Deen. Uses Paula Deen's House Seasoning (its own recipe).
+    ingredients:
+      - { qty: 3, measure: lb, ingredient: Green bean, note: fresh }
+      - { qty: "1/4", measure: lb, ingredient: Salt pork, note: sliced }
+      - { qty: "1/4", measure: cup, ingredient: Bacon fat }
+      - { qty: 2, measure: cup, ingredient: Chicken broth, note: plus more if needed }
+      - { qty: 3, measure: tsp, ingredient: House seasoning, note: 2 to 3 teaspoons }
+      - { qty: 12, ingredient: Red potatoes, note: "small new potatoes" }
+      - { qty: 1, ingredient: Onion, note: cut into slivers }
+      - { qty: 4, measure: tbsp, ingredient: Unsalted butter, note: "1/2 stick, sliced" }
+      - { ingredient: Black pepper, note: ground }
+    directions:
+      - Remove the ends from the beans, snap them in 2, wash and drain.
+      - Meanwhile, lightly brown the salt pork in the bacon grease in a large cast-iron Dutch oven over medium heat, turning often, about 10 minutes.
+      - Stir in the beans to coat with the fat. Add the broth and House Seasoning and cook, tightly covered, over medium-low about 30 minutes, until half done.
+      - Meanwhile, peel a strip around the middle of each potato. Add the potatoes and onion, with 1/4 cup more broth if needed, and cook covered until the potatoes are tender, 25 to 30 minutes, keeping a little liquid in the pot.
+      - Tilt the lid to the side and cook until the beans are wilted, about 15 minutes, adding the butter and seasoning with pepper.
+
+  - name: Sauteed Haricots Verts
+    categories: [Vegetables]
+    description:
+      - Anne Burrell's side for Braised Chicken Thighs with Mushrooms and Almonds.
+    ingredients:
+      - { qty: "1/2", measure: lb, ingredient: Green bean, note: "haricots verts (baby string beans), stem ends removed" }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { ingredient: Kosher salt }
+    directions:
+      - Boil the beans in well-salted water until tender but toothsome, 5 to 7 minutes, then shock in well-salted ice water. Drain and set aside.
+      - Coat a large saute pan with olive oil, add the garlic and red pepper and bring to medium-high heat. When the garlic is golden and very aromatic, discard it.
+      - Saute the beans until hot and coated with oil. Season with salt and serve right away.
+
+  - name: Braised Kale
+    categories: [Vegetables]
+    ingredients:
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: 2, measure: cup, ingredient: Onion, note: thinly sliced }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { ingredient: Black pepper, note: "12 turns, freshly ground" }
+      - { qty: "1/2", measure: tsp, ingredient: Red pepper flakes }
+      - { qty: 2, measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: 8, measure: cup, ingredient: Kale, note: "firmly packed, torn and stemmed" }
+      - { qty: 2, measure: cup, ingredient: Chicken stock, note: basic }
+      - { measure: splash, ingredient: Cider vinegar }
+    directions:
+      - Heat the oil in a large skillet over high heat. Stir-fry the onions, salt, pepper and red pepper flakes 2 minutes.
+      - Add the garlic, kale and stock and cook, stirring occasionally, 8 to 10 minutes, adding a splash of vinegar in the last minute. Serve immediately.
+
+  - name: Smothered Mushrooms and Kale
+    categories: [Vegetables]
+    prep_time: 5
+    cooking_time: 5
+    servings: 4
+    description:
+      - Recipe courtesy Rachael Ray.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 2, measure: tbsp, ingredient: Butter, note: cut into small pieces }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: 24, ingredient: Cremini mushroom, note: "small, wiped clean, halved" }
+      - { qty: 1, measure: bunch, ingredient: Kale, note: "trimmed, stems removed, chopped" }
+      - { qty: "1/4", measure: cup, ingredient: Marsala wine, note: or other sherry }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+    directions:
+      - Heat the oil and butter in a medium skillet over medium to medium-high heat. Add the garlic and mushrooms and set a lid that's too small for the skillet down on them, pressing and smothering. Cook 7 to 8 minutes, stirring once.
+      - Wilt in the kale, turning with tongs, and smother 1 to 2 minutes more. Deglaze with the Marsala and season.
+
+  - name: Braised Spring Onions, Fennel and Swiss Chard
+    categories: [Vegetables]
+    prep_time: 10
+    cooking_time: 15
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell.
+    ingredients:
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 3, ingredient: Green onion, note: "small spring onions, julienned" }
+      - { qty: 2, ingredient: Fennel, note: "small bulbs, thinly sliced on a mandoline" }
+      - { qty: 1, measure: bunch, ingredient: Swiss chard, note: "white, stems in 1/2-inch lengths and leaves in 1-inch lengths, kept separate" }
+      - { ingredient: Kosher salt }
+      - { qty: "1/2", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 1, ingredient: Lemon, note: "Meyer lemon, zested and juiced" }
+    directions:
+      - Coat a large saute pan with olive oil, add the garlic and red pepper and bring to medium heat. When the garlic is golden and very aromatic, discard it.
+      - Add the onions, fennel and chard stems, stir to coat and season. Stir in the wine and lemon zest and juice.
+      - Cover and cook over medium heat until soft and wilted but with some texture, 5 to 6 minutes. Uncover and cook until most of the liquid reduces, 3 to 4 minutes.
+      - Toss in the chard leaves and season. When wilted but still vibrant green, taste, reseason (it probably will need it) and serve immediately.
+
+  - name: Stuffed White Mushroom Caps
+    categories: [Vegetables, Hors d'Oeuvres]
+    servings: 6
+    description:
+      - Recipe courtesy Alex Guarnaschelli. Serves 6 to 8. Don't overheat the sour cream or it will separate.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: "extra-virgin, 1/8 cup" }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: "small, fresh, tied with string" }
+      - { qty: 1, ingredient: Yellow onion, note: "peeled, finely diced" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: "small, grated on a microplane" }
+      - { qty: "1/2", measure: tsp, ingredient: Ground cumin }
+      - { qty: 12, measure: oz, ingredient: Mushroom, note: "white, stems lightly trimmed, washed and thinly sliced" }
+      - { qty: "3/4", measure: cup, ingredient: Vermouth, note: "dry, divided (1/4 cup and 1/2 cup)" }
+      - { qty: 1, measure: cup, ingredient: Sour cream }
+      - { qty: "1/3", measure: cup, ingredient: Parmesan, note: "grated, divided" }
+      - { qty: 4, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: 18, ingredient: Mushroom, note: "white, about 1 1/2 pounds, stems trimmed slightly, washed, for the caps" }
+      - { qty: 2, measure: tbsp, ingredient: Bread crumbs, note: toasted }
+      - { qty: 1, measure: tbsp, ingredient: Balsamic vinegar, note: for finishing }
+    directions:
+      - "Stuffing: heat the olive oil in a large saucepan over medium heat, add the thyme bundle and when it crackles and crisps, drain it on a paper towel. Cook the onion with salt and pepper until tender, 3 to 5 minutes."
+      - Add the garlic and cumin and lower the heat. Stir in the sliced mushrooms, season, and cook until tender and most of the liquid has evaporated, 8 to 10 minutes.
+      - Stir in 1/4 cup vermouth and cook until the alcohol flavor has mellowed, 5 to 8 minutes. Add the sour cream and fried thyme and let the cream melt over low heat. Stir in half the Parmesan and taste.
+      - "Caps: melt the butter in a medium saute pan over medium heat, add the whole mushrooms, season and cook until their water comes out and evaporates, 5 to 8 minutes. Add the remaining 1/2 cup vermouth and cook 5 to 8 minutes. Season and let cool."
+      - Preheat the oven to 350 degrees F. Pack the stuffing firmly into each cap, well above the top, and arrange on a baking sheet. Mix the bread crumbs with the remaining Parmesan and sprinkle on top.
+      - Bake until hot inside and lightly browned, 5 to 8 minutes. Drizzle each with a little balsamic and serve immediately.
+
+  - name: Best Button Mushrooms
+    categories: [Vegetables]
+    description:
+      - Don't move the mushrooms until they've caramelized on the bottom; tossed too soon, they release their liquid and steam.
+    ingredients:
+      - { qty: 6, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1 1/2", measure: lb, ingredient: Mushroom, note: "whole small button mushrooms, wiped clean" }
+      - { qty: 3, measure: tbsp, ingredient: Butter }
+      - { ingredient: Sea salt, note: gray }
+      - { qty: 1, measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: "1 1/2", measure: tsp, ingredient: Thyme, note: "fresh leaves, chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Lemon juice }
+      - { qty: "1/2", measure: cup, ingredient: White wine }
+      - { qty: 1, measure: tbsp, ingredient: Parsley, note: "leaves, chopped" }
+    directions:
+      - Heat the oil in a large skillet over high heat and add the mushrooms. When the bottoms are caramelized, toss and cook about 5 minutes more.
+      - Add the butter and cook, tossing, 5 minutes, until beautifully browned.
+      - Season with salt, add the garlic and saute 2 minutes. Add the thyme, lemon juice and wine and cook until the liquid evaporates. Toss in the parsley and serve immediately.
+
+  - name: Mushroom Saute
+    categories: [Vegetables]
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1/2", measure: lb, ingredient: Mushroom, note: "button or cremini, quartered" }
+      - { ingredient: Salt, note: finely ground }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: 1, measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: tsp, ingredient: Thyme, note: "fresh leaves, finely chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Lemon juice, note: fresh }
+      - { qty: "3/4", measure: cup, ingredient: White wine, note: dry }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "Italian, finely chopped" }
+    directions:
+      - Heat the olive oil in a medium skillet over high heat. Add the mushrooms in a single layer and don't stir; let them caramelize on the bottom, about 2 minutes.
+      - Toss once, season, and cook without stirring about 5 minutes more. Season again.
+      - Add the butter and cook until it begins to brown, then the garlic until it begins to brown. Add the thyme for about 10 seconds.
+      - Add the lemon juice and cook until evaporated, then the wine and simmer until the mushrooms are glazed. Stir in the parsley and take off the heat.
+
+  - name: The Lady and Sons Okra and Tomatoes
+    categories: [Vegetables]
+    description:
+      - Recipe courtesy Paula Deen.
+    ingredients:
+      - { qty: 4, measure: slice, ingredient: Bacon, note: diced small }
+      - { qty: 1, ingredient: Onion, note: "small, peeled and chopped" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: can, ingredient: Diced tomatoes, note: 15-ounce }
+      - { qty: 1, measure: tbsp, ingredient: Chicken base }
+      - { qty: 1, measure: tbsp, ingredient: Sugar }
+      - { qty: 2, measure: cup, ingredient: Okra, note: "fresh (or frozen), cut into 1-inch pieces" }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Cook the bacon slightly, then saute the onion and garlic with it until tender.
+      - Add the tomatoes, chicken base, sugar and pepper, stir and simmer about 20 minutes. Adjust the seasoning.
+      - Meanwhile, wash fresh okra, remove the fuzz and cut into pieces. Add the okra and simmer until done, about 20 minutes more (less for frozen).
+
+  - name: Kaye's Okra Fry Bread
+    categories: [Vegetables, Breads]
+    description:
+      - Recipe courtesy Paula Deen.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Cornmeal }
+      - { qty: 1, measure: cup, ingredient: Self-rising flour }
+      - { qty: 2, measure: tsp, ingredient: Salt }
+      - { qty: "2 1/2", measure: cup, ingredient: Water }
+      - { qty: 16, measure: oz, ingredient: Okra, note: "whole, 1 bag, sliced into 1/2-inch rounds" }
+      - { qty: "1/2", measure: cup, ingredient: Vidalia onion, note: chopped }
+      - { qty: 1, measure: tbsp, ingredient: Clarified butter, note: plus more as needed }
+    directions:
+      - Whisk the cornmeal, flour and salt, then whisk in the water to make a thin batter. Stir in the okra and onions.
+      - Heat the clarified butter in a cast-iron skillet over medium heat. Ladle in batter; it should sizzle.
+      - Cook until browned underneath, 3 to 4 minutes, then flip and brown the other side. Repeat, adding butter as needed.
+
+  - name: Fried Okra
+    categories: [Vegetables]
+    description:
+      - The directions call for House Seasoning; the salt, pepper and garlic powder here are that blend.
+    ingredients:
+      - { qty: 6, measure: cup, ingredient: Vegetable oil, note: for frying }
+      - { qty: "1/2", measure: cup, ingredient: Cornmeal }
+      - { qty: 1, measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: "1 1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper }
+      - { qty: "1/2", measure: tsp, ingredient: Garlic powder }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 2, measure: lb, ingredient: Okra, note: "fresh, sliced 1/2 inch thick" }
+      - { qty: "1/2", measure: cup, ingredient: Buttermilk }
+    directions:
+      - Heat the oil to 350 degrees F in a large heavy skillet or Dutch oven, no more than halfway up the sides (you may not need all of it).
+      - Combine the cornmeal, flour, seasonings and cayenne. Dip the okra in the buttermilk, then dredge in the cornmeal mixture to coat well.
+      - Fry in batches until golden brown, drain on paper towels and serve immediately.
+
+  - name: Brabant Potatoes
+    categories: [Vegetables, Cajun]
+    description:
+      - Recipe courtesy Emeril Lagasse. Fried potato cubes, par-boiled first for a light, crunchy texture - a traditional side for classic New Orleans Creole dishes like Chicken Pontalba.
+    ingredients:
+      - { qty: 4, measure: lb, ingredient: Idaho potatoes, note: peeled }
+      - { qty: 4, measure: cup, ingredient: Vegetable oil, note: for frying }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+    directions:
+      - Square off each potato by cutting off the top, bottom and sides, then cut into 1/2-inch cubes (discard the irregular pieces).
+      - Cover with water in a medium heavy saucepan, bring to a boil and cook until slightly tender, about 10 minutes. Drain on paper towels.
+      - Heat the oil to 360 degrees F in a large deep pot or deep-fryer. Fry the potatoes, turning to brown evenly, 3 to 4 minutes. Drain, season with salt and serve hot.
+
+  - name: Stuffed Onions (Kremidolmades)
+    categories: [Vegetables]
+    prep_time: 20
+    cooking_time: 66
+    servings: 4
+    description:
+      - Recipe courtesy Cat Cora.
+    ingredients:
+      - { qty: 4, ingredient: Yellow onion, note: "medium, unpeeled" }
+      - { qty: 2, measure: oz, ingredient: Olive oil }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: cup, ingredient: Heavy cream }
+      - { qty: 12, measure: oz, ingredient: Kasseri, note: "grated - 8 ounces for filling, 4 for garnish" }
+    directions:
+      - Preheat the oven to 400 degrees F.
+      - Slice the tops off the onions and a little off the bottoms so they sit flat. Drizzle with olive oil, season and bake on a baking sheet 45 minutes to 1 hour, until tender. Let cool.
+      - Reduce the cream in a small saute pan over medium-high heat until it coats a spoon. Season and set aside.
+      - Peel the onions and poke out a small piece of each center. Chop it finely and add to the cream. Fill the onions with 8 ounces of the Kasseri and reheat in the oven 5 minutes.
+      - Plate the onions, rewarm the cream about 1 minute, spoon it over and top with the remaining Kasseri.
+
+  - name: Parmesan and Garlic Potato Chips
+    categories: [Vegetables, Hors d'Oeuvres]
+    servings: 6
+    description:
+      - Recipe courtesy The Deen Brothers. Serves 6 to 8.
+      - "Special equipment: mandoline."
+    ingredients:
+      - { ingredient: Peanut oil, note: for frying }
+      - { qty: 3, ingredient: Russet potatoes }
+      - { qty: 2, measure: tbsp, ingredient: Parmesan, note: grated }
+      - { qty: "1/2", measure: tsp, ingredient: Garlic powder }
+      - { qty: "1/2", measure: tsp, ingredient: Parsley, note: "fresh leaves, chopped" }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: ground }
+    directions:
+      - Heat a deep-fryer half full of peanut oil to 350 degrees F.
+      - Slice the potatoes thin on a mandoline. Mix the cheese, garlic powder, parsley and pepper.
+      - Fry a few slices at a time until golden, about 2 minutes. Drain on paper towels and immediately toss with the Parmesan mixture.
+
+  - name: Potatoes "Da Delfina"
+    categories: [Vegetables]
+    description:
+      - Italian-style parsley potatoes, smashed and fried. They can be boiled and smashed several hours ahead.
+    ingredients:
+      - { qty: "1 1/2", measure: lb, ingredient: Yukon gold potatoes, note: "about 16 small creamer potatoes" }
+      - { ingredient: Peanut oil }
+      - { ingredient: Sea salt, note: preferably gray }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "fresh Italian flat-leaf, chopped" }
+      - { qty: 2, measure: tsp, ingredient: Lemon zest, note: grated }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1/4", measure: cup, ingredient: Garlic, note: chopped }
+    directions:
+      - Cover the potatoes with cold, well-salted water, bring to a boil and cook until a knife slips in easily, 15 to 20 minutes. Drain and refrigerate on a cookie sheet until cool.
+      - Hold each potato between your palms as if clapping and press gently to about 1/2 inch thick, keeping it in one piece.
+      - Heat 1/2 inch of peanut oil in a large skillet over moderately high heat. Combine the parsley and lemon zest in a serving bowl.
+      - When the oil smokes, fry the potatoes on both sides until crisp and well browned, 8 to 10 minutes. Drain and season.
+      - Heat the olive oil in a small skillet over moderately high heat and saute the garlic until lightly browned. Add it to the parsley mixture with a slotted spoon, then toss in the potatoes and serve immediately.
+
+  - name: Bob's Potato Pancakes
+    categories: [Vegetables]
+    ingredients:
+      - { qty: 3, ingredient: Egg }
+      - { qty: 1, ingredient: Onion, note: "medium, quartered" }
+      - { qty: 4, measure: tbsp, ingredient: Self-rising flour }
+      - { qty: "1/2", measure: tsp, ingredient: Garlic powder }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper }
+      - { qty: 3, ingredient: Potato, note: "large, unpeeled" }
+      - { ingredient: Olive oil, note: for frying }
+    directions:
+      - In a food processor with the chopping blade, process the eggs 5 seconds. Add the onion, flour, garlic powder, salt and pepper.
+      - Switch to the shredding blade and shred the potatoes into the mixture. Process together until the chunks are gone; don't overprocess.
+      - Fry in olive oil.
