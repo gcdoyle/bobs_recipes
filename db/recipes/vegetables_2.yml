@@ -1,0 +1,412 @@
+# Recipes from "Vegetables.txt", part 2 (chick peas through eggplant). The
+# file repeats Emeril's Essence here; it's already in.
+recipes:
+  - name: Stewed Chick Peas with Tomatoes and Zucchini
+    categories: [Vegetables, Beans]
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. Think ahead - dried chick peas must soak overnight. Canned chick peas work too; start at the stew. The older it gets, the better it tastes.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Chickpea, note: "dried, soaked overnight" }
+      - { qty: 1, ingredient: Onion, note: "large, half cut into 1/2-inch dice and half left whole" }
+      - { qty: 1, ingredient: Carrot, note: peeled }
+      - { qty: 1, measure: rib, ingredient: Celery }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: "2 whole, 2 smashed and finely chopped" }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: bundle }
+      - { ingredient: Kosher salt }
+      - { ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 1, measure: tsp, ingredient: Cumin seeds, note: coarsely ground }
+      - { qty: 1, measure: tsp, ingredient: Fennel seed, note: coarsely ground }
+      - { qty: 3, ingredient: Tomato, note: "beefsteak, 1/2-inch dice, seeds and juices reserved" }
+      - { qty: 2, ingredient: Zucchini, note: "large, green part only, 1/2-inch dice" }
+    directions:
+      - "Beans: put the chick peas, diced onion, carrot, celery, whole garlic, bay leaves and thyme in a large pot and cover with water by 2 inches. Don't salt yet; it can keep the beans from cooking and toughen or split the skins."
+      - Bring to a boil, then simmer 1 hour. Do the "5 bean" test - bite 5 beans; if they aren't all done, cook 10 to 15 minutes more and test again.
+      - Turn off the heat and season the water abundantly with salt. Let the beans sit 15 to 20 minutes. Remove the vegetables and herbs, reserve 1 cup of the cooking water and drain.
+      - "Stew (start it while the beans cook): coat a large wide pot with olive oil and add the whole half onion, salt, red pepper, cumin and fennel. Cook over medium heat until the spices are very aromatic and the onion soft, 8 to 10 minutes. Add the chopped garlic for 2 minutes."
+      - Add the tomatoes and zucchini, season and taste (it will need adjusting). Cook about 15 minutes.
+      - Add the chick peas and reserved cooking water and simmer until the water has evaporated and it looks like a stew, 15 to 20 minutes. Serve immediately or at room temperature.
+    notes:
+      - "A reviewer's shortcut: 2 cans chick peas, drained and rinsed, with the thyme and bay leaf added to the onions and chicken broth instead of bean water. Leftovers with more broth, cumin and chicken make a good soup."
+
+  - name: Bob's Collard Greens
+    categories: [Vegetables]
+    description:
+      - Bob's method; no amounts.
+    ingredients:
+      - { ingredient: Ham hock }
+      - { ingredient: Water }
+      - { ingredient: Collard greens }
+      - { ingredient: Garlic, note: cloves }
+      - { ingredient: Butter }
+      - { ingredient: Bay leaf }
+      - { ingredient: Red wine vinegar, note: for serving }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+    directions:
+      - Simmer the ham hock in water about 1 hour to make a broth.
+      - Meanwhile, remove the tough stems from the collards, stack the leaves, slice into 1-inch-wide pieces and rinse in cold water.
+      - Add garlic cloves, butter and a bay leaf to the broth, add the greens and simmer until very tender. Serve with red wine vinegar, salt and pepper to taste.
+
+  - name: Gina's Collard Greens
+    categories: [Vegetables]
+    description:
+      - Recipe courtesy Gina Neely.
+    ingredients:
+      - { qty: 5, measure: bunch, ingredient: Collard greens, note: bundles }
+      - { qty: 3, measure: cup, ingredient: Water, note: salted }
+      - { qty: 3, ingredient: Ham hock, note: "large, smoked" }
+      - { qty: 1, measure: cup, ingredient: Sugar }
+      - { qty: "1/2", measure: cup, ingredient: Salt }
+      - { qty: 3, measure: tbsp, ingredient: Red pepper flakes, note: crushed }
+    directions:
+      - Wash the greens thoroughly, pulling the leaves apart to remove any sand.
+      - Simmer the ham hocks, covered, in the salted water in a medium saucepan until slightly tender, then remove.
+      - Add the greens and the rest of the ingredients to the pan, cover and cook 2 1/2 to 3 hours, until the water reduces, adding more water, salt and sugar to taste.
+
+  - name: Paula Deen's Collard Greens
+    categories: [Vegetables]
+    servings: 4
+    description:
+      - Recipe courtesy Paula Deen. Serves 4 to 6. Uses Paula Deen's House Seasoning (its own recipe).
+    ingredients:
+      - { qty: "1/2", measure: lb, ingredient: Ham hock, note: "smoked meat - ham hocks, smoked turkey wings or smoked neck bones" }
+      - { qty: 1, measure: tbsp, ingredient: House seasoning }
+      - { qty: 1, measure: tbsp, ingredient: Seasoned salt }
+      - { qty: 1, measure: tbsp, ingredient: Hot sauce }
+      - { qty: 1, measure: bunch, ingredient: Collard greens, note: large }
+      - { qty: 1, measure: tbsp, ingredient: Butter }
+    directions:
+      - Bring 3 quarts water to a boil in a large pot with the smoked meat, house seasoning, seasoned salt and hot sauce. Cook over medium heat 1 hour.
+      - Wash the greens thoroughly and strip the stems that run down the center (the tender young heart leaves don't need it). Stack 6 to 8 leaves, roll up and slice 1/2 to 1 inch thick.
+      - Add the greens and butter to the pot and cook 45 to 60 minutes, stirring occasionally. Taste and adjust the seasoning.
+
+  - name: Corn con Queso
+    categories: [Vegetables, Mexican]
+    servings: 4
+    description:
+      - Recipe courtesy Guy Fieri.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 1, measure: tbsp, ingredient: Ground cumin }
+      - { qty: 1, measure: tbsp, ingredient: Paprika }
+      - { qty: 1, measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 2, measure: tbsp, ingredient: Cilantro, note: "leaves, chopped" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 4, ingredient: Corn, note: on the cob }
+      - { ingredient: Queso fresco }
+      - { ingredient: Lime, note: wedges }
+    directions:
+      - Heat the oven to 375 degrees F.
+      - Mix the butter, cumin, paprika, cayenne, cilantro, salt and pepper and rub it over the corn.
+      - Wrap in foil and roast 20 to 25 minutes. Unwrap, top with queso fresco and a squeeze of lime and serve immediately.
+
+  - name: Sweet Corn Maque Choux
+    categories: [Vegetables, Cajun]
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter }
+      - { qty: "3 1/2", measure: cup, ingredient: Corn, note: "kernels, or 4 fresh ears" }
+      - { qty: "1/2", measure: cup, ingredient: Yellow onion, note: finely chopped }
+      - { qty: "1/4", measure: cup, ingredient: Green bell pepper, note: finely chopped }
+      - { qty: "1/4", measure: cup, ingredient: Red bell pepper, note: finely chopped }
+      - { qty: "1 1/2", measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: cup, ingredient: Heavy cream }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Heat the butter in a large skillet over medium-high heat. Saute the corn, onion, peppers and a little salt until soft, 3 to 4 minutes.
+      - Add the garlic and cook 2 minutes, stirring constantly.
+      - Add the cream and reduce until it coats the back of a spoon. Season with salt and pepper.
+
+  - name: Sweet Corn Pudding
+    categories: [Vegetables]
+    servings: 8
+    description:
+      - Recipe courtesy Gale Gand.
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Bacon, note: chopped }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 1, measure: cup, ingredient: Onion, note: chopped }
+      - { qty: 4, ingredient: Corn, note: "ears of sweet corn, kernels removed" }
+      - { qty: "1 1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 6, ingredient: Egg }
+      - { qty: 2, measure: cup, ingredient: Heavy cream }
+      - { qty: 1, measure: cup, ingredient: Milk }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/8", measure: tsp, ingredient: Nutmeg }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: grated }
+      - { qty: "1/2", measure: cup, ingredient: Cornmeal, note: yellow }
+    directions:
+      - Preheat the oven to 375 degrees F.
+      - Cook the bacon in a saute pan over low heat until crisp. Remove, keeping the fat. Add the butter and saute the onions until translucent. Add the corn, salt and cayenne and saute a few minutes more. Take off the heat.
+      - Whisk the eggs well, then whisk in the cream and milk. Whisk in the pepper, nutmeg, Parmesan and cornmeal, then stir in the bacon and corn mixture.
+      - Pour into a greased 6-cup casserole and bake 1 hour. Serve immediately.
+
+  - name: Bob's Sweet Corn Pudding
+    categories: [Vegetables]
+    description:
+      - Bob's version of Gale Gand's, with canned corn and a bread crumb top.
+    ingredients:
+      - { qty: 5, measure: slice, ingredient: Bacon, note: diced }
+      - { qty: 2, measure: tbsp, ingredient: Butter, note: plus more for dotting }
+      - { qty: 1, measure: cup, ingredient: Onion, note: chopped }
+      - { qty: 1, measure: can, ingredient: Corn, note: "14-ounce, kernels" }
+      - { qty: 1, measure: can, ingredient: Corn, note: "14-ounce, creamed" }
+      - { qty: "1 1/2", measure: tsp, ingredient: Salt }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 6, ingredient: Egg }
+      - { qty: "1 1/2", measure: cup, ingredient: Heavy cream }
+      - { qty: "3/4", measure: cup, ingredient: Milk }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/8", measure: tsp, ingredient: Nutmeg }
+      - { qty: 1, measure: cup, ingredient: Parmesan, note: freshly grated }
+      - { qty: "1/2", measure: cup, ingredient: Cornmeal, note: "yellow, or about a cup of crumbled corn bread" }
+      - { ingredient: Seasoned bread crumbs, note: Italian-style }
+      - { ingredient: Paprika }
+    directions:
+      - Preheat the oven to 375 degrees F.
+      - Cook the bacon in a saute pan over low heat until crisp. Remove, keeping 1/4 cup fat. Add the butter and saute the onions until translucent. Add the corn, salt and cayenne and saute a few minutes. Take off the heat.
+      - Whisk the eggs well, then the cream and milk. Whisk in the pepper, nutmeg, Parmesan and cornmeal and stir in the bacon and corn mixture.
+      - Pour into a greased 6-cup casserole, top with Italian-style bread crumbs (and paprika) and dot with butter. Bake 1 hour, or until a knife comes out clean.
+
+  - name: Corn Chive Pudding
+    categories: [Vegetables]
+    ingredients:
+      - { qty: 20, measure: oz, ingredient: Corn, note: "2 (10-ounce) packages frozen kernels, thawed" }
+      - { qty: "1/4", measure: cup, ingredient: Sugar }
+      - { qty: "1 1/4", measure: tsp, ingredient: Salt }
+      - { qty: 2, measure: cup, ingredient: Milk }
+      - { qty: 4, ingredient: Egg, note: large }
+      - { qty: "1/2", measure: tsp, ingredient: Vanilla extract, note: "or the seeds of 1/2 vanilla bean" }
+      - { qty: 4, measure: tbsp, ingredient: Unsalted butter, note: "1/2 stick, melted and cooled, plus more for the dish" }
+      - { qty: 3, measure: tbsp, ingredient: Flour, note: all-purpose }
+      - { qty: "1/4", measure: cup, ingredient: Chives, note: "fresh, chopped, plus 3 tablespoons for garnish" }
+      - { qty: 1, measure: pinch, ingredient: Nutmeg, note: freshly grated }
+    directions:
+      - Preheat the oven to 350 degrees F and butter a 1 1/2-quart casserole, pie plate or quiche dish.
+      - Pulse half the corn in a food processor until coarsely chopped. Stir together with the remaining corn and the sugar and salt.
+      - Whisk the milk, eggs, vanilla, butter, flour and chives and stir into the corn.
+      - Pour into the dish, sprinkle with nutmeg and bake in the middle of the oven until the center is just set, about 45 minutes. Garnish with chives.
+
+  - name: Edamame with Shiitake
+    categories: [Vegetables, Asian]
+    servings: 6
+    description:
+      - Recipe courtesy Sandra Lee, 2008.
+    ingredients:
+      - { qty: 16, measure: oz, ingredient: Edamame, note: "frozen shelled, 1 bag" }
+      - { qty: 2, measure: tbsp, ingredient: Water }
+      - { qty: 2, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: 4, ingredient: Shiitake, note: sliced }
+      - { qty: 2, measure: tbsp, ingredient: Soy sauce }
+      - { qty: 1, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: tbsp, ingredient: Fried rice seasoning, note: mix }
+    directions:
+      - Microwave the edamame with the water, covered, on high 6 to 8 minutes, stirring halfway. Let stand covered 1 minute and drain.
+      - Meanwhile, heat the oil in a large skillet over medium-high heat and saute the mushrooms 5 minutes.
+      - Stir in the soy sauce, garlic, fried rice seasoning and edamame. Serve hot.
+
+  - name: Chile-Garlic Edamame
+    categories: [Vegetables, Asian]
+    servings: 4
+    description:
+      - Recipe courtesy Food Network Magazine.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Edamame, note: "frozen, in the pods" }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil }
+      - { qty: "1/4", measure: tsp, ingredient: Red pepper flakes }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: sliced }
+      - { ingredient: Lime juice }
+      - { ingredient: Salt }
+    directions:
+      - Cook the edamame in salted boiling water until tender, 5 minutes; drain.
+      - Heat the olive oil, red pepper flakes and garlic in a skillet over medium heat 1 to 2 minutes. Stir in the edamame, some lime juice and salt.
+
+  - name: Edamame Succotash
+    categories: [Vegetables]
+    description:
+      - Recipe courtesy Debbie Lee, for Food Network Magazine. Makes 2 cups.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Sesame oil, note: toasted }
+      - { qty: "1/2", measure: cup, ingredient: Red onion, note: finely diced }
+      - { qty: 1, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: slice, ingredient: Bacon, note: "applewood-smoked (1 1/2 ounces), finely chopped" }
+      - { qty: 1, measure: cup, ingredient: Edamame, note: "frozen (6 ounces), thawed" }
+      - { qty: "1/2", measure: cup, ingredient: Corn, note: "fresh kernels, from 1 small ear" }
+      - { qty: "1/4", measure: cup, ingredient: Red bell pepper, note: small-diced }
+      - { qty: "1/2", measure: tsp, ingredient: Kosher salt }
+      - { qty: "1/8", measure: tsp, ingredient: White pepper, note: freshly ground }
+    directions:
+      - Heat the sesame oil in a large skillet over medium heat and saute the onion and garlic until soft, about 2 minutes. Add the bacon and cook until it renders and begins to crisp, about 5 minutes.
+      - Add the edamame, corn and bell pepper and saute 2 to 3 minutes. Season with the salt and white pepper and serve hot.
+
+  - name: Soba Noodles with Edamame and Peanuts
+    categories: [Vegetables, Asian, Pasta]
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell.
+    ingredients:
+      - { ingredient: Kosher salt }
+      - { qty: 9, measure: oz, ingredient: Soba noodles, note: "8 to 9 ounces (two-thirds of a 350 g package)" }
+      - { qty: 1, measure: tsp, ingredient: Sesame oil }
+      - { ingredient: Peanut oil }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed and finely chopped }
+      - { qty: 1, measure: piece, ingredient: Ginger, note: "1-inch, fresh, peeled and finely grated" }
+      - { qty: "1/2", ingredient: Jalapeno, note: "seeded, finely chopped" }
+      - { qty: 2, ingredient: Carrot, note: "medium, julienned" }
+      - { qty: "1/4", measure: lb, ingredient: Shiitake, note: "stemmed and julienned" }
+      - { qty: 1, measure: cup, ingredient: Edamame, note: shelled }
+      - { qty: 3, ingredient: Green onion, note: "white and green, sliced on the bias" }
+      - { qty: 2, measure: tbsp, ingredient: Soy sauce }
+      - { qty: 2, measure: tbsp, ingredient: Rice vinegar }
+      - { qty: "1/4", measure: cup, ingredient: Peanuts, note: coarsely chopped }
+    directions:
+      - Cook the soba in a large pot of salted boiling water, swishing with tongs so they don't stick, until soft, 5 to 6 minutes. Drain, rinse immediately with cold water and toss with the sesame oil.
+      - Coat a large straight-sided saute pan with peanut oil, add the garlic, ginger and jalapeno and cook over medium heat 1 to 2 minutes.
+      - Add the carrots and 1/4 cup water and cook until the water evaporates. Add the mushrooms and cook until soft, 2 to 3 minutes. Sprinkle in the edamame and scallions.
+      - Add the soy sauce, vinegar and 2 tablespoons water, toss in the soba and cook until hot and the water has evaporated. Sprinkle with the peanuts to serve.
+
+  - name: Eggplant Gratin
+    categories: [Vegetables]
+    servings: 2
+    description:
+      - Recipe from Ina Garten. Careful when frying - it splatters.
+    ingredients:
+      - { ingredient: Olive oil, note: "good, for frying" }
+      - { qty: "3/4", measure: lb, ingredient: Eggplant, note: "unpeeled, sliced 1/2 inch thick" }
+      - { qty: "1/4", measure: cup, ingredient: Ricotta }
+      - { qty: 1, ingredient: Egg, note: extra-large }
+      - { qty: "1/4", measure: cup, ingredient: Half-and-half }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: "freshly grated, plus 2 tablespoons, divided" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/2", measure: cup, ingredient: Marinara sauce, note: good bottled }
+    directions:
+      - Preheat the oven to 400 degrees F.
+      - Heat about 1/8 inch of olive oil in a very large frying pan over medium heat. When almost smoking, fry the eggplant in batches, turning once, until browned on both sides and cooked through, about 5 minutes. Drain on paper towels, adding oil as needed.
+      - Mix the ricotta, egg, half-and-half, 1/4 cup Parmesan, and 1/8 teaspoon each salt and pepper.
+      - In each of 2 individual gratin dishes, layer eggplant, a sprinkle of Parmesan, salt and pepper, and half the marinara. Add a second layer of eggplant, salt and pepper, half the ricotta mixture and 1 tablespoon Parmesan on top.
+      - Bake on a baking sheet 25 to 30 minutes, until the custard sets and the top browns. Serve warm.
+
+  - name: Quick Marinara Sauce
+    categories: [Sauces]
+    description:
+      - Makes about 7 cups. Keeps 3 days refrigerated or 2 months frozen.
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: "1/2", ingredient: Onion, note: "medium, diced (about 1/3 cup)" }
+      - { qty: 5, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: 2, measure: can, ingredient: Tomato, note: "28-ounce whole peeled in puree (about 7 cups), roughly chopped" }
+      - { qty: 2, measure: sprig, ingredient: Thyme, note: fresh }
+      - { qty: 2, measure: sprig, ingredient: Basil, note: fresh }
+      - { qty: 1, measure: tbsp, ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Heat the oil in a medium saucepan over medium-high heat and saute the onion and garlic until lightly browned, about 3 minutes.
+      - Add the tomatoes and herb sprigs, bring to a boil, then simmer covered 10 minutes.
+      - Discard the herbs, stir in the salt and season with pepper.
+
+  - name: Eggplant Parmesan
+    categories: [Vegetables, Casseroles]
+    description:
+      - Uses Quick Marinara Sauce (its own recipe). The oil must reach 400 degrees F so adding the eggplant drops it to the right frying temperature, 375.
+    ingredients:
+      - { qty: 2, ingredient: Eggplant, note: "medium (about 2 1/4 pounds), 1/2-inch-thick rounds" }
+      - { ingredient: Kosher salt, note: as needed }
+      - { qty: 5, measure: cup, ingredient: Bread crumbs, note: fresh }
+      - { qty: 1, measure: tbsp, ingredient: Oregano, note: dried }
+      - { qty: 1, measure: tbsp, ingredient: Dried thyme }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Vegetable oil, note: for frying }
+      - { ingredient: Flour, note: "all-purpose, for dredging" }
+      - { qty: 6, ingredient: Egg, note: "large, beaten" }
+      - { qty: 2, measure: tbsp, ingredient: Milk, note: whole }
+      - { ingredient: Olive oil, note: as needed }
+      - { qty: 7, measure: cup, ingredient: Quick Marinara Sauce }
+      - { qty: "2/3", measure: cup, ingredient: Parmesan, note: "grated, divided" }
+      - { qty: 1, measure: lb, ingredient: Mozzarella, note: "fresh, thinly sliced" }
+    directions:
+      - Lay the eggplant on baking sheets, salt generously and let the bitter juices weep about 1 hour. Rinse well in a colander and blot very dry.
+      - Whisk 1 1/2 teaspoons salt with the bread crumbs, oregano, thyme and pepper. Put the flour on a plate and whisk the eggs with the milk.
+      - Dredge each slice in flour, dip in egg and coat in the crumbs, shaking off the excess.
+      - Heat 1/2 inch of oil in a large straight-sided skillet to 400 degrees F. Fry in small batches, turning once, until golden, about 3 minutes per batch. Drain on paper towels and salt.
+      - Preheat the oven to 400 degrees F and brush a 15 by 10 by 2-inch baking dish with olive oil. Layer 1/3 of the sauce, half the eggplant, another 1/3 of the sauce, and half the Parmesan and mozzarella. Repeat.
+      - Bake until hot and just beginning to brown, about 30 minutes. Serve immediately.
+
+  - name: Tyler Florence's Eggplant Parmesan
+    categories: [Vegetables, Casseroles]
+    servings: 8
+    description:
+      - Recipe courtesy Tyler Florence, with a spicy tomato sauce of olives and capers. Let it stand 20 minutes before cutting.
+    ingredients:
+      - { qty: "1/3", measure: cup, ingredient: Olive oil, note: "extra-virgin, for the sauce, plus more for frying" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: cup, ingredient: Black olive, note: "pitted, roughly chopped" }
+      - { qty: 1, measure: tsp, ingredient: Red pepper flakes, note: hot }
+      - { qty: 3, measure: tbsp, ingredient: Capers, note: drained }
+      - { qty: 2, measure: can, ingredient: Tomato, note: "28-ounce (recommended: San Marzano), crushed by hand" }
+      - { qty: "1/4", measure: cup, ingredient: Basil, note: "fresh leaves, torn, for the sauce" }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 4, measure: cup, ingredient: Bread crumbs, note: dried }
+      - { qty: 1, measure: tbsp, ingredient: Garlic powder }
+      - { qty: 1, measure: tbsp, ingredient: Oregano, note: dried }
+      - { qty: 5, ingredient: Egg, note: divided }
+      - { qty: 1, measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 4, measure: lb, ingredient: Eggplant, note: "medium, trimmed, cut lengthwise into 1/2-inch slices" }
+      - { qty: 2, measure: lb, ingredient: Ricotta, note: whole milk }
+      - { qty: "1/2", measure: cup, ingredient: Basil, note: "fresh leaves, chopped" }
+      - { qty: "1 1/4", measure: cup, ingredient: Pecorino Romano, note: "Parmigiano-Romano, freshly grated, divided" }
+      - { qty: 2, measure: lb, ingredient: Mozzarella, note: shredded }
+      - { ingredient: Butter, note: for the dish }
+    directions:
+      - "Sauce: heat the olive oil in a large saucepan over medium heat and cook the garlic 1 minute. Add the olives, red pepper and capers and cook 2 minutes, stirring. Add the tomatoes and juices, bring to a low simmer, stir in the torn basil, season and simmer 10 minutes."
+      - Mix the bread crumbs, garlic powder and oregano in a shallow bowl and season generously. Beat 3 eggs with salt and pepper in another bowl. Season the flour in a third.
+      - Heat about 1/4 inch of olive oil in a large skillet over medium heat. Dredge the eggplant in flour, dip in egg, coat in crumbs and fry in a single layer until tender and browned on both sides. Drain on paper towels, adding oil as needed.
+      - Stir together the ricotta, 1/2 cup of the grated cheese, the chopped basil and the remaining 2 eggs, and season.
+      - Preheat the oven to 350 degrees F. In a large buttered baking dish, layer sauce, eggplant, half the ricotta, sauce and a third of the mozzarella. Repeat with eggplant, the rest of the ricotta, sauce and another third of the mozzarella. Finish with eggplant, the rest of the sauce and mozzarella, and the remaining 3/4 cup grated cheese.
+      - Bake about 1 hour, until golden and bubbling.
+
+  - name: Eggplant Steaks
+    categories: [Vegetables]
+    servings: 4
+    description:
+      - Recipe courtesy Alton Brown.
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Worcestershire sauce }
+      - { qty: "1/4", measure: cup, ingredient: Steak sauce, note: thick }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil }
+      - { qty: 2, measure: tbsp, ingredient: Honey }
+      - { qty: 2, measure: tsp, ingredient: Cider vinegar }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 8, measure: slice, ingredient: Eggplant, note: "1/2 inch thick, purged with salt" }
+      - { qty: 1, measure: cup, ingredient: Parmesan, note: grated }
+      - { qty: 3, measure: tbsp, ingredient: Parsley, note: "chopped, optional" }
+    directions:
+      - Whisk the Worcestershire, steak sauce, olive oil, honey and vinegar and season with salt and pepper.
+      - Pat the eggplant dry, brush both sides with the sauce and set on a rack in a sheet tray.
+      - Broil until nicely browned, about 2 minutes, then turn and brown the other side. Sprinkle generously with Parmesan and broil 1 minute more. Serve plain or with chopped herbs.
+
+  - name: Grilled Eggplant Teriyaki
+    categories: [Vegetables, Asian]
+    ingredients:
+      - { qty: 2, ingredient: Eggplant, note: medium }
+      - { ingredient: Kosher salt }
+      - { qty: "1/4", measure: cup, ingredient: Soy sauce, note: for the marinade }
+      - { qty: 3, measure: tbsp, ingredient: Light brown sugar, note: for the marinade }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: for the marinade }
+      - { qty: 2, measure: tbsp, ingredient: Rice vinegar, note: "or white wine vinegar, for the marinade" }
+      - { qty: 1, measure: tsp, ingredient: Sesame oil, note: "dark, for the marinade" }
+      - { qty: 1, measure: tsp, ingredient: Ginger, note: "fresh, grated, for the marinade" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: "minced, for the marinade" }
+      - { ingredient: Sesame seeds, note: for garnish }
+    directions:
+      - Whisk the marinade ingredients together and let stand 10 minutes.
+      - Preheat an outdoor grill to medium. Slice the eggplant 1/2 inch thick, salt and let stand in a colander 20 minutes. Rinse briefly and pat dry.
+      - Pour the marinade over and let stand at least 10 minutes or up to overnight in the refrigerator.
+      - Grill, reserving the marinade, until cooked through and lightly browned, 10 to 15 minutes. Serve with the reserved marinade and a sprinkle of sesame seeds.
