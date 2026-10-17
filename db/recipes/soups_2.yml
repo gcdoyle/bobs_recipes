@@ -425,7 +425,7 @@ recipes:
   - name: Caribbean Conch Chowder
     categories: [Soups, Chowder, Seafood, Caribbean]
     description:
-      - Recipe courtesy Emeril Lagasse, 2004. The file says to serve it with Caribbean Conch Fritters ("recipe follows"), which aren't included.
+      - Recipe courtesy Emeril Lagasse, 2004. Serve with Caribbean Conch Fritters.
     ingredients:
       - { qty: 3, measure: slice, ingredient: Bacon, note: diced }
       - { qty: 4, ingredient: Allspice, note: whole berries }

@@ -1,0 +1,289 @@
+# Recipes from "Deserts, Hos d'Oeuvres Snacks.txt", part 1. Beignets, Basic
+# Crepes and Dried Cherry Almond Scones were already imported and are skipped.
+recipes:
+  - name: Super Apple Pie
+    categories: [Desserts]
+    servings: 10
+    description:
+      - Recipe courtesy Alton Brown, 2008. Baked in a 2-inch deep, 9 1/2 to 10-inch tart pan with a pie bird. Start the crust and the apples at least 1 1/2 hours ahead.
+    ingredients:
+      - { qty: 6, measure: oz, ingredient: Butter, note: "unsalted, 1/2-inch pieces, for the crust" }
+      - { qty: 2, measure: oz, ingredient: Shortening, note: "vegetable, 1/2-inch pieces, for the crust" }
+      - { qty: 7, measure: tbsp, ingredient: Applejack, note: "5 to 7, for the crust" }
+      - { qty: 12, measure: oz, ingredient: Flour, note: "all-purpose, about 2 3/4 cups, plus extra for dusting" }
+      - { qty: 1, measure: tsp, ingredient: Salt, note: table }
+      - { qty: 1, measure: tbsp, ingredient: Sugar, note: "granulated, for the crust" }
+      - { qty: "3 1/2", measure: lb, ingredient: Apple, note: "3 to 3 1/2 lb (about 6 large), a mix of Granny Smith, Honeycrisp, Braeburn and Golden Delicious" }
+      - { qty: "1/2", measure: cup, ingredient: Sugar, note: "divided, for the filling" }
+      - { qty: 3, measure: tbsp, ingredient: Tapioca flour }
+      - { qty: 2, measure: tbsp, ingredient: Apple jelly }
+      - { qty: 1, measure: tbsp, ingredient: Cider, note: apple }
+      - { qty: 2, measure: tsp, ingredient: Lime juice, note: freshly squeezed }
+      - { qty: "1/4", measure: tsp, ingredient: Kosher salt }
+      - { qty: "1/4", measure: tsp, ingredient: Grains of paradise, note: freshly ground }
+    directions:
+      - Refrigerate the butter, shortening and applejack for 1 hour.
+      - Pulse the flour, salt and sugar in a food processor 3 to 4 times. Add the butter and pulse 5 to 6 times until mealy, then the shortening and pulse 3 to 4 times.
+      - Sprinkle in 5 tablespoons applejack and pulse 5 times. Add more as needed until it holds together when squeezed. Divide in half by weight, shape into disks, wrap and refrigerate at least 1 hour or overnight.
+      - Peel, core and cut the apples into 1/2-inch wedges. Toss with 1/4 cup sugar and drain in a colander over a bowl for 1 1/2 hours.
+      - Reduce the drained liquid in a small saucepan over medium heat to 2 tablespoons and let cool. Toss the apples with the remaining sugar, tapioca flour, jelly, cider, lime juice, salt and grains of paradise.
+      - Preheat the oven to 425 degrees F. Roll one disk on floured waxed paper into a 12-inch circle and fit it into the tart pan, crimping and trimming. Set a pie bird in the center.
+      - Arrange the apples in concentric circles from the edge in, mounding slightly in the center, and pour over any liquid in the bowl.
+      - Roll out the second disk, lay it over the apples with the pie bird poking through, and press the edges together. Brush the top with the reduced juice except around the edge, and trim.
+      - Set on a parchment-lined half sheet pan and bake on the oven floor 30 minutes, then on the lower rack about 20 minutes more, until the apples are cooked but not mushy. Cool at least 4 hours.
+    notes:
+      - In an electric oven with coils on the bottom, put the sheet pan on the lowest rack over the coils, not directly on them.
+
+  - name: Whole Wheat Pita Chips
+    categories: [Hors d'Oeuvres, Snacks]
+    ingredients:
+      - { qty: 4, ingredient: Pita, note: whole wheat }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: "1/2", measure: tsp, ingredient: Kosher salt }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Preheat the oven to 350 degrees F. Cut each pita into 8 wedges and arrange on a baking sheet.
+      - Drizzle with the oil, sprinkle with salt and pepper and bake until crisp and golden, 12 to 15 minutes.
+
+  - name: Curried White Bean Dip
+    categories: [Hors d'Oeuvres, Beans]
+    servings: 4
+    description:
+      - Recipe courtesy Giada De Laurentiis. Serves 4 to 6.
+    ingredients:
+      - { qty: 1, measure: can, ingredient: Cannellini beans, note: "15-ounce, drained and rinsed" }
+      - { qty: 1, measure: cup, ingredient: Parsley, note: "fresh flat-leaf leaves, packed, coarsely chopped" }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, measure: tbsp, ingredient: Lemon juice, note: fresh }
+      - { qty: 2, measure: tsp, ingredient: Curry powder, note: Madras }
+      - { qty: "1 1/2", measure: tsp, ingredient: Ground cumin }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt, note: plus extra for seasoning }
+      - { qty: "1/8", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: peeled and halved }
+      - { qty: "1/2", ingredient: Lemon zest, note: of 1/2 large lemon }
+      - { ingredient: Whole Wheat Pita Chips, note: for serving }
+    directions:
+      - Blend the beans, parsley, oil, lemon juice, curry powder, cumin, salt, cayenne, garlic and lemon zest in a food processor until smooth. Season with salt.
+      - Serve with Whole Wheat Pita Chips alongside.
+
+  - name: Crawfish Boulettes with Creole Tartar Sauce
+    categories: [Hors d'Oeuvres, Seafood, Cajun]
+    servings: 40
+    description:
+      - Recipe courtesy Emeril Lagasse, 2005. Makes 40 boulettes. The file calls for Emeril's Bayou Blast and Creole Tartar Sauce ("recipe follows"), but neither recipe is included.
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Onion, note: chopped }
+      - { qty: "1/4", measure: cup, ingredient: Bell pepper, note: chopped }
+      - { qty: "1/4", measure: cup, ingredient: Celery, note: chopped }
+      - { qty: "1 1/2", measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: lb, ingredient: Crawfish tails, note: "peeled, or 1 pound cooked and peeled shrimp" }
+      - { qty: 5, measure: slice, ingredient: Bread, note: "stale, broken into small pieces" }
+      - { qty: 1, ingredient: Egg, note: beaten }
+      - { qty: 3, measure: tbsp, ingredient: Green onion, note: chopped }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: chopped }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: "1/8", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1 1/2", measure: cup, ingredient: Bread crumbs, note: fine dried }
+      - { qty: 1, measure: tbsp, ingredient: Creole seasoning, note: "Emeril's Bayou Blast, plus more for seasoning" }
+      - { ingredient: Shortening, note: "solid vegetable, or vegetable oil, for deep-frying" }
+      - { ingredient: Tartar sauce, note: "Creole, for serving" }
+    directions:
+      - In a food processor pulse the onions, peppers, celery, garlic, crawfish, bread and egg a few times to chop finely. Do not puree.
+      - Transfer to a bowl, stir in the green onions and parsley and season with the salt, pepper and cayenne.
+      - Heat 3 inches of shortening or oil to 360 degrees F in a large heavy pot.
+      - Shape into 1-tablespoon balls. Season the bread crumbs with the Bayou Blast and roll the balls in them.
+      - Fry until golden brown, about 2 minutes. Drain, season with more Bayou Blast and serve hot with Creole Tartar Sauce.
+
+  - name: Alton Brown's Crepes
+    categories: [Breads, Desserts]
+    description:
+      - Recipe courtesy Alton Brown. Makes 17 to 22 crepes. The batter keeps up to 48 hours.
+    ingredients:
+      - { qty: 2, ingredient: Egg, note: large }
+      - { qty: "3/4", measure: cup, ingredient: Milk }
+      - { qty: "1/2", measure: cup, ingredient: Water }
+      - { qty: 1, measure: cup, ingredient: Flour }
+      - { qty: 3, measure: tbsp, ingredient: Butter, note: "melted, plus more for the pan" }
+    directions:
+      - Pulse everything in a blender for 10 seconds. Refrigerate the batter 1 hour so the bubbles subside and the crepes are less likely to tear.
+      - Heat a small nonstick pan and coat with butter. Pour 1 ounce of batter into the center and swirl to spread. Cook 30 seconds, flip, cook 10 seconds more and lay flat on a cutting board to cool.
+      - Once cool, stack and store in sealed plastic bags in the refrigerator for several days or the freezer up to 2 months. Thaw frozen crepes on a rack before peeling apart.
+    notes:
+      - "Savory variation: add 1/4 teaspoon salt and 1/4 cup chopped fresh herbs, spinach or sun-dried tomatoes to the egg mixture."
+      - "Sweet variation: add 2 1/2 tablespoons sugar, 1 teaspoon vanilla extract and 2 tablespoons of your favorite liqueur to the egg mixture."
+
+  - name: Crepes with Mascarpone and Cherries
+    categories: [Desserts]
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell. If making the filling more than 2 hours ahead, refrigerate it but bring it to room temperature to serve.
+    ingredients:
+      - { qty: 1, measure: pt, ingredient: Mascarpone, note: room temperature }
+      - { qty: "3/4", measure: cup, ingredient: Chocolate, note: tiny chips or finely chopped }
+      - { qty: "1 1/4", measure: cup, ingredient: Sugar, note: divided }
+      - { qty: 1, measure: pinch, ingredient: Cinnamon, note: ground }
+      - { qty: 1, measure: lb, ingredient: Cherry, note: pitted and halved }
+      - { qty: 1, ingredient: Lemon, note: "Meyer, zested and juiced" }
+      - { qty: 1, measure: splash, ingredient: Water }
+      - { ingredient: Basic Crepes, note: "1/2 recipe, 8 crepes" }
+    directions:
+      - Combine the mascarpone, chocolate, 1/2 cup sugar and the cinnamon.
+      - In a small saucepan over medium heat cook the cherries, remaining sugar, lemon zest and juice and a splash of water until very sweet and syrupy, 10 to 12 minutes.
+      - Spread the mascarpone mixture about 1/4 inch thick on the lower half of a crepe, fold the top over into a half circle and press, then fold again into a loose triangle. Repeat with the rest.
+      - Arrange 2 triangles on each plate and spoon the stewed cherries over.
+
+  - name: Caribbean Conch Fritters
+    categories: [Hors d'Oeuvres, Seafood, Caribbean]
+    description:
+      - Emeril Lagasse's fritters, served with his Caribbean Conch Chowder.
+    ingredients:
+      - { qty: 2, measure: tsp, ingredient: Canola oil, note: or vegetable oil }
+      - { qty: "1/4", measure: cup, ingredient: Onion, note: "white, finely chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Red bell pepper, note: finely chopped }
+      - { qty: 1, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 1, measure: tsp, ingredient: Jalapeno, note: minced }
+      - { qty: "1/2", measure: tsp, ingredient: Creole seasoning, note: "Emeril's Essence, plus more for seasoning" }
+      - { qty: 2, measure: cup, ingredient: Conch, note: "steamed or parboiled, finely diced (about 1 pound)" }
+      - { qty: "1 1/2", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: "1 1/2", measure: tsp, ingredient: Baking powder }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: 1, ingredient: Egg, note: "large, beaten" }
+      - { qty: 1, measure: cup, ingredient: Milk, note: whole }
+      - { qty: 1, measure: dash, ingredient: Hot sauce }
+      - { qty: 1, measure: tbsp, ingredient: Parsley, note: chopped }
+      - { ingredient: Vegetable oil, note: for frying }
+    directions:
+      - Heat the oil in a skillet over medium-high heat and cook the onions, bell pepper, garlic, jalapeno and Essence, stirring, 2 minutes. Add the conch and cook 2 minutes. Cool.
+      - Sift the flour, baking powder and salt into a large bowl. Mix in the egg, milk and pepper sauce to make a thick batter, then stir in the parsley and conch mixture.
+      - Heat 2 to 3 inches of oil to 350 degrees F in a deep saute pan or cast iron skillet.
+      - Drop in heaping tablespoons of batter and fry, turning once, until golden, 3 to 4 minutes. Drain, season with Essence and serve hot.
+
+  - name: Honey Ricotta Cheesecake
+    categories: [Desserts]
+    description:
+      - Chill at least 8 hours and up to 2 days before serving.
+    ingredients:
+      - { qty: 8, measure: oz, ingredient: Biscotti, note: purchased }
+      - { qty: 6, measure: tbsp, ingredient: Butter, note: "3/4 stick, unsalted, melted" }
+      - { qty: 12, measure: oz, ingredient: Ricotta, note: "fresh whole milk, drained" }
+      - { qty: 16, measure: oz, ingredient: Cream cheese, note: "2 (8-ounce) packages, room temperature" }
+      - { qty: "3/4", measure: cup, ingredient: Sugar }
+      - { qty: "1/4", measure: cup, ingredient: Honey, note: orange blossom or clover }
+      - { qty: 1, measure: tbsp, ingredient: Orange zest }
+      - { qty: 4, ingredient: Egg, note: large }
+    directions:
+      - Preheat the oven to 350 degrees F. Wrap the outside of a 9-inch springform pan (2 3/4-inch sides) with 2 layers of heavy-duty foil.
+      - Finely grind the biscotti in a food processor, add the butter and process until moistened. Press over the bottom (not the sides) of the pan and bake until golden, about 15 minutes. Cool completely.
+      - Blend the ricotta in a clean processor until smooth. Add the cream cheese and sugar and blend well, scraping down. Blend in the honey and zest, then pulse in the eggs just until blended.
+      - Pour over the crust, set the pan in a roasting pan and add hot water halfway up the sides.
+      - Bake until golden and the center moves slightly when shaken, about 1 hour 5 minutes. Cool on a rack 1 hour, then refrigerate until cold. Cut into wedges.
+
+  - name: Warm Lemon Blueberries
+    categories: [Desserts, Sauces]
+    description:
+      - The topping for Tyler Florence's Ultimate Cheesecake.
+    ingredients:
+      - { qty: 1, measure: pt, ingredient: Blueberry }
+      - { qty: 1, ingredient: Lemon, note: zested and juiced }
+      - { qty: 2, measure: tbsp, ingredient: Sugar }
+    directions:
+      - Simmer everything in a small saucepan over medium heat about 5 minutes, until the fruit begins to break down slightly. Let cool before spreading on the cheesecake.
+
+  - name: Ultimate Cheesecake
+    categories: [Desserts]
+    servings: 6
+    description:
+      - Recipe courtesy Tyler Florence. Baked in an 8-inch springform pan in a water bath.
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Graham crackers, note: "finely ground, about 30 squares" }
+      - { qty: "1/2", measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: 1, ingredient: Butter, note: "stick, unsalted, melted" }
+      - { ingredient: Cooking spray }
+      - { qty: 1, measure: lb, ingredient: Cream cheese, note: "2 (8-ounce) blocks, softened" }
+      - { qty: 3, ingredient: Egg }
+      - { qty: 1, measure: cup, ingredient: Sugar }
+      - { qty: 1, measure: pt, ingredient: Sour cream }
+      - { qty: 1, ingredient: Lemon, note: zested }
+      - { qty: 1, measure: dash, ingredient: Vanilla extract }
+      - { ingredient: Warm Lemon Blueberries, note: for topping }
+    directions:
+      - Preheat the oven to 325 degrees F. Mix the graham crumbs, cinnamon and butter with a fork until evenly moistened.
+      - Spray the bottom and sides of the pan, press the crumbs into the base and 1 inch up the sides and refrigerate 5 minutes.
+      - Beat the cream cheese on low 1 minute until smooth. Beat in the eggs one at a time, then gradually the sugar, until creamy, 1 to 2 minutes.
+      - Add the sour cream, lemon zest and vanilla, scraping down the bowl; mix well but don't overbeat. Pour into the crust and smooth the top.
+      - Set the pan on a large piece of foil and fold it up the sides. Put in a roasting pan and add boiling water halfway up. Bake 45 minutes; it should still jiggle.
+      - Cool in the pan 30 minutes, then chill loosely covered at least 4 hours. Run a thin spatula around the rim, unmold onto a plate and spread with the blueberry topping.
+      - Slice with a thin, non-serrated knife dipped in hot water, wiping it dry after each cut.
+
+  - name: Strawberry Rhubarb Crisp
+    categories: [Desserts]
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. Baked in 8 ramekins or 1 wide shallow dish. It appears twice in the file.
+    ingredients:
+      - { qty: 1, measure: qt, ingredient: Strawberry, note: "stemmed and quartered" }
+      - { qty: 4, measure: stalk, ingredient: Rhubarb, note: 1/2-inch lengths }
+      - { qty: "1/2", measure: cup, ingredient: Sugar }
+      - { qty: "1/4", measure: cup, ingredient: Cornstarch }
+      - { qty: 1, ingredient: Orange, note: zested and juiced }
+      - { qty: 2, measure: tbsp, ingredient: Balsamic vinegar }
+      - { qty: "1 1/4", measure: cup, ingredient: Wheat flour, note: "whole-wheat, for the topping" }
+      - { qty: "1/2", measure: cup, ingredient: Rolled oats }
+      - { qty: 1, measure: cup, ingredient: Brown sugar }
+      - { qty: "1 1/4", ingredient: Butter, note: "sticks, pea-size pieces" }
+      - { qty: 1, measure: tsp, ingredient: Vanilla extract }
+      - { qty: 1, measure: pinch, ingredient: Salt }
+      - { qty: 2, measure: tbsp, ingredient: Water, note: 1 to 2 }
+      - { ingredient: Whipped cream, note: "or ice cream, for serving" }
+    directions:
+      - Preheat the oven to 350 degrees F. Stir the filling ingredients together well and spoon into the ramekins or dish.
+      - Pulse the flour, oats and brown sugar in a food processor. Add the butter, vanilla and salt and pulse until dry and crumbly. Add 1 tablespoon water and pulse until it starts to come together, adding another if still dry.
+      - Crumble the topping over the filling and bake until hot and bubbly all the way through and the topping is crisp and light brown, 25 to 30 minutes. Serve warm with whipped cream or ice cream.
+
+  - name: Peach Crisp
+    categories: [Desserts]
+    servings: 6
+    description:
+      - Recipe courtesy Anne Burrell. Made in 6 (6-ounce) ramekins. Great hot with vanilla ice cream.
+    ingredients:
+      - { qty: 5, ingredient: Peach, note: "large, ripe, pitted and cut into chunks" }
+      - { qty: 1, ingredient: Lemon, note: zested and juiced }
+      - { qty: 3, measure: tbsp, ingredient: Flour, note: "all-purpose, for the filling" }
+      - { qty: "1/4", measure: cup, ingredient: Brown sugar, note: "tightly packed, for the filling" }
+      - { qty: 2, measure: tbsp, ingredient: Sugar, note: for the filling }
+      - { qty: "1/2", measure: tsp, ingredient: Vanilla extract }
+      - { qty: "1/2", measure: cup, ingredient: Golden raisins }
+      - { qty: 2, measure: pinch, ingredient: Kosher salt, note: 1 for the filling and 1 for the topping }
+      - { qty: "1 1/4", measure: cup, ingredient: Flour, note: "all-purpose, for the topping" }
+      - { qty: "1/2", measure: cup, ingredient: Rolled oats }
+      - { qty: "1/2", measure: cup, ingredient: Brown sugar, note: for the topping }
+      - { qty: "1/2", measure: cup, ingredient: Sugar, note: for the topping }
+      - { qty: "1 1/4", ingredient: Butter, note: "sticks, cold, unsalted, pea-size pieces" }
+      - { qty: "1/2", measure: cup, ingredient: Almond, note: sliced }
+      - { qty: 2, measure: tbsp, ingredient: Water, note: "1 to 2, cold" }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Toss the peaches with the lemon zest and juice, stir in the rest of the filling ingredients and divide among the ramekins.
+      - Pulse all the topping ingredients except the water in a food processor about 30 seconds. Add water a tablespoon at a time until clumpy but crumbly.
+      - Sprinkle the topping loosely over each ramekin - don't pack it; it should look craggy.
+      - Bake on a sheet tray 20 to 25 minutes, until bubbly and the topping is brown and crisp.
+
+  - name: Peach Cobbler
+    categories: [Desserts]
+    description:
+      - The batter rises to the top as it bakes.
+    ingredients:
+      - { qty: 4, measure: cup, ingredient: Peach, note: peeled and sliced }
+      - { qty: 2, measure: cup, ingredient: Sugar, note: divided }
+      - { qty: "1/2", measure: cup, ingredient: Water }
+      - { qty: 8, measure: tbsp, ingredient: Butter }
+      - { qty: "1 1/2", measure: cup, ingredient: Self-rising flour }
+      - { qty: "1 1/2", measure: cup, ingredient: Milk }
+      - { ingredient: Cinnamon, note: "ground, optional" }
+    directions:
+      - Preheat the oven to 350 degrees F.
+      - Bring the peaches, 1 cup sugar and the water to a boil in a saucepan and simmer 10 minutes. Remove from the heat.
+      - Melt the butter in a 3-quart baking dish in the oven.
+      - Slowly mix the remaining sugar, flour and milk to avoid clumps and pour over the melted butter. Do not stir.
+      - Spoon the fruit on top, gently pouring in the syrup, and sprinkle with cinnamon if using. Bake 30 to 45 minutes.
