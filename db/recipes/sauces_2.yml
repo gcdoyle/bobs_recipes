@@ -1,0 +1,364 @@
+# Recipes from "Sauces & Dressings.txt", part 2. Skipped as already imported:
+# the second "Cole Slaw" (same as Cole Slaw), Emeril's Cranberry Sauce, the
+# ginger ale Cranberry Sauce, Garlic Dressing (same as Grilled Romaine
+# Dressing), both Horseradish Sauce copies, and the 1-yolk Hollandaise (part of
+# Roasted Asparagus with Hollandaise). Garlic Lover's Hot Sauce appears twice.
+recipes:
+  - name: Pickled Cauliflower
+    categories: [Vegetables, Snacks]
+    ingredients:
+      - { qty: "1/2", measure: head, ingredient: Cauliflower, note: cut into very small florets }
+      - { qty: 1, measure: cup, ingredient: Champagne vinegar }
+      - { qty: "1/2", measure: cup, ingredient: Water }
+      - { qty: 3, measure: tbsp, ingredient: Kosher salt }
+      - { qty: 2, measure: tbsp, ingredient: Sugar }
+      - { qty: 2, measure: dash, ingredient: Hot sauce, note: "2 big shakes, recommended Tabasco" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: smashed }
+      - { qty: 3, ingredient: Bay leaf }
+    directions:
+      - Combine everything in a covered container and refrigerate at least 24 hours.
+
+  - name: Lime Chimichurri
+    categories: [Sauces, Marinades]
+    description:
+      - Half is used as a marinade and half as the finishing sauce.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Olive oil, note: Spanish }
+      - { qty: 2, ingredient: Lime, note: juiced }
+      - { qty: 4, measure: clove, ingredient: Garlic }
+      - { qty: 2, ingredient: Shallot, note: minced }
+      - { qty: 1, measure: tbsp, ingredient: Basil, note: "fresh leaves, minced" }
+      - { qty: 1, measure: tbsp, ingredient: Thyme, note: "fresh leaves, minced" }
+      - { qty: 1, measure: tbsp, ingredient: Oregano, note: "fresh leaves, minced" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+    directions:
+      - Combine everything in a bowl and season with salt and pepper.
+      - Divide between 2 bowls; use one as a marinade and the other as the finishing sauce.
+
+  - name: Chimichurri Sauce
+    categories: [Sauces]
+    description:
+      - Makes 2 1/2 cups. Keeps up to 1 month in the refrigerator.
+    ingredients:
+      - { qty: 1, measure: bunch, ingredient: Parsley, note: "fresh flat-leaf, finely chopped" }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 6, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: "1 1/2", measure: tsp, ingredient: Smoked paprika }
+      - { qty: 1, measure: tbsp, ingredient: Oregano, note: "fresh leaves, finely chopped" }
+      - { qty: "1/2", measure: cup, ingredient: Red wine vinegar }
+      - { qty: "1 1/2", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Pulse everything in a food processor until combined. Store in a glass or plastic container and use as needed.
+
+  - name: Chipotle Sauce
+    categories: [Sauces, BBQ]
+    ingredients:
+      - { qty: "1 1/2", measure: cup, ingredient: BBQ sauce }
+      - { qty: "3/4", measure: cup, ingredient: Canola oil }
+      - { qty: "1/3", measure: cup, ingredient: Lemon juice }
+      - { qty: "3/4", measure: oz, ingredient: Dijon mustard }
+      - { qty: 2, ingredient: Chipotle in adobo, note: 1 to 2 peppers }
+      - { qty: "3/4", measure: oz, ingredient: Red pepper flakes, note: red chili flakes }
+      - { qty: "1/3", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1/3", measure: tsp, ingredient: Black pepper, note: ground }
+    directions:
+      - Puree everything in a blender, cover and refrigerate.
+
+  - name: Kicked Up Cocktail Sauce
+    categories: [Sauces, Seafood]
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Ketchup }
+      - { qty: 1, measure: tbsp, ingredient: Worcestershire sauce }
+      - { qty: 1, measure: tbsp, ingredient: Lemon juice, note: fresh }
+      - { qty: 2, measure: tbsp, ingredient: Prepared horseradish, note: drained }
+      - { qty: "1/2", measure: tsp, ingredient: Hot sauce }
+      - { qty: 1, measure: pinch, ingredient: Salt }
+      - { qty: 1, measure: pinch, ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Whisk everything together well.
+
+  - name: Cole Slaw Dressing
+    categories: [Sauces, Slaw]
+    description:
+      - Bob added cumin to the salt and pepper.
+    ingredients:
+      - { qty: "1 1/2", measure: pt, ingredient: Mayonnaise }
+      - { qty: 1, measure: cup, ingredient: Sour cream }
+      - { qty: 1, measure: oz, ingredient: Garlic, note: "peeled, chopped" }
+      - { qty: "2 1/2", measure: oz, ingredient: Champagne vinegar }
+      - { qty: "1 1/2", measure: oz, ingredient: Sugar, note: granulated }
+      - { qty: "1 1/4", measure: tbsp, ingredient: Celery seed }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { ingredient: Ground cumin }
+    directions:
+      - Mix everything together and adjust the seasoning to taste.
+
+  - name: Creamy Cole Slaw
+    categories: [Slaw, Salads]
+    ingredients:
+      - { qty: 1, measure: head, ingredient: Green cabbage, note: finely shredded }
+      - { qty: 2, ingredient: Carrot, note: "large, finely shredded" }
+      - { qty: "3/4", measure: cup, ingredient: Mayonnaise, note: best-quality }
+      - { qty: 2, measure: tbsp, ingredient: Sour cream }
+      - { qty: 2, measure: tbsp, ingredient: Onion, note: "Spanish, grated" }
+      - { qty: 2, measure: tbsp, ingredient: Sugar, note: or to taste }
+      - { qty: 2, measure: tbsp, ingredient: White vinegar }
+      - { qty: 1, measure: tbsp, ingredient: Dry mustard }
+      - { qty: 2, measure: tsp, ingredient: Celery salt }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Combine the cabbage and carrots in a large bowl.
+      - Whisk the mayonnaise, sour cream, onion, sugar, vinegar, mustard, celery salt, salt and pepper, add to the cabbage and mix well. Taste and add more salt, pepper or sugar if you like.
+
+  - name: Anne Burrell's Red Cabbage Slaw
+    categories: [Slaw, Salads]
+    description:
+      - Recipe courtesy Anne Burrell. Creamy and tart; serve cold or at room temperature.
+    ingredients:
+      - { qty: 1, measure: head, ingredient: Red cabbage, note: "purple, tough bottom ribs discarded, shredded" }
+      - { qty: 3, ingredient: Carrot, note: peeled and grated }
+      - { qty: 1, ingredient: Red onion, note: "peeled, very thinly sliced" }
+      - { qty: 1, measure: cup, ingredient: Malt vinegar }
+      - { ingredient: Kosher salt }
+      - { qty: 2, measure: cup, ingredient: Mayonnaise, note: 1 1/2 to 2 cups }
+      - { qty: 2, measure: tbsp, ingredient: Dijon mustard }
+    directions:
+      - Combine the cabbage, carrots and onion in a large serving bowl. Douse with the malt vinegar, season with salt and let sit at least 1 hour to soften the cabbage.
+      - Stir in the mayonnaise and mustard and taste for seasoning. Refrigerate leftovers.
+
+  - name: Mexican Style Slaw
+    categories: [Slaw, Salads, Mexican]
+    servings: 4
+    description:
+      - Recipe courtesy Marcela Valladolid. Serve cold.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Soy sauce }
+      - { qty: 2, ingredient: Lime, note: "small, juiced" }
+      - { qty: 1, measure: tbsp, ingredient: Sesame oil, note: toasted }
+      - { qty: 1, measure: tbsp, ingredient: Sugar }
+      - { qty: 1, ingredient: Chile de arbol, note: "dried, or any small spicy red dried chile, stemmed, seeded and cut into rings" }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: cup, ingredient: Jicama, note: "shredded, peeled (1 small)" }
+      - { qty: 3, ingredient: Beet root, note: "medium raw beets, peeled and shredded" }
+      - { qty: 1, ingredient: Cucumber, note: "peeled, seeded, grated or thinly sliced" }
+    directions:
+      - Mix the soy sauce, lime juice, sesame oil, sugar, chile, salt and pepper for the dressing.
+      - Toss the jicama, beets and cucumber with the dressing in a large salad bowl. Cover and chill.
+
+  - name: Bob's Quick Marinated Cucumbers
+    categories: [Salads, Asian]
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Vinegar }
+      - { qty: 2, measure: tbsp, ingredient: Brown sugar }
+      - { qty: "1/4", measure: cup, ingredient: White wine }
+      - { qty: 2, measure: tbsp, ingredient: Soy sauce }
+      - { qty: "1/2", measure: cup, ingredient: Cucumber, note: peeled and thinly sliced }
+    directions:
+      - Mix the vinegar, brown sugar, wine and soy sauce. Add the cucumber and marinate 10 to 15 minutes.
+
+  - name: Gochujang Paste
+    categories: [Sauces, Asian]
+    description:
+      - Seasoned red pepper paste for Seasoned Cucumber (Korean). Gochujang is sold in jars or tubs at Korean and Asian markets.
+    ingredients:
+      - { qty: 4, measure: tbsp, ingredient: Gochujang }
+      - { qty: 1, measure: tbsp, ingredient: Sugar }
+      - { qty: 1, measure: tbsp, ingredient: Sesame seeds }
+      - { qty: 2, measure: tsp, ingredient: Sesame oil }
+    directions:
+      - Combine everything in a small bowl and mix well.
+
+  - name: Seasoned Cucumber (Korean)
+    categories: [Salads, Asian]
+    description:
+      - Dashida is a dried soup stock made from seafood or beef essence. Marinate at least 1 hour.
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Distilled white vinegar, note: or rice vinegar }
+      - { qty: 2, measure: tbsp, ingredient: Soy sauce }
+      - { qty: 1, measure: dash, ingredient: Dashida }
+      - { qty: 2, measure: tsp, ingredient: Sugar }
+      - { qty: 2, measure: tsp, ingredient: Gochujang Paste, note: plus more to taste }
+      - { qty: 1, measure: tsp, ingredient: Sesame oil, note: toasted }
+      - { qty: 4, ingredient: Cucumber, note: "Korean or kirby, thinly sliced" }
+      - { qty: 1, ingredient: Onion, note: "small white, halved and thinly sliced" }
+      - { qty: 1, measure: tbsp, ingredient: Sesame seeds, note: toasted }
+    directions:
+      - Whisk the vinegar, soy, dashida, sugar, gochujang paste and sesame oil in a large bowl.
+      - Stir in the cucumber and onion, sprinkle with sesame seeds and marinate at least 1 hour.
+
+  - name: Cucumber Salad
+    categories: [Salads]
+    ingredients:
+      - { qty: 3, ingredient: Cucumber, note: "large, thinly sliced" }
+      - { qty: 2, measure: tsp, ingredient: Salt }
+      - { qty: 3, measure: tbsp, ingredient: Lemon juice, note: fresh }
+      - { qty: 1, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: 1, measure: tbsp, ingredient: Sugar }
+      - { qty: 2, measure: tbsp, ingredient: Dill, note: "fresh, chopped" }
+      - { qty: "1/2", measure: cup, ingredient: Red onion, note: thinly sliced }
+    directions:
+      - Toss the cucumber with the salt in a large bowl. Cover with a plate resting on the cucumbers, weight with a 1-pound can and let stand 1 to 2 hours.
+      - Drain in a colander and rinse well.
+      - Combine the lemon juice, oil, sugar and dill in a serving bowl, mix in the onion and cucumber and refrigerate overnight. Serve cold or at room temperature.
+
+  - name: Red Onion and Cucumber Salad
+    categories: [Salads]
+    ingredients:
+      - { qty: 2, ingredient: Red onion, note: julienned }
+      - { ingredient: Salt }
+      - { qty: 3, ingredient: Cucumber, note: "English, peeled, seeded and thinly sliced" }
+      - { qty: 2, measure: tsp, ingredient: Ginger, note: "fresh, peeled and grated" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: tbsp, ingredient: Chives, note: "fresh, minced" }
+      - { qty: 2, measure: tbsp, ingredient: Rice vinegar }
+      - { qty: "1/4", measure: cup, ingredient: Vegetable oil, note: preferably canola }
+      - { qty: 1, measure: pinch, ingredient: Red pepper flakes }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Put the onions in a large bowl. Lightly salt the cucumbers in a colander and drain about 10 minutes.
+      - Whisk the ginger, garlic, chives and vinegar, then slowly whisk in the oil until smooth. Add the pepper flakes and season with salt and pepper.
+      - Toss the cucumbers with the onions, then with the dressing. Refrigerate at least 30 minutes or up to 24 hours. Serve chilled.
+
+  - name: Easy Enchilada Sauce
+    categories: [Sauces, Mexican]
+    description:
+      - Recipe courtesy Emeril Lagasse.
+    ingredients:
+      - { qty: 3, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: 1, measure: tbsp, ingredient: Flour }
+      - { qty: "1/4", measure: cup, ingredient: Chili powder }
+      - { qty: 2, measure: cup, ingredient: Chicken stock }
+      - { qty: 10, measure: oz, ingredient: Tomato paste }
+      - { qty: 1, measure: tsp, ingredient: Oregano, note: dried }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+    directions:
+      - Heat the oil in a medium saucepan, add the flour and stir smooth with a wooden spoon. Cook 1 minute.
+      - Add the chili powder and cook 30 seconds. Stir in the stock, tomato paste, oregano and cumin.
+      - Bring to a boil, then cook on low 15 minutes, until thickened and smooth. Adjust the seasoning.
+
+  - name: French Dressing
+    categories: [Sauces, Salads]
+    description:
+      - Makes 1 cup.
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: White wine vinegar }
+      - { qty: "1/4", measure: cup, ingredient: Ketchup }
+      - { qty: 1, measure: tbsp, ingredient: Sour cream }
+      - { qty: 1, measure: tsp, ingredient: Dry mustard }
+      - { qty: 1, measure: tsp, ingredient: Worcestershire sauce }
+      - { qty: 1, measure: tsp, ingredient: Sugar }
+      - { qty: "1/2", ingredient: Lemon, note: juiced }
+      - { qty: "1/2", measure: tsp, ingredient: Paprika }
+      - { qty: "1/3", measure: cup, ingredient: Vegetable oil }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Combine the first 8 ingredients in a small bowl. Slowly whisk in the oil and season with salt and pepper.
+
+  - name: Sweet French Dressing
+    categories: [Sauces, Salads]
+    description:
+      - The second French dressing in the file, which lists only the ingredients.
+    ingredients:
+      - { qty: "1/3", measure: cup, ingredient: White wine vinegar }
+      - { qty: "1/3", measure: cup, ingredient: Sugar }
+      - { qty: "1/2", measure: cup, ingredient: Ketchup }
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: "extra-virgin, eyeball it" }
+      - { qty: 1, measure: tsp, ingredient: Garlic powder }
+      - { qty: 2, measure: tsp, ingredient: Worcestershire sauce }
+      - { qty: "1/4", ingredient: Onion, note: "small white, finely chopped or grated" }
+      - { ingredient: Salt }
+      - { ingredient: White pepper }
+    notes:
+      - Ingredients only; the file has no directions.
+
+  - name: Homemade Hoisin Sauce
+    categories: [Sauces, Asian]
+    description:
+      - The file lists only the ingredients, and "1/4 soy sauce" with no unit; 1/4 cup is assumed.
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Soy sauce }
+      - { qty: 2, measure: tbsp, ingredient: Tomato paste }
+      - { qty: 1, measure: tsp, ingredient: Ginger, note: chopped }
+      - { qty: 1, measure: tsp, ingredient: Garlic, note: chopped }
+      - { qty: 1, measure: tsp, ingredient: Hot sauce }
+      - { qty: "1/4", measure: cup, ingredient: Light brown sugar }
+      - { qty: 2, measure: tbsp, ingredient: Cider vinegar }
+      - { qty: "1/8", measure: tsp, ingredient: Black pepper }
+    notes:
+      - Ingredients only; the file has no directions.
+
+  - name: Mustard Horseradish Sauce
+    categories: [Sauces]
+    description:
+      - Serve at room temperature.
+    ingredients:
+      - { qty: "3/4", measure: cup, ingredient: Mayonnaise, note: good }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Dijon mustard }
+      - { qty: 1, measure: tbsp, ingredient: Whole grain mustard }
+      - { qty: "1/2", measure: tbsp, ingredient: Prepared horseradish }
+      - { qty: 2, measure: tbsp, ingredient: Sour cream }
+      - { qty: 1, measure: pinch, ingredient: Kosher salt }
+    directions:
+      - Whisk everything together in a small bowl.
+
+  - name: Warm Horseradish Cream Sauce
+    categories: [Sauces, Beef]
+    description:
+      - Untitled in the file, after Mustard Horseradish Sauce.
+    ingredients:
+      - { qty: "3/4", measure: cup, ingredient: Horseradish, note: "freshly grated, or bottled if not prepared with cream" }
+      - { qty: 3, measure: tbsp, ingredient: Shallot, note: minced }
+      - { qty: 2, measure: tsp, ingredient: Garlic, note: minced }
+      - { qty: 2, measure: tsp, ingredient: Dijon mustard }
+      - { qty: "1 1/2", measure: cup, ingredient: Heavy cream }
+      - { ingredient: Salt }
+      - { ingredient: White pepper }
+    directions:
+      - Combine everything in a saucepan, season and bring to a boil, whisking gently.
+      - Simmer, stirring occasionally, until thick enough to coat a spoon, about 12 minutes. Keep warm.
+
+  - name: Garlic Lover's Hot Sauce
+    categories: [Sauces]
+    description:
+      - Makes about 5 ounces. Bob's note on hot sauce spices - ground cumin, ground coriander, ground black pepper and garlic.
+    ingredients:
+      - { qty: 6, ingredient: Cayenne pepper, note: fresh peppers }
+      - { qty: 4, measure: clove, ingredient: Garlic }
+      - { qty: "1/4", measure: cup, ingredient: Distilled white vinegar, note: plus more for blanching }
+      - { qty: 1, ingredient: Plum tomatoes }
+      - { qty: 1, measure: tsp, ingredient: Cumin seeds, note: black cumin }
+      - { qty: "1/2", measure: tsp, ingredient: Curry powder }
+      - { qty: 1, measure: tsp, ingredient: Allspice }
+      - { qty: 1, measure: tbsp, ingredient: Sugar }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+    directions:
+      - Clean the peppers of stems, veins and seeds (this tames the bitterness and heat), then blanch them 2 to 3 minutes in boiling distilled vinegar - not in aluminum, and don't breathe the steam. Drain, saving the vinegar.
+      - Stem and seed the tomato by halving it and squeezing out the seeds and liquid.
+      - Puree everything except the vinegar in a food processor until smooth. Put in a microwaveable glass measuring cup and add vinegar to make 5 ounces.
+      - Microwave until it starts to steam, stir well, then heat again.
+      - Hot-pack into bottles that have boiled at least 5 minutes on a rack in boiling water (don't wet the paper-sealed caps). Fill with the boiling sauce, cap tightly and turn upside down 10 minutes to sanitize the lid. Cool completely before refrigerating.
+    notes:
+      - For roasted-pepper sauces, roast peppers over a gas flame until blistered and black, steam in a paper bag 10 to 15 minutes, peel and seed; roasted peppers don't need blanching. Canned tomato juice is the best substitute for fresh tomato.
+
+  - name: Blender Hollandaise Sauce
+    categories: [Sauces]
+    description:
+      - Keep it warm by setting the whole blender jar in a bowl of warm water.
+    ingredients:
+      - { qty: 5, ingredient: Egg yolk }
+      - { qty: 1, ingredient: Lemon, note: juiced }
+      - { qty: 2, measure: tbsp, ingredient: Water }
+      - { ingredient: Salt }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+      - { qty: 1, measure: lb, ingredient: Butter, note: "hot, melted" }
+    directions:
+      - Blend the yolks, lemon juice, water, salt and cayenne until light and fluffy, about 1 minute.
+      - With the blender running, drizzle in the hot butter in a thin stream. Taste for salt and lemon.
