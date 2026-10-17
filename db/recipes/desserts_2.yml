@@ -1,0 +1,537 @@
+# Recipes from "Deserts, Hos d'Oeuvres Snacks.txt", part 2. Skipped because they
+# are already imported: Dried Cherry Almond Scones, Strawberry Rhubarb Crisp
+# (second copy), Shore Is Good Seafood Dip (same as Seafood Dip) and the Essence
+# recipe under Baked Jalapeno Poppers (Emeril's Essence Creole Seasoning).
+recipes:
+  - name: Andouille Sausage Corn Fritters
+    categories: [Hors d'Oeuvres, Cajun, Sausage]
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: tbsp, ingredient: Baking powder }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+      - { qty: 1, measure: tsp, ingredient: Smoked paprika }
+      - { qty: 1, measure: tsp, ingredient: Kosher salt }
+      - { qty: 1, measure: pinch, ingredient: Black pepper, note: cracked }
+      - { qty: "1/4", measure: cup, ingredient: Sugar }
+      - { qty: "1/2", measure: cup, ingredient: Andouille sausage, note: finely diced }
+      - { qty: "1 1/2", measure: cup, ingredient: Corn, note: "frozen kernels, thawed" }
+      - { qty: 2, ingredient: Egg }
+      - { qty: 1, measure: cup, ingredient: Milk, note: whole }
+      - { qty: 1, measure: tbsp, ingredient: Thyme, note: "fresh leaves, chopped" }
+      - { qty: "1/2", measure: cup, ingredient: Butter, note: melted }
+      - { qty: 3, measure: tbsp, ingredient: Canola oil }
+    directions:
+      - Whisk the flour, baking powder, cayenne, paprika, salt, pepper and sugar in a large bowl. Add the sausage, corn, eggs, milk and thyme, then stir in the melted butter.
+      - Coat a large skillet with the oil over medium-high heat. Ladle in 2 to 3 ounces of batter per fritter, shaping mini pancakes.
+      - Cook 2 minutes, flip and cook the other side. Repeat with the remaining batter.
+
+  - name: Corn and Pumpkin Fritters
+    categories: [Hors d'Oeuvres, Desserts]
+    description:
+      - Recipe courtesy Emeril Lagasse, 2004. Serve hot, drizzled with cane syrup.
+    ingredients:
+      - { qty: 2, measure: tsp, ingredient: Vegetable oil }
+      - { qty: 1, measure: tbsp, ingredient: Butter, note: unsalted }
+      - { qty: 1, measure: cup, ingredient: Corn, note: fresh kernels cut from the cob }
+      - { qty: "1 1/4", measure: tsp, ingredient: Salt, note: divided }
+      - { qty: "1/8", measure: tsp, ingredient: White pepper }
+      - { qty: 1, measure: can, ingredient: Pumpkin puree, note: 15-ounce }
+      - { qty: 3, measure: tbsp, ingredient: Dark brown sugar }
+      - { qty: 2, ingredient: Egg, note: lightly beaten }
+      - { qty: "1/4", measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: 1, measure: pinch, ingredient: Clove, note: ground }
+      - { qty: "1/8", measure: tsp, ingredient: Nutmeg, note: ground }
+      - { qty: 1, measure: cup, ingredient: Flour, note: "all-purpose, sifted" }
+      - { qty: "1/2", measure: cup, ingredient: Cake flour, note: sifted }
+      - { qty: "1 1/2", measure: tsp, ingredient: Baking soda }
+      - { qty: 6, measure: cup, ingredient: Vegetable oil, note: for frying }
+      - { ingredient: Cane syrup, note: "or maple syrup, recommended Steen's" }
+      - { ingredient: Powdered sugar, note: for garnish }
+    directions:
+      - Heat the oil and butter in an 8-inch saute pan over medium heat. Cook the corn, stirring often, 5 minutes, season with 1/4 teaspoon salt and the white pepper and cook 5 minutes more. Cool on a plate.
+      - Whisk the pumpkin, brown sugar, eggs, cinnamon, cloves, nutmeg and remaining 1 teaspoon salt. Fold in the cooled corn.
+      - Gently stir in the flours and baking soda just until combined. Cover and refrigerate 30 minutes.
+      - Preheat the oven to 200 degrees F. Heat the frying oil to 325 degrees F in a 6-quart pot.
+      - Fry heaping tablespoons of batter, no more than 6 at a time, 3 to 4 minutes, turning, until golden. Drain and keep warm in the oven in a foil pie pan.
+      - Pile on a plate, drizzle with cane syrup and sprinkle with powdered sugar.
+
+  - name: Zucchini-Corn Fritters
+    categories: [Hors d'Oeuvres, Vegetables]
+    description:
+      - They can be made up to 2 hours ahead and reheated in a 375 degree F oven on a rack set on a baking sheet.
+    ingredients:
+      - { qty: 2, ingredient: Zucchini, note: "medium, coarsely shredded" }
+      - { ingredient: Kosher salt }
+      - { qty: 1, measure: tbsp, ingredient: Butter, note: unsalted }
+      - { qty: "1/2", ingredient: Onion, note: "small, finely chopped" }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: finely chopped }
+      - { qty: 2, ingredient: Corn, note: "ears, kernels cut off" }
+      - { qty: "1/2", measure: cup, ingredient: Cornmeal, note: yellow }
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: "1/4", measure: tsp, ingredient: Baking soda }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "3/4", measure: cup, ingredient: Buttermilk }
+      - { qty: 1, ingredient: Egg, note: large }
+      - { ingredient: Vegetable oil, note: for frying }
+    directions:
+      - Toss the zucchini with 1/2 teaspoon salt and let stand 10 minutes, then squeeze dry in a kitchen towel.
+      - Heat the butter in a large nonstick skillet over medium-high heat and cook the onion and garlic until slightly softened, about 4 minutes. Add the corn and cook until crisp-tender, about 3 minutes.
+      - Whisk the cornmeal, flour, baking soda, 3/4 teaspoon salt and 1/4 teaspoon pepper. In a large bowl whisk the buttermilk and egg, stir in the corn mixture and zucchini, then the cornmeal mixture just until combined.
+      - Heat 1/8 inch of oil in a large nonstick skillet over medium heat. Scoop in scant 1/4 cups of batter in batches and flatten with the cup.
+      - Cook until golden, 3 to 4 minutes per side. Drain on paper towels and sprinkle with salt. Serve warm or at room temperature.
+
+  - name: Molasses Cookies
+    categories: [Desserts]
+    description:
+      - From Anne Burrell's Ginger Ice Cream, for ice cream sandwiches. Makes 36 cookies.
+    ingredients:
+      - { qty: "2 1/2", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 2, measure: tsp, ingredient: Baking soda }
+      - { qty: 1, measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: 1, measure: tsp, ingredient: Ground ginger }
+      - { qty: "1/2", measure: tsp, ingredient: Clove, note: ground }
+      - { qty: 1, measure: pinch, ingredient: Salt }
+      - { qty: "1 1/2", ingredient: Butter, note: "sticks, room temperature" }
+      - { qty: 1, measure: cup, ingredient: Brown sugar }
+      - { qty: 1, ingredient: Egg }
+      - { qty: "3/4", measure: cup, ingredient: Molasses }
+      - { ingredient: Turbinado sugar, note: for coating }
+    directions:
+      - Preheat the oven to 350 degrees F. Combine the flour, baking soda, cinnamon, ginger, cloves and salt.
+      - In a stand mixer with the paddle cream the butter and brown sugar until light and fluffy. Beat in the egg, then the molasses. Mix in the flour mixture in thirds just until combined.
+      - Scoop 1-inch balls onto a sheet tray covered with turbinado sugar and toss gently to coat completely. Set on another sheet tray and squish slightly.
+      - Bake 9 to 10 minutes and cool on a rack.
+
+  - name: Ginger Ice Cream
+    categories: [Desserts]
+    servings: 4
+    description:
+      - Recipe courtesy Anne Burrell. For ice cream sandwiches, put a generous scoop between 2 Molasses Cookies; they can be made ahead and frozen - let them warm 5 to 10 minutes before serving.
+    ingredients:
+      - { qty: 3, measure: cup, ingredient: Heavy cream }
+      - { qty: 1, measure: cup, ingredient: Sugar, note: "granulated, divided" }
+      - { qty: 1, measure: tsp, ingredient: Vanilla extract }
+      - { qty: 4, ingredient: Ginger, note: "inch piece of gingerroot, peeled and coarsely chopped" }
+      - { qty: 6, ingredient: Egg }
+      - { ingredient: Molasses Cookies, note: "optional, for ice cream sandwiches" }
+    directions:
+      - Bring the cream, 1/2 cup sugar, vanilla and ginger to a boil in a medium saucepan. Turn off the heat and steep 1 hour.
+      - Beat the eggs and remaining sugar to a homogeneous consistency.
+      - Bring the cream back to a boil and turn off the heat. Immediately strain and whisk a third of it into the eggs, then whisk the eggs back into the remaining cream.
+      - Chill over an ice water bath, then churn in an ice cream machine per the manufacturer's directions.
+
+  - name: Peach Ice Cream
+    categories: [Desserts]
+    servings: 4
+    description:
+      - Recipe courtesy Paula Deen. Serves 4 to 6.
+    ingredients:
+      - { qty: 3, ingredient: Egg yolk, note: large }
+      - { qty: "3/4", measure: cup, ingredient: Light brown sugar, note: packed }
+      - { qty: "1 1/2", measure: cup, ingredient: Heavy cream }
+      - { qty: "1 1/2", measure: cup, ingredient: Milk, note: whole }
+      - { qty: 2, measure: tbsp, ingredient: Lemon juice, note: freshly squeezed }
+      - { qty: 1, measure: tsp, ingredient: Vanilla extract }
+      - { qty: 3, ingredient: Peach, note: "large, ripe, peeled, pitted and cut into bite-size chunks" }
+    directions:
+      - Whisk the yolks and sugar in a large bowl.
+      - Bring the cream and milk to a simmer in a large saucepan over low heat. Slowly whisk the hot milk into the eggs, then return to the pan.
+      - Cook over low heat, stirring constantly, 3 to 5 minutes, until the custard coats the back of a spoon. Immediately strain into a bowl and cool over ice water, stirring occasionally.
+      - Stir in the lemon juice and vanilla. Freeze in an ice cream maker, adding the peaches halfway through churning.
+
+  - name: Alton Brown's Key Lime Sorbet
+    categories: [Desserts]
+    description:
+      - Recipe courtesy Alton Brown. Makes 1 1/2 quarts. If it's held frozen more than 2 hours, move it to the refrigerator about half an hour before serving. Double the zest for a more assertive sorbet.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Sugar }
+      - { qty: 1, measure: cup, ingredient: Key lime preserves }
+      - { qty: 1, ingredient: Lemon, note: zested and juiced }
+      - { qty: 1, ingredient: Lime, note: zested and juiced }
+      - { qty: 4, measure: cup, ingredient: Club soda, note: "lime flavored, or seltzer" }
+      - { ingredient: Kosher salt }
+    directions:
+      - Stir the sugar, preserves and 1 cup of the soda in a medium saucepan over low heat until melted. Add the citrus juice and zest.
+      - Stir in the remaining soda, move to a lidded container and chill thoroughly, 2 to 3 hours.
+      - Churn in an ice cream maker until it reaches the consistency of firm slush. Return to the container and harden in the freezer 1 hour before serving.
+
+  - name: Key Lime Sorbet
+    categories: [Desserts]
+    description:
+      - The amounts of water and sugar are garbled in the file; the directions say 3/4 cup water, and 3/4 cup is assumed for the sugar too. Keeps frozen up to 20 days.
+    ingredients:
+      - { qty: "3/4", measure: cup, ingredient: Water }
+      - { qty: "3/4", measure: cup, ingredient: Sugar, note: amount unclear in the file }
+      - { qty: 1, measure: can, ingredient: Sweetened condensed milk, note: 14-ounce }
+      - { qty: 1, measure: cup, ingredient: Lime juice, note: "fresh, from limes or key limes, or bottled key lime juice" }
+    directions:
+      - Bring the water and sugar to a boil in a medium heavy saucepan, stirring until the sugar dissolves. Mix in the condensed milk, then the lime juice.
+      - Transfer to a medium bowl set over a larger bowl of ice water and cool, stirring often, about 30 minutes.
+      - Churn in an ice cream maker, then freeze in a container until firm, at least 4 hours.
+
+  - name: Basil and Lime Sorbet
+    categories: [Desserts]
+    servings: 4
+    description:
+      - Recipe courtesy Jamie Oliver. Measured by the wineglass; no ice cream maker needed.
+    ingredients:
+      - { qty: 5, measure: oz, ingredient: Water, note: 1 wineglass }
+      - { qty: 5, measure: oz, ingredient: Sugar, note: "1 wineglass, equal in weight to the water" }
+      - { qty: 6, ingredient: Lime, note: "5 to 6, zested" }
+      - { ingredient: Lime juice, note: 1 glass }
+      - { qty: 1, measure: bunch, ingredient: Basil, note: "very large, pounded to a puree" }
+    directions:
+      - Bring the water and sugar to a boil and simmer 4 minutes with the lime zest. Cool a while.
+      - Add the lime juice and basil puree and leave to infuse a while, then pass through a coarse sieve.
+      - Pour into a plastic tub or earthenware dish and freeze, about 2 hours, stirring every 30 minutes if you remember. Serve in a glass on its own.
+
+  - name: Tequila-Lime Sorbet
+    categories: [Desserts, Mexican]
+    description:
+      - From Cooking Light, September 2000. Makes 2 1/2 cups. Good after a spicy Mexican meal or a summer barbecue.
+    ingredients:
+      - { qty: "1 1/2", measure: cup, ingredient: Water }
+      - { qty: "3/4", measure: cup, ingredient: Sugar }
+      - { qty: 2, measure: tsp, ingredient: Lime, note: grated rind }
+      - { qty: "1/2", measure: cup, ingredient: Lime juice, note: "fresh, about 3 limes" }
+      - { qty: 2, measure: tbsp, ingredient: Tequila }
+    directions:
+      - Bring the water and sugar to a boil in a small saucepan and cook 1 minute, until dissolved. Cool completely.
+      - Combine the syrup, rind, juice and tequila and freeze in an ice cream freezer per the manufacturer's instructions.
+      - Spoon into a freezer-safe container, cover and freeze 1 hour, until firm.
+
+  - name: Lime Sorbet over Pound Cake with Tequila Flambeed Berries
+    categories: [Desserts]
+    servings: 4
+    description:
+      - Recipe courtesy Emeril Lagasse, 2005. Make the sorbet at least 4 hours ahead.
+    ingredients:
+      - { qty: 1, measure: cup, ingredient: Water }
+      - { qty: "1 1/4", measure: cup, ingredient: Sugar, note: divided }
+      - { qty: 1, measure: tsp, ingredient: Lime, note: zest }
+      - { qty: 1, measure: cup, ingredient: Lime juice }
+      - { qty: 2, measure: tbsp, ingredient: Butter, note: unsalted }
+      - { qty: 1, measure: cup, ingredient: Strawberry, note: "fresh, hulled and quartered" }
+      - { qty: 1, measure: cup, ingredient: Blackberry, note: "fresh, halved" }
+      - { qty: 4, measure: slice, ingredient: Pound cake, note: 1/2-inch }
+      - { qty: "1/3", measure: cup, ingredient: Tequila, note: plus more if desired }
+    directions:
+      - Simmer the water, 1 cup sugar and lime zest in a small saucepan, stirring, about 5 minutes. Off the heat stir in the lime juice, strain into a nonreactive bowl, cool and chill thoroughly.
+      - Churn in an ice cream maker, then freeze in a lidded container at least 4 hours or overnight.
+      - Melt the butter in a 10-inch saute pan over high heat. Add the berries and remaining 1/4 cup sugar and saute until soft, 2 to 3 minutes.
+      - Halve each slice of pound cake diagonally and set in chilled bowls with the tips toward the rim. Put 2 scoops of sorbet in the center of each.
+      - Off the heat add the tequila, return to the heat and tilt the pan to ignite. Pour the flaming berries over the sorbet, drizzle with more tequila if you like and serve immediately.
+
+  - name: Melon Sorbet
+    categories: [Desserts]
+    description:
+      - Recipe courtesy Alton Brown, 2004. Makes 1 quart.
+    ingredients:
+      - { qty: 21, measure: oz, ingredient: Watermelon, note: "1 pound 5 ounces diced watermelon, muskmelon or honeydew" }
+      - { qty: 3, measure: tbsp, ingredient: Lemon juice, note: freshly squeezed }
+      - { qty: 2, measure: tbsp, ingredient: Vodka }
+      - { qty: 9, measure: oz, ingredient: Sugar, note: about 1 1/4 cups }
+    directions:
+      - Process the melon in a food processor until smooth. Add the lemon juice, vodka and sugar and process 30 seconds more.
+      - Refrigerate until the mixture reaches 40 degrees F, 30 minutes to 1 hour.
+      - Churn in an ice cream maker, then freeze in an airtight container 3 to 4 hours before serving.
+
+  - name: Alton Brown's Margarita
+    categories: [Snacks, Mexican]
+    servings: 1
+    description:
+      - Recipe courtesy Alton Brown, 2009. Makes 1 cocktail.
+    ingredients:
+      - { qty: 2, measure: oz, ingredient: Tequila, note: "100 percent agave silver/blanco, divided" }
+      - { qty: 1, measure: tbsp, ingredient: Kosher salt }
+      - { qty: 4, ingredient: Lime, note: divided }
+      - { qty: "1/2", ingredient: Orange, note: "small Hamlin or Valencia" }
+      - { qty: 2, measure: tbsp, ingredient: Blue agave nectar, note: light }
+      - { qty: "3/4", measure: cup, ingredient: Ice, note: "3 to 4 cubes" }
+    directions:
+      - Pour 1/2 ounce of the tequila into a small saucer and spread the salt in another. Dip the rim of a martini or other wide glass in the tequila, hold upside down 10 seconds, then dip in the salt.
+      - Halve 2 limes, cut a thin slice from one for garnish, and juice them into the bottom of a Boston shaker. Quarter the other 2 limes and the orange and add them.
+      - Add the agave nectar and muddle 2 minutes. Strain through a cocktail strainer, discarding the solids.
+      - Return the juice to the shaker with the remaining 1 1/2 ounces tequila and any left in the saucer. Add the ice, cover and shake 30 seconds.
+      - Strain into the prepared glass, garnish with the lime slice and serve.
+
+  - name: Dill Pickles
+    categories: [Snacks, Vegetables]
+    description:
+      - Recipe courtesy Alton Brown, 2007. Makes 3 pounds of crock-fermented pickles; allow about 2 weeks.
+    ingredients:
+      - { qty: "5 1/2", measure: oz, ingredient: Salt, note: "pickling, about 1/2 cup" }
+      - { qty: 1, measure: gal, ingredient: Water, note: filtered }
+      - { qty: 3, measure: lb, ingredient: Cucumber, note: "pickling, 4 to 6 inches long" }
+      - { qty: 1, measure: tbsp, ingredient: Black peppercorns }
+      - { qty: 1, measure: tbsp, ingredient: Red pepper flakes }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: crushed }
+      - { qty: 1, measure: tsp, ingredient: Dill seeds }
+      - { qty: 1, measure: bunch, ingredient: Dill, note: large }
+    directions:
+      - Stir the salt into the water until dissolved.
+      - Rinse the cucumbers and snip off the blossom end.
+      - Put the peppercorns, pepper flakes, garlic, dill seed and dill in a 1-gallon crock and the cucumbers on top. Pour in brine to cover completely.
+      - Pour the remaining brine into a 1-gallon zip-top bag, seal it and set it on top to keep the pickles submerged. Keep in a cool, dry place.
+      - After 3 days, bubbles mean fermentation has begun. From then on check daily and skim off any scum; rinse the bag if scum forms on it.
+      - Fermentation is done when the pickles taste sour and the bubbles stop, about 6 to 7 days. Cover loosely and refrigerate 3 days, skimming as needed.
+      - Store up to 2 months in the refrigerator, skimming as needed. Discard if they turn soft or smell off.
+
+  - name: Baked Jalapeno Poppers
+    categories: [Hors d'Oeuvres]
+    servings: 24
+    description:
+      - Recipe courtesy Emeril Lagasse, 2002. Makes 2 dozen. Serve immediately with cold beer.
+    ingredients:
+      - { qty: 12, ingredient: Jalapeno, note: "fresh, halved lengthwise, stems, seeds and membranes removed" }
+      - { qty: 6, measure: oz, ingredient: Cream cheese, note: softened }
+      - { qty: "1 1/2", measure: cup, ingredient: Monterey Jack, note: "or mozzarella, grated" }
+      - { qty: "1/2", measure: tsp, ingredient: Ground cumin }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper, note: "or less, to taste" }
+      - { qty: 2, ingredient: Egg, note: large }
+      - { qty: 2, measure: tbsp, ingredient: Milk }
+      - { qty: 8, measure: tsp, ingredient: Emeril's Essence Creole Seasoning, note: divided }
+      - { qty: 1, measure: cup, ingredient: Panko, note: or fine dry bread crumbs }
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: all-purpose }
+    directions:
+      - Preheat the oven to 350 degrees F and lightly grease a baking sheet.
+      - Cream together the cream cheese, Monterey Jack, cumin and cayenne.
+      - Beat the eggs, milk and 2 teaspoons Essence in a small bowl. Combine the panko with 4 teaspoons Essence in a shallow dish, and the flour with the remaining 2 teaspoons in a third.
+      - Spread 1 tablespoon of the cheese mixture in each jalapeno half. One at a time, dredge in flour, dip in egg and press into the panko; repeat if needed.
+      - Set cut side up on the baking sheet and bake until the filling is runny and the crust golden, about 30 minutes.
+
+  - name: Fried Kicked Up Jalapeno Poppers
+    categories: [Hors d'Oeuvres, Pork]
+    description:
+      - Cool slightly before serving; the cheese is extremely hot.
+    ingredients:
+      - { ingredient: Vegetable oil, note: for frying }
+      - { qty: 12, ingredient: Jalapeno, note: "fresh, large" }
+      - { qty: 4, measure: oz, ingredient: Cream cheese, note: softened }
+      - { qty: "1/2", measure: cup, ingredient: Monterey Jack, note: grated }
+      - { qty: 6, measure: slice, ingredient: Bacon, note: cooked and crumbled }
+      - { qty: "1/2", measure: tsp, ingredient: Emeril's Essence Creole Seasoning, note: divided }
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: "all-purpose, plus 3 tablespoons, divided" }
+      - { qty: "1/2", measure: cup, ingredient: Milk }
+      - { qty: 1, ingredient: Egg, note: "large, lightly beaten" }
+      - { qty: "1 1/2", measure: cup, ingredient: Panko }
+    directions:
+      - Heat oil 1/3 of the way up a deep-fryer or heavy pot to 370 degrees F over medium heat.
+      - Cut a slit down one side of each pepper to make a pocket, leaving the stem on; remove the seeds if you like.
+      - Combine the cream cheese, Monterey Jack, bacon and 1/4 teaspoon Essence. Pipe into the peppers from a piping bag or zip-top bag with a corner cut large enough for the bacon, and press the slits closed.
+      - Mix 1/2 cup flour, the milk and egg into a batter. Combine the remaining 3 tablespoons flour, panko and 1/4 teaspoon Essence in a shallow dish.
+      - Dip the peppers in the batter, roll in the panko mixture, and fry in batches until golden, 1 to 2 minutes. Drain on paper towels.
+
+  - name: Anne Burrell's Chocolate Sauce
+    categories: [Desserts, Sauces]
+    description:
+      - For Profiteroles. Best served warm.
+    ingredients:
+      - { qty: 4, measure: oz, ingredient: Semisweet chocolate, note: or dark chocolate }
+      - { qty: "1/4", measure: cup, ingredient: Heavy cream }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 1, measure: tbsp, ingredient: Corn syrup }
+      - { qty: 1, measure: pinch, ingredient: Cinnamon, note: "a good pinch, ground" }
+    directions:
+      - Bring 1 inch of water to a boil in a saucepan. Put the chocolate in a heatproof bowl set over it without touching the water.
+      - Add the rest of the ingredients and stir until the chocolate melts and everything is combined. Remove from the heat right away.
+
+  - name: Profiteroles
+    categories: [Desserts]
+    servings: 8
+    description:
+      - Recipe courtesy Anne Burrell. Serves 8 to 12. Needs a pastry bag with a large straight tip.
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Water }
+      - { qty: "1/2", ingredient: Butter, note: stick }
+      - { qty: 1, measure: pinch, ingredient: Salt }
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 2, ingredient: Egg }
+      - { qty: 1, measure: pinch, ingredient: Cinnamon, note: ground }
+      - { ingredient: Vanilla ice cream, note: "a really high-quality vanilla, or any you like" }
+      - { ingredient: "Anne Burrell's Chocolate Sauce", note: warm }
+    directions:
+      - Preheat the oven to 425 degrees F.
+      - Bring the water, butter and salt to a boil in a small saucepan. Lower the heat, add the flour all at once and stir vigorously until it forms a ball with a slightly sweaty sheen and pulls from the pan.
+      - Transfer to a bowl and cool 3 to 4 minutes, just enough not to cook the eggs. Beat in the eggs one at a time, fully incorporating each, then beat in the cinnamon.
+      - Pipe 1-inch balls onto a parchment-lined sheet tray at least 1 inch apart - they grow. Smooth the tops with a wet finger.
+      - Bake 20 to 25 minutes, rotating halfway, until light, airy and dry inside. Cool on a rack.
+      - To serve, halve horizontally, fill with ice cream and top with warm chocolate sauce.
+
+  - name: Adult Milk Shake
+    categories: [Desserts]
+    ingredients:
+      - { qty: "1/4", measure: cup, ingredient: Milk }
+      - { qty: 4, measure: tsp, ingredient: Chocolate drink mix, note: Nesquik }
+      - { qty: 2, measure: cup, ingredient: Vanilla ice cream }
+      - { qty: 1, measure: oz, ingredient: Coffee liqueur }
+      - { qty: 1, measure: oz, ingredient: Rum, note: dark }
+    directions:
+      - Blend everything on medium speed, stopping to stir with a long spoon as needed to help it blend.
+
+  - name: Homemade Soft Pretzels
+    categories: [Breads, Snacks]
+    servings: 8
+    description:
+      - Recipe courtesy Alton Brown, 2007. Makes 8 pretzels.
+    ingredients:
+      - { qty: "1 1/2", measure: cup, ingredient: Water, note: warm (110 to 115 degrees F) }
+      - { qty: 1, measure: tbsp, ingredient: Sugar }
+      - { qty: 2, measure: tsp, ingredient: Kosher salt }
+      - { qty: 1, ingredient: Active dry yeast, note: package }
+      - { qty: 22, measure: oz, ingredient: Flour, note: "all-purpose, about 4 1/2 cups" }
+      - { qty: 2, measure: oz, ingredient: Butter, note: "unsalted, melted" }
+      - { ingredient: Vegetable oil, note: for the pans and bowl }
+      - { qty: 10, measure: cup, ingredient: Water, note: for boiling }
+      - { qty: "2/3", measure: cup, ingredient: Baking soda }
+      - { qty: 1, ingredient: Egg yolk, note: "large, beaten with 1 tablespoon water" }
+      - { ingredient: Salt, note: pretzel salt }
+    directions:
+      - Combine the warm water, sugar and kosher salt in a stand mixer bowl, sprinkle the yeast on top and let sit 5 minutes, until foamy.
+      - Add the flour and butter and mix with the dough hook on low until combined, then knead on medium until smooth and pulling from the sides, 4 to 5 minutes.
+      - Oil a clean bowl, add the dough, cover and let double in a warm place, 50 to 55 minutes.
+      - Preheat the oven to 450 degrees F. Line 2 half-sheet pans with parchment and brush lightly with oil.
+      - Bring the 10 cups water and baking soda to a rolling boil in an 8-quart saucepan or roasting pan.
+      - Divide the dough into 8 pieces and roll each into a 24-inch rope. Make a U, cross the ends over each other and press onto the bottom of the U. Set on the pans.
+      - Boil the pretzels one at a time for 30 seconds and lift out with a large flat spatula.
+      - Brush with the egg wash, sprinkle with pretzel salt and bake until dark golden, 12 to 14 minutes. Cool at least 5 minutes.
+
+  - name: Peaches and Cream Bread Pudding with Amaretto Sauce
+    categories: [Desserts]
+    description:
+      - Recipe courtesy Emeril Lagasse.
+    ingredients:
+      - { qty: 8, measure: tbsp, ingredient: Butter, note: "unsalted, 4 softened and 4 melted" }
+      - { qty: 6, measure: cup, ingredient: Bread, note: "day-old, 1-inch cubes" }
+      - { qty: 2, measure: cup, ingredient: Heavy cream }
+      - { qty: 2, measure: cup, ingredient: Milk }
+      - { qty: 2, measure: lb, ingredient: Peach, note: "peeled and seeded, 1-inch chunks" }
+      - { qty: 1, measure: cup, ingredient: Sugar, note: divided }
+      - { qty: 5, ingredient: Egg, note: large }
+      - { qty: 1, measure: tsp, ingredient: Vanilla extract, note: pure }
+      - { qty: "1/4", measure: tsp, ingredient: Nutmeg, note: freshly grated }
+      - { qty: 1, ingredient: Butter, note: "stick, for the sauce" }
+      - { qty: 1, measure: cup, ingredient: Heavy cream, note: for the sauce }
+      - { qty: 1, measure: cup, ingredient: Sugar, note: for the sauce }
+      - { qty: 2, ingredient: Egg yolk, note: for the sauce }
+      - { qty: "1/3", measure: cup, ingredient: Amaretto }
+    directions:
+      - Preheat the oven to 350 degrees F. Butter a 10 by 14-inch baking dish with 1 tablespoon of the softened butter.
+      - Soak the bread cubes in the cream and milk for 15 minutes, stirring occasionally.
+      - Meanwhile heat the remaining 3 tablespoons softened butter in a large skillet until bubbling. Add the peaches and 1/4 cup sugar and cook until golden at the edges and softened, 4 to 6 minutes.
+      - Whisk the eggs, remaining 3/4 cup sugar, vanilla and nutmeg, stir into the bread and fold in the warm peaches.
+      - Pour into the dish, drizzle with the melted butter and bake until golden, puffed and slightly firm in the center, 45 minutes to 1 hour. Cool on a rack about 20 minutes.
+      - For the sauce, melt the butter in a small heavy non-reactive saucepan over medium-low heat. Whisk the cream, sugar and yolks, add to the butter and cook, stirring constantly, until it coats a spoon, about 10 minutes.
+      - Off the heat stir in the amaretto. Serve hot or warm over the warm bread pudding.
+
+  - name: Red Wine Poached Pears with Mascarpone Filling
+    categories: [Desserts]
+    servings: 6
+    ingredients:
+      - { qty: 6, ingredient: Pear, note: "firm Bartlett" }
+      - { qty: 1, measure: bottle, ingredient: Red wine }
+      - { qty: 1, ingredient: Vanilla, note: "whole bean, split lengthwise" }
+      - { qty: 2, ingredient: Cinnamon stick }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 2, measure: cup, ingredient: Sugar, note: to taste }
+      - { qty: 16, measure: oz, ingredient: Mascarpone, note: "2 (8-ounce) containers, softened" }
+      - { qty: "1/2", measure: cup, ingredient: Heavy cream }
+      - { qty: 1, measure: pinch, ingredient: Cinnamon }
+      - { qty: "1/2", measure: cup, ingredient: Powdered sugar }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+    directions:
+      - Peel the pears, leaving the stems on.
+      - In a large saucepan bring the wine and an equal amount of cold water to a simmer. Add the vanilla bean, cinnamon sticks, bay leaves and sugar to taste.
+      - Simmer the pears about 20 minutes, until tender, and cool to room temperature in the liquid. They can be refrigerated in the liquid until you're ready to fill them.
+      - Remove the stems and set aside. Core the pears with an apple corer, leaving them whole.
+      - Whisk the mascarpone, cream, cinnamon and powdered sugar until smooth. Pipe into the pears with a pastry bag (or a wax paper cone) and set the stems back on top.
+      - Simmer the poaching liquid until reduced by half, stir in the butter and spoon generously over the pears. Serve at room temperature.
+
+  - name: Onion Marmalade
+    categories: [Sauces]
+    description:
+      - Makes about 3/4 cup. Keeps up to 1 week in an airtight container in the refrigerator.
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Onion, note: finely chopped }
+      - { qty: 1, measure: tbsp, ingredient: Vegetable oil }
+      - { qty: "1/2", measure: tsp, ingredient: Kosher salt }
+      - { qty: "1/4", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: pinch, ingredient: Cayenne pepper }
+      - { qty: 2, measure: tbsp, ingredient: Sugar }
+      - { qty: 1, measure: tbsp, ingredient: Distilled white vinegar }
+      - { qty: "1/4", measure: tsp, ingredient: Thyme, note: "fresh leaves, chopped" }
+    directions:
+      - Saute the onions in the hot oil in a skillet over medium-high heat with the salt, pepper and cayenne, stirring often, 7 to 8 minutes, until golden.
+      - Add the sugar and cook 1 to 2 minutes, stirring constantly. Add the vinegar and thyme and cook 1 minute.
+      - Remove from the heat, cool and serve.
+
+  - name: Klus Chiki
+    categories: [Desserts]
+    description:
+      - Fried pastry twists dusted with powdered sugar.
+    ingredients:
+      - { qty: 4, ingredient: Egg yolk }
+      - { qty: 1, ingredient: Egg white }
+      - { qty: "1/4", measure: cup, ingredient: Powdered sugar, note: plus more for sprinkling }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: 1, measure: tsp, ingredient: Vanilla extract }
+      - { qty: 1, measure: cup, ingredient: Flour }
+      - { ingredient: Shortening, note: for frying }
+    directions:
+      - Add the salt to the eggs and beat 10 minutes. Blend in the sugar and vanilla.
+      - Fold in the flour and knead on a floured board until the dough is blistered.
+      - Cut in half and roll very thin. Cut into 4-inch wide strips, slit each piece in the center and pull one end through the hole.
+      - Fry in hot fat until lightly browned, drain on paper towels and sprinkle with powdered sugar.
+
+  - name: Emeril's Spiced Nuts
+    categories: [Snacks, Hors d'Oeuvres]
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: "1/4", measure: cup, ingredient: Light brown sugar }
+      - { qty: 2, measure: tbsp, ingredient: Water }
+      - { qty: "1/4", measure: tsp, ingredient: Ground cumin }
+      - { qty: "1/4", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: "1/4", measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: "1/2", measure: tsp, ingredient: Salt }
+      - { qty: 2, measure: cup, ingredient: Mixed nuts, note: "such as walnuts, pecans, hazelnuts and almonds" }
+    directions:
+      - Mix the spices and set aside.
+      - Toast the nuts in a dry skillet, stirring often, until they begin to toast, about 4 minutes. Set aside in a small bowl.
+      - Add the butter, sugar, water and spices to the hot skillet and cook, stirring, until a glaze forms, about 1 minute.
+      - Return the nuts and toss in the glaze 1 to 2 minutes, until glazed and golden brown.
+      - Spread on a foil-lined baking sheet, separating with a fork, and let harden about 10 minutes. Store airtight.
+
+  - name: Watermelon Sherbet
+    categories: [Desserts]
+    description:
+      - Makes 5 cups, about 80 calories per 1/2 cup.
+    ingredients:
+      - { qty: 4, measure: cup, ingredient: Watermelon, note: seeded and cubed }
+      - { qty: "1/4", measure: cup, ingredient: Sugar, note: plus 2 tablespoons }
+      - { qty: "1/4", measure: cup, ingredient: Milk, note: instant nonfat dry milk powder }
+      - { qty: 2, measure: cup, ingredient: Milk, note: skim }
+      - { qty: 2, measure: tsp, ingredient: Vanilla extract }
+      - { ingredient: Watermelon, note: "wedges, optional for garnish" }
+    directions:
+      - Puree the watermelon in a blender or food processor. Strain, keeping the juice and discarding the pulp.
+      - Stir the juice with the sugar, dry milk, skim milk and vanilla.
+      - Freeze in a 2-quart hand-turned or electric ice cream freezer per the manufacturer's instructions.
+      - Scoop into dessert dishes, garnish with watermelon wedges if you like, and serve immediately.
+
+  - name: Grandma Williams' Squash Pie
+    categories: [Desserts, Vegetables]
+    description:
+      - From a Food Network viewer; Food Network didn't test it. Makes 3 pies.
+    ingredients:
+      - { qty: 6, ingredient: Yellow squash, note: "medium, sliced" }
+      - { qty: 1, ingredient: Butter, note: "stick, unsalted" }
+      - { qty: "1/2", measure: cup, ingredient: Flour, note: all-purpose }
+      - { qty: 1, measure: cup, ingredient: Sugar }
+      - { qty: 1, measure: tbsp, ingredient: Lemon extract }
+      - { qty: 3, ingredient: Egg }
+      - { qty: 3, ingredient: Pie shell, note: "9-inch prepared frozen, defrosted" }
+    directions:
+      - Cover the squash with water in a large pot, bring to a boil over medium heat and cook until tender, 20 minutes. Drain and press out the excess water with a spoon.
+      - Preheat the oven to 350 degrees F.
+      - Blend the squash, butter and flour until pureed, then add the sugar, lemon extract and eggs and blend until smooth.
+      - Divide among the pie shells and bake until set, 45 minutes to 1 hour. Cool to room temperature before slicing.
