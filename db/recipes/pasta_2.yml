@@ -1,0 +1,427 @@
+# Recipes from "Pasta,Rice,Dumplings,Manicotti.txt", part 2 (noodles,
+# bolognese, beans, pierogies, orecchiette, ravioli, yellow rice).
+recipes:
+  - name: Buttered Noodles
+    categories: [Pasta]
+    description:
+      - Recipe courtesy Claire Robinson, 2010.
+    ingredients:
+      - { qty: 12, measure: oz, ingredient: Egg noodles }
+      - { qty: 2, measure: tbsp, ingredient: Parsley, note: "flat-leaf, chopped" }
+      - { qty: 1, measure: tsp, ingredient: Thyme, note: "leaves, chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter, note: room temperature }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly cracked }
+    directions:
+      - Cook the noodles according to the package in a large pot of salted boiling water.
+      - Meanwhile, blend the herbs with the butter, salt and pepper in a large bowl. Add the drained noodles immediately, toss and serve.
+
+  - name: Buttered Egg Noodles
+    categories: [Pasta]
+    description:
+      - Recipe courtesy Tyler Florence. Good with beef bourguignon.
+    ingredients:
+      - { ingredient: Kosher salt }
+      - { qty: 1, measure: lb, ingredient: Egg noodles, note: dried }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "fresh flat-leaf, roughly chopped" }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+    directions:
+      - Bring a large pot of salted water to a rolling boil over high heat. Add the noodles, stir so they don't stick and cook until just past al dente, about 10 minutes.
+      - Drain, return to the pot, add the parsley and butter, season with salt and toss well.
+
+  - name: Noodle Kugel
+    categories: [Pasta, Casseroles]
+    description:
+      - Recipe courtesy Dave Lieberman.
+    ingredients:
+      - { qty: "1/2", measure: lb, ingredient: Egg noodles, note: wide }
+      - { qty: 4, measure: tbsp, ingredient: Butter, note: "1/2 stick, melted" }
+      - { qty: 1, measure: lb, ingredient: Cottage cheese }
+      - { qty: 2, measure: cup, ingredient: Sour cream }
+      - { qty: "1/2", measure: cup, ingredient: Sugar }
+      - { qty: 6, ingredient: Egg }
+      - { qty: 1, measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: "1/2", measure: cup, ingredient: Raisin }
+    directions:
+      - Preheat the oven to 375 degrees F.
+      - Boil the noodles in salted water about 4 minutes and drain.
+      - Combine with the remaining ingredients and pour into a greased 9 by 13-inch baking dish.
+      - Bake until the custard is set and the top is golden, 30 to 45 minutes.
+
+  - name: Barefoot Contessa Noodle Kugel
+    categories: [Pasta, Casseroles]
+    description:
+      - Baked in a water bath.
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Egg noodles, note: wide }
+      - { ingredient: Vegetable oil, note: a drizzle for the water }
+      - { qty: 5, ingredient: Egg, note: extra-large }
+      - { qty: 4, measure: cup, ingredient: Half-and-half }
+      - { qty: "1/4", measure: cup, ingredient: Light brown sugar, note: packed }
+      - { qty: 2, measure: tsp, ingredient: Vanilla extract, note: pure }
+      - { qty: "1/2", measure: tsp, ingredient: Cinnamon, note: ground }
+      - { qty: "1 1/2", measure: tbsp, ingredient: Kosher salt }
+      - { qty: "1/2", measure: tsp, ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: cup, ingredient: Ricotta }
+      - { qty: 1, measure: cup, ingredient: Golden raisins }
+      - { ingredient: Butter, note: for the dish }
+    directions:
+      - Preheat the oven to 350 degrees F and butter a 10 by 13 by 2 1/4-inch baking dish.
+      - Cook the noodles in a large pot of boiling salted water with a drizzle of oil until tender, 6 to 8 minutes. Drain.
+      - Whisk the eggs, half-and-half, brown sugar, vanilla, cinnamon, salt and pepper. Stir in the ricotta and raisins, then the noodles.
+      - Pour into the dish, set it in a larger pan and add hot water halfway up the sides. Cover everything with foil.
+      - Bake 45 minutes, uncover and bake another 45 minutes, until the custard is just set.
+
+  - name: Pasta Bolognese
+    categories: [Pasta, Beef]
+    description:
+      - Recipe courtesy Anne Burrell. Brown food tastes good - don't rush the browning. It's a game of reduce and add more water; adding it all at once gives boiled meat sauce. Pasta water should always be salted like the ocean.
+    ingredients:
+      - { qty: 1, ingredient: Onion, note: "large (or 2 small), 1-inch dice" }
+      - { qty: 2, ingredient: Carrot, note: "large, 1/2-inch dice" }
+      - { qty: 3, measure: rib, ingredient: Celery, note: 1-inch dice }
+      - { qty: 4, measure: clove, ingredient: Garlic }
+      - { ingredient: Olive oil, note: "extra-virgin, for the pan" }
+      - { ingredient: Kosher salt }
+      - { qty: 3, measure: lb, ingredient: Ground chuck, note: "or brisket or round, or a combination" }
+      - { qty: 2, measure: cup, ingredient: Tomato paste }
+      - { qty: 3, measure: cup, ingredient: Red wine, note: hearty }
+      - { ingredient: Water }
+      - { qty: 3, ingredient: Bay leaf }
+      - { qty: 1, measure: bunch, ingredient: Thyme, note: tied in a bundle }
+      - { qty: 1, measure: lb, ingredient: Spaghetti }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: "Parmigiano-Reggiano, grated" }
+      - { ingredient: Olive oil, note: "high-quality extra-virgin, for finishing" }
+    directions:
+      - Puree the onion, carrots, celery and garlic into a coarse paste. Coat a large pan with oil over medium heat, add the paste and season generously. Cook over medium-high heat, stirring often, until all the water evaporates and it's nice and brown, 15 to 20 minutes. Be patient.
+      - Add the beef, season generously again and BROWN it, another 15 to 20 minutes.
+      - Add the tomato paste and cook until brown, 4 to 5 minutes. Add the wine and reduce by half, 4 to 5 minutes.
+      - Add water to about 1 inch above the meat, add the bay leaves and thyme, bring to a boil and simmer, stirring occasionally. Add 2 to 3 cups more water at a time as it evaporates. Taste often and season. Simmer 3 1/2 to 4 hours.
+      - In the last 30 minutes, boil the spaghetti in well-salted water for 1 minute less than the package says. Save 1/2 cup of the cooking water.
+      - Set aside half the ragu. Add the drained pasta to the pot with the rest and toss, adding reserved sauce as needed for an even ratio. Add the pasta water and cook over medium heat until it reduces.
+      - Off the heat, add a big sprinkle of Parmigiano and a generous drizzle of finishing oil and toss vigorously. Serve topped with the remaining cheese.
+
+  - name: Bob's Pinto Beans
+    categories: [Beans]
+    description:
+      - Ingredient list only; no directions in the file.
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Pinto beans, note: "1 1/2 to 2 cups dried, soaked overnight" }
+      - { qty: 1, ingredient: Bay leaf }
+      - { qty: 1, ingredient: Ham hock }
+      - { qty: "1/2", measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 1, measure: tbsp, ingredient: Chili powder }
+      - { qty: 1, measure: tsp, ingredient: Dried thyme }
+      - { qty: 1, ingredient: Onion, note: diced }
+      - { qty: 4, measure: clove, ingredient: Garlic }
+      - { qty: "1/3", measure: cup, ingredient: Dry mustard, note: yellow }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { ingredient: BBQ sauce }
+
+  - name: Emeril's Southwest Seasoning
+    categories: [Seasonings]
+    description:
+      - Makes 1/2 cup.
+    ingredients:
+      - { qty: 2, measure: tbsp, ingredient: Chili powder }
+      - { qty: 2, measure: tsp, ingredient: Ground cumin }
+      - { qty: 2, measure: tbsp, ingredient: Paprika }
+      - { qty: 1, measure: tsp, ingredient: Black pepper }
+      - { qty: 1, measure: tbsp, ingredient: Coriander, note: ground }
+      - { qty: 1, measure: tsp, ingredient: Cayenne pepper }
+      - { qty: 1, measure: tbsp, ingredient: Garlic powder }
+      - { qty: 1, measure: tsp, ingredient: Red pepper flakes, note: crushed }
+      - { qty: 1, measure: tbsp, ingredient: Salt }
+      - { qty: 1, measure: tbsp, ingredient: Oregano, note: dried }
+    directions:
+      - Combine all the ingredients thoroughly.
+
+  - name: Chili-Beans
+    categories: [Beans, Beef, Mexican]
+    prep_time: 20
+    cooking_time: 170
+    description:
+      - Recipe courtesy Emeril Lagasse, 2007. Makes about 2 quarts. Uses Emeril's Southwest Seasoning (its own recipe).
+      - "Inactive prep: 10 minutes."
+    ingredients:
+      - { qty: 4, measure: slice, ingredient: Bacon, note: "thick-cut apple-smoked, diced" }
+      - { qty: "3/4", measure: lb, ingredient: Beef chuck, note: 1/2-inch cubes }
+      - { qty: 1, measure: tbsp, ingredient: Chipotle chili powder }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: 1, measure: tbsp, ingredient: "Emeril's Southwest Seasoning" }
+      - { qty: 2, ingredient: Onion, note: "medium, diced" }
+      - { qty: "1/2", ingredient: Red bell pepper, note: diced }
+      - { qty: 1, measure: tbsp, ingredient: Garlic, note: minced }
+      - { qty: "1/4", measure: tsp, ingredient: Oregano, note: dried Mexican }
+      - { qty: 1, measure: can, ingredient: Diced tomatoes, note: "14-ounce petite, with juices" }
+      - { qty: 4, measure: cup, ingredient: Beef broth }
+      - { qty: 3, measure: cup, ingredient: Water, note: plus more if needed }
+      - { qty: 1, measure: lb, ingredient: Pinto beans, note: "dried, rinsed and picked over" }
+      - { qty: "3 1/2", measure: tbsp, ingredient: Light brown sugar }
+      - { qty: 2, measure: tbsp, ingredient: Ketchup }
+      - { qty: 1, measure: tsp, ingredient: Yellow mustard, note: prepared }
+    directions:
+      - Cook the bacon in a heavy Dutch oven over medium-high heat until rendered and crisp, 4 to 6 minutes. Remove with a slotted spoon.
+      - Brown the chuck in the fat with the chili powder, cumin and Southwest Seasoning, 4 to 6 minutes. Add the onions, bell pepper, garlic and oregano and cook until soft, about 4 minutes.
+      - Add the tomatoes, broth, water and beans and bring to a boil. Simmer partially covered, stirring occasionally, until the meat and beans are tender and the sauce is thick, 1 1/2 to 2 hours, adding liquid if needed.
+      - Add the brown sugar, ketchup and mustard and cook until thick, 20 to 30 minutes more. Serve hot.
+
+  - name: Potato and Mushroom Pierogies
+    categories: [Dumplings]
+    description:
+      - Makes about 35; freeze half - they're better than the frozen ones from the store. Serve with sour cream and/or roasted apples; the roasted apples recipe isn't in the file.
+    ingredients:
+      - { qty: 5, ingredient: Egg, note: "large - 4 for the dough, 1 for egg wash" }
+      - { qty: 8, measure: tbsp, ingredient: Unsalted butter, note: "1 stick, melted and cooled" }
+      - { qty: "1/2", measure: cup, ingredient: Sour cream, note: plus more for serving }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: 5, measure: cup, ingredient: Flour, note: "all-purpose, plus more for dusting" }
+      - { qty: 1, measure: lb, ingredient: Potato, note: peeled and cubed }
+      - { qty: 2, measure: tbsp, ingredient: Unsalted butter, note: plus more for sauteing }
+      - { qty: 1, ingredient: Leek, note: large }
+      - { qty: 10, measure: oz, ingredient: Mushroom, note: finely chopped }
+      - { qty: 4, measure: sprig, ingredient: Thyme, note: fresh }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 1, measure: cup, ingredient: Heavy cream }
+      - { ingredient: Vegetable oil, note: for frying }
+      - { ingredient: Parsley, note: "fresh flat-leaf, chopped, for garnish" }
+    directions:
+      - "Dough: whisk 4 eggs, the melted butter, sour cream and salt. Sift the flour onto the counter, make a well and pour in the wet ingredients. Stir with a fork, drawing in the flour, until a soft dough forms; add flour if sticky or a few drops of water if not pliable."
+      - Knead until smooth and elastic, about 5 minutes, adding only as much flour as needed. Cover with an inverted bowl or plastic and rest about 10 minutes.
+      - "Filling: boil the potatoes in salted water until tender, about 15 minutes, drain and mash while hot. Let cool."
+      - Trim the leek, keeping 1 inch of green, halve lengthwise, rinse really well and slice finely. Melt 2 tablespoons butter in a large skillet over medium-low heat and saute the leek, mushrooms and thyme, seasoned, until broken down and almost dry. Stir in the cream, take off the heat, remove the thyme and mix into the potatoes. Let it cool so it doesn't make the dough soggy.
+      - Roll out half the dough about 1/8 inch thick on a floured counter (keep the rest covered) and cut 3-inch circles. Put 1 tablespoon filling in the center of each, leaving a 1/2-inch border.
+      - Beat the remaining egg with 2 tablespoons water, brush the edges, fold into half-moons and crimp with a fork. Tap the bottoms flat. Repeat.
+      - Coat a large lidded saute pan with oil over medium heat and fry the pierogies, in batches, a couple of minutes per side until crisp and browned. Add 1 cup water, cover and steam; when the water evaporates they're cooked and crisp. Garnish with parsley.
+
+  - name: Michael Symon's Orecchiette with Chiles and Garlic
+    categories: [Pasta]
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Orecchiette }
+      - { qty: 3, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { ingredient: Red pepper flakes, note: to taste }
+      - { qty: 1, measure: bunch, ingredient: Mint, note: torn }
+      - { qty: 3, ingredient: Anchovy, note: "white anchovies, drained and chopped" }
+      - { qty: 3, measure: clove, ingredient: Garlic, note: sliced }
+    directions:
+      - Cook the orecchiette in a large pot of salted boiling water 1 minute less than the package says.
+      - Heat the olive oil in a large skillet over medium-high heat. Toss the garlic, chili flakes and anchovies until the garlic is cooked, then add the pasta and mint, loosening with a little pasta water if needed. Season.
+
+  - name: Michael Symon's Orecchiette with Sausage and Swiss Chard
+    categories: [Pasta, Sausage]
+    servings: 6
+    description:
+      - '"A hearty dish that packs a ton of savory flavor" - a cool-weather favorite.'
+    ingredients:
+      - { qty: 1, measure: lb, ingredient: Orecchiette }
+      - { qty: 3, measure: tbsp, ingredient: Kosher salt, note: for the water }
+      - { qty: 1, measure: lb, ingredient: Italian sausage, note: spicy }
+      - { qty: 1, measure: lb, ingredient: Swiss chard, note: "roughly chopped with stems (1/4 inch wide)" }
+      - { qty: 1, measure: cup, ingredient: Cannellini beans, note: "cooked, drained and rinsed" }
+      - { qty: 1, measure: cup, ingredient: Water, note: reserved pasta water }
+      - { qty: "1/2", measure: cup, ingredient: Parsley, note: chopped }
+      - { qty: 1, measure: tbsp, ingredient: Lemon zest }
+      - { qty: 2, measure: tbsp, ingredient: Lemon juice }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan }
+      - { qty: 2, measure: tbsp, ingredient: Butter }
+      - { qty: 1, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+    directions:
+      - Boil 5 quarts water with the salt and cook the pasta until very al dente, about 8 minutes. Lift it into a bowl with a slotted spoon without rinsing, and save 1 cup of the water.
+      - Brown the sausage in a large Dutch oven over medium-high heat. Add the chard and cook down 2 minutes. Add the pasta water and simmer 1 minute.
+      - Add the beans and pasta and simmer until the pasta is done, about 2 minutes more.
+      - Off the heat, stir in the lemon juice and zest, cheese, parsley, butter and olive oil and serve.
+
+  - name: Mama T's Puttanesca Sauce
+    categories: [Sauces, Pasta]
+    description:
+      - Served over bucatini (or spaghetti).
+    ingredients:
+      - { qty: 4, measure: tbsp, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: "large, minced" }
+      - { qty: 1, measure: can, ingredient: Tomato, note: "28-ounce San Marzano" }
+      - { qty: "1/4", measure: cup, ingredient: Black olive, note: "oil-cured, chopped not too finely" }
+      - { qty: 2, measure: tbsp, ingredient: Capers, note: brined }
+      - { qty: 1, measure: tsp, ingredient: Red pepper flakes, note: crushed }
+      - { qty: "1/2", measure: tsp, ingredient: Oregano, note: dried }
+      - { ingredient: Black pepper, note: "freshly ground, to taste" }
+      - { qty: 1, measure: can, ingredient: Anchovy, note: "2-ounce, packed in oil, blotted with paper towels" }
+      - { qty: "1/4", measure: cup, ingredient: Parsley, note: "flat-leaf, chopped, to finish" }
+      - { qty: 1, measure: lb, ingredient: Spaghetti, note: "or bucatini, cooked per the package" }
+    directions:
+      - Squish the tomatoes by hand in a bowl, breaking them up as much as possible.
+      - Heat the olive oil and garlic in a large saute pan over medium heat just until fragrant, about 30 seconds, without browning. Add the tomatoes, olives, capers, pepper flakes, oregano and black pepper.
+      - Simmer, breaking up the tomatoes as it cooks. Add the anchovies and break them up too.
+      - After about 15 minutes, as the sauce comes together, finish with the parsley and serve over the pasta.
+
+  - name: Cheese Ravioli with Garlic Mushroom and Rosemary Sauce
+    categories: [Pasta]
+    ingredients:
+      - { ingredient: Salt, note: for the pasta water }
+      - { qty: 2, measure: sprig, ingredient: Rosemary }
+      - { qty: 4, measure: tbsp, ingredient: Butter, note: divided }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil }
+      - { qty: 2, measure: cup, ingredient: Cremini mushroom }
+      - { ingredient: Black pepper }
+      - { qty: "1 1/2", measure: lb, ingredient: Ravioli, note: "cheese, fresh or dried" }
+      - { qty: 4, measure: clove, ingredient: Garlic, note: thinly sliced }
+      - { qty: 1, ingredient: Shallot, note: "large, minced" }
+      - { qty: "1/3", measure: cup, ingredient: Parmesan, note: Parmigiano-Reggiano }
+    directions:
+      - Bring a large pot of water to a boil and salt it generously (it should taste like the ocean).
+      - Heat a saute pan over medium-high heat with 2 tablespoons butter and the olive oil. Add the rosemary and mushrooms, toss and season.
+      - Drop the ravioli into the boiling water and stir; cook 1 minute less than the package says.
+      - Add the garlic and shallot to the mushrooms and cook until cooked through, 2 to 3 minutes.
+      - Drain the ravioli, saving 1/3 to 1/2 cup of the water, and add to the pan with about 1/3 cup of the water and the remaining 2 tablespoons butter. Add the cheese and toss until creamy and emulsified. Serve immediately.
+
+  - name: Lobster Ravioli with Crabmeat Cream Sauce
+    categories: [Pasta, Seafood]
+    servings: 4
+    description:
+      - Recipe courtesy Lilly's Gastronomia Italiana, Boston. Careful - the Cognac makes a large flame.
+    ingredients:
+      - { qty: 2, measure: oz, ingredient: Unsalted butter, note: for the filling }
+      - { qty: 1, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: 1, measure: tbsp, ingredient: Shallot, note: "chopped, for the filling" }
+      - { qty: 16, measure: oz, ingredient: Lobster, note: cooked lobster meat }
+      - { qty: 4, measure: oz, ingredient: Crab, note: cooked snow crabmeat }
+      - { qty: 2, measure: oz, ingredient: Cognac, note: for the filling }
+      - { qty: 2, measure: oz, ingredient: Ricotta }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper }
+      - { qty: 1, measure: tbsp, ingredient: Chives, note: "chopped, plus more for garnish" }
+      - { qty: 8, measure: oz, ingredient: Semolina flour, note: "durum flour, for the dough" }
+      - { qty: 8, measure: oz, ingredient: Semolina, note: "for the dough, plus more for the sheet pan" }
+      - { qty: 1, ingredient: Egg, note: for the dough }
+      - { ingredient: Water, note: "as needed, for the dough" }
+      - { ingredient: Egg white, note: slightly beaten }
+      - { qty: 2, measure: oz, ingredient: Unsalted butter, note: for the sauce }
+      - { qty: 1, measure: tbsp, ingredient: Shallot, note: "chopped, for the sauce" }
+      - { qty: 4, measure: oz, ingredient: Crab, note: "whole chunk Maryland crabmeat, for the sauce" }
+      - { qty: 2, measure: oz, ingredient: Cognac, note: for the sauce }
+      - { qty: 5, measure: oz, ingredient: Tomato sauce }
+      - { qty: 10, measure: oz, ingredient: Heavy cream }
+    directions:
+      - "Pasta dough: mix the durum flour, semolina, egg, a pinch of salt and enough water to blend. Knead on the counter until smooth. Divide in 2, flour one piece just enough to keep it from sticking and roll out about 1/8 inch thick. Roll the second piece to match."
+      - "Filling: melt the butter in a large saute pan and saute the garlic and shallots until golden. Add the lobster, crab and chives and saute 2 to 3 minutes. Add the Cognac and reduce 2 minutes. Cool to room temperature, about 30 minutes, chop into small chunks, mix with the ricotta and season."
+      - Lay out the first sheet and place 1/4-ounce mounds of filling 2 inches apart. Brush egg white around each so the dough is damp, not wet. Cover with the second sheet and press around each mound without squeezing out the filling.
+      - Cut with a round ravioli cutter and set on a semolina-dusted sheet pan. Cook in boiling water 8 to 10 minutes, until al dente.
+      - "Sauce: melt the butter in a 12-inch saute pan over medium heat and saute the shallots until translucent. Add the crabmeat for 2 to 3 minutes. Off the heat, add the Cognac, then return to the heat to burn off the alcohol."
+      - When the flame dies, add the tomato sauce, cream and salt and reduce by half until creamy. Add the ravioli and cook together about 1 minute. Garnish with chives.
+
+  - name: Pasta Dough for Ravioli
+    categories: [Pasta]
+    description:
+      - Tyler Florence's master recipe. Without a mixer, make a well in the flour on the counter and draw it into the eggs and oil with a fork.
+    ingredients:
+      - { qty: 2, measure: cup, ingredient: Flour, note: "all-purpose, plus more for dusting" }
+      - { qty: 1, measure: tsp, ingredient: Salt }
+      - { qty: 4, ingredient: Egg, note: "large - 3 for the dough, 1 for egg wash" }
+      - { qty: 2, measure: tbsp, ingredient: Olive oil, note: "extra-virgin, divided" }
+      - { ingredient: Cornmeal, note: for dusting }
+    directions:
+      - In a mixer with a dough hook, combine the flour and salt. Add 3 eggs one at a time, drizzle in 1 tablespoon oil and mix until it forms a ball.
+      - Knead and fold on a floured surface until elastic and smooth, about 10 minutes. Brush with the remaining oil, wrap and rest about 30 minutes.
+      - Cut the dough in half, keeping one piece covered. Flatten into a rectangle and roll through a pasta machine 2 or 3 times at the widest setting, stretching it as it comes out. Tighten the setting step by step to the narrowest, until paper-thin (you can see your hand through it).
+      - Beat the last egg with 1 tablespoon water. Brush the sheet, drop tablespoons of filling on half of it 2 inches apart and fold the other half over. Press out air pockets, cut into squares and crimp the edges with a fork.
+      - Dust the ravioli and a sheet pan with cornmeal and let dry slightly. Cook in plenty of boiling salted water 4 minutes (they float when ready), without crowding. Lift out and toss in your sauce.
+
+  - name: Spinach and Three Cheese Ravioli with Sugo Sauce
+    categories: [Pasta]
+    description:
+      - Recipe courtesy Tyler Florence. Makes 24 ravioli. Uses Pasta Dough for Ravioli (its own recipe).
+    ingredients:
+      - { ingredient: Pasta Dough for Ravioli, note: 1 recipe }
+      - { qty: 15, measure: oz, ingredient: Ricotta, note: 1 container }
+      - { qty: 16, measure: oz, ingredient: Mozzarella, note: "2 (8-ounce) balls fresh buffalo, drained and shredded" }
+      - { qty: "1/2", measure: cup, ingredient: Parmesan, note: freshly grated }
+      - { qty: 2, measure: cup, ingredient: Baby spinach, note: "fresh, finely chopped" }
+      - { qty: 1, ingredient: Egg, note: large }
+      - { ingredient: Kosher salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: "1/4", measure: cup, ingredient: Olive oil, note: "extra-virgin, for the sauce" }
+      - { qty: 1, ingredient: Onion, note: "medium, chopped" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: minced }
+      - { qty: 2, ingredient: Anchovy, note: fillets }
+      - { qty: "1/2", measure: cup, ingredient: Kalamata olive, note: pitted }
+      - { qty: 2, measure: tbsp, ingredient: Capers, note: drained }
+      - { qty: "1/2", measure: bunch, ingredient: Basil, note: fresh leaves }
+      - { qty: 2, measure: can, ingredient: Tomato, note: "28-ounce whole peeled, drained and hand-crushed" }
+    directions:
+      - Make the pasta dough as in the master recipe.
+      - "Filling: stir all the filling ingredients together."
+      - "Sauce: coat a wide saute pan with olive oil over medium heat. When hazy, cook the onions, garlic and anchovies 5 minutes, until soft and fragrant. Add the olives, capers and torn basil."
+      - Carefully add the tomatoes (nothing splashes like tomatoes) and cook over low heat until thick, about 20 minutes. Season.
+      - Fill, cut and cook the ravioli as in the dough recipe and toss them in the sauce.
+
+  - name: Giada's Simple Tomato Sauce
+    categories: [Sauces]
+    description:
+      - If it still tastes acidic, round it out with butter a tablespoon at a time. Freezes up to 6 months in 1- to 2-cup portions.
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: extra-virgin }
+      - { qty: 1, ingredient: Onion, note: "small, chopped" }
+      - { qty: 2, measure: clove, ingredient: Garlic, note: chopped }
+      - { qty: 1, measure: stalk, ingredient: Celery, note: chopped }
+      - { qty: 1, ingredient: Carrot, note: chopped }
+      - { ingredient: Sea salt }
+      - { ingredient: Black pepper, note: freshly ground }
+      - { qty: 2, measure: can, ingredient: Crushed tomato, note: 32-ounce }
+      - { qty: 2, ingredient: Bay leaf, note: dried }
+      - { qty: 4, measure: tbsp, ingredient: Unsalted butter, note: optional }
+    directions:
+      - Heat the oil in a large casserole pot over medium-high heat and saute the onion and garlic until soft and translucent, 5 to 10 minutes.
+      - Add the celery and carrots, season, and saute until soft, 5 to 10 minutes.
+      - Add the tomatoes and bay leaves and simmer uncovered over low heat 1 hour, until thick. Remove the bay leaves, season, and add butter if needed.
+      - Puree in a food processor in two batches.
+
+  - name: Spinach and Mushroom Ravioli
+    categories: [Pasta]
+    servings: 2
+    description:
+      - Recipe courtesy Giada De Laurentiis, made with egg roll wrappers. Uses Giada's Simple Tomato Sauce (its own recipe).
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Olive oil, note: "extra-virgin, divided, plus 2 tablespoons for the water" }
+      - { qty: 6, measure: oz, ingredient: Mushroom, note: "button, sliced" }
+      - { qty: 10, measure: oz, ingredient: Spinach, note: "frozen chopped, thawed and squeezed dry" }
+      - { qty: "1/4", measure: cup, ingredient: Mascarpone }
+      - { qty: "1/3", measure: cup, ingredient: Parmesan, note: "grated, plus extra for garnish" }
+      - { qty: 6, ingredient: Egg roll wrappers, note: 6 1/2-inch squares }
+      - { qty: 2, ingredient: Egg, note: "large, beaten with 1 teaspoon water" }
+      - { qty: "1/2", measure: cup, ingredient: Mushroom, note: "cremini, shiitake or button, finely chopped" }
+      - { qty: 2, measure: cup, ingredient: "Giada's Simple Tomato Sauce" }
+      - { ingredient: Salt }
+      - { ingredient: Black pepper, note: freshly ground }
+    directions:
+      - Heat 1/4 cup oil in a large saute pan until almost smoking. Cook the sliced mushrooms, seasoned, until their liquid evaporates, about 6 minutes. Add the spinach for 2 minutes.
+      - Pulse to a coarse texture, then stir in the mascarpone and Parmesan and season.
+      - Brush 3 wrappers with the egg wash. Put 4 tablespoon-size dollops on each, in 2 rows 1 inch apart. Top with another wrapper, press around the filling to seal and cut out with a fluted ravioli cutter - 12 ravioli in all. Keep covered on a floured sheet.
+      - Boil 4 quarts salted, oiled water and cook the ravioli 3 or 4 at a time, 2 to 3 minutes. Lift out with a spider and keep warm under foil.
+      - Heat the remaining 1/4 cup oil until almost smoking and saute the chopped mushrooms until soft and dry, about 8 minutes. Add the tomato sauce and simmer 5 minutes.
+      - Divide the ravioli between 2 plates, top with the sauce and sprinkle with Parmesan.
+
+  - name: Yellow Rice with Corn
+    categories: [Rice, Cuban]
+    prep_time: 35
+    cooking_time: 30
+    servings: 6
+    description:
+      - Recipe courtesy Daisy Martinez. Uses Achiote Oil and Sofrito (their own recipes).
+    ingredients:
+      - { qty: "1/2", measure: cup, ingredient: Achiote oil }
+      - { qty: 1, measure: cup, ingredient: Sofrito }
+      - { qty: "1/4", measure: cup, ingredient: Alcaparrado, note: or coarsely chopped pimiento-stuffed olives }
+      - { qty: 2, measure: tbsp, ingredient: Kosher salt, note: or fine sea salt }
+      - { qty: 1, measure: tsp, ingredient: Black pepper, note: ground }
+      - { qty: 1, measure: tsp, ingredient: Ground cumin }
+      - { qty: 2, ingredient: Bay leaf }
+      - { qty: 3, measure: cup, ingredient: Long grain rice }
+      - { qty: 2, measure: cup, ingredient: Corn, note: "frozen kernels, defrosted" }
+      - { qty: 5, measure: cup, ingredient: Chicken broth, note: "homemade or store-bought, as needed" }
+    directions:
+      - Heat the achiote oil in a heavy 4- to 5-quart pot with a tight lid over medium-high heat. Stir in the sofrito and alcaparrado and cook until the liquid evaporates and it sizzles. Season with the salt, pepper and cumin and add the bay leaves.
+      - Raise to high, add the rice and corn and stir until coated and the grains turn chalky, about 3 minutes.
+      - Add broth to cover by 1 inch, bring to a boil and cook until the broth is level with the rice. Lower to very low, stir once thoroughly, cover and cook until tender with a little bite, about 20 minutes. Fluff with a fork.
