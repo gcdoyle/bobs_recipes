@@ -4,6 +4,11 @@
   background-color: $brand-lavender;
 }
 
+// Recipes within a category get a lighter bar than the category tiles.
+.category-recipes .card-title {
+  background-color: $brand-lavender-light;
+}
+
 .card-body {
   border: solid #ccc 1px;
   border-radius: 7px;
