@@ -16,6 +16,12 @@ class IngredientFeedTest < ActiveSupport::TestCase
     assert_equal 1, f.skipped[:stray_lowercase]
   end
 
+  test "skips label fragments that start with a joining word" do
+    f = feed("and-annatto", "to-preserve-freshness", "With other natural flavouring", "Annatto", "tomato-paste")
+    assert_equal ["Annatto", "Tomato paste"], f.entries.map(&:name)
+    assert_equal 3, f.skipped[:label_fragment]
+  end
+
   test "a clean name wins over a tidied slug that means the same thing" do
     entries = feed("salad-dressing", "Salad dressing").entries
     assert_equal 1, entries.size
