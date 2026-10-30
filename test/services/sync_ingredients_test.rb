@@ -30,6 +30,19 @@ class SyncIngredientsTest < ActiveSupport::TestCase
     assert_no_difference("Ingredient.count") { sync }
   end
 
+  test "removes label fragments no recipe uses" do
+    Ingredient.create!(name: "And annatto")
+    sync
+    assert_nil Ingredient.find_by(name: "And annatto")
+  end
+
+  test "keeps a label fragment a recipe uses" do
+    fragment = Ingredient.create!(name: "And annatto")
+    RecipeIngredient.create!(recipe: Recipe.first, ingredient: fragment)
+    sync
+    assert Ingredient.exists?(fragment.id)
+  end
+
   test "dry run writes nothing" do
     assert_no_difference("Ingredient.count") { sync(dry_run: true) }
   end

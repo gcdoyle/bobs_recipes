@@ -9,6 +9,8 @@ require "json"
 # - slug-style names ("hard-salami") are tidied into "Hard salami"
 # - other-language entries ("de:sucre") and stray lowercase words ("approx")
 #   are skipped
+# - label fragments that start with a joining word ("and-annatto",
+#   "to-preserve-freshness", "may-contain") are skipped
 #
 # When a tidied slug and a clean name mean the same thing, the clean one wins.
 # Plain Ruby, so it can be tried outside Rails.
@@ -17,6 +19,12 @@ class IngredientFeed
 
   FOREIGN = /\A[a-z]{2}:/
   SLUG = /\A[[:lower:][:digit:]]+(?:-[[:lower:][:digit:]]+)+\z/
+  FRAGMENT = /\A(?:a|added|and|contains|for|from|in|includes|less|made|may|or|the|to|with)[ -]/i
+
+  # True for names cut from the middle of a label's ingredient list.
+  def self.fragment?(name)
+    name.match?(FRAGMENT)
+  end
 
   def self.from_file(path)
     new(File.read(path))
@@ -67,6 +75,7 @@ class IngredientFeed
   def reason_to_skip(name)
     if name.empty? then :blank
     elsif name.match?(FOREIGN) then :other_language
+    elsif self.class.fragment?(name) then :label_fragment
     elsif name.match?(SLUG) || name.match?(/[[:upper:]]/) then nil
     else :stray_lowercase
     end
