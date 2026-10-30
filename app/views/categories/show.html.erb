@@ -5,7 +5,7 @@
 <h1><%= @category.name %></h1>
 <p class="text-muted"><%= pluralize(@recipes.size, "recipe") %></p>
 
-<div class="row mt-2">
+<div class="row mt-2 category-recipes">
   <% @recipes.each do |recipe| %>
     <%= render "recipes/card", recipe: recipe, path: recipe_path(recipe, from: @category.slug) %>
   <% end %>
